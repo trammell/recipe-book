@@ -13,15 +13,15 @@ Amanda Trammell's Spinach and Bacon Quiche
 | Level: Easy
 | Serves: 8 servings
 
-Ingredients:
+**Ingredients:**
 
-    6 large eggs, beaten
-    1 ½ cups heavy cream
-    Salt and pepper
-    2 cups chopped fresh baby spinach, packed
-    1 pound bacon, cooked and crumbled
-    1 ½ cups shredded Swiss cheese
-    1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
+    | 6 large eggs, beaten
+    | 1 ½ cups heavy cream
+    | Salt and pepper
+    | 2 cups chopped fresh baby spinach, packed
+    | 1 pound bacon, cooked and crumbled
+    | 1 ½ cups shredded Swiss cheese
+    | 1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
 
 Preheat the oven to 375 degrees F.
 
