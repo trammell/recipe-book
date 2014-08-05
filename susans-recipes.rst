@@ -5,6 +5,9 @@ Susan's Cookbook
 version 0.1, August 2014
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. raw:: pdf
+
+    PageBreak
 
 Amanda Trammell's Spinach and Bacon Quiche
 ==========================================
@@ -17,15 +20,18 @@ Amanda Trammell's Spinach and Bacon Quiche
 | Level: Easy
 | Serves: 8 servings
 
-Ingredients::
+Ingredients
+-----------
 
-    6 large eggs, beaten
-    1½ cups heavy cream
-    salt and pepper
-    2 cups chopped fresh baby spinach, packed
-    1 pound bacon, cooked and crumbled
-    1½ cups shredded Swiss cheese
-    1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
+..
+
+    | 6 large eggs, beaten
+    | 1½ cups heavy cream
+    | salt and pepper
+    | 2 cups chopped fresh baby spinach, packed
+    | 1 pound bacon, cooked and crumbled
+    | 1½ cups shredded Swiss cheese
+    | 1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
 
 Preheat the oven to 375 degrees F.
 
@@ -35,20 +41,23 @@ the egg mixture on top.
 
 Bake for 35 to 45 minutes until the egg mixture is set. Cut into 8 wedges. 
 
+.. raw:: pdf
+
+    PageBreak
+
+
 
 Salsa Verde
 ===========
 
 Harmony Valley Farms Salsa Verde; yields 1½ cups.  
 
-::
-
-    6-8 tomatillos (about 12 oz)
-    1 clove garlic
-    1 small onion
-    1 jalapeño, as desired
-    A few sprigs of cilantro
-    Salt and ground black pepper, to taste
+    | 6-8 tomatillos (about 12 oz)
+    | 1 clove garlic
+    | 1 small onion
+    | 1 jalapeño, as desired
+    | A few sprigs of cilantro
+    | Salt and ground black pepper, to taste
 
 In a small saucepan, bring 4-5 cups water to a boil. Remove husks from
 tomatillos and rinse fruit. Boil tomatillos for about 5 minutes or just until
