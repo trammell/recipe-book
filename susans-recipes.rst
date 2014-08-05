@@ -1,20 +1,17 @@
 ================
 Susan's Cookbook
 ================
-~~~~~~~~
-Aww yiss
-~~~~~~~~
-
 
 Amanda Trammell's Spinach and Bacon Quiche
 ------------------------------------------
 
 (Recipe courtesy Paula Deen & the foodnetwork.com)
-Prep Time: 15 min
-Inactive Prep Time: 45 min
-Cook Time: 45 min
-Level: Easy
-Serves: 8 servings
+
+| Prep Time: 15 min
+| Inactive Prep Time: 45 min
+| Cook Time: 45 min
+| Level: Easy
+| Serves: 8 servings
 
 Ingredients:
 
