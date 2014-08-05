@@ -17,23 +17,23 @@ Amanda Trammell's Spinach and Bacon Quiche
 | Level: Easy
 | Serves: 8 servings
 
-Ingredients
------------
+Ingredients::
 
-    | 6 large eggs, beaten
-    | 1½ cups heavy cream
-    | salt and pepper
-    | 2 cups chopped fresh baby spinach, packed
-    | 1 pound bacon, cooked and crumbled
-    | 1½ cups shredded Swiss cheese
-    | 1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
+    6 large eggs, beaten
+    1½ cups heavy cream
+    salt and pepper
+    2 cups chopped fresh baby spinach, packed
+    1 pound bacon, cooked and crumbled
+    1½ cups shredded Swiss cheese
+    1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
 
 Preheat the oven to 375 degrees F.
 
 Combine the eggs, cream, salt, and pepper in a food processor or blender.
 Layer the spinach, bacon, and cheese in the bottom of the pie crust, then pour
-the egg mixture on top. Bake for 35 to 45 minutes until the egg mixture is
-set. Cut into 8 wedges. 
+the egg mixture on top.
+
+Bake for 35 to 45 minutes until the egg mixture is set. Cut into 8 wedges. 
 
 
 Salsa Verde
@@ -41,12 +41,14 @@ Salsa Verde
 
 Harmony Valley Farms Salsa Verde; yields 1½ cups.  
 
-    | 6-8 tomatillos (about 12 oz)
-    | 1 clove garlic
-    | 1 small onion
-    | 1 jalapeño, as desired
-    | A few sprigs of cilantro
-    | Salt and ground black pepper, to taste
+::
+
+    6-8 tomatillos (about 12 oz)
+    1 clove garlic
+    1 small onion
+    1 jalapeño, as desired
+    A few sprigs of cilantro
+    Salt and ground black pepper, to taste
 
 In a small saucepan, bring 4-5 cups water to a boil. Remove husks from
 tomatillos and rinse fruit. Boil tomatillos for about 5 minutes or just until
@@ -67,18 +69,19 @@ Susan's Guacamole
 
 Serves 6 (unless Uncle John is visiting then serves not so many)
 
-    | 2 medium avocados
-    | 1 small tomato, chopped
-    | 2 tablespoons minced onion
-    | 1-2 teaspoons lime or lemon juice
-    | ½ teaspoon garlic powder
-    | ½ teaspoon salt
+::
+
+    2 medium avocados
+    1 small tomato, chopped
+    2 tablespoons minced onion
+    1-2 teaspoons lime or lemon juice
+    ½ teaspoon garlic powder
+    ½ teaspoon salt
 
 Peel avocadoes. Mash with a fork in a medium bowl.  Stir in tomato, onion,
 lime or lemon juice, garlic powder and salt.  Serve at once. 
 
-Note:  I like using the lemon juice versus the lime. 
-
+Note: Susan likes using the lemon juice versus the lime. 
 
 
 
@@ -90,15 +93,15 @@ Makes 12.
 Ingredients
 -----------
 
-    | 2 cups whole wheat white flour
-    | ½ teaspoon salt
-    | ¼ teaspoon baking soda
-    | ⅔ c. sugar
-    | ⅓ cup canola oil
-    | 2 large eggs
-    | ¾ cup sour cream
-    | 1 teaspoon vanilla
-    | ¼ cup poppy seed or ¾ cup fresh or frozen blueberries
+    2 cups whole wheat white flour
+    ½ teaspoon salt
+    ¼ teaspoon baking soda
+    ⅔ c. sugar
+    ⅓ cup canola oil
+    2 large eggs
+    ¾ cup sour cream
+    1 teaspoon vanilla
+    ¼ cup poppy seed or ¾ cup fresh or frozen blueberries
 
 1. Heat oven to 400 F.  Line muffins tins with paper muffin cup.
 2. In a large bowl, combine the flour, salt, sugar and baking soda.  If using
@@ -141,7 +144,7 @@ Variations
 Fresh Pineapple Margaritas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    ½ cored and peeled pineapple (about 1 3/4 pounds)
+    ½ cored and peeled pineapple (about 1 ¾ pounds)
 
 Puree pineapple in food processor or blender until smooth and foamy.  Follow
 above recipe except omit zest and steeping process, reduce lemon and lime
@@ -172,21 +175,23 @@ by Charleen Borger: Fremont, California
 
 Yield: Serves 4
 
-    | 2 tablespoons lemon juice
-    | 1 tablespoon apple jelly
-    | 4 large carrots, peeled, grated
-    | 1 large Golden Delicious apple, peeled, grated
-    | ⅓ cup chopped roasted cashews
-    | ⅓ cup raisins
+::
 
-Whisk lemon juice and jelly in large bowl to blend. Add carrots, apple, cashews and 
+    2 tablespoons lemon juice
+    1 tablespoon apple jelly
+    4 large carrots, peeled, grated
+    1 large Golden Delicious apple, peeled, grated
+    ⅓ cup chopped roasted cashews
+    ⅓ cup raisins
+
+Whisk lemon juice and jelly in large bowl to blend. Add carrots, apple, cashews and
 raisins. Season to taste with salt and pepper. Toss thoroughly.
 
  
 Mexican Chicken Burgers with Lime Cilantro Mayo
 ===============================================
 
-Ingredients:
+Chicken burgers::
 
     1 lb ground pork
     ½ lb ground chicken
@@ -198,13 +203,13 @@ Ingredients:
     ½ t black pepper
     1½ c shredded Monterey jack cheese
     Rolls, split & toasted
+    Optional: sliced avocado, tomato, red onion, lettuce
 
-Optional: sliced avocado, tomato, red onion, lettuce
+Lime mayonnaise::
 
-Lime mayonnaise
-½ c. mayo (the kind made with olive oil)
-1 T lime juice
-1/4 c. chopped cilantro
+    ½ c. mayo (the kind made with olive oil)
+    1 T lime juice
+    ¼ c. chopped cilantro
 
 Preheat grill to medium heat. In medium bowl use hands to lightly blend pork,
 chicken, garlic, chile powder, cilantro, lime zest, salt, and pepper. Shape
@@ -237,7 +242,7 @@ Ingredients:
     1 box butternut squash soup
     1 to 2 Tbsp (or to taste) Thai red curry paste (or leftover sauce from Thai takeout)
     1 lb tilapia fillet
-    1/4 to ½ lb green beans, trimmed
+    ¼ to ½ lb green beans, trimmed
 
 Directions:
 
@@ -289,7 +294,7 @@ pinch of white pepper
 
 Directions
 
-In a small bowl, mix the lemon juice, vinegar, mustard, lemon zest, salt and pepper.  Using a whisk gradually beat in oil until dressing is smooth and slightly thickened.  
+In a small bowl, mix the lemon juice, vinegar, mustard, lemon zest, salt and pepper.  Using a whisk gradually beat in oil until dressing is smooth and slightly thickened.
 
 Lightly mix carrots, walnuts, chives and dressing.  Cover and refrigerate 1 to 3 hours to meld flavors.
  
@@ -324,7 +329,7 @@ Ingredients
 2 tablespoons canola oil
 1 medium-size red onion, cut in half lengthwise and thinly sliced
 6-8 medium-size cloves garlic, coarsely chopped
-4 lengthwise slices fresh ginger (each 2 inches long, 1 inch wide, and 1/8 inch thick), coarsely chopped (a 4 inch piece of ginger)
+4 lengthwise slices fresh ginger (each 2 inches long, 1 inch wide, and ⅛ inch thick), coarsely chopped (a 4 inch piece of ginger)
 2 T Garam Masala (see Notes)
 1 teaspoon ground turmeric
 2 tablespoons tomato paste
@@ -355,7 +360,7 @@ swirl in the garam masala (ta toasted Punjabi garam masala) toward the end,
 after the curry has cooked. This blend is a finishing spice yielding a second
 tier of flavors that are aromatic, smooth, and assertive. Both blends contain
 similar spices, but what you did with them at various stages creates a
-complex-tasting sauce.  
+complex-tasting sauce.
 
 The original recipe calls for 1¼ lb Doodh paneer.  I cut this down
 substantially and often times I either buy it pre-fried or just use it without
@@ -400,7 +405,7 @@ Directions
 
 Dressing:  Combine all ingredients.  (Makes enough for two salads.)
 
-Salad:  
+Salad:
 
 1. Cook pasta according to package instructions.  Drain and rinse with cold water and drain again.
 2. Fill a bowl with ice water.  Bring small pan of water to a boil.  Submerge peas in boiling water for no more than 1 minute.  Immediately drain and place into the ice water.   (I sometimes just use them raw, especially when they are tender)
@@ -472,7 +477,7 @@ Rinse green lentils and cook in 1 ½ c. water for 15-20 minutes or until tender 
 
 Cook petite crimson lentils (do not rinse) in 1 ½ c. water with 1 tsp lemon juice for about 5 minutes – until tender but still firm.  Drain.
 
-Prepare Dressing:  
+Prepare Dressing:
 Combine vinegar, 3 Tbs. lemon juice, Worcestershire Sauce, cumin, garlic, oregano and ⅓ cup olive oil.  Whisk together.
 
 Prepare Salad:
@@ -503,7 +508,7 @@ Portobello Risotto
 ½ c. freshly grated Parmigiano-Reggiano
 salt and pepper to taste
 
-Heat butter and olive oil in a heavy large saucepan over medium heat.  Add onion and garlic.  Saute until golden, about 10 minutes.  Add rice and Portobello mushrooms.  Saute until rice turns translucent, about 5 minutes.  Add white wine, stirring until almost all liquid has evaporated.  Add chicken broth by the ½ c., stirring constantly until all liquid has evaporated.  Continue adding chicken broth and stirring until the rice is tender and the mixture is creamy. 
+Heat butter and olive oil in a heavy large saucepan over medium heat.  Add onion and garlic.  Saute until golden, about 10 minutes.  Add rice and Portobello mushrooms.  Saute until rice turns translucent, about 5 minutes.  Add white wine, stirring until almost all liquid has evaporated.  Add chicken broth by the ½ c., stirring constantly until all liquid has evaporated.  Continue adding chicken broth and stirring until the rice is tender and the mixture is creamy.
  
 Byerly's Italian Beef Burgers
 =============================
@@ -516,7 +521,7 @@ Byerly's Italian Beef Burgers
 ⅓ c. minced red bell pepper
 ⅓ c. minced green bell pepper
 2-3 Tb. minced onion
-3/4/ c. grated asiago cheese
+¾/ c. grated asiago cheese
 1 -2 tsp. dried oregano
 
 Gently mix all ingredients together.  Form into patties.  Individually wrap and freeze if not grilling them all.  
@@ -553,24 +558,24 @@ Chicken Burgers
 
 Ingredients:
 
- ¾ c. Panko bread crumbs 
-⅓c. buttermilk 
-⅓ tsp. black pepper 
-⅓ tsp cayenne pepper 
-¼ tsp. salt 
+ ¾ c. Panko bread crumbs
+⅓c. buttermilk
+⅓ tsp. black pepper
+⅓ tsp cayenne pepper
+¼ tsp. salt
 20 oz chicken, ground
 
 Directions
-1. Mix all ingredients together 
-2. Grill on a griddle sprayed lightly with oil 
-3. Serve with Southern Cole slaw and topped with Coleslaw. 
-4. These do not grill well on an outdoor grill, as they are quite moist. 
+1. Mix all ingredients together
+2. Grill on a griddle sprayed lightly with oil
+3. Serve with Southern Cole slaw and topped with Coleslaw.
+4. These do not grill well on an outdoor grill, as they are quite moist.
 5. I used chipotle pepper and you could use more than called for if you want a
-spicier burger 
+spicier burger
 
 Makes 5 servings
 
-Coleslaw for Chicken Burgers 
+Coleslaw for Chicken Burgers
 
 Ingredients
 
@@ -579,23 +584,23 @@ Ingredients
 1 ½ shredded Beauty Heart radishes (optional)
 ½ c. plain yogurt
 ¼ c. mayonnaise
-5 T. apple cider vinegar 
-3/4 tsp celery seed 
+5 T. apple cider vinegar
+¾ tsp celery seed
 4 tsp. sugar
 
-1. Mix dressing ingredients. 
-2. Add cabbage, radish and carrot. 
+1. Mix dressing ingredients.
+2. Add cabbage, radish and carrot.
 3. I added a beauty heart radish to my salad and would do so again. 
 Summer Flavored Waters
- 
-Source: Better Homes and Gardens, May 2005
- 
 
- 
+Source: Better Homes and Gardens, May 2005
+
+
+
 Makes 8 (8-ounce) servings each recipe
 Prep: 10 minutes each
 Chill: 2 hours
-      
+
 
 
 
@@ -608,16 +613,16 @@ Ingredients
 2 quarts water
    Ice cubes
 Directions
-1. Add slices of melon, lime slices, and mint sprigs to a large pitcher. Fill pitcher with the water. Refrigerate for 2 to 4 hours to allow fruit and herbs to transfer flavors to water. To serve, fill glasses with ice. Top with flavored water. Makes 8 (8-ounce) servings each recipe. 
+1. Add slices of melon, lime slices, and mint sprigs to a large pitcher. Fill pitcher with the water. Refrigerate for 2 to 4 hours to allow fruit and herbs to transfer flavors to water. To serve, fill glasses with ice. Top with flavored water. Makes 8 (8-ounce) servings each recipe.
 
-Herb and Berry Flavored Water: Substitute 1 cup fresh blueberries, lightly crushed, and two 4-inch sprigs fresh rosemary, lightly bruised, for the melon, lime, and mint. Fill pitcher with water, refrigerate 2 to 4 hours, and serve as above. 
+Herb and Berry Flavored Water: Substitute 1 cup fresh blueberries, lightly crushed, and two 4-inch sprigs fresh rosemary, lightly bruised, for the melon, lime, and mint. Fill pitcher with water, refrigerate 2 to 4 hours, and serve as above.
 
 
  
 Cauliflower Wedges with Lemon Dressing
- 
-Source: Better Homes and Gardens, May 2005 
-Makes 4 servings                         Start to Finish: 20 minutes       
+
+Source: Better Homes and Gardens, May 2005
+Makes 4 servings                         Start to Finish: 20 minutes
 
 Ingredients
 2 small heads cauliflower
@@ -634,15 +639,15 @@ Ingredients
 2 tablespoons capers, drained
 
 Directions
-1. Remove heavy leaves and tough stems from cauliflower; cut into 4 to 6 wedges each. Place cauliflower in a microwave-safe 3-quart casserole. Add ½ cup water. Microcook, covered, on 100 percent power (high) for 7 to 9 minutes or just until tender. Remove with a slotted spoon to serving plates. Top with ham and cheese. 
-2. In a screw top jar combine oil, lemon juice, garlic, salt, sugar, mustard, and pepper. Cover and shake well to combine; drizzle over cauliflower, ham, and cheese. Sprinkle with pine nuts and capers. Makes 4 servings. 
-Note: Serrano ham comes from Spain; find it in some specialty markets or at www.tienda.com. Substitute with any other thinly sliced ham. 
+1. Remove heavy leaves and tough stems from cauliflower; cut into 4 to 6 wedges each. Place cauliflower in a microwave-safe 3-quart casserole. Add ½ cup water. Microcook, covered, on 100 percent power (high) for 7 to 9 minutes or just until tender. Remove with a slotted spoon to serving plates. Top with ham and cheese.
+2. In a screw top jar combine oil, lemon juice, garlic, salt, sugar, mustard, and pepper. Cover and shake well to combine; drizzle over cauliflower, ham, and cheese. Sprinkle with pine nuts and capers. Makes 4 servings.
+Note: Serrano ham comes from Spain; find it in some specialty markets or at www.tienda.com. Substitute with any other thinly sliced ham.
 
 
 
  
 Fragrant beef curry with rice
-Bon Appétit |  November 2000 
+Bon Appétit |  November 2000
 "An Indian friend of my mother's gave her this recipe for beef curry back in 1936," writes Bill Goodhue of Chino, California. "The recipe has been passed on to me, so I can still enjoy the sweet-spicy flavors of this stew more than 60 years later."
 Servings:   Makes 6 servings.
 INGREDIENTS
@@ -653,7 +658,7 @@ INGREDIENTS
 2 large garlic cloves, chopped
 2 cinnamon sticks
 1 bay leaf
-1/4 teaspoon dried crushed red pepper
+¼ teaspoon dried crushed red pepper
 1 ½ cups whole milk
 3 large tomatoes, quartered
 3 tablespoons Major Grey chutney
@@ -661,17 +666,17 @@ INGREDIENTS
 2 tablespoons minced peeled fresh ginger
 1 ½ tablespoons curry powder
 ½ teaspoon salt
-Hot cooked rice 
+Hot cooked rice
 PREPARATION
 
 Sprinkle beef with salt and pepper. Heat 2 tablespoons oil in heavy large pot over high heat. Working in batches, add beef to pot and brown on all sides, about 7 minutes per batch. Using slotted spoon, transfer to plate.
 Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions; sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves, garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute. Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and ½ teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is tender, stirring occasionally, about 2 hours.
-Uncover; increase heat to medium. Boil stew until juices are slightly thickened, about 10 minutes. Serve over rice. 
+Uncover; increase heat to medium. Boil stew until juices are slightly thickened, about 10 minutes. Serve over rice.
 Makes 6 servings.
 
 Hot and Sour Soup
 
-To rehydrate dried whole mushrooms, place them in a bowl, add boiling water to cover and let soak for 30 minutes, until soft. For dried mushroom slices, reduce the soaking time to 15 to 20 minutes. Drain well. For extra mushroom flavor, reserve the soaking liquid and add it to the dish. Before using, strain the liquid through a sieve lined with cheesecloth or a coffee filter to remove any grit. 
+To rehydrate dried whole mushrooms, place them in a bowl, add boiling water to cover and let soak for 30 minutes, until soft. For dried mushroom slices, reduce the soaking time to 15 to 20 minutes. Drain well. For extra mushroom flavor, reserve the soaking liquid and add it to the dish. Before using, strain the liquid through a sieve lined with cheesecloth or a coffee filter to remove any grit.
 
 Accompany the soup with a shredded cabbage salad dressed with rice wine vinegar, sugar and a little oil.
 
@@ -681,30 +686,30 @@ Ingredients:
 2 Tbs. plus 1 tsp. white wine vinegar
 1 Tbs. plus 1 tsp. soy sauce
 ½ tsp. Asian sesame oil
-1 1/4 tsp. Asian chili oil
+1 ¼ tsp. Asian chili oil
 ½ tsp. freshly ground pepper, plus more, to taste
 5 cups chicken stock
 ½ cup canned thinly sliced bamboo shoots, rinsed and drained
 1 boneless, skinless whole chicken breast, about ½ lb., cut crosswise into thin bite-size  slices
-1/4 lb. firm tofu, drained and cut into ½- inch cubes
+¼ lb. firm tofu, drained and cut into ½- inch cubes
 2 Tbs. cornstarch
-1/4 cup water
+¼ cup water
 1 egg, well beaten
 
 Directions:
-Soak the dried mushrooms in the boiling water for 30 minutes. Drain the mushrooms and slice them thinly. Set aside. 
+Soak the dried mushrooms in the boiling water for 30 minutes. Drain the mushrooms and slice them thinly. Set aside.
 
-In a small bowl, stir together the vinegar, soy sauce, sesame oil, chili oil and the 1/2 tsp. pepper. Set aside. 
+In a small bowl, stir together the vinegar, soy sauce, sesame oil, chili oil and the ½ tsp. pepper. Set aside.
 
-In a saucepan over medium-high heat, bring the stock to a simmer. Add the mushrooms and bamboo shoots and cook until the stock is aromatic, about 3 minutes. Reduce the heat to medium and add the chicken and tofu. Cook until the chicken is just opaque throughout and the tofu is heated through, about 2 minutes. Add the reserved vinegar-soy mixture and bring to a simmer. 
+In a saucepan over medium-high heat, bring the stock to a simmer. Add the mushrooms and bamboo shoots and cook until the stock is aromatic, about 3 minutes. Reduce the heat to medium and add the chicken and tofu. Cook until the chicken is just opaque throughout and the tofu is heated through, about 2 minutes. Add the reserved vinegar-soy mixture and bring to a simmer.
 
-In a small bowl, combine the cornstarch and water and stir until the cornstarch is dissolved. Add to the soup and stir until the soup begins to thicken. Remove from the heat. Add the egg, whisking with a fork until little shreds of cooked egg form. Taste and adjust the seasonings with vinegar, pepper or soy sauce. 
+In a small bowl, combine the cornstarch and water and stir until the cornstarch is dissolved. Add to the soup and stir until the soup begins to thicken. Remove from the heat. Add the egg, whisking with a fork until little shreds of cooked egg form. Taste and adjust the seasonings with vinegar, pepper or soy sauce.
 
 Ladle the soup into warmed bowls and serve immediately.
 Adapted from Williams-Sonoma Collection Series, Soup, by Diane Rossen Worthington (Simon & Schuster, 2001). 
 White Turkey Chili
 
-Made with chunks of cooked turkey, this hearty chili is a wonderful way to use up leftovers from the Thanksgiving feast. 
+Made with chunks of cooked turkey, this hearty chili is a wonderful way to use up leftovers from the Thanksgiving feast.
 
 Ingredients:
 2 Tbs. olive oil
@@ -719,20 +724,20 @@ Salt and freshly ground pepper, to taste
 3 cans (each 15 oz.) cannellini beans, drained  and rinsed, or 4 ½ cups cooked white beans,   drained
 2 Tbs. minced fresh oregano
 ⅓ cup minced fresh cilantro
-1/4 cup cornmeal
+¼ cup cornmeal
 Shredded jack cheese, sour cream and lime  wedges for serving
 
 Directions:
-In a large sauté pan over medium heat, warm the olive oil. Add the onion, season with salt and pepper and cook, stirring occasionally, until softened, 5 to 7 minutes. Add the cumin, garlic and jalapeño and cook, stirring, for 30 seconds. Stir in the chilies and 3 1/2 cups of the broth, and then transfer to a slow cooker. Stir in the turkey, beans, oregano and cilantro. 
+In a large sauté pan over medium heat, warm the olive oil. Add the onion, season with salt and pepper and cook, stirring occasionally, until softened, 5 to 7 minutes. Add the cumin, garlic and jalapeño and cook, stirring, for 30 seconds. Stir in the chilies and 3 ½ cups of the broth, and then transfer to a slow cooker. Stir in the turkey, beans, oregano and cilantro.
 
 Put the cornmeal in a small bowl and slowly whisk in ½ cup of the broth. Stir the cornmeal mixture into the turkey mixture. Cover and cook on high for 3 hours according to the manufacturer's instructions. Thin the chili with more broth if needed.
 
-Ladle the chili into warmed bowls. Serve with cheese, sour cream and lime wedges. 
+Ladle the chili into warmed bowls. Serve with cheese, sour cream and lime wedges.
 
 Serves 6 to 8.
 
 Williams-Sonoma Kitchen. 
-Orange-Rosemary Chicken 
+Orange-Rosemary Chicken
 Bon Appétit | July 1997
 
 It's almost as quick to make the citrus-herb glaze that coats the chicken as it is to open a bottle of barbecue sauce-and the glaze has a far more interesting taste. Pour a Chardonnay or Sauvignon Blanc for the grown-ups; the kids should have lemonade. Finish up with watermelon and brownies.
@@ -757,7 +762,7 @@ Blend first 7 ingredients in processor. Set orange glaze aside.
 Prepare barbecue (medium heat). Place smoke chips in 8x6-inch foil packet with open top. Set packet atop coals about 5 minutes before grilling. Sprinkle chicken with salt and pepper. Grill chicken until golden, turning occasionally, about 5 minutes per side. Continue grilling chicken until cooked through, brushing glaze over chicken and turning occasionally, about 25 minutes longer. Transfer to platter.
 
  
-Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper 
+Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper
 
 Bon Appétit | October 1997
 Ristorante Araxi, Whistler, British Columbia
@@ -775,12 +780,12 @@ Yield: Serves 6
 6 5-ounce 6x2x1-inch skinless salmon fillets
 
 Melt 2 tablespoons butter in heavy large skillet over medium-high heat. Add bell peppers and leek and sauté until leek is tender, about 6 minutes. Add wine and crushed red pepper to skillet. Simmer until liquid evaporates, about 4 minutes. Remove skillet from heat. Cool vegetable mixture. Stir in basil and salt.
-Preheat oven to 400°F. Melt remaining 6 tablespoons butter in small saucepan. Place 1 pastry sheet on work surface (keep remaining phyllo sheets covered). Brush with some of melted butter. Top with second pastry sheet; brush with melted butter. Place 1 salmon fillet crosswise on pastry sheet, 5 inches in from 1 short end. Top salmon fillet with 1/4 cup of vegetable mixture. Fold 5-inch section of pastry over salmon. Fold in sides. Roll up, forming rectangular packet. Transfer to heavy large baking sheet, vegetable side up. Brush packet all over with melted butter. Repeat with remaining pastry sheets, melted butter, salmon fillets and vegetables. (Can be prepared 6 hours ahead. Cover with plastic wrap and refrigerate.)
+Preheat oven to 400°F. Melt remaining 6 tablespoons butter in small saucepan. Place 1 pastry sheet on work surface (keep remaining phyllo sheets covered). Brush with some of melted butter. Top with second pastry sheet; brush with melted butter. Place 1 salmon fillet crosswise on pastry sheet, 5 inches in from 1 short end. Top salmon fillet with ¼ cup of vegetable mixture. Fold 5-inch section of pastry over salmon. Fold in sides. Roll up, forming rectangular packet. Transfer to heavy large baking sheet, vegetable side up. Brush packet all over with melted butter. Repeat with remaining pastry sheets, melted butter, salmon fillets and vegetables. (Can be prepared 6 hours ahead. Cover with plastic wrap and refrigerate.)
 Bake salmon until pastry is pale golden and salmon is cooked through, about 35 minutes.
 
 
 NOTE:  Uncle John has made this twice and thinks it is easy and good 
-Black Bean and Tomato Quinoa 
+Black Bean and Tomato Quinoa
 Gourmet | July 2007
 
 Quinoa is a fast-cooking, protein-packed whole grain. Steamed, it makes a perfect partner for lime-spiked black beans and fresh tomato.
@@ -797,9 +802,9 @@ Total Time: 45 minutes
 1 (14- to 15-ounce) can black beans, rinsed and drained
 2 medium tomatoes, diced
 4 scallions, chopped
-1/4 cup chopped fresh cilantro
+¼ cup chopped fresh cilantro
 
-Whisk together lime zest and juice, butter, oil, sugar, 1/2 teaspoon salt, and 1/4teaspoon pepper in a large bowl.
+Whisk together lime zest and juice, butter, oil, sugar, ½ teaspoon salt, and ¼teaspoon pepper in a large bowl.
 
 Wash quinoa in 3 changes of cold water in a bowl, draining in a sieve each time.
 
@@ -807,7 +812,7 @@ Cook quinoa in a medium pot of boiling salted water (1 tablespoon salt for 2 qua
 
 Add quinoa to dressing and toss until dressing is absorbed, then stir in remaining ingredients and salt and pepper to taste.
  
-Roasted Carrots and Parsnips with White Balsamic 
+Roasted Carrots and Parsnips with White Balsamic
 Bon Appétit | November 2010
 by Diane Morgan
 
@@ -817,9 +822,9 @@ Yield: Makes 8 to 10 servings
 Active Time: 40 minutes
 Total Time: 1 hour 30 minutes
 
-2 1/4 pounds medium parsnips, trimmed, peeled, cut into 3 x 1/2-inch sticks
-1 1/2 pounds medium carrots, trimmed, peeled, cut into 3 x 1/2-inch sticks
-1/4 cup extra-virgin olive oil
+2 ¼ pounds medium parsnips, trimmed, peeled, cut into 3 x ½-inch sticks
+1 ½ pounds medium carrots, trimmed, peeled, cut into 3 x ½-inch sticks
+¼ cup extra-virgin olive oil
 2 tablespoons white balsamic vinegar
 1 tablespoon minced fresh rosemary
 2 teaspoons coarse kosher salt
@@ -829,77 +834,80 @@ Preheat oven to 425°F. Combine parsnips and carrots on large rimmed baking shee
 
 
  
-Tortilla Soup with Chicken and Lime 
+Tortilla Soup with Chicken and Lime
 Bon Appétit | January 1996
 by Chef Kathi Long
-An adaptation of a recipe from Mexican Light Cooking 
+An adaptation of a recipe from Mexican Light Cooking
 by our friend Kathi Long, a chef and author in Santa Fe.
 Yield: Serves 4
- 
+
 4 5- to 6-inch diameter corn tortillas
 2 teaspoons olive oil
 
-2 14 1/2-ounce cans low-salt chicken broth
+2 14 ½-ounce cans low-salt chicken broth
 2 cups water
-3/4 cup canned Mexican-style stewed tomatoes with juices
+¾ cup canned Mexican-style stewed tomatoes with juices
 1 bay leaf
 1 garlic clove, pressed
-1/4 teaspoon ground cumin
-1/8 teaspoon dried crushed red pepper
-12 ounces skinless boneless chicken breast halves, cut into 1/2-inch-wide strips
+¼ teaspoon ground cumin
+⅛ teaspoon dried crushed red pepper
+12 ounces skinless boneless chicken breast halves, cut into ½-inch-wide strips
 2 green onions, sliced
-1/4 cup chopped fresh cilantro
+¼ cup chopped fresh cilantro
 2 tablespoons fresh lime juice
- 
+
 Preheat oven to 350°F. Brush 1 side of tortillas with oil; cut in half. Stack halves and
-cut crosswise into 1/4-inch-wide strips. Spread strips on nonstick baking sheet. 
+cut crosswise into ¼-inch-wide strips. Spread strips on nonstick baking sheet.
 
 Bake until light golden, about 15 minutes. Cool on baking sheet.
 
-Combine broth, water, tomatoes, bay leaf, garlic, cumin and red pepper 
-in saucepan; bring to boil. Reduce heat; simmer 5 minutes. Add chicken; 
-simmer until just cooked through, about 5 minutes. Stir in green onions, cilantro 
+Combine broth, water, tomatoes, bay leaf, garlic, cumin and red pepper
+in saucepan; bring to boil. Reduce heat; simmer 5 minutes. Add chicken;
+simmer until just cooked through, about 5 minutes. Stir in green onions, cilantro
 and lime juice. Season with salt and pepper.
 
 Ladle soup into bowls. Sprinkle with tortilla strips and serve.
 
  
-Lacinato Kale and Ricotta Salata Salad 
+Lacinato Kale and Ricotta Salata Salad
 Gourmet | January 2007
 
-Inspired by an antipasto that's popular at New York City's Lupa, this substantial salad 
-takes a hearty, rich green that's usually cooked and proves how delicious it can be 
+Inspired by an antipasto that's popular at New York City's Lupa, this substantial salad
+takes a hearty, rich green that's usually cooked and proves how delicious it can be
 when served raw.
 Yield: Makes 6 servings
 Active Time: 25 min
 Total Time: 25 min
 
- 
-3/4 to 1 pound lacinato kale (also called Tuscan kale) or tender regular kale, 
-  stems and center ribs discarded
-2 tablespoons finely chopped shallot
-1 1/2 tablespoons fresh lemon juice
-1/4 teaspoon salt
-1/4 teaspoon black pepper
-4 1/2 tablespoons extra-virgin olive oil
-2 ounces coarsely grated ricotta salata (1 cup)
+::
 
- 
-Working in batches, cut kale crosswise into very thin slices.
-Whisk together shallot, lemon juice, salt, and pepper in a small bowl,
-then add oil in a slow stream, whisking until combined well.
-Toss kale and ricotta salata in a large bowl with enough dressing to coat well, 
-then season with salt and pepper.
+    ¾ to 1 pound lacinato kale (also called Tuscan kale) or
+        tender regular kale, stems and center ribs discarded
+    2 tablespoons finely chopped shallot
+    1 ½ tablespoons fresh lemon juice
+    ¼ teaspoon salt
+    ¼ teaspoon black pepper
+    4 ½ tablespoons extra-virgin olive oil
+    2 ounces coarsely grated ricotta salata (1 cup)
+
+Working in batches, cut kale crosswise into very thin slices.  Whisk together
+shallot, lemon juice, salt, and pepper in a small bowl, then add oil in a slow
+stream, whisking until combined well.
+
+Toss kale and ricotta salata in a large bowl with enough dressing to coat
+well, then season with salt and pepper.
 
  
-Petits Pains au Chocolat 
+Petits Pains au Chocolat
+========================
+
 Bon Appétit | April 2004
 These delicious small pastries are easy to make, and they're sure to disappear quickly.
 Yield: Makes 24
 
 2 sheets frozen puff pastry (one 17.3-ounce package), thawed, each sheet cut into 12 squares
 1 large egg beaten to blend with 1 Tb water (for glaze)
-4 3.5-ounce bars imported bittersweet or milk chocolate, each cut into six 2x3/4-inch pieces
+4 3.5-ounce bars imported bittersweet or milk chocolate, each cut into six 2x¾-inch pieces
 
 Sugar
 
@@ -908,29 +916,33 @@ Preheat oven to 400°F. Brush tops of pastry rolls with remaining egg glaze. Spr
 
 
 NOTE:  These are also good filled with jam or jam and cream cheese 
-Lentil Soup with Smoked Ham 
+
+
+Lentil Soup with Smoked Ham
+===========================
+
 Bon Appétit | October 1999
 Start with hearts of romaine topped with balsamic dressing and diced feta cheese, and pass whole grain bread. Have chocolate cupcakes afterward.
 Yield: Makes 2 servings (can be doubled)
 
-1 1/2 tablespoons olive oil
-1 1/2 cups diced smoked ham
+1 ½ tablespoons olive oil
+1 ½ cups diced smoked ham
 2 teaspoons dried savory
-1 1/2 teaspoons dry mustard
+1 ½ teaspoons dry mustard
 3 cups (or more) canned low-salt chicken broth
 1 cup brown lentils, rinsed
-1 14 1/2-ounce can diced tomatoes with roasted garlic
+1 14 ½-ounce can diced tomatoes with roasted garlic
 
-Heat oil in heavy large saucepan over medium-high heat. Add ham, savory and mustard and stir until ham begins to brown, about 2 minutes. Add 3 cups broth and lentils and bring to boil. Reduce heat to medium, cover and simmer until lentils are tender, about 20 minutes. Add tomatoes with juices; simmer uncovered 2 minutes. Add more broth by 1/4 cupfuls to thin soup, if desired. Season with salt and pepper.
+Heat oil in heavy large saucepan over medium-high heat. Add ham, savory and mustard and stir until ham begins to brown, about 2 minutes. Add 3 cups broth and lentils and bring to boil. Reduce heat to medium, cover and simmer until lentils are tender, about 20 minutes. Add tomatoes with juices; simmer uncovered 2 minutes. Add more broth by ¼ cupfuls to thin soup, if desired. Season with salt and pepper.
 
 
   
-Cabbage and Corn Slaw with Cilantro and Orange Dressing 
+Cabbage and Corn Slaw with Cilantro and Orange Dressing
 Bon Appétit | July 2007
-Pam Anderson 
+Pam Anderson
 Yield: Makes 8 servings
 
- 
+
 ⅓ cup frozen orange juice concentrate, thawed
 ⅓ cup unseasoned rice vinegar
 ⅓ cup canola oil or vegetable oil
@@ -939,27 +951,27 @@ Yield: Makes 8 servings
 2 medium carrots, peeled, coarsely grated
 1 medium red bell pepper, stemmed, cored, cut into thin strips
 6 medium green onions, thinly sliced
-1/2 cup chopped fresh cilantro
+½ cup chopped fresh cilantro
 
- 
-Whisk orange juice concentrate, rice vinegar, and canola oil in small bowl. 
-Season with salt and pepper. 
+
+Whisk orange juice concentrate, rice vinegar, and canola oil in small bowl.
+Season with salt and pepper.
 DO AHEAD Dressing can be made 1 day ahead. Cover and refrigerate.
 
-Combine slaw mix, corn kernels, carrots, red bell pepper strips, sliced green onions, 
-and chopped cilantro in large bowl. 
-Toss with enough dressing to coat. Season slaw to taste with salt and pepper. 
+Combine slaw mix, corn kernels, carrots, red bell pepper strips, sliced green onions,
+and chopped cilantro in large bowl.
+Toss with enough dressing to coat. Season slaw to taste with salt and pepper.
 Let stand 15 minutes for flavors to blend. Toss again and serve.
 
 
  
-Green Bean and Tomato Salad 
+Green Bean and Tomato Salad
 Bon Appétit | January 1992
 Yield: Serves 12
 
 3 pounds green beans, trimmed, cut into 2-inch pieces
 3 tablespoons country-style Dijon mustard
-1/4 cup Sherry wine vinegar
+¼ cup Sherry wine vinegar
 ⅔ cup olive oil
 ⅓ cup minced shallots
 2 1-pint baskets cherry tomatoes
@@ -968,49 +980,49 @@ Cook beans in large pot of boiling salted water until crisp-tender, about 5 minu
 
 
  
-Barbecued Pork Burgers with Slaw 
+Barbecued Pork Burgers with Slaw
 Gourmet | August 2007
 Alexis Touchet
 Spicing up store-bought barbecue sauce with a touch of cayenne and a splash of vinegar is an easy trick that makes a big difference. Here, pork burgers get a triple hit of flavor: The sauce gets mixed into the meat, slathered onto the cooked burgers for the last minute of grilling, and brushed on the bun. A cabbage slaw with a creamy dressing tops them off with just the right crunch.
 Yield: Makes 4 -5 burgers
 
-1 (1/2-pound) piece green cabbage, cored
-1/4 cup mayonnaise
+1 (½-pound) piece green cabbage, cored
+¼ cup mayonnaise
 1 tablespoon milk
-1 tablespoon plus 1 1/2 teaspoons white-wine vinegar, divided
-1/2 cup very finely shredded carrot (1 medium)
+1 tablespoon plus 1 ½ teaspoons white-wine vinegar, divided
+½ cup very finely shredded carrot (1 medium)
 1 tablespoon thinly sliced fresh chives
-1/2 cup bottled tomato-based barbecue sauce
-1/4 teaspoon cayenne
-1 1/2 pounds ground pork
+½ cup bottled tomato-based barbecue sauce
+¼ teaspoon cayenne
+1 ½ pounds ground pork
 4 Kaiser or soft rolls, split and grilled
 
 Equipment: an adjustable-blade slicer
 
 Prepare grill for direct-heat cooking over medium-hot charcoal (medium heat for gas).
-Thinly slice enough cabbage with slicer to measure 2 cups. Whisk together mayonnaise, milk, and 1 1/2 teaspoons vinegar until smooth, then toss with cabbage, carrots, chives, and salt and pepper to taste. Let coleslaw stand at room temperature, uncovered, while making burgers.
-Stir together barbecue sauce, cayenne, 1/4 teaspoon salt, and remaining tablespoon vinegar until combined well.
-Mix together pork, 1/2 teaspoon salt, 1/4 teaspoon pepper, and 2 tablespoons barbecue sauce mixture until combined (do not overmix), then form into 4 (3/4-inch-thick) burgers (4 inches in diameter).
+Thinly slice enough cabbage with slicer to measure 2 cups. Whisk together mayonnaise, milk, and 1 ½ teaspoons vinegar until smooth, then toss with cabbage, carrots, chives, and salt and pepper to taste. Let coleslaw stand at room temperature, uncovered, while making burgers.
+Stir together barbecue sauce, cayenne, ¼ teaspoon salt, and remaining tablespoon vinegar until combined well.
+Mix together pork, ½ teaspoon salt, ¼ teaspoon pepper, and 2 tablespoons barbecue sauce mixture until combined (do not overmix), then form into 4 (¾-inch-thick) burgers (4 inches in diameter).
 Oil grill rack, then grill patties, covered only if using a gas grill, turning over occasionally, until just cooked through, about 6 minutes total. Brush top of each patty with 1 tablespoon barbecue sauce mixture, then turn over and grill 30 seconds. Brush top of each patty with 1 tablespoon barbecue sauce, then turn over and grill 30 seconds more.
-Brush cut sides of rolls with remaining 1/4 cup barbecue sauce, then sandwich patties and coleslaw between rolls.
+Brush cut sides of rolls with remaining ¼ cup barbecue sauce, then sandwich patties and coleslaw between rolls.
 
 Coleslaw can be made 8 hours ahead and chilled, covered. •Patties can be formed 1 hour ahead and chilled, covered. •
 
 
 
-Roasted Garlic 
+Roasted Garlic
 Bon Appétit | October 1999
 Yield: Makes about 1 ⅓ cups
 
 Note: Also great mixed into mashed potatoes.
 
 large heads of garlic
-1/4 cup olive oil
+¼ cup olive oil
 
-Preheat oven to 350°F. Cut top 1/4 inch off heads of garlic to expose cloves. Place garlic in small baking dish. Add oil and sprinkle with salt and pepper; toss to coat. Turn garlic cut side up. Cover tightly with aluminum foil. Bake until garlic skins are golden brown and cloves are tender, about 55 minutes. Cool. Squeeze garlic cloves from skins.
+Preheat oven to 350°F. Cut top ¼ inch off heads of garlic to expose cloves. Place garlic in small baking dish. Add oil and sprinkle with salt and pepper; toss to coat. Turn garlic cut side up. Cover tightly with aluminum foil. Bake until garlic skins are golden brown and cloves are tender, about 55 minutes. Cool. Squeeze garlic cloves from skins.
 
  
-Crostini with Roasted Garlic, Goat Cheese and Apple Chutney 
+Crostini with Roasted Garlic, Goat Cheese and Apple Chutney
 Bon Appétit | October 1999
 128 Cafe, St. Paul, Minnesota
 Kari and Brian Chase of St. Paul, Minnesota say that their neighborhood has a great restaurant: 128 Cafe. The last time they were there they tried a delicious appetizer of crisp bread with roasted garlic, goat cheese and apple chutney.
@@ -1019,12 +1031,12 @@ Yield: Makes 8 Servings
 Note: At the restaurant, the bread is grilled, but it's just as good when it's baked.
 
 1 cup (packed) golden brown sugar
-3/4 cup rice vinegar
+¾ cup rice vinegar
 2 garlic cloves, minced
-1 1/2 teaspoons minced peeled fresh ginger
-1/8 teaspoon cayenne pepper
+1 ½ teaspoons minced peeled fresh ginger
+⅛ teaspoon cayenne pepper
 1 cinnamon stick
-1 1/2 pounds Granny Smith apples, peeled, cored, cut into -inch pieces (about 4 cups)
+1 ½ pounds Granny Smith apples, peeled, cored, cut into -inch pieces (about 4 cups)
 1 cup golden raisins
 1 cup diced seeded plum tomatoes
 1 tablespoon chopped fresh mint
@@ -1034,54 +1046,56 @@ Olive oil
 Roasted Garlic
 12 ounces soft fresh goat cheese (such as Montrachet), room temperature
 
-Stir sugar and vinegar in heavy large saucepan over medium heat until sugar dissolves. Add next 4 ingredients and simmer until mixture is syrupy and reduced to 1/2 cup, about 8 minutes. Mix in apples and raisins. Increase heat to high and boil until apples are tender, stirring frequently, about 10 minutes. Cool to room temperature. (Chutney can be made 3 days ahead; cover and refrigerate.) Mix in tomatoes and mint.
+Stir sugar and vinegar in heavy large saucepan over medium heat until sugar dissolves. Add next 4 ingredients and simmer until mixture is syrupy and reduced to ½ cup, about 8 minutes. Mix in apples and raisins. Increase heat to high and boil until apples are tender, stirring frequently, about 10 minutes. Cool to room temperature. (Chutney can be made 3 days ahead; cover and refrigerate.) Mix in tomatoes and mint.
 Preheat oven to 450°F. Arrange baguette slices on baking sheet and brush with olive oil. Bake until golden and crisp, about 8 minutes. Spread each toast with roasted garlic; top with goat cheese and chutney.
 
 
 NOTE:  A good jarred apple chutney or pear chutney works just as well 
-Pork Tenderloin with Herbed Breadcrumb Crust 
+Pork Tenderloin with Herbed Breadcrumb Crust
 Bon Appétit | September 1998
 
 Simple, appealing and perfect with the polenta. Pour a Barbera or Pinot Bianco.
 Yield: Serves 8
 
- 
+
 6 cups fresh breadcrumbs made from French bread
 ⅔ cup chopped fresh parsley
 2 tablespoons chopped fresh rosemary
-1 3/4 teaspoons crumbled bay leaves
+1 ¾ teaspoons crumbled bay leaves
 
 3 pounds pork tenderloins, trimmed
 2 large eggs, beaten to blend
 
-4 tablespoons (1/2 stick) butter
+4 tablespoons (½ stick) butter
 2 tablespoons olive oil
- 
-Preheat oven to 375°F. Mix first 4 ingredients in large bowl to blend. Season to taste 
-with salt and pepper. 
-Sprinkle pork with salt and pepper. Dip into eggs, then into breadcrumb mixture, 
+
+Preheat oven to 375°F. Mix first 4 ingredients in large bowl to blend. Season to taste
+with salt and pepper.
+Sprinkle pork with salt and pepper. Dip into eggs, then into breadcrumb mixture,
 coating completely.
-Melt 2 tablespoons butter and 1 tablespoon oil in heavy large skillet over 
+Melt 2 tablespoons butter and 1 tablespoon oil in heavy large skillet over
 medium-high heat. Add half of pork; cook until golden on all sides, about 5
-minutes. Place on rack set in large roasting pan. Wipe out skillet. Repeat with 
+minutes. Place on rack set in large roasting pan. Wipe out skillet. Repeat with
 remaining 2 tablespoons butter, 1 tablespoon oil and pork.
-Roast pork until crust is golden and thermometer inserted into center registers 
-155°F, about 20 minutes. Transfer pork to cutting board. Let stand 5 minutes. 
-Slice pork and serve.
+
+Roast pork until crust is golden and thermometer inserted into center
+registers 155°F, about 20 minutes. Transfer pork to cutting board. Let stand 5
+minutes.  Slice pork and serve.
 
  
-Slow-Cooked Carnitas Tacos 
+Slow-Cooked Carnitas Tacos
+==========================
 
 Bon Appétit | April 2008
 Amy Finely
 You'll need a slow cooker for this recipe (a necessity for any busy cook).
 Yield: servings
 
-2 pounds boneless country-style pork ribs or pork shoulder (Boston butt), cut into 1 1/2-inch pieces
+2 pounds boneless country-style pork ribs or pork shoulder (Boston butt), cut into 1 ½-inch pieces
 2 teaspoons salt
 2 teaspoons ground black pepper
 2 teaspoons dried oregano (preferably Mexican)
-1/2 large onion, cut into 4 pieces
+½ large onion, cut into 4 pieces
 1 avocado, halved, pitted, sliced
 Fresh cilantro sprigs
 Sliced red bell peppers (optional)
@@ -1091,19 +1105,21 @@ Roasted Tomatillo Salsa
 Toss pork in bowl of slow cooker with salt, black pepper, and dried oregano to coat. Place onion pieces atop pork. Cover slow cooker and cook pork on low setting until meat is very tender and falling apart, about 6 hours.
 Using slotted spoon, transfer pork to cutting board. Discard onion pieces. Using fingers, shred pork; transfer carnitas to platter. Place avocado slices, cilantro sprigs, and sliced red bell peppers, if desired, alongside. Wrap corn tortillas in damp kitchen towel; microwave until warm, about 1 minute. Serve carnitas with warm tortillas and tomatillo salsa.
  
-Spicy Garbanzo Bean and Turkey Sausage Soup 
+Spicy Garbanzo Bean and Turkey Sausage Soup
+===========================================
+
 Bon Appétit | March 1995
 
 Sliced or diced fresh avocado makes a colorful garnish for this hearty southwestern soup. If you want to cut up the avocado ahead of time but don't want it to discolor, simply place the avocado pieces in a colander and rinse them with cold water. They will stay bright green for about two hours.
 Yield: Serves 6
 
 1 teaspoon olive oil
-3/4 pound turkey sausage, casings removed, crumbled
+¾ pound turkey sausage, casings removed, crumbled
 8 large garlic cloves, chopped
 1 cup canned diced peeled tomatoes with juices
 2 tablespoons thinly sliced seeded jalapeño chili
 1 teaspoon ground cumin
-1 teaspoon chopped fresh rosemary or 1/2 teaspoon dried
+1 teaspoon chopped fresh rosemary or ½ teaspoon dried
 3 15- to 16-ounce cans garbanzo beans (chick-peas), undrained
 2 cups canned chicken broth or beef broth
 2 tablespoons fresh lemon juice
@@ -1114,73 +1130,73 @@ Chopped fresh cilantro
 Heat olive oil in heavy large Dutch oven over medium-high heat. Add turkey sausage and chopped garlic and sauté until sausage is golden brown and cooked through, breaking up sausage with back of fork, about 5 minutes. Reduce heat to medium. Add tomatoes with their juices, sliced jalapeño chili, ground cumin and chopped fresh rosemary and simmer 10 minutes, stirring frequently. Add garbanzo beans with their liquid and chicken broth and bring to boil. Reduce heat and simmer soup 15 minutes. Stir in fresh lemon juice. Season soup to taste with salt and pepper. (Can be prepared 1 day ahead. Cover and refrigerate. Rewarm over medium heat before continuing.)
 Ladle soup into bowls. Sprinkle soup with chopped fresh cilantro and top with sliced avocado. Serve immediately.
  
-Creamy Southwestern Potato Salad 
+Creamy Southwestern Potato Salad
+================================
+
 Bon Appétit | July 2005
 
-A bold medley of cumin, cayenne, corn, and cilantro ups the flavor here. Great with: 
+A bold medley of cumin, cayenne, corn, and cilantro ups the flavor here. Great with:
 Grilled-fish tacos, steak fajitas, or chipotle-rubbed chicken.
 Yield: Makes 6 to 8 servings
 
- 
-1/2 cup buttermilk
-1/4 cup mayonnaise
+½ cup buttermilk
+¼ cup mayonnaise
 1 tablespoon fresh lime juice
-1 1/2 teaspoons ground cumin
-1/4 teaspoon cayenne pepper
+1 ½ teaspoons ground cumin
+¼ teaspoon cayenne pepper
 
 2 pounds small white-skinned potatoes (such as White Rose)
 
 1 cup cooked corn kernels (from 1 medium ear)
-1/2 cup chopped sweet onion (such as Vidalia or Maui)
+½ cup chopped sweet onion (such as Vidalia or Maui)
 1 14-ounce can hearts of palm, drained, each cut crosswise into ⅓-inch-thick rounds
-2 plum tomatoes, seeded, diced (about 1 1/4 cups)
-1/2 cup chopped fresh cilantro
+2 plum tomatoes, seeded, diced (about 1 ¼ cups)
+½ cup chopped fresh cilantro
 1 avocado, pitted, peeled, chopped
 
- 
 Whisk buttermilk, mayonnaise, lime juice, cumin, and cayenne in medium bowl to blend.
 Cook potatoes in large pot of boiling salted water until tender, about 20 minutes. Drain; cool.
-Cut potatoes into 1/2-inch cubes. Place potatoes in large bowl; add corn, onion, hearts of palm, 
-tomatoes, and cilantro. Drizzle dressing over potato mixture; toss to coat. Season generously 
+Cut potatoes into ½-inch cubes. Place potatoes in large bowl; add corn, onion, hearts of palm,
+tomatoes, and cilantro. Drizzle dressing over potato mixture; toss to coat. Season generously
 with salt. (Can be made 4 hours ahead. Cover and refrigerate.) Gently stir in avocado and serve.
 
 Test-kitchen tip: Pitting an avocado
-Cut an unpeeled avocado in half lengthwise. Grasp both sides and twist to open. Tap a large 
+Cut an unpeeled avocado in half lengthwise. Grasp both sides and twist to open. Tap a large
 knife into the pit so it sticks, then twist the knife to loosen and remove the pit.
 
  
-Sweet-Potato Salad with Spicy Peanut Dressing 
+Sweet-Potato Salad with Spicy Peanut Dressing
 Bon Appétit | July 2005
 
 Great with: Grilled hoisin-glazed ribs, pork chops, or chicken satay.
 Yield: Makes 6 to 8 servings
- 
-1/4 cup rice vinegar
-1/4 cup soy sauce
+
+¼ cup rice vinegar
+¼ cup soy sauce
 3 tablespoons mayonnaise
 4 teaspoons minced peeled fresh ginger
 4 teaspoons toasted sesame oil (such as Asian)
 4 garlic cloves, minced
 1 tablespoon peanut butter
 2 teaspoons chili-garlic sauce
-1 1/2 teaspoons golden brown sugar
+1 ½ teaspoons golden brown sugar
 
-2 pounds red-skinned sweet potatoes (yams), peeled, cut into 1/2-inch cubes
+2 pounds red-skinned sweet potatoes (yams), peeled, cut into ½-inch cubes
 
-1 1/2 cups sugar snap peas, cut crosswise into 1/2-inch pieces
+1 ½ cups sugar snap peas, cut crosswise into ½-inch pieces
 1 cup thinly sliced green onions
 ⅓ cup coarsely chopped dry-roasted peanuts
 
- 
+
 Whisk first 9 ingredients in medium bowl to blend.
-Add enough water to large saucepan to reach depth of 1/2 inch. Bring to boil; add sweet 
+Add enough water to large saucepan to reach depth of ½ inch. Bring to boil; add sweet
 potatoes and cook until just tender, about 5 minutes. Drain; cool.
-Mix sweet potatoes, dressing, peas, and green onions in large bowl. Season salad 
-with salt and pepper. (Can be made 4 hours ahead. Cover and refrigerate.) 
+Mix sweet potatoes, dressing, peas, and green onions in large bowl. Season salad
+with salt and pepper. (Can be made 4 hours ahead. Cover and refrigerate.)
 Sprinkle salad with peanuts and serve.
 
  
-Mexican Black Beans 
+Mexican Black Beans
 Bon Appétit
 Serve as a side dish with enchiladas. The beans can be topped with grated Monterey Jack cheese, then covered to melt.
 Yield: Serves 6
@@ -1188,9 +1204,9 @@ Yield: Serves 6
 1 tablespoon olive oil
 4 garlic cloves, finely chopped
 1 large jalapeño chili, seeded, chopped
-1/2 teaspoon (generous) ground cumin
+½ teaspoon (generous) ground cumin
 2 15-ounce cans black beans, rinsed, drained
-1 14 1/2-ounce can low-salt chicken broth
+1 14 ½-ounce can low-salt chicken broth
 Fresh lime juice
 Chopped fresh cilantro
 
@@ -1198,128 +1214,149 @@ Heat oil in heavy large saucepan over medium-high heat. Add garlic, chili and cu
 
 
  
-Wheat Berry and Barley Salad with Smoked Mozzarella 
+Wheat Berry and Barley Salad with Smoked Mozzarella
+===================================================
+
 Gourmet | July 1994
 
-"Berries" are whole grains that have been minimally processed: They have been hulled 
+"Berries" are whole grains that have been minimally processed: They have been hulled
 but still have the bran and germ intact.
 Yield: Serves 6 as a main course or 8 to 10 as a side dish
 
- 
+
 1 cup wheat berries
 1 cup pearl barley
 1 small red onion, chopped fine
-2 garlic cloves, minced and mashed to a paste with 1/2 teaspoon salt
-1/4 cup balsamic vinegar
-1/4 cup olive oil (preferably extra-virgin)
+2 garlic cloves, minced and mashed to a paste with ½ teaspoon salt
+¼ cup balsamic vinegar
+¼ cup olive oil (preferably extra-virgin)
 6 scallions, chopped fine
-1 1/2 cups cooked corn (cut from about 2 large ears) (I use frozen corn)
-1/2 pound smoked mozzarella cheese, diced fine
+1 ½ cups cooked corn (cut from about 2 large ears) (I use frozen corn)
+½ pound smoked mozzarella cheese, diced fine
 1 pint vine-ripened cherry tomatoes, halved
-1/2 cup chopped fresh chives
+½ cup chopped fresh chives
 
- 
-Into a kettle of salted boiling water stir wheat berries and cook at a slow boil 30 minutes. 
-Stir in barley and cook grains at a slow boil 40 minutes
-While grains are cooking, in a large bowl stir together onion, garlic paste, vinegar, and oil.
-Drain grains well and add to onion mixture. Toss mixture well and cool. Add scallions, corn, 
-mozzarella, tomatoes, chives, and salt and pepper to taste and toss well. 
-Salad may be made 1 day ahead and chilled, covered. 
-Bring salad to room temperature before serving.
+
+Into a kettle of salted boiling water stir wheat berries and cook at a slow
+boil 30 minutes.  Stir in barley and cook grains at a slow boil 40 minutes
+While grains are cooking, in a large bowl stir together onion, garlic paste,
+vinegar, and oil.  Drain grains well and add to onion mixture. Toss mixture
+well and cool. Add scallions, corn, mozzarella, tomatoes, chives, and salt and
+pepper to taste and toss well.
+
+Salad may be made 1 day ahead and chilled, covered.  Bring salad to room
+temperature before serving.
 
  
-Kohlrabi and Apple Salad with Creamy Mustard Dressing 
+Kohlrabi and Apple Salad with Creamy Mustard Dressing
+=====================================================
 Gourmet | October 1992
 
 Can be prepared in 45 minutes or less.
 Yield: Serves 8
 
- 
-1/2 cup heavy cream
+½ cup heavy cream
 2 tablespoons fresh lemon juice
 1 tablespoon coarse-grained mustard
 3 tablespoons finely chopped fresh parsley leaves
-1/2 teaspoon sugar
-2 bunches kohlrabi (about 2 pounds), bulbs peeled and cut into julienne strips, 
+½ teaspoon sugar
+2 bunches kohlrabi (about 2 pounds), bulbs peeled and cut into julienne strips,
 stems discarded, and the leaves reserved for another use
 1 Granny Smith apple
 
- 
-In a bowl whisk the cream until it holds soft peaks and whisk in the lemon juice, 
-the mustard, the parsley, the sugar, and salt and pepper to taste.  Stir in the kohlrabi 
-strips and the apple, peeled, cored, and diced, and combine the salad well.
+In a bowl whisk the cream until it holds soft peaks and whisk in the lemon
+juice, the mustard, the parsley, the sugar, and salt and pepper to taste.
+Stir in the kohlrabi strips and the apple, peeled, cored, and diced, and
+combine the salad well.
  
-Grilled Chicken Moroccan Style 
+Grilled Chicken Moroccan Style
+==============================
+
 Bon Appétit | June 2003
 
-Start marinating the chicken four to six hours ahead. Pour frosty Pilsners or a 
-chilled Chenin Blanc.
+Start marinating the chicken four to six hours ahead. Pour frosty Pilsners or
+a chilled Chenin Blanc.
+
 Yield: Makes 6 servings
 
- 
 1 cup olive oil
-1/4 cup red wine vinegar
+¼ cup red wine vinegar
 3 tablespoons ground cumin
-1 1/2 tablespoons ground coriander
+1 ½ tablespoons ground coriander
 2 teaspoons ground cinnamon
 2 teaspoons salt
 2 teaspoons sugar
-1/4 teaspoon cayenne pepper
+¼ teaspoon cayenne pepper
 4 large chicken breast halves with skin and ribs, cut crosswise in half
 4 chicken legs
 4 chicken thighs
 
-1/4 cup minced fresh parsley
+¼ cup minced fresh parsley
 
- 
-Whisk first 8 ingredients in large glass baking dish. Add all chicken; turn to coat. 
-Cover with plastic wrap; chill 4 to 6 hours.
-Prepare barbecue (medium heat). Place marinade-coated chicken on barbecue. 
-Grill chicken until just cooked through, occasionally brushing with any remaining 
-marinade, about 10 minutes per side for breasts and about 12 minutes per side for 
-leg and thigh pieces. Transfer chicken to platter. Sprinkle with parsley.
- 
-Beet and Carrot Pancakes 
+Whisk first 8 ingredients in large glass baking dish. Add all chicken; turn to
+coat.  Cover with plastic wrap; chill 4 to 6 hours.
+
+Prepare barbecue (medium heat). Place marinade-coated chicken on barbecue.
+Grill chicken until just cooked through, occasionally brushing with any
+remaining marinade, about 10 minutes per side for breasts and about 12 minutes
+per side for leg and thigh pieces. Transfer chicken to platter. Sprinkle with
+parsley.  Drink pilsner.
+
+
+Beet and Carrot Pancakes
+========================
+
 Bon Appétit | March 1998
 An interesting side dish or meatless entrée.
 Yield: Makes 8 servings
 
-1 ⅓ cups (packed) coarsely shredded peeled beets (from 2 medium)
-1 cup coarsely shredded peeled carrots (from 2 medium)
-1 cup thinly sliced onion
-1 large egg
-1/2 teaspoon salt
-1/4 teaspoon pepper
-1/4 cup all purpose flour
+::
 
-3 tablespoons olive oil
+    1⅓ cups (packed) coarsely shredded peeled beets (from 2 medium)
+    1 cup coarsely shredded peeled carrots (from 2 medium)
+    1 cup thinly sliced onion
+    1 large egg
+    ½ teaspoon salt
+    ¼ teaspoon pepper
+    ¼ cup all purpose flour
 
-Low-fat sour cream
+    3 tablespoons olive oil
+    Low-fat sour cream
 
-Preheat oven to 300°F. Place baking sheet in oven. Combine beets, carrots and onion in large bowl. Mix in egg, salt and pepper. Add flour; stir to blend well.
-Heat 1 1/2 tablespoons oil in heavy large skillet over medium heat. Using ⅓ cup beet mixture for each pancake, drop 4 pancakes into skillet. Flatten each into 3-inch round. Cook until brown and cooked through, about 4 minutes per side. Transfer pancakes to baking sheet in oven; keep warm. Repeat with remaining beet mixture, making 4 more pancakes.
+Preheat oven to 300°F. Place baking sheet in oven. Combine beets, carrots and
+onion in large bowl. Mix in egg, salt and pepper. Add flour; stir to blend
+well.
+
+Heat 1½ tablespoons oil in heavy large skillet over medium heat. Using ⅓ cup
+beet mixture for each pancake, drop 4 pancakes into skillet. Flatten each into
+3-inch round. Cook until brown and cooked through, about 4 minutes per side.
+Transfer pancakes to baking sheet in oven; keep warm. Repeat with remaining
+beet mixture, making 4 more pancakes.
+
 Serve pancakes with sour cream.
 
  
-Noodle Salad with Spicy Peanut Butter Dressing 
+Noodle Salad with Spicy Peanut Butter Dressing
+==============================================
+
 Bon Appétit | February 2004
 by Juli Tsuchiya-Waldron, Tokyo, Japan
 Yield: Makes 6 side-dish servings
 
 6 tablespoons creamy peanut butter (do not use old-fashioned style or freshly ground)
-1/4 cup low-salt chicken broth
+¼ cup low-salt chicken broth
 3 tablespoons rice vinegar
 3 tablespoons soy sauce
-1 1/2 tablespoons sugar
+1 ½ tablespoons sugar
 1 tablespoon oriental sesame oil
 1 tablespoon minced peeled fresh ginger
-1/2 teaspoon cayenne pepper
+½ teaspoon cayenne pepper
 8 ounces linguine
 1 large orange bell pepper, cut into matchstick-size strips
-1/2 cup chopped green onions
+½ cup chopped green onions
 5 large lettuce leaves
-1/4 cup chopped fresh cilantro
-1/4 cup chopped salted peanuts
+¼ cup chopped fresh cilantro
+¼ cup chopped salted peanuts
 
 Combine first 8 ingredients in small bowl; whisk to blend. Set dressing aside.
 Cook pasta in large pot of boiling salted water until just tender but still firm to bite, stirring occasionally. Drain pasta; rinse with cold water and drain again. Transfer pasta to medium bowl. Add bell pepper and green onions. Pour dressing over; toss to coat. Season salad with salt and pepper. Line serving bowl with lettuce leaves. Transfer salad to prepared bowl. Sprinkle with cilantro and peanuts.
@@ -1330,110 +1367,160 @@ Bon Appétit | March 1997
 Yield: Makes 27 cookies (we make them smaller)
 Susan's favorite
 
-1 1/2 cups unbleached all purpose flour
+1 ½ cups unbleached all purpose flour
 ⅓ cup old-fashioned oats
 1 teaspoon baking soda
-1/4 teaspoon salt
+¼ teaspoon salt
 1 cup old-fashioned chunky peanut butter (about 9 ounces)
 1 cup (packed) golden brown sugar
-1/2 cup (1 stick) unsalted butter, room temperature
-1/4 cup honey
+½ cup (1 stick) unsalted butter, room temperature
+¼ cup honey
 1 large egg
 1 teaspoon vanilla extract
 5 ounces semisweet chocolate, coarsely chopped
 
 Mix flour, oats, baking soda and salt in medium bowl. Using electric mixer, beat peanut butter, brown sugar, butter, honey, egg and vanilla in large bowl until well blended. Stir dry ingredients into peanut butter mixture in 2 additions. Stir in chopped chocolate. Cover and refrigerate until dough is firm and no longer sticky, about 30 minutes.
-Preheat oven to 350°F. Butter 2 heavy large baking sheets. With hands, roll 1 heaping tablespoonful of dough for each cookie into 1 3/4-inch-diameter ball. Arrange cookies on prepared baking sheets, spacing 2 1/2 inches apart. Bake cookies until puffed, beginning to brown on top and still very soft to touch, about 12 minutes. Cool cookies on baking sheets 5 minutes. Using metal spatula, transfer cookies to rack and cool completely. (Can be made 2 days ahead. Store in airtight container at room temperature.)
+Preheat oven to 350°F. Butter 2 heavy large baking sheets. With hands, roll 1 heaping tablespoonful of dough for each cookie into 1 ¾-inch-diameter ball. Arrange cookies on prepared baking sheets, spacing 2 ½ inches apart. Bake cookies until puffed, beginning to brown on top and still very soft to touch, about 12 minutes. Cool cookies on baking sheets 5 minutes. Using metal spatula, transfer cookies to rack and cool completely. (Can be made 2 days ahead. Store in airtight container at room temperature.)
 
  
-Szechuan Noodles with Peanut Sauce 
+Szechuan Noodles with Peanut Sauce
+==================================
+
 Bon Appétit | August 1999
 Zygot Bookworks & Cafe
 Yield: Serves 6 as a main-course
 
-1/2 cup (or more) canned vegetable broth
-1 cup super-chunky peanut butter
-1/4 cup soy sauce
-2 tablespoons balsamic vinegar
-1 1/2 tablespoons chili-garlic sauce*
-5 garlic cloves, minced
+::
 
-12 ounces dried chow mein udon (Asian-style noodles)*
-1 tablespoon canola oil
+    ½ cup (or more) canned vegetable broth
+    1 cup super-chunky peanut butter
+    ¼ cup soy sauce
+    2 tablespoons balsamic vinegar
+    1 ½ tablespoons chili-garlic sauce*
+    5 garlic cloves, minced
 
-8 large bok choy leaves
-2 red bell peppers, halved lengthwise
-2 large carrots, peeled
-1 bunch green onions
+    12 ounces dried chow mein udon (Asian-style noodles)*
+    1 tablespoon canola oil
 
-2 cups shredded Napa cabbage
-2 tablespoons toasted sesame seeds
+    8 large bok choy leaves
+    2 red bell peppers, halved lengthwise
+    2 large carrots, peeled
+    1 bunch green onions
 
-*Available at Asian markets and in the Asian foods section of many supermarkets.
+    2 cups shredded Napa cabbage
+    2 tablespoons toasted sesame seeds
 
-Mix 1/2 cup vegetable broth, peanut butter, soy sauce, balsamic vinegar, chili-garlic sauce and minced garlic in medium bowl to blend well (sauce will be thick). Cook noodles in large pot of boiling salted water until just tender but still firm to bite, about 6 minutes. Drain. Rinse noodles under cold water and cool. Cut noodles into 4- to 5-inch lengths. Transfer noodles to very large bowl. Toss with oil to coat.
-Cut bok choy, peppers, carrots and onions into matchstick-size strips. (Sauce, noodles and vegetables can be prepared 4 hours ahead. Cover separately; chill. Bring sauce to room temperature before continuing, thinning with additional broth if necessary.)
-Add shredded cabbage and vegetable strips to noodles. Toss with enough peanut sauce to coat. Sprinkle with sesame seeds.
+\*Available at Asian markets and in the Asian foods section of many supermarkets.
+
+Mix ½ cup vegetable broth, peanut butter, soy sauce, balsamic vinegar,
+chili-garlic sauce and minced garlic in medium bowl to blend well (sauce will
+be thick). Cook noodles in large pot of boiling salted water until just tender
+but still firm to bite, about 6 minutes. Drain. Rinse noodles under cold water
+and cool. Cut noodles into 4- to 5-inch lengths. Transfer noodles to very
+large bowl. Toss with oil to coat.
+
+Cut bok choy, peppers, carrots and onions into matchstick-size strips. (Sauce,
+noodles and vegetables can be prepared 4 hours ahead. Cover separately; chill.
+Bring sauce to room temperature before continuing, thinning with additional
+broth if necessary.)
+
+Add shredded cabbage and vegetable strips to noodles. Toss with enough peanut
+sauce to coat. Sprinkle with sesame seeds.
 
 
  
-Raspberry Corn Muffins 
+Raspberry Corn Muffins
+======================
+
 Gourmet | May 1993
 Can be prepared in 45 minutes or less.
 Yield: Makes 12 muffins
 
-1 cup yellow cornmeal
-1 cup all-purpose flour
-1/2 cup sugar
-1 teaspoon double-acting baking powder
-1 teaspoon baking soda
-1/4 teaspoon salt
-2 large eggs
-1 1/4 cups plain yogurt
-1/2 stick (1/4 cup) unsalted butter, melted and cooled
-1 cup fresh raspberries
+::
 
-Preheat the oven to 375°F. and butter well twelve 1/2-cup muffin tins. In a bowl whisk together the cornmeal, the flour, the sugar, the baking powder, the baking soda, and the salt. In another bowl whisk together the eggs, the yogurt, and the butter, add the flour mixture, and stir the batter until it is just combined. Fold in the raspberries gently, divide the batter among the muffin tins, and bake the muffins in the middle of the oven for 20 minutes, or until a tester comes out clean. Let the muffins cool in the tins on a rack for 3 minutes, turn them out onto the rack, and let them cool completely. The muffins may be made 1 day in advance and kept in an airtight container.
+    1 cup yellow cornmeal
+    1 cup all-purpose flour
+    ½ cup sugar
+    1 teaspoon double-acting baking powder
+    1 teaspoon baking soda
+    ¼ teaspoon salt
+    2 large eggs
+    1 ¼ cups plain yogurt
+    ½ stick (¼ cup) unsalted butter, melted and cooled
+    1 cup fresh raspberries
+
+Preheat the oven to 375°F. and butter well twelve ½-cup muffin tins. In a
+bowl whisk together the cornmeal, the flour, the sugar, the baking powder, the
+baking soda, and the salt. In another bowl whisk together the eggs, the
+yogurt, and the butter, add the flour mixture, and stir the batter until it is
+just combined.
+
+Fold in the raspberries gently, divide the batter among the muffin tins, and
+bake the muffins in the middle of the oven for 20 minutes, or until a tester
+comes out clean. Let the muffins cool in the tins on a rack for 3 minutes,
+turn them out onto the rack, and let them cool completely. The muffins may be
+made 1 day in advance and kept in an airtight container.
 
  
-Smoky Chipotle Hummus with Garlic Bagel Chips 
+Smoky Chipotle Hummus with Garlic Bagel Chips
+=============================================
+
 Bon Appétit | October 2001
 
-If you don't have time to make your own hummus, buy some at the market or specialty foods store, and mix in chipotle chilies and cumin to taste.
+If you don't have time to make your own hummus, buy some at the market or
+specialty foods store, and mix in chipotle chilies and cumin to taste.
+
 Yield: Makes 20 servings
 
-2 15-ounce cans garbanzo beans (chickpeas), drained
-1/2 cup water
-1/4 cup plus 2 tablespoons tahini (sesame seed paste)*
-3 tablespoons plus 2 teaspoons fresh lemon juice
-2 tablespoons olive oil
-2 1/2 teaspoons minced canned chipotle chilies**
-1 large garlic clove, minced
-1 1/2 teaspoons ground cumin
-1 4-ounce jar sliced pimientos in oil, drained
-⅓ cup chopped fresh cilantro
-2 6-ounce packages roasted-garlic bagel chips
+::
 
-Reserve 3 tablespoons garbanzo beans for garnish. Blend remaining garbanzo beans and next 7 ingredients in processor until smooth. Add pimientos; process, using on/off turns, until pimientos are coarsely chopped. Transfer hummus to medium bowl. Stir in cilantro. Season hummus to taste with salt and pepper. Sprinkle with reserved garbanzo beans. (Can be made 1 day ahead. Cover and chill. Bring to room temperature before serving.) Accompany with bagel chips.
-*Sold at Middle Eastern markets, natural foods stores and some supermarkets. **Chipotle chilies canned in a spicy tomato sauce, sometimes called adobo, are available at Latin American markets, specialty foods stores and some supermarkets.
+    2 15-ounce cans garbanzo beans (chickpeas), drained
+    ½ cup water
+    ¼ cup plus 2 tablespoons tahini (sesame seed paste)*
+    3 tablespoons plus 2 teaspoons fresh lemon juice
+    2 tablespoons olive oil
+    2 ½ teaspoons minced canned chipotle chilies**
+    1 large garlic clove, minced
+    1 ½ teaspoons ground cumin
+    1 4-ounce jar sliced pimientos in oil, drained
+    ⅓ cup chopped fresh cilantro
+    2 6-ounce packages roasted-garlic bagel chips
+    
+Reserve 3 tablespoons garbanzo beans for garnish. Blend remaining garbanzo
+beans and next 7 ingredients in processor until smooth. Add pimientos;
+process, using on/off turns, until pimientos are coarsely chopped. Transfer
+hummus to medium bowl. Stir in cilantro. Season hummus to taste with salt and
+pepper. Sprinkle with reserved garbanzo beans. (Can be made 1 day ahead. Cover
+and chill. Bring to room temperature before serving.) Accompany with bagel
+chips.
+
+\*Sold at Middle Eastern markets, natural foods stores and some supermarkets.
+\**Chipotle chilies canned in a spicy tomato sauce, sometimes called adobo,
+are available at Latin American markets, specialty foods stores and some
+supermarkets.
 
  
-Hot Fudge Sauce 
+
+Hot Fudge Sauce
+===============
+
 Gourmet | February 2004
 Yield: Makes about 2 cups
 Active Time: 10 min
 Total Time: 30 min
 
-⅔ cup heavy cream
-1/2 cup light corn syrup
-⅓ cup packed dark brown sugar
-1/4 cup unsweetened Dutch-process cocoa powder
-1/4 teaspoon salt
-6 oz fine-quality bittersweet chocolate (not unsweetened), finely chopped
-2 tablespoons unsalted butter
-1 teaspoon vanilla
+::
 
-Bring cream, corn syrup, sugar, cocoa, salt, and half of chocolate to a boil in a 1 to 1 1/2-quart heavy saucepan over moderate heat, stirring, until chocolate is melted. Reduce heat and cook at a low boil, stirring occasionally, 5 minutes, then remove from heat. Add butter, vanilla, and remaining chocolate and stir until smooth. Cool sauce to warm before serving.
+    ⅔ cup heavy cream
+    ½ cup light corn syrup
+    ⅓ cup packed dark brown sugar
+    ¼ cup unsweetened Dutch-process cocoa powder
+    ¼ teaspoon salt
+    6 oz fine-quality bittersweet chocolate (not unsweetened), finely chopped
+    2 tablespoons unsalted butter
+    1 teaspoon vanilla
+
+Bring cream, corn syrup, sugar, cocoa, salt, and half of chocolate to a boil in a 1 to 1 ½-quart heavy saucepan over moderate heat, stirring, until chocolate is melted. Reduce heat and cook at a low boil, stirring occasionally, 5 minutes, then remove from heat. Add butter, vanilla, and remaining chocolate and stir until smooth. Cool sauce to warm before serving.
 
 Notes:
 Sauce can be made ahead and cooled completely, then chilled in an airtight container or jar. Reheat before using.
@@ -1446,11 +1533,11 @@ Bon Appétit | July 2003
 by Cheryl and Bill Jamison
 Yield: Makes 6 servings
 
-3/4 cup lightly packed fresh sage leaves (from 2 large bunches)
-3/4 cup pine nuts (about 4 ounces)
-1/4 cup (packed) fresh Italian parsley leaves
+¾ cup lightly packed fresh sage leaves (from 2 large bunches)
+¾ cup pine nuts (about 4 ounces)
+¼ cup (packed) fresh Italian parsley leaves
 1 garlic clove
-3/4 cup plus 3 tablespoons olive oil
+¾ cup plus 3 tablespoons olive oil
 6 tablespoons freshly grated Parmesan cheese
 
 6 skinless boneless chicken breast halves
@@ -1460,9 +1547,9 @@ Yield: Makes 6 servings
 Mayonnaise
 3 medium Fuji apples, halved, cored, thinly sliced
 
-Using on/off turns, blend sage leaves, pine nuts, parsley, and garlic in processor until mixture is finely chopped. With machine running, add 3/4 cup oil and blend until thick paste forms. Mix in cheese. Transfer to small bowl; season with salt and pepper. (Can be made 1 day ahead. Press plastic wrap onto surface of pesto and refrigerate. Bring to room temperature before using.)
+Using on/off turns, blend sage leaves, pine nuts, parsley, and garlic in processor until mixture is finely chopped. With machine running, add ¾ cup oil and blend until thick paste forms. Mix in cheese. Transfer to small bowl; season with salt and pepper. (Can be made 1 day ahead. Press plastic wrap onto surface of pesto and refrigerate. Bring to room temperature before using.)
 
-Place each chicken breast between sheets of waxed paper. Using rolling pin or meat mallet, pound each to 1/2-inch thickness. Brush chicken with 3 tablespoons oil; sprinkle with salt and pepper. Let chicken stand 30 minutes.
+Place each chicken breast between sheets of waxed paper. Using rolling pin or meat mallet, pound each to ½-inch thickness. Brush chicken with 3 tablespoons oil; sprinkle with salt and pepper. Let chicken stand 30 minutes.
 
 Prepare barbecue (medium heat). Grill chicken until firm to touch and cooked through, about 5 minutes per side. Transfer chicken to platter. Grill focaccia until just beginning to brown, about 1 minute per side.
 
@@ -1475,18 +1562,18 @@ Bon Appétit | April 1991
 by Margot Andrew: Los Angeles, California
 Yield: Serves 4 to 6
 
-1/2 cup dried currants or raisins
-1/4 cup dry Sherry
+½ cup dried currants or raisins
+¼ cup dry Sherry
 
 Butter
 3 tablespoons butter
 2 tablespoons finely chopped onion
 3 tablespoons all purpose flour
-1 1/2 teaspoons curry powder
+1 ½ teaspoons curry powder
 1 cup milk
 1 medium apple, peeled, diced
 6 boneless chicken breast halves, skinned, patted dry
-1/4 cup slivered almonds, toasted
+¼ cup slivered almonds, toasted
 
 Place currants in small bowl. Add Sherry and let soak 2 hours.
 
@@ -1499,13 +1586,13 @@ Bon Appétit | May 1996
 by Patricia Murray: County Kerry, Ireland
 Yield: Serves 6
 
-2 tablespoons (1/4 stick) butter
+2 tablespoons (¼ stick) butter
 1 large onion, chopped
 1 cup chopped celery
 1 cup chopped peeled carrots
-1 1/2 pounds smoked pork hocks
+1 ½ pounds smoked pork hocks
 2 teaspoons dried leaf marjoram
-1 1/2 cups green split peas
+1 ½ cups green split peas
 8 cups water
 
 Melt butter in heavy large pot or Dutch oven over medium-high heat. Add onion, celery and carrots. Sauté until vegetables begin to soften, about 8 minutes. Add pork and marjoram; stir 1 minute. Add peas, then water, and bring to boil. Reduce heat to medium-low. Partially cover pot; simmer soup until pork and vegetables are tender peas are falling apart, stirring often, about 1 hour and 10 minutes.
@@ -1519,10 +1606,10 @@ Yield: Makes 2 servings (can be doubled)
 1 tablespoon olive oil
 6 ounces kielbasa or linguiça sausage, cut into thin rounds
 1 medium onion, chopped
-2 3/4 cups canned low-salt chicken broth
-1/2 large bunch kale, stems cut away, leaves thinly sliced
+2 ¾ cups canned low-salt chicken broth
+½ large bunch kale, stems cut away, leaves thinly sliced
 1 15-ounce can small white beans, drained
-3/4 cup dry white wine
+¾ cup dry white wine
 
 Heat oil in heavy large saucepan over medium heat. Add sausage and onion; Sauté until onion is tender, about 6 minutes. Add broth and kale; bring to boil. Reduce heat to medium-low; simmer uncovered 10 minutes. Add beans and wine. Cook until kale is tender, about 10 minutes. Season with salt and pepper.
 
@@ -1536,26 +1623,26 @@ Yield: Makes 8 servings
 1 large head of cauliflower, cored, cut into 1-inch florets
 2 large heirloom tomatoes
 5 tablespoons butter, divided
-1/2 cup thinly sliced green onions
+½ cup thinly sliced green onions
 Coarse kosher salt
 2 tablespoons all purpose flour
 1 cup heavy whipping cream
 3 cups coarsely grated Comté cheese (or half Gruyère and half Fontina; about 9 ounces), divided
-3/4 cup Parmigiano-Reggiano, finely grated Parmesan cheese, divided
+¾ cup Parmigiano-Reggiano, finely grated Parmesan cheese, divided
 1 cup sour cream
 1 tablespoon whole grain Dijon mustard
-10 ounces penne (3 1/2 cups)
+10 ounces penne (3 ½ cups)
 1 cup Panko crumbs
 
 Cook cauliflower in large pot of boiling salted water until crisp-tender, about 5 minutes. Using large sieve, transfer cauliflower to bowl. Add tomatoes to pot; cook 1 minute. Remove from water; peel and dice tomatoes. Reserve pot of water.
 
 Melt 2 tablespoons butter in large skillet over medium-high heat. Add cauliflower; sauté until beginning to brown, about 5 minutes. Add tomatoes and green onions. Cook 1 minute to blend flavors. Remove from heat. Season with coarse salt and pepper.
 
-Melt 2 tablespoons butter in large saucepan over medium-low heat. Add flour and stir 2 minutes. Gradually whisk in cream. Cook until sauce thickens, whisking occasionally, about 4 minutes. Add 2 cups Comté cheese; whisk until melted and sauce is smooth. Whisk in 1/2 cup Parmesan, then crème fraîche and mustard. Season with salt and pepper. Remove from heat.
+Melt 2 tablespoons butter in large saucepan over medium-low heat. Add flour and stir 2 minutes. Gradually whisk in cream. Cook until sauce thickens, whisking occasionally, about 4 minutes. Add 2 cups Comté cheese; whisk until melted and sauce is smooth. Whisk in ½ cup Parmesan, then crème fraîche and mustard. Season with salt and pepper. Remove from heat.
 
 Return reserved pot of water to boil. Add pasta and cook until tender but still firm to bite, stirring occasionally. Drain; return pasta to same pot. Stir in cauliflower mixture and sauce.
 
-Butter 13x9x2-inch glass baking dish or individual sized ramekins. Spoon in half of pasta mixture; sprinkle with 1/2 cup Comté cheese. Top with remaining pasta mixture and 1/2 cup Comté cheese. Melt remaining 1 tablespoon butter in small skillet. Add breadcrumbs and toss to coat. Remove from heat; mix in 1/4 cup Parmesan. Sprinkle crumbs over pasta. DO AHEAD: Can be made 2 hours ahead. Let stand at room temperature.
+Butter 13x9x2-inch glass baking dish or individual sized ramekins. Spoon in half of pasta mixture; sprinkle with ½ cup Comté cheese. Top with remaining pasta mixture and ½ cup Comté cheese. Melt remaining 1 tablespoon butter in small skillet. Add breadcrumbs and toss to coat. Remove from heat; mix in ¼ cup Parmesan. Sprinkle crumbs over pasta. DO AHEAD: Can be made 2 hours ahead. Let stand at room temperature.
 Preheat oven to 350°F. Bake pasta uncovered until heated through and bubbling, about 35 minutes.  
 Fragrant Beef Curry with Rice 
 Bon Appétit November 2000
@@ -1570,19 +1657,19 @@ Yield: Makes 6 servings
 2 large garlic cloves, chopped
 2 cinnamon sticks
 1 bay leaf
-1/4 teaspoon dried crushed red pepper
-1 1/2 cups whole milk
+¼ teaspoon dried crushed red pepper
+1 ½ cups whole milk
 3 large tomatoes, quartered
 3 tablespoons Major Grey chutney
 3 tablespoons fresh lemon juice
 2 tablespoons minced peeled fresh ginger
-1 1/2 tablespoons curry powder
-1/2 teaspoon salt
+1 ½ tablespoons curry powder
+½ teaspoon salt
 
 Hot cooked rice
 
 Sprinkle beef with salt and pepper. Heat 2 tablespoons oil in heavy large pot over high heat. Working in batches, add beef to pot and brown on all sides, about 7 minutes per batch. Using slotted spoon, transfer to plate.
-Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions; sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves, garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute. Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and 1/2 teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is tender, stirring occasionally, about 2 hours.
+Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions; sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves, garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute. Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and ½ teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is tender, stirring occasionally, about 2 hours.
 Uncover; increase heat to medium. Boil stew until juices are slightly thickened, about 10 minutes. Serve over rice.
  
 Chicken Mole with Chipotles 
@@ -1597,7 +1684,7 @@ Yield: Makes 4 servings
 
 1 tablespoon olive oil
 1 large onion, thinly sliced
-2 14 1/2-ounce cans chili-style chunky tomatoes in juice
+2 14 ½-ounce cans chili-style chunky tomatoes in juice
 1 cup canned low-salt chicken broth
 2 tablespoons minced canned chipotle chilies plus 1 tablespoon adobo sauce
 
@@ -1614,17 +1701,17 @@ Yield: Serves 6
 
 1 tablespoon olive oil
 1 large onion, coarsely chopped
-1/2 cup chopped red bell pepper
+½ cup chopped red bell pepper
 4 garlic cloves, chopped
-6 skinless boneless chicken thighs (about 1 1/4 pounds), cut into 1-inch pieces
+6 skinless boneless chicken thighs (about 1 ¼ pounds), cut into 1-inch pieces
 1 tablespoon curry powder
 1 teaspoon grated peeled fresh ginger
-1/4 teaspoon dried crushed red pepper
+¼ teaspoon dried crushed red pepper
 4 cups (or more) canned chicken broth
 2 cups canned diced peeled tomatoes with juices
 1 large Granny Smith apple, peeled, coarsely chopped
 
-1/2 cup orzo (rice-shaped pasta; also called riso)
+½ cup orzo (rice-shaped pasta; also called riso)
 2 tablespoons dried currants
 Chopped fresh cilantro
 Plain yogurt
@@ -1639,10 +1726,10 @@ Yield: Makes 4 servings
 
 For peperonata:
 3 red bell peppers, cut into strips
-1 1/2 tablespoons extra-virgin olive oil, divided
-1 1/2 tablespoons drained capers
+1 ½ tablespoons extra-virgin olive oil, divided
+1 ½ tablespoons drained capers
 1 teaspoon red-wine vinegar 
-1/8 teaspoon hot red pepper flakes
+⅛ teaspoon hot red pepper flakes
 
 For meatballs:
 3 slices Italian bread, torn into pieces (1 cup)
@@ -1661,11 +1748,11 @@ Accompaniment: garlic bread made from remainder of Italian loaf
 Make peperonata: 
 Preheat oven to 400°F with racks in upper and lower thirds.
 Toss bell peppers with 1 tablespoon oil, then roast in a 4-sided sheet pan in lower third of oven, stirring occasionally, until tender and browned, about 35 minutes.
-Stir together capers, vinegar, red pepper flakes, and remaining 1/2 tablespoon oil in a medium bowl and set aside.
+Stir together capers, vinegar, red pepper flakes, and remaining ½ tablespoon oil in a medium bowl and set aside.
 
 Make meatballs while peppers roast: 
 Soak bread in milk in a small bowl until softened, about 4 minutes.
-Cook pancetta, onion, and garlic in 1 tablespoon oil with 1/2 teaspoon each of salt and pepper in a 10-inch skillet over medium heat until onion is softened, about 6 minutes. Cool slightly.
+Cook pancetta, onion, and garlic in 1 tablespoon oil with ½ teaspoon each of salt and pepper in a 10-inch skillet over medium heat until onion is softened, about 6 minutes. Cool slightly.
 Squeeze bread to remove excess milk, then discard milk. Lightly beat egg in a large bowl, then combine with chicken, pancetta mixture, bread, and parsley. Form 12 meatballs and arrange in another 4-sided sheet pan.
 Stir together tomato paste and remaining tablespoon oil and brush over meatballs, then bake in upper third of oven until meatballs are just cooked through, 15 to 20 minutes.
 
@@ -1684,7 +1771,7 @@ Ingredients
 •  2 celery stalks, chopped
 •  1 large green bell pepper, chopped
 •  1 teaspoon cayenne
-•  1/4 bunch fresh flat-leaf parsley, chopped
+•  ¼ bunch fresh flat-leaf parsley, chopped
 •  2 sprigs fresh thyme
 •  3 bay leaves
 •  4 garlic cloves, chopped
@@ -1695,7 +1782,7 @@ Ingredients
 
 Directions
 Place the dried beans in a large bowl and cover with cold water. Soak the beans overnight in the refrigerator.
-Drain the beans and put them in a large heavy pot with the ham hocks, adding just enough cold water to cover (about 2 quarts). Add the onion, celery, green pepper, cayenne, parsley, thyme, bay leaves, garlic, green onions, and several shakes of red pepper sauce; give everything a good stir to combine. Simmer, uncovered, until the beans are tender and starting to thicken, about 21/2 hours. You want the beans to be almost overcooked, like they are getting ready to burst. Stir the beans occasionally to prevent scorching on the bottom of the pot. Add about 1 cup of water toward the end of cooking if the mixture appears too thick or dry.
+Drain the beans and put them in a large heavy pot with the ham hocks, adding just enough cold water to cover (about 2 quarts). Add the onion, celery, green pepper, cayenne, parsley, thyme, bay leaves, garlic, green onions, and several shakes of red pepper sauce; give everything a good stir to combine. Simmer, uncovered, until the beans are tender and starting to thicken, about 2½ hours. You want the beans to be almost overcooked, like they are getting ready to burst. Stir the beans occasionally to prevent scorching on the bottom of the pot. Add about 1 cup of water toward the end of cooking if the mixture appears too thick or dry.
 Mash about 1 cup of the cooked beans against the side of the pot with a wooden spoon, this makes the broth thick and creamy. Toss in the sausages and cook for another 30 minutes to heat them through. Adjust the seasoning, if needed. Serve the red beans in a wide bowl over some steamed white rice and garnished with chopped green onion. 
 Charred Chili Relleno with Green Rice
 (Recipe courtesy of Rachael Ray & The Foodnetwork.com, 2007)
@@ -1714,98 +1801,118 @@ Ingredients
 •  1 jalapeno, seeded and chopped
 •  4 cloves garlic, chopped
 •  1 (15-ounce) can fire roasted diced tomatoes, drained well
-•  1 1/2 teaspoons ground cumin, 1/2 palm full
-•  1/2 teaspoon dried oregano, eyeball it in your palm
+•  1 ½ teaspoons ground cumin, ½ palm full
+•  ½ teaspoon dried oregano, eyeball it in your palm
 •  Salt and freshly ground black pepper
-•  1/2 cup fresh cilantro leaves
-•  1/2 pound spinach leaves, deveined and coarsely chopped
+•  ½ cup fresh cilantro leaves
+•  ½ pound spinach leaves, deveined and coarsely chopped
 •  4 scallions, coarsely chopped
 •  2 limes, zested, juiced
 •  1 cup shredded Chihuahua cheese, Asadero or Monterey Jack
 
 Directions
 Preheat broiler or grill pan to high. (Don't do this until the rellenos are ready)
-Heat about 3 1/2 cups stock in a sauce pot with a bay leaf to boiling. Add rice, cover pot reduce heat to low and simmer 18 minutes until tender.
+Heat about 3 ½ cups stock in a sauce pot with a bay leaf to boiling. Add rice, cover pot reduce heat to low and simmer 18 minutes until tender.
 Place poblanos under broiler or on hot grill and char evenly all over, 15 minutes.
 While peppers and rice are working, scrape the corn off the cobs or defrost frozen corn and dry by spreading out on clean kitchen towel. Heat 2 tablespoons light oil in a skillet over high heat. When the oil smokes or ripples add corn, onion, jalapenos and toss until the vegetables char at edges and onions are tender, 4 to 5 minutes. Reduce heat to medium-high and add in garlic, fire roasted tomatoes and season with cumin, oregano, salt and pepper. Cook another minute or 2 then turn pan off.
 Place the cilantro, spinach, scallions, lime zest, half a cup of stock and a tablespoon of oil in food processor and process into coarse green paste. Stir into your rice pot in the last 3 to 4 minutes of its cooking time.
 Sprinkle the lime juice over the corn mixture.
-Split the charred peppers open but not in half with small sharp knife then scoop out the seeds with a small spoon. Place peppers in a shallow baking dish and stuff each split pepper with lots of the corn mix, top each pepper with 1/4 cup cheese and place back under broiler to melt and char the cheese.
+Split the charred peppers open but not in half with small sharp knife then scoop out the seeds with a small spoon. Place peppers in a shallow baking dish and stuff each split pepper with lots of the corn mix, top each pepper with ¼ cup cheese and place back under broiler to melt and char the cheese.
 Serve peppers on beds of green rice. Yum-o! 
+
+
+
 Creamy Tomato Soup
+==================
+
 PARADE | August 2000
 
 Yield: Makes 6 to 8 servings
 
- 
-2 tablespoons butter
-2 tablespoons olive oil
-1 large onion, chopped
-1 tablespoon minced garlic
-2 tablespoons flour
-3 1/2 pounds ripe tomatoes, chopped
-2 tablespoons tomato paste
-1 teaspoon sugar
-3 cups chicken broth 
-1/8 teaspoon ground cloves
-Salt and pepper, to taste
+::
 
-1/2 cup half-and-half
+    2 tablespoons butter
+    2 tablespoons olive oil
+    1 large onion, chopped
+    1 tablespoon minced garlic
+    2 tablespoons flour
+    3½ pounds ripe tomatoes, chopped
+    2 tablespoons tomato paste
+    1 teaspoon sugar
+    3 cups chicken broth 
+    ⅛ teaspoon ground cloves
+    Salt and pepper, to taste
+    ½ cup half-and-half
 
- 
 1. Melt the butter with the oil over low heat in a pot.
 2. Add the onion; wilt over low heat for 8 to 10 minutes. Add the garlic during the 
-    last 2 minutes, stirring. Sprinkle with flour and cook 3 minutes longer, stirring.
+   last 2 minutes, stirring. Sprinkle with flour and cook 3 minutes longer, stirring.
 3. Add the tomatoes, tomato paste, sugar, and broth. Bring to a boil, reduce heat 
-    to a simmer and cover; cook over medium-low heat for 30 minutes. 
+   to a simmer and cover; cook over medium-low heat for 30 minutes. 
    Season with cloves, salt, and pepper. Remove from heat and cool slightly.
 4. Purée the soup in a food processor. Pour through a strainer into a pot. Stir in 
-      the half-and-half.
+   the half-and-half.
 5. Warm the soup before serving.
 
 
 
  
 Pearl Barley, Bacon, and Root Vegetable Pilaf
+=============================================
+
 Bon Appétit | January 2006
 
 Yield: Makes 4 servings
 
- 
 Pilaf
-2 cups water
-1/2 teaspoon salt
-1 cup pearl barley, rinsed, drained
+-----
 
-6 ounces bacon, diced 
-1 shallot, minced (onion works just fine)
-1 1/4 cups 1/4- to ⅓-inch cubes peeled root vegetables 
-(such as celery root, carrot, turnip, rutabaga, and/or butternut squash)
+::
 
-Pinch of sugar
-2 teaspoons fresh lemon juice
-1/2 teaspoon chopped fresh thyme
-1/2 teaspoon chopped fresh rosemary
+    2 cups water
+    ½ teaspoon salt
+    1 cup pearl barley, rinsed, drained
+
+    6 ounces bacon, diced 
+    1 shallot, minced (onion works just fine)
+    1¼ cups ¼- to ⅓-inch cubes peeled root vegetables (such as celery root,
+        carrot, turnip, rutabaga, and/or butternut squash)
+
+    Pinch of sugar
+    2 teaspoons fresh lemon juice
+    ½ teaspoon chopped fresh thyme
+    ½ teaspoon chopped fresh rosemary
 
  
 For pilaf:
-Bring 2 cups water and salt to boil in medium saucepan. Mix in barley. Cover pan, reduce heat to medium, and simmer until barley is tender, about 30 minutes. Drain barley.
-Sauté bacon in large pot over medium heat until brown and crisp. Using slotted spoon, transfer bacon to paper towels. Pour off all but 2 tablespoons drippings from pot. Add shallot; stir 30 seconds. Add cubed vegetables and sugar; sauté 6 minutes. Add barley, lemon juice, and herbs; stir 2 minutes. Mix in bacon; season with salt and pepper.  
-Carrot Orzo 
+
+Bring 2 cups water and salt to boil in medium saucepan. Mix in barley. Cover
+pan, reduce heat to medium, and simmer until barley is tender, about 30
+minutes. Drain barley.
+
+Sauté bacon in large pot over medium heat until brown and crisp. Using slotted
+spoon, transfer bacon to paper towels. Pour off all but 2 tablespoons
+drippings from pot. Add shallot; stir 30 seconds. Add cubed vegetables and
+sugar; sauté 6 minutes. Add barley, lemon juice, and herbs; stir 2 minutes.
+Mix in bacon; season with salt and pepper.  
+
+
+Carrot Orzo
+===========
 
 Bon Appétit | March 2007
 Yield: Makes 4 servings
 
-6 ounces peeled baby carrots (about 1 1/4 cups; from 16-ounce package)
-2 tablespoons (1/4 stick) butter
+6 ounces peeled baby carrots (about 1 ¼ cups; from 16-ounce package)
+2 tablespoons (¼ stick) butter
 1 cup orzo (rice-shaped pasta; about 8 ounces)
-1 1/2 cups water
-1 1/4 cups low-salt chicken broth
+1 ½ cups water
+1 ¼ cups low-salt chicken broth
 1 large garlic clove, minced
-1/4 cup grated Parmesan cheese
+¼ cup grated Parmesan cheese
 2 tablespoons chopped green onions
 1 teaspoon minced fresh rosemary
 
-Place carrots in processor. Using on/off turns, finely chop carrots. Melt butter in heavy medium saucepan over medium heat. Add orzo and carrots; sauté until orzo is golden, about 5 minutes. Add 1 1/2 cups water, broth, and garlic; cook uncovered over medium heat until all liquid is absorbed, stirring frequently, about 10 minutes. Stir in cheese, green onions, and rosemary. Season to taste with salt and pepper and serve.
+Place carrots in processor. Using on/off turns, finely chop carrots. Melt butter in heavy medium saucepan over medium heat. Add orzo and carrots; sauté until orzo is golden, about 5 minutes. Add 1 ½ cups water, broth, and garlic; cook uncovered over medium heat until all liquid is absorbed, stirring frequently, about 10 minutes. Stir in cheese, green onions, and rosemary. Season to taste with salt and pepper and serve.
 
 
