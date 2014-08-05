@@ -1,4 +1,4 @@
-Amanda Trammell’s Spinach and Bacon Quiche
+Amanda Trammell's Spinach and Bacon Quiche
 (Recipe courtesy Paula Deen & the foodnetwork.com)
 Prep Time:  15 min
 Inactive Prep Time: 45 min
@@ -24,37 +24,42 @@ Harmony Valley Farms Salsa Verde
 6-8 tomatillos (about 12 oz) 1 clove garlic 1 small onion
 1 jalapeño, as desired A few sprigs of cilantro Salt and ground black pepper, to taste
 -In a small saucepan, bring 4-5 cups water to a boil. Remove husks from tomatillos and rinse fruit. Boil tomatillos for about 5 minutes or just until softened. -In the bowl of a food processor, put tomatillos and the rest of the ingredients. For a medium heat salsa, use about 1⁄2 of the jalapeño with seeds. Adjust the amount of jalapeño to your liking. Blend until the mixture is a coarse puree. -Refrigerate for 1-2 hours to allow flavors to meld. Adjust seasoning and serve with tortilla chips, tacos, enchiladas, etc. -Yields 1 1/2 cups.  
-Susan’s Guacamole
+
+
+Susan's Guacamole
+=================
+
 Serves 6 (unless Uncle John is visiting then serves not so many)
 
-2 medium avocados
-1 small tomato, chopped
-2 tablespoons minced onion
-1 -2 teaspoons lime or lemon juice
-½ teaspoon garlic powder
-½ teaspoon salt
+    2 medium avocados
+    1 small tomato, chopped
+    2 tablespoons minced onion
+    1-2 teaspoons lime or lemon juice
+    ½ teaspoon garlic powder
+    ½ teaspoon salt
 
-Peel avocadoes. Mash with a fork in a medium bowl.  Stir in tomato, onion, lime or lemon juice, garlic powder and salt.  Serve at once. 
+Peel avocadoes. Mash with a fork in a medium bowl.  Stir in tomato, onion,
+lime or lemon juice, garlic powder and salt.  Serve at once. 
 
 Note:  I like using the lemon juice versus the lime. 
 
 
 
 
-Adeline’s Favorite Muffins
+Adeline's Favorite Muffins
+==========================
 
-Makes 12
+Makes 12.  Ingredients:
 
-2 cups whole wheat white flour
-½ teaspoon salt
-¼ teaspoon baking soda
-2/3 c. sugar
-1/3 cup canola oil
-2 large eggs
-¾ cup sour cream
-1 teaspoon vanilla
-¼ cup poppy seed or ¾ cup fresh or frozen blueberries
-
+    2 cups whole wheat white flour
+    ½ teaspoon salt
+    ¼ teaspoon baking soda
+    2/3 c. sugar
+    1/3 cup canola oil
+    2 large eggs
+    ¾ cup sour cream
+    1 teaspoon vanilla
+    ¼ cup poppy seed or ¾ cup fresh or frozen blueberries
 
 1. Heat oven to 400 F.  Line muffins tins with paper muffin cup.
 2. In a large bowl, combine the flour, salt, sugar and baking soda.  If using the poppy seeds, mix them in also.
@@ -62,7 +67,12 @@ Makes 12
 4. With a rubber spatula, fold the oil mixture into the flour mixture just until moistened.  If using blueberries, add now.
 5. Divide the batter among the muffin cups.
 6. Bake the muffins 15-20 minutes or until a cake tester, or toothpick, comes out clean. 
+
+
+
 Margaritas
+==========
+
 Makes about 1 Quart, serves 4-6
 
 4 teaspoons grated zest plus ½ cup juice from 2-3 medium limes
@@ -85,7 +95,9 @@ Fresh Raspberry or Strawberry Margarita
 Follow recipe above except omit zest and steeping process.  Puree 1 cup of raspberries or strawberries with the lemon and lime juices, sugar and salt in a food processor or blender.  Strain juice mixture into a pitcher or cocktail shaker. Continue with recipe but reduce Triple Sec to ½ cup and add ½ cup Chambord to juice and tequila mixture.
 
 Note:  The longer the zest and the juice mixture are allowed to steep, the more developed the citrus flavors in the finished margaritas.  We recommend steeping the full 24 hours, although the margaritas wills till be great if the mixture is steeped for only the minimum of 4 hours.  If you are in a rush and want to serve the margaritas immediately, omit the zest and skip the steeping process altogether. 
+
 Carrot and Apple Slaw 
+=====================
 
 Bon Appétit | October 1991
 by Charleen Borger: Fremont, California
@@ -106,19 +118,20 @@ raisins. Season to taste with salt and pepper. Toss thoroughly.
 
  
 Mexican Chicken Burgers with Lime Cilantro Mayo
+===============================================
 
-INGREDIENTS
-1 lb ground pork
-1/2 lb ground chicken
-2 t minced garlic
-1 1/2 T chile powder
-1/2 c. chopped cilantro
-2 t lime zest
-1 1/2 t kosher salt
-1/2 t black pepper
+Ingredients:
 
-1 1/2 c shredded Monterey jack cheese
-Rolls, split & toasted
+    1 lb ground pork
+    1/2 lb ground chicken
+    2 t minced garlic
+    1 1/2 T chile powder
+    1/2 c. chopped cilantro
+    2 t lime zest
+    1 1/2 t kosher salt
+    1/2 t black pepper
+    1 1/2 c shredded Monterey jack cheese
+    Rolls, split & toasted
 
 Optional: sliced avocado, tomato, red onion, lettuce
 
@@ -164,7 +177,10 @@ Stir in the curry paste or leftover sauce.
 Reduce to medium heat. Add the fish and cook, without boiling, for 8 to 10 minutes, until it's white and flaky.
 Meanwhile, steam the beans in about 1 inch of water. Add to the soup just before serving over rice, noodles, or couscous.
 Picky Eater Pleaser: Deconstruct it. Heat some of the soup plain and serve with the tilapia and some steamed green beans.  
-Green Tea – Cranberry Spritzer
+
+
+Green Tea / Cranberry Spritzer
+==============================
 
 Martha Stewart Living, April 2011
 
@@ -184,6 +200,8 @@ Bring sugar and water to a boil in a saucepan. Cook, stirring, until sugar disso
 
   
 Carrot Walnut Salad
+===================
+
 Serves 4-6
 
 4 medium carrots, shredded (about 3 cups)
@@ -206,7 +224,9 @@ In a small bowl, mix the lemon juice, vinegar, mustard, lemon zest, salt and pep
 
 Lightly mix carrots, walnuts, chives and dressing.  Cover and refrigerate 1 to 3 hours to meld flavors.
  
+
 Café Beaujolais Yogurt Pancakes
+===============================
 
 1 ½  c. whole wheat white flour
 1 ½ Tbs. sugar
@@ -222,7 +242,11 @@ Sift together the flour, sugar, slat, baking powder, and baking soda into a mixi
 Heat a lightly oiled griddle or heavy skillet over medium-high heat.  Pour ¼ c. of the batter onto the hot surface to form a pancake.  When bubbles come to the surface of the pancake and the underside is lightly browned, flip the cake and cook until the other side is lightly browned.
 
 Top with Honey Greek Yogurt and berries or maple syrup. 
-Susan’s Spinach and Cheese Curry
+
+
+
+Susan's Spinach and Cheese Curry
+================================
 
 Yield: Serves 6
 
@@ -251,12 +275,38 @@ Directions
 
 Notes
 
-The original recipe can be found at http://www.cookstr.com/recipes/spinach-and-mustard-greens-with-cheese 
-I just use plain garam masala (and in different quantities than the original recipe) but you can get fancy (like the original chef of this recipe) and use two garam masalas here in different ways. Initially, you add the untoasted blend (the Bin bhuna hua garam marsala) early on, soon after the onion browns, to make sure the raw spices cook, providing the first spice layering. Then you swirl in the garam masala (ta toasted Punjabi garam masala) toward the end, after the curry has cooked. This blend is a finishing spice yielding a second tier of flavors that are aromatic, smooth, and assertive. Both blends contain similar spices, but what you did with them at various stages creates a complex-tasting sauce.  
-The original recipe calls for 1 ¼ lb Doodh paneer.  I cut this down substantially and often times I either buy it pre-fried or just use it without frying it.
+The original recipe can be found at http://www.cookstr.com/recipes/spinach-and-mustard-greens-with-cheese .
+
+I just use plain garam masala (and in different quantities than the original
+recipe) but you can get fancy (like the original chef of this recipe) and use
+two garam masalas here in different ways. Initially, you add the untoasted
+blend (the Bin bhuna hua garam marsala) early on, soon after the onion browns,
+to make sure the raw spices cook, providing the first spice layering. Then you
+swirl in the garam masala (ta toasted Punjabi garam masala) toward the end,
+after the curry has cooked. This blend is a finishing spice yielding a second
+tier of flavors that are aromatic, smooth, and assertive. Both blends contain
+similar spices, but what you did with them at various stages creates a
+complex-tasting sauce.  
+
+The original recipe calls for 1¼ lb Doodh paneer.  I cut this down
+substantially and often times I either buy it pre-fried or just use it without
+frying it.
+
 How to Prepare Mustard Greens:
-Fresh mustard greens are available in most supermarkets. To prepare them for cooking, cut out and discard the tough rib that runs through three-quarters the length of each leaf. Stack 2 or 3 similar-length leaves and roll them tightly into a tube shape. Cut the tube into thin crosswise slices and unfold them to yield ribbons (called a chiffonade). Place them in a large bowl. Once all the greens are sliced, cover them with cold water. Dunk the leaves briefly under the water. Grab handfuls of the leaves to lift them out of the water. The sand or grit will sink to the bottom. Repeat once or twice to ensure that the leaves are completely clean and grit-free. 
-Susan’s Asian Chicken Pasta Salad
+
+Fresh mustard greens are available in most supermarkets. To prepare them for
+cooking, cut out and discard the tough rib that runs through three-quarters
+the length of each leaf. Stack 2 or 3 similar-length leaves and roll them
+tightly into a tube shape. Cut the tube into thin crosswise slices and unfold
+them to yield ribbons (called a chiffonade). Place them in a large bowl. Once
+all the greens are sliced, cover them with cold water. Dunk the leaves briefly
+under the water. Grab handfuls of the leaves to lift them out of the water.
+The sand or grit will sink to the bottom. Repeat once or twice to ensure that
+the leaves are completely clean and grit-free. 
+
+
+Susan's Asian Chicken Pasta Salad
+=================================
 
 Creamy Sesame Dressing
 1 ¼ c. Mayonnaise (the kind made with olive oil)
@@ -275,7 +325,7 @@ Salad
 1 c. halved red grapes
 1 c. mandarin oranges (1 large can drained)
 1 8 oz. can sliced button mushrooms, drained
-3-4 oz.  wonton strips (the best come from the deli at Macy’s)
+3-4 oz.  wonton strips (the best come from the deli at Macy's)
 
 Directions
 
@@ -347,7 +397,7 @@ Combine vinegar, 3 Tbs. lemon juice, Worcestershire Sauce, cumin, garlic, oregan
 
 Prepare Salad:
 In large bowl, combine both lentils with couscous.  Add dressing and mix well.  Serve either at room temperature or chilled. 
-Bianca Conti-Tronconi’s Basil Pesto
+Bianca Conti-Tronconi's Basil Pesto
 
 Wash and dry basil.  Medium pack into a food processor.  Add a pinch of salt (to keep from turning black).  Add virgin olive oil.  Start with ½ c. and may need to add up to 1 ½ c.  Cream in food processor until stiff.
 
@@ -375,7 +425,8 @@ salt and pepper to taste
 
 Heat butter and olive oil in a heavy large saucepan over medium heat.  Add onion and garlic.  Saute until golden, about 10 minutes.  Add rice and Portobello mushrooms.  Saute until rice turns translucent, about 5 minutes.  Add white wine, stirring until almost all liquid has evaporated.  Add chicken broth by the ½ c., stirring constantly until all liquid has evaporated.  Continue adding chicken broth and stirring until the rice is tender and the mixture is creamy. 
  
-Byerly’s Italian Beef Burgers
+Byerly's Italian Beef Burgers
+=============================
 
 1 ½ Lb. ground beef
 1 c.  Panko crumbs
@@ -389,27 +440,38 @@ Byerly’s Italian Beef Burgers
 1 -2 tsp. dried oregano
 
 Gently mix all ingredients together.  Form into patties.  Individually wrap and freeze if not grilling them all.  
-Amanda Trammell’s Raspberry Trifle 
 
-1 (10 ¾ oz) loaf frozen pound cake
-1 ½ c. heavy cream
-¾ c. granulated sugar
-2 (8 oz) pkgs cream cheese, softened
-2 tsp. lemon juice
-2 tsp. vanilla
-2 (10 oz) pkgs frozen sweetened raspberries, thawed
-2 T. baking cocoa powder
-Fresh raspberries, option (for garnish)
 
-1.  Slice cake into 18-20 slices (cubes work also); set aside
-2.   In a mixing bowl, beat cream with ¼ c. sugar until stiff peaks form.  Set aside.
-3.  In another bowl, beat cream cheese, lemon juice, vanilla and remaining sugar.  Fold in 2 cups of whipped cream; set remaining whipped cream aside for topping.
-4.  Drain raspberries, reserving juice; set berries aside.
-5.  Line bottom of a 3- quart glass bowl with 1/3 of the cake slices/cubes.  Drizzle with some of the raspberry juice. Spread ¼ of the creamed cheese mixture.  Sift ¼ of the cocoa over the top.  Sprinkle with 1/3 of the berries.  Repeat layers twice.  Top with the remaining cream cheese mixture, whipped cream and sifted cocoa.  Cover and refrigerate for 4 hours or overnight.  Garnish with fresh raspberries just before serving.
+
+
+Amanda Trammell's Raspberry Trifle
+==================================
+
+Ingredients:
+
+    1 (10 ¾ oz) loaf frozen pound cake
+    1 ½ c. heavy cream
+    ¾ c. granulated sugar
+    2 (8 oz) pkgs cream cheese, softened
+    2 tsp. lemon juice
+    2 tsp. vanilla
+    2 (10 oz) pkgs frozen sweetened raspberries, thawed
+    2 T. baking cocoa powder
+    Fresh raspberries, option (for garnish)
+
+1. Slice cake into 18-20 slices (cubes work also); set aside
+2. In a mixing bowl, beat cream with ¼ c. sugar until stiff peaks form.  Set aside.
+3. In another bowl, beat cream cheese, lemon juice, vanilla and remaining sugar.  Fold in 2 cups of whipped cream; set remaining whipped cream aside for topping.
+4. Drain raspberries, reserving juice; set berries aside.
+5. Line bottom of a 3- quart glass bowl with 1/3 of the cake slices/cubes.  Drizzle with some of the raspberry juice. Spread ¼ of the creamed cheese mixture.  Sift ¼ of the cocoa over the top.  Sprinkle with 1/3 of the berries.  Repeat layers twice.  Top with the remaining cream cheese mixture, whipped cream and sifted cocoa.  Cover and refrigerate for 4 hours or overnight.  Garnish with fresh raspberries just before serving.
  
-Chicken Burgers
 
-Ingredients
+
+
+Chicken Burgers
+===============
+
+Ingredients:
 
  ¾ c. Panko bread crumbs 
 1/3c. buttermilk 
@@ -501,7 +563,7 @@ Note: Serrano ham comes from Spain; find it in some specialty markets or at www.
  
 Fragrant beef curry with rice
 Bon Appétit |  November 2000 
-"An Indian friend of my mother’s gave her this recipe for beef curry back in 1936," writes Bill Goodhue of Chino, California. "The recipe has been passed on to me, so I can still enjoy the sweet-spicy flavors of this stew more than 60 years later."
+"An Indian friend of my mother's gave her this recipe for beef curry back in 1936," writes Bill Goodhue of Chino, California. "The recipe has been passed on to me, so I can still enjoy the sweet-spicy flavors of this stew more than 60 years later."
 Servings:   Makes 6 servings.
 INGREDIENTS
 
@@ -874,7 +936,7 @@ Bon Appétit | October 1999
 Kari and Brian Chase of St. Paul, Minnesota say that their neighborhood has a great restaurant: 128 Cafe. The last time they were there they tried a delicious appetizer of crisp bread with roasted garlic, goat cheese and apple chutney.
 Yield: Makes 8 Servings
 
-Note: At the restaurant, the bread is grilled, but it’s just as good when it’s baked.
+Note: At the restaurant, the bread is grilled, but it's just as good when it's baked.
 
 1 cup (packed) golden brown sugar
 3/4 cup rice vinegar
@@ -1186,7 +1248,7 @@ Cook pasta in large pot of boiling salted water until just tender but still firm
 Peanut Butter Cookies with Chocolate Chunks 
 Bon Appétit | March 1997
 Yield: Makes 27 cookies (we make them smaller)
-Susan’s favorite
+Susan's favorite
 
 1 1/2 cups unbleached all purpose flour
 1/3 cup old-fashioned oats
@@ -1295,7 +1357,7 @@ Bring cream, corn syrup, sugar, cocoa, salt, and half of chocolate to a boil in 
 
 Notes:
 Sauce can be made ahead and cooled completely, then chilled in an airtight container or jar. Reheat before using.
-I have used Baker’s chocolate squares and I never chop them.  
+I have used Baker's chocolate squares and I never chop them.  
 
 
  
@@ -1369,7 +1431,7 @@ Yield: Serves 6
 Melt butter in heavy large pot or Dutch oven over medium-high heat. Add onion, celery and carrots. Sauté until vegetables begin to soften, about 8 minutes. Add pork and marjoram; stir 1 minute. Add peas, then water, and bring to boil. Reduce heat to medium-low. Partially cover pot; simmer soup until pork and vegetables are tender peas are falling apart, stirring often, about 1 hour and 10 minutes.
 Transfer hocks to bowl. Puree 5 cups soup in batches in blender. Return to pot. Cut pork off bones. Dice pork; return pork to soup. Season with salt and pepper. (Can be made 1 day ahead. Refrigerate until cold, then cover. Rewarm before serving.) 
  
-Adeline’s Round Meat Soup aka Sausage and Bean Soup 
+Adeline's Round Meat Soup aka Sausage and Bean Soup 
 Bon Appétit | November 2000
 
 Yield: Makes 2 servings (can be doubled)
@@ -1582,7 +1644,7 @@ Ingredients
 •  1 cup shredded Chihuahua cheese, Asadero or Monterey Jack
 
 Directions
-Preheat broiler or grill pan to high. (Don’t do this until the rellenos are ready)
+Preheat broiler or grill pan to high. (Don't do this until the rellenos are ready)
 Heat about 3 1/2 cups stock in a sauce pot with a bay leaf to boiling. Add rice, cover pot reduce heat to low and simmer 18 minutes until tender.
 Place poblanos under broiler or on hot grill and char evenly all over, 15 minutes.
 While peppers and rice are working, scrape the corn off the cobs or defrost frozen corn and dry by spreading out on clean kitchen towel. Heat 2 tablespoons light oil in a skillet over high heat. When the oil smokes or ripples add corn, onion, jalapenos and toss until the vegetables char at edges and onions are tender, 4 to 5 minutes. Reduce heat to medium-high and add in garlic, fire roasted tomatoes and season with cumin, oregano, salt and pepper. Cook another minute or 2 then turn pan off.
