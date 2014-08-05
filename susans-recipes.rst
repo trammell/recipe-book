@@ -1,9 +1,13 @@
 ================
 Susan's Cookbook
 ================
+~~~~~~~~~~~~~~~~~~~~~~~~
+version 0.1, August 2014
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Amanda Trammell's Spinach and Bacon Quiche
-------------------------------------------
+==========================================
 
 (Recipe courtesy Paula Deen & the foodnetwork.com)
 
@@ -13,14 +17,15 @@ Amanda Trammell's Spinach and Bacon Quiche
 | Level: Easy
 | Serves: 8 servings
 
-**Ingredients:**
+Ingredients
+-----------
 
     | 6 large eggs, beaten
-    | 1 ½ cups heavy cream
-    | Salt and pepper
+    | 1½ cups heavy cream
+    | salt and pepper
     | 2 cups chopped fresh baby spinach, packed
     | 1 pound bacon, cooked and crumbled
-    | 1 ½ cups shredded Swiss cheese
+    | 1½ cups shredded Swiss cheese
     | 1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
 
 Preheat the oven to 375 degrees F.
@@ -32,16 +37,16 @@ set. Cut into 8 wedges. 
 
 
 Salsa Verde
------------
+===========
 
 Harmony Valley Farms Salsa Verde; yields 1½ cups.  
 
-    6-8 tomatillos (about 12 oz)
-    1 clove garlic
-    1 small onion
-    1 jalapeño, as desired
-    A few sprigs of cilantro
-    Salt and ground black pepper, to taste
+    | 6-8 tomatillos (about 12 oz)
+    | 1 clove garlic
+    | 1 small onion
+    | 1 jalapeño, as desired
+    | A few sprigs of cilantro
+    | Salt and ground black pepper, to taste
 
 In a small saucepan, bring 4-5 cups water to a boil. Remove husks from
 tomatillos and rinse fruit. Boil tomatillos for about 5 minutes or just until
@@ -58,16 +63,16 @@ with tortilla chips, tacos, enchiladas, etc.
 
 
 Susan's Guacamole
------------------
+=================
 
 Serves 6 (unless Uncle John is visiting then serves not so many)
 
-    2 medium avocados
-    1 small tomato, chopped
-    2 tablespoons minced onion
-    1-2 teaspoons lime or lemon juice
-    ½ teaspoon garlic powder
-    ½ teaspoon salt
+    | 2 medium avocados
+    | 1 small tomato, chopped
+    | 2 tablespoons minced onion
+    | 1-2 teaspoons lime or lemon juice
+    | ½ teaspoon garlic powder
+    | ½ teaspoon salt
 
 Peel avocadoes. Mash with a fork in a medium bowl.  Stir in tomato, onion,
 lime or lemon juice, garlic powder and salt.  Serve at once. 
@@ -78,26 +83,33 @@ Note:  I like using the lemon juice versus the lime. 
 
 
 Adeline's Favorite Muffins
---------------------------
+==========================
 
-Makes 12.  Ingredients:
+Makes 12.
 
-    2 cups whole wheat white flour
-    ½ teaspoon salt
-    ¼ teaspoon baking soda
-    2/3 c. sugar
-    1/3 cup canola oil
-    2 large eggs
-    ¾ cup sour cream
-    1 teaspoon vanilla
-    ¼ cup poppy seed or ¾ cup fresh or frozen blueberries
+Ingredients
+-----------
+
+    | 2 cups whole wheat white flour
+    | ½ teaspoon salt
+    | ¼ teaspoon baking soda
+    | ⅔ c. sugar
+    | ⅓ cup canola oil
+    | 2 large eggs
+    | ¾ cup sour cream
+    | 1 teaspoon vanilla
+    | ¼ cup poppy seed or ¾ cup fresh or frozen blueberries
 
 1. Heat oven to 400 F.  Line muffins tins with paper muffin cup.
-2. In a large bowl, combine the flour, salt, sugar and baking soda.  If using the poppy seeds, mix them in also.
-3. In a medium size bowl, mix together, using a mixer on medium speed, the canola oil, the eggs, sour cream and vanilla.
-4. With a rubber spatula, fold the oil mixture into the flour mixture just until moistened.  If using blueberries, add now.
+2. In a large bowl, combine the flour, salt, sugar and baking soda.  If using
+   the poppy seeds, mix them in also.
+3. In a medium size bowl, mix together, using a mixer on medium speed, the
+   canola oil, the eggs, sour cream and vanilla.
+4. With a rubber spatula, fold the oil mixture into the flour mixture just
+   until moistened.  If using blueberries, add now.
 5. Divide the batter among the muffin cups.
-6. Bake the muffins 15-20 minutes or until a cake tester, or toothpick, comes out clean. 
+6. Bake the muffins 15-20 minutes or until a cake tester, or toothpick, comes
+   out clean. 
 
 
 
@@ -106,51 +118,66 @@ Margaritas
 
 Makes about 1 Quart, serves 4-6
 
-4 teaspoons grated zest plus ½ cup juice from 2-3 medium limes
-4 teaspoons grated zest plus ½ cup juice from 2-3 medium lemons
-¼ cup superfine sugar
-Pinch salt
-2 cups crushed ice
-1 cup 100 percent agave tequila, preferably reposado
-1 cup Triple Sec
+    | 4 teaspoons grated zest plus ½ cup juice from 2-3 medium limes
+    | 4 teaspoons grated zest plus ½ cup juice from 2-3 medium lemons
+    | ¼ cup superfine sugar
+    | Pinch salt
+    | 2 cups crushed ice
+    | 1 cup 100 percent agave tequila, preferably reposado
+    | 1 cup Triple Sec
 
 1. Combine the lime zest and juice, the lemon zest and juice, sugar and salt
-in a large liquid measuring cup.  Cover with plastic wrap and refrigerate
-until flavors meld, 4 to 24 hours.
+   in a large liquid measuring cup.  Cover with plastic wrap and refrigerate
+   until flavors meld, 4 to 24 hours.
 2. Divide 1 cup crushed ice between 4-6 margarita or double old-fashioned
-glasses. Strain juice mixture into a 1-quart pitcher or cocktail shaker.  Add
-tequila, Triple Sec and remaining ice. Stir or shake until thoroughly combined
-and chilled – 20-60 seconds. Strain into ice-filled glasses and serve
-immediately.
+   glasses. Strain juice mixture into a 1-quart pitcher or cocktail shaker.
+   Add tequila, Triple Sec and remaining ice. Stir or shake until thoroughly
+   combined and chilled – 20-60 seconds. Strain into ice-filled glasses and
+   serve immediately.
 
-Variations:
+Variations
+----------
 
-Fresh Pineapple Margaritas  
-½ cored and peeled pineapple (about 1 3/4 pounds)
-Puree pineapple in food processor or blender until smooth and foamy.  Follow above recipe except omit zest and steeping process, reduce lemon and lime juices to ¼ cup each and add ½ cup pineapple juice to juice mixture.
+Fresh Pineapple Margaritas
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    ½ cored and peeled pineapple (about 1 3/4 pounds)
+
+Puree pineapple in food processor or blender until smooth and foamy.  Follow
+above recipe except omit zest and steeping process, reduce lemon and lime
+juices to ¼ cup each and add ½ cup pineapple juice to juice mixture.
 
 Fresh Raspberry or Strawberry Margarita
-Follow recipe above except omit zest and steeping process.  Puree 1 cup of raspberries or strawberries with the lemon and lime juices, sugar and salt in a food processor or blender.  Strain juice mixture into a pitcher or cocktail shaker. Continue with recipe but reduce Triple Sec to ½ cup and add ½ cup Chambord to juice and tequila mixture.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Note:  The longer the zest and the juice mixture are allowed to steep, the more developed the citrus flavors in the finished margaritas.  We recommend steeping the full 24 hours, although the margaritas wills till be great if the mixture is steeped for only the minimum of 4 hours.  If you are in a rush and want to serve the margaritas immediately, omit the zest and skip the steeping process altogether. 
+Follow recipe above except omit zest and steeping process.  Puree 1 cup of
+raspberries or strawberries with the lemon and lime juices, sugar and salt in
+a food processor or blender.  Strain juice mixture into a pitcher or cocktail
+shaker. Continue with recipe but reduce Triple Sec to ½ cup and add ½ cup
+Chambord to juice and tequila mixture.
+
+Note:  The longer the zest and the juice mixture are allowed to steep, the
+more developed the citrus flavors in the finished margaritas.  We recommend
+steeping the full 24 hours, although the margaritas wills till be great if the
+mixture is steeped for only the minimum of 4 hours.  If you are in a rush and
+want to serve the margaritas immediately, omit the zest and skip the steeping
+process altogether. 
 
 
 Carrot and Apple Slaw
 =====================
 
-Bon Appétit | October 1991
+Bon Appétit, October 1991
 by Charleen Borger: Fremont, California
-
-
 
 Yield: Serves 4
 
-2 tablespoons lemon juice
-1 tablespoon apple jelly
-4 large carrots, peeled, grated
-1 large Golden Delicious apple, peeled, grated
-1/3 cup chopped roasted cashews
-1/3 cup raisins
+    | 2 tablespoons lemon juice
+    | 1 tablespoon apple jelly
+    | 4 large carrots, peeled, grated
+    | 1 large Golden Delicious apple, peeled, grated
+    | ⅓ cup chopped roasted cashews
+    | ⅓ cup raisins
 
 Whisk lemon juice and jelly in large bowl to blend. Add carrots, apple, cashews and 
 raisins. Season to taste with salt and pepper. Toss thoroughly.
@@ -230,8 +257,8 @@ Yield: Makes 4
 
 Ingredients
 
-1/3 cup sugar
-1/3 cup water
+⅓ cup sugar
+⅓ cup water
 4 green tea bags
 ½ cup chilled unsweetened cranberry juice
 Ice
@@ -392,7 +419,7 @@ Southwestern Smoked Turkey and Pasta Salads
     ¾ lb ripe plum tomatoes, seeded, diced
     ½ med. green bell pepper, thinly sliced
     1 c. frozen corn kernels, thawed
-    1/3 c. chopped red onion
+    ⅓ c. chopped red onion
     1 15 oz. can black beans, drained and rinsed
 
     ¼ c. olive oil
@@ -438,7 +465,7 @@ Berkeley Petite Lentil Couscous Salad
 1 ½ tsp. ground cumin
 1 clove garlic, crushed
 ½ tsp oregano
-1/3 c. olive oil
+⅓ c. olive oil
 
 Prepare Lentils:
 Rinse green lentils and cook in 1 ½ c. water for 15-20 minutes or until tender but not mushy. Drain.
@@ -446,7 +473,7 @@ Rinse green lentils and cook in 1 ½ c. water for 15-20 minutes or until tender 
 Cook petite crimson lentils (do not rinse) in 1 ½ c. water with 1 tsp lemon juice for about 5 minutes – until tender but still firm.  Drain.
 
 Prepare Dressing:  
-Combine vinegar, 3 Tbs. lemon juice, Worcestershire Sauce, cumin, garlic, oregano and 1/3 cup olive oil.  Whisk together.
+Combine vinegar, 3 Tbs. lemon juice, Worcestershire Sauce, cumin, garlic, oregano and ⅓ cup olive oil.  Whisk together.
 
 Prepare Salad:
 In large bowl, combine both lentils with couscous.  Add dressing and mix well.  Serve either at room temperature or chilled. 
@@ -486,8 +513,8 @@ Byerly's Italian Beef Burgers
 2 large eggs
 2 Tb. capers
 2 Tb. minced calamata olives
-1/3 c. minced red bell pepper
-1/3 c. minced green bell pepper
+⅓ c. minced red bell pepper
+⅓ c. minced green bell pepper
 2-3 Tb. minced onion
 3/4/ c. grated asiago cheese
 1 -2 tsp. dried oregano
@@ -516,7 +543,7 @@ Ingredients:
 2. In a mixing bowl, beat cream with ¼ c. sugar until stiff peaks form.  Set aside.
 3. In another bowl, beat cream cheese, lemon juice, vanilla and remaining sugar.  Fold in 2 cups of whipped cream; set remaining whipped cream aside for topping.
 4. Drain raspberries, reserving juice; set berries aside.
-5. Line bottom of a 3- quart glass bowl with 1/3 of the cake slices/cubes.  Drizzle with some of the raspberry juice. Spread ¼ of the creamed cheese mixture.  Sift ¼ of the cocoa over the top.  Sprinkle with 1/3 of the berries.  Repeat layers twice.  Top with the remaining cream cheese mixture, whipped cream and sifted cocoa.  Cover and refrigerate for 4 hours or overnight.  Garnish with fresh raspberries just before serving.
+5. Line bottom of a 3- quart glass bowl with ⅓ of the cake slices/cubes.  Drizzle with some of the raspberry juice. Spread ¼ of the creamed cheese mixture.  Sift ¼ of the cocoa over the top.  Sprinkle with ⅓ of the berries.  Repeat layers twice.  Top with the remaining cream cheese mixture, whipped cream and sifted cocoa.  Cover and refrigerate for 4 hours or overnight.  Garnish with fresh raspberries just before serving.
  
 
 
@@ -527,9 +554,9 @@ Chicken Burgers
 Ingredients:
 
  ¾ c. Panko bread crumbs 
-1/3c. buttermilk 
-1/3 tsp. black pepper 
-1/3 tsp cayenne pepper 
+⅓c. buttermilk 
+⅓ tsp. black pepper 
+⅓ tsp cayenne pepper 
 ¼ tsp. salt 
 20 oz chicken, ground
 
@@ -691,7 +718,7 @@ Salt and freshly ground pepper, to taste
 1 lb. diced cooked turkey
 3 cans (each 15 oz.) cannellini beans, drained  and rinsed, or 4 ½ cups cooked white beans,   drained
 2 Tbs. minced fresh oregano
-1/3 cup minced fresh cilantro
+⅓ cup minced fresh cilantro
 1/4 cup cornmeal
 Shredded jack cheese, sour cream and lime  wedges for serving
 
@@ -716,8 +743,8 @@ Active Time: 45 minutes or less
 Total Time: 45 minutes or less
 
 1 12-ounce container frozen orange juice from concentrate, thawed
-1/3 cup dry white wine
-1/3 cup honey-Dijon mustard
+⅓ cup dry white wine
+⅓ cup honey-Dijon mustard
 2 tablespoons finely chopped fresh rosemary or 2 teaspoons dried
 4 teaspoons soy sauce
 2 teaspoons hot pepper sauce (such as Tabasco)
@@ -904,9 +931,9 @@ Pam Anderson
 Yield: Makes 8 servings
 
  
-1/3 cup frozen orange juice concentrate, thawed
-1/3 cup unseasoned rice vinegar
-1/3 cup canola oil or vegetable oil
+⅓ cup frozen orange juice concentrate, thawed
+⅓ cup unseasoned rice vinegar
+⅓ cup canola oil or vegetable oil
 2 (8-ounce) bags coleslaw mix
 4 ears of fresh corn, shucked, kernels cut from cob
 2 medium carrots, peeled, coarsely grated
@@ -933,8 +960,8 @@ Yield: Serves 12
 3 pounds green beans, trimmed, cut into 2-inch pieces
 3 tablespoons country-style Dijon mustard
 1/4 cup Sherry wine vinegar
-2/3 cup olive oil
-1/3 cup minced shallots
+⅔ cup olive oil
+⅓ cup minced shallots
 2 1-pint baskets cherry tomatoes
 
 Cook beans in large pot of boiling salted water until crisp-tender, about 5 minutes. Drain. Refresh under cold water; drain well. Transfer to large bowl. Combine mustard and vinegar in small bowl. Gradually whisk oil. Mix in shallots. (Can be prepared 1 day ahead. Cover beans and dressing separately. Refrigerate beans; let dressing stand at room temperature.) Mix dressing and tomatoes into beans. Season to taste with salt and pepper
@@ -973,7 +1000,7 @@ Coleslaw can be made 8 hours ahead and chilled, covered. •Patties can be forme
 
 Roasted Garlic 
 Bon Appétit | October 1999
-Yield: Makes about 1 1/3 cups
+Yield: Makes about 1 ⅓ cups
 
 Note: Also great mixed into mashed potatoes.
 
@@ -1002,7 +1029,7 @@ Note: At the restaurant, the bread is grilled, but it's just as good when it's b
 1 cup diced seeded plum tomatoes
 1 tablespoon chopped fresh mint
 
-1 French-bread baguette, cut into 1/3-inch-thick slices
+1 French-bread baguette, cut into ⅓-inch-thick slices
 Olive oil
 Roasted Garlic
 12 ounces soft fresh goat cheese (such as Montrachet), room temperature
@@ -1020,7 +1047,7 @@ Yield: Serves 8
 
  
 6 cups fresh breadcrumbs made from French bread
-2/3 cup chopped fresh parsley
+⅔ cup chopped fresh parsley
 2 tablespoons chopped fresh rosemary
 1 3/4 teaspoons crumbled bay leaves
 
@@ -1105,7 +1132,7 @@ Yield: Makes 6 to 8 servings
 
 1 cup cooked corn kernels (from 1 medium ear)
 1/2 cup chopped sweet onion (such as Vidalia or Maui)
-1 14-ounce can hearts of palm, drained, each cut crosswise into 1/3-inch-thick rounds
+1 14-ounce can hearts of palm, drained, each cut crosswise into ⅓-inch-thick rounds
 2 plum tomatoes, seeded, diced (about 1 1/4 cups)
 1/2 cup chopped fresh cilantro
 1 avocado, pitted, peeled, chopped
@@ -1142,7 +1169,7 @@ Yield: Makes 6 to 8 servings
 
 1 1/2 cups sugar snap peas, cut crosswise into 1/2-inch pieces
 1 cup thinly sliced green onions
-1/3 cup coarsely chopped dry-roasted peanuts
+⅓ cup coarsely chopped dry-roasted peanuts
 
  
 Whisk first 9 ingredients in medium bowl to blend.
@@ -1257,7 +1284,7 @@ Bon Appétit | March 1998
 An interesting side dish or meatless entrée.
 Yield: Makes 8 servings
 
-1 1/3 cups (packed) coarsely shredded peeled beets (from 2 medium)
+1 ⅓ cups (packed) coarsely shredded peeled beets (from 2 medium)
 1 cup coarsely shredded peeled carrots (from 2 medium)
 1 cup thinly sliced onion
 1 large egg
@@ -1270,7 +1297,7 @@ Yield: Makes 8 servings
 Low-fat sour cream
 
 Preheat oven to 300°F. Place baking sheet in oven. Combine beets, carrots and onion in large bowl. Mix in egg, salt and pepper. Add flour; stir to blend well.
-Heat 1 1/2 tablespoons oil in heavy large skillet over medium heat. Using 1/3 cup beet mixture for each pancake, drop 4 pancakes into skillet. Flatten each into 3-inch round. Cook until brown and cooked through, about 4 minutes per side. Transfer pancakes to baking sheet in oven; keep warm. Repeat with remaining beet mixture, making 4 more pancakes.
+Heat 1 1/2 tablespoons oil in heavy large skillet over medium heat. Using ⅓ cup beet mixture for each pancake, drop 4 pancakes into skillet. Flatten each into 3-inch round. Cook until brown and cooked through, about 4 minutes per side. Transfer pancakes to baking sheet in oven; keep warm. Repeat with remaining beet mixture, making 4 more pancakes.
 Serve pancakes with sour cream.
 
  
@@ -1304,7 +1331,7 @@ Yield: Makes 27 cookies (we make them smaller)
 Susan's favorite
 
 1 1/2 cups unbleached all purpose flour
-1/3 cup old-fashioned oats
+⅓ cup old-fashioned oats
 1 teaspoon baking soda
 1/4 teaspoon salt
 1 cup old-fashioned chunky peanut butter (about 9 ounces)
@@ -1384,7 +1411,7 @@ Yield: Makes 20 servings
 1 large garlic clove, minced
 1 1/2 teaspoons ground cumin
 1 4-ounce jar sliced pimientos in oil, drained
-1/3 cup chopped fresh cilantro
+⅓ cup chopped fresh cilantro
 2 6-ounce packages roasted-garlic bagel chips
 
 Reserve 3 tablespoons garbanzo beans for garnish. Blend remaining garbanzo beans and next 7 ingredients in processor until smooth. Add pimientos; process, using on/off turns, until pimientos are coarsely chopped. Transfer hummus to medium bowl. Stir in cilantro. Season hummus to taste with salt and pepper. Sprinkle with reserved garbanzo beans. (Can be made 1 day ahead. Cover and chill. Bring to room temperature before serving.) Accompany with bagel chips.
@@ -1397,9 +1424,9 @@ Yield: Makes about 2 cups
 Active Time: 10 min
 Total Time: 30 min
 
-2/3 cup heavy cream
+⅔ cup heavy cream
 1/2 cup light corn syrup
-1/3 cup packed dark brown sugar
+⅓ cup packed dark brown sugar
 1/4 cup unsweetened Dutch-process cocoa powder
 1/4 teaspoon salt
 6 oz fine-quality bittersweet chocolate (not unsweetened), finely chopped
@@ -1619,7 +1646,7 @@ For peperonata:
 
 For meatballs:
 3 slices Italian bread, torn into pieces (1 cup)
-1/3 cup milk
+⅓ cup milk
 3 ounces sliced pancetta, finely chopped
 1 small onion, finely chopped
 1 small garlic clove, minced
@@ -1752,7 +1779,7 @@ Pilaf
 
 6 ounces bacon, diced 
 1 shallot, minced (onion works just fine)
-1 1/4 cups 1/4- to 1/3-inch cubes peeled root vegetables 
+1 1/4 cups 1/4- to ⅓-inch cubes peeled root vegetables 
 (such as celery root, carrot, turnip, rutabaga, and/or butternut squash)
 
 Pinch of sugar
