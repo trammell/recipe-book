@@ -20,9 +20,6 @@ Amanda Trammell's Spinach and Bacon Quiche
 | Level: Easy
 | Serves: 8 servings
 
-Ingredients
------------
-
 ..
 
     | 6 large eggs, beaten
@@ -33,7 +30,7 @@ Ingredients
     | 1½ cups shredded Swiss cheese
     | 1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
 
-Preheat the oven to 375 degrees F.
+Preheat the oven to 375 °F.
 
 Combine the eggs, cream, salt, and pepper in a food processor or blender.
 Layer the spinach, bacon, and cheese in the bottom of the pie crust, then pour
@@ -112,7 +109,7 @@ Ingredients
     1 teaspoon vanilla
     ¼ cup poppy seed or ¾ cup fresh or frozen blueberries
 
-1. Heat oven to 400 F.  Line muffins tins with paper muffin cup.
+1. Heat oven to 400 °F.  Line muffins tins with paper muffin cup.
 2. In a large bowl, combine the flour, salt, sugar and baking soda.  If using
    the poppy seeds, mix them in also.
 3. In a medium size bowl, mix together, using a mixer on medium speed, the
@@ -255,11 +252,15 @@ Ingredients:
 
 Directions:
 
-Heat soup in a large pot over medium-high heat.
-Stir in the curry paste or leftover sauce.
-Reduce to medium heat. Add the fish and cook, without boiling, for 8 to 10 minutes, until it's white and flaky.
-Meanwhile, steam the beans in about 1 inch of water. Add to the soup just before serving over rice, noodles, or couscous.
-Picky Eater Pleaser: Deconstruct it. Heat some of the soup plain and serve with the tilapia and some steamed green beans.  
+Heat soup in a large pot over medium-high heat.  Stir in the curry paste or
+leftover sauce.  Reduce to medium heat. Add the fish and cook, without
+boiling, for 8 to 10 minutes, until it's white and flaky.
+
+Meanwhile, steam the beans in about 1 inch of water. Add to the soup just
+before serving over rice, noodles, or couscous.
+
+Picky Eater Pleaser: Deconstruct it. Heat some of the soup plain and serve
+with the tilapia and some steamed green beans.  
 
 
 Green Tea / Cranberry Spritzer
@@ -333,30 +334,42 @@ Susan's Spinach and Cheese Curry
 
 Yield: Serves 6
 
-Ingredients
+    | 2 tablespoons canola oil
+    | 1 medium-size red onion, cut in half lengthwise and thinly sliced
+    | 6-8 medium-size cloves garlic, coarsely chopped
+    | 4 lengthwise slices fresh ginger (each 2 inches long, 1 inch wide,
+        and ⅛ inch thick), coarsely chopped (a 4 inch piece of ginger)
+    | 2 T Garam Masala (see Notes)
+    | 1 teaspoon ground turmeric
+    | 2 tablespoons tomato paste
+    | 8 ounces fresh spinach leaves, well rinsed and coarsely chopped
+    | 8 ounces fresh mustard greens, well rinsed and finely chopped (see Notes)
+    | 1½ teaspoons coarse kosher or sea salt
+    | ½  pound Doodh Paneer, cut into 1-inch cubes and pan-fried  (see Notes)
+    | ½ cup heavy cream or half and half
+    | 1 teaspoon Garam Masala (see Notes)
 
-2 tablespoons canola oil
-1 medium-size red onion, cut in half lengthwise and thinly sliced
-6-8 medium-size cloves garlic, coarsely chopped
-4 lengthwise slices fresh ginger (each 2 inches long, 1 inch wide, and ⅛ inch thick), coarsely chopped (a 4 inch piece of ginger)
-2 T Garam Masala (see Notes)
-1 teaspoon ground turmeric
-2 tablespoons tomato paste
-8 ounces fresh spinach leaves, well rinsed and coarsely chopped
-8 ounces fresh mustard greens, well rinsed and finely chopped (see Notes)
-1½ teaspoons coarse kosher or sea salt
-½  pound Doodh Paneer, cut into 1-inch cubes and pan-fried  (see Notes)
-½ cup heavy cream or half and half
-1 teaspoon Garam Masala (see Notes)
-
-Directions
-
-1. Heat the oil in a large skillet over medium heat. Add the onion, garlic, and ginger, and stir-fry until the onion is light brown, 8 to 10 minutes. Remove the skillet from the heat, and stir in the garam masala and the turmeric. (The heat from the browned onion will be just right to cook the spices without burning them.)
-2. Transfer the mixture to a blender jar, and add the tomato paste and ¼ cup water. Puree, scraping the inside of the jar as needed, to form a smooth, reddish-brown paste. Return the paste to the skillet. Pour ¾ cup water into the blender jar, and whir the blades to wash it out. Add this to the skillet.
-3. Place the skillet over medium heat. Pile handfuls of the greens into the skillet, cover it, and let the steam wilt them. Stir, and repeat with the remaining greens. Once they are all wilted, cover the skillet and cook, stirring occasionally, until the greens are broken down to a sauce-like consistency and are olive green in color, 10 to 15 minutes.
-4. Stir in the salt, paneer cubes, cream, and Punjabi garam masala. Continue simmering the curry, covered, stirring occasionally, until the cheese and cream are warmed through, 5 to 8 minutes. Then serve.
+1. Heat the oil in a large skillet over medium heat. Add the onion, garlic,
+   and ginger, and stir-fry until the onion is light brown, 8 to 10 minutes.
+   Remove the skillet from the heat, and stir in the garam masala and the
+   turmeric. (The heat from the browned onion will be just right to cook the
+   spices without burning them.)
+2. Transfer the mixture to a blender jar, and add the tomato paste and ¼ cup
+   water. Puree, scraping the inside of the jar as needed, to form a smooth,
+   reddish-brown paste. Return the paste to the skillet. Pour ¾ cup water into
+   the blender jar, and whir the blades to wash it out. Add this to the
+   skillet.
+3. Place the skillet over medium heat. Pile handfuls of the greens into the
+   skillet, cover it, and let the steam wilt them. Stir, and repeat with the
+   remaining greens. Once they are all wilted, cover the skillet and cook,
+   stirring occasionally, until the greens are broken down to a sauce-like
+   consistency and are olive green in color, 10 to 15 minutes.
+4. Stir in the salt, paneer cubes, cream, and Punjabi garam masala. Continue
+   simmering the curry, covered, stirring occasionally, until the cheese and
+   cream are warmed through, 5 to 8 minutes. Then serve.
 
 Notes
+-----
 
 The original recipe can be found at http://www.cookstr.com/recipes/spinach-and-mustard-greens-with-cheese .
 
@@ -375,7 +388,8 @@ The original recipe calls for 1¼ lb Doodh paneer.  I cut this down
 substantially and often times I either buy it pre-fried or just use it without
 frying it.
 
-How to Prepare Mustard Greens:
+How to Prepare Mustard Greens
+-----------------------------
 
 Fresh mustard greens are available in most supermarkets. To prepare them for
 cooking, cut out and discard the tough rib that runs through three-quarters
@@ -391,34 +405,38 @@ the leaves are completely clean and grit-free. 
 Susan's Asian Chicken Pasta Salad
 =================================
 
-Creamy Sesame Dressing
-1 ¼ c. Mayonnaise (the kind made with olive oil)
-¼ c. soy sauce
-¼ c. rice vinegar
-¼ c. sugar
-¼ c. sesame oil
- ¼ tsp.  black pepper
+Creamy sesame dressing
+----------------------
 
+    | 1¼ c. Mayonnaise (the kind made with olive oil)
+    | ¼ c. soy sauce
+    | ¼ c. rice vinegar
+    | ¼ c. sugar
+    | ¼ c. sesame oil
+    | ¼ tsp.  black pepper
+
+Combine all ingredients. Makes enough for two salads.
 
 Salad
-8 oz. fusilli pasta
-2 c. cubed cooked chicken
-4 green onions, thinly sliced
-1 c. snow peas cut in 1 “ pieces
-1 c. halved red grapes
-1 c. mandarin oranges (1 large can drained)
-1 8 oz. can sliced button mushrooms, drained
-3-4 oz.  wonton strips (the best come from the deli at Macy's)
+-----
 
-Directions
+    | 8 oz. fusilli pasta
+    | 2 c. cubed cooked chicken
+    | 4 green onions, thinly sliced
+    | 1 c. snow peas cut in 1" pieces
+    | 1 c. halved red grapes
+    | 1 c. mandarin oranges (1 large can drained)
+    | 1 8 oz. can sliced button mushrooms, drained
+    | 3-4 oz. wonton strips (the best come from the deli at Macy's)
 
-Dressing:  Combine all ingredients.  (Makes enough for two salads.)
-
-Salad:
-
-1. Cook pasta according to package instructions.  Drain and rinse with cold water and drain again.
-2. Fill a bowl with ice water.  Bring small pan of water to a boil.  Submerge peas in boiling water for no more than 1 minute.  Immediately drain and place into the ice water.   (I sometimes just use them raw, especially when they are tender)
-3. In a large bowl, combine the pasta, snow peas, chicken, green onions, mushrooms, grapes and oranges.  Toss well.
+1. Cook pasta according to package instructions.  Drain and rinse with cold
+   water and drain again.
+2. Fill a bowl with ice water.  Bring small pan of water to a boil.  Submerge
+   peas in boiling water for no more than 1 minute.  Immediately drain and
+   place into the ice water.   (I sometimes just use them raw, especially when
+   they are tender)
+3. In a large bowl, combine the pasta, snow peas, chicken, green onions,
+   mushrooms, grapes and oranges.  Toss well.
 4. Cover and refrigerate until chilled.
 5. Top with wonton strips right before serving.
 
@@ -428,24 +446,24 @@ Serves 6 
 Southwestern Smoked Turkey and Pasta Salads
 ===========================================
 
-    1¼ c. orzo (rice-shaped pasta)
-    2 c. diced smoked turkey
-    ¾ lb ripe plum tomatoes, seeded, diced
-    ½ med. green bell pepper, thinly sliced
-    1 c. frozen corn kernels, thawed
-    ⅓ c. chopped red onion
-    1 15 oz. can black beans, drained and rinsed
+    | 1¼ c. orzo (rice-shaped pasta)
+    | 2 c. diced smoked turkey
+    | ¾ lb ripe plum tomatoes, seeded, diced
+    | ½ med. green bell pepper, thinly sliced
+    | 1 c. frozen corn kernels, thawed
+    | ⅓ c. chopped red onion
+    | 1 15 oz. can black beans, drained and rinsed
 
-    ¼ c. olive oil
-    6 Tb. chopped fresh cilantro
-    3 Tb. white wine vinegar
-    1 Tb Dijon mustard
-    1 large jalapeno chili, seeded, minced
-    1 ¼  tsp ground cumin
-    ¾ tsp. salt
-    ¾ tsp. pepper
+    | ¼ c. olive oil
+    | 6 Tb. chopped fresh cilantro
+    | 3 Tb. white wine vinegar
+    | 1 Tb Dijon mustard
+    | 1 large jalapeno chili, seeded, minced
+    | 1 ¼  tsp ground cumin
+    | ¾ tsp. salt
+    | ¾ tsp. pepper
 
-    1 ripe avocado, peeled, sliced
+    | 1 ripe avocado, peeled, sliced
 
 Cook pasta according to directions.  Drain and cool pasta.  Add turkey,
 tomatoes, green bell pepper, corn, beans and onion to pasta.
@@ -464,27 +482,30 @@ Berkeley Petite Lentil Couscous Salad
 
 4-6 servings
 
-¾ c. petite french green lentils
-1 ½ c. water
-
-¾ c. petite crimson lentils (orange lentils)
-1 ½ c. water
-1 tsp. lemon juice
-
-¾ c. couscous – cooked per package directions in chicken broth and 1 Tb. olive oil
-
-3 Tb. while wine vinegar
-1 tsp. White Wine Worcestershire Sauce
-3 Tb. lemon juice
-1 ½ tsp. ground cumin
-1 clove garlic, crushed
-½ tsp oregano
-⅓ c. olive oil
+    | ¾ c. petite french green lentils
+    | 1½ c. water
+    | 
+    | ¾ c. petite crimson lentils (orange lentils)
+    | 1½ c. water
+    | 1 tsp. lemon juice
+    | 
+    | ¾ c. couscous – cooked per package directions in chicken broth and 1 Tb. olive oil
+    | 
+    | 3 Tb. while wine vinegar
+    | 1 tsp. White Wine Worcestershire Sauce
+    | 3 Tb. lemon juice
+    | 1½ tsp. ground cumin
+    | 1 clove garlic, crushed
+    | ½ tsp oregano
+    | ⅓ c. olive oil
 
 Prepare Lentils:
-Rinse green lentils and cook in 1 ½ c. water for 15-20 minutes or until tender but not mushy. Drain.
 
-Cook petite crimson lentils (do not rinse) in 1 ½ c. water with 1 tsp lemon juice for about 5 minutes – until tender but still firm.  Drain.
+Rinse green lentils and cook in 1½ c. water for 15-20 minutes or until tender
+but not mushy. Drain.
+
+Cook petite crimson lentils (do not rinse) in 1½ c. water with 1 tsp lemon
+juice for about 5 minutes – until tender but still firm.  Drain.
 
 Prepare Dressing:
 Combine vinegar, 3 Tbs. lemon juice, Worcestershire Sauce, cumin, garlic, oregano and ⅓ cup olive oil.  Whisk together.
@@ -504,20 +525,34 @@ Makes 2 cups.
 ¼ c. = 4 servings.
 
  
-Portobello Risotto
-2 T. unsalted butter
-2 T. olive oil
-½ c. finely chopped onion
-1 clove garlic, minced
-6 oz. Portobello mushrooms, chopped in ½ inch cubes
-1 ½ c. Arborio rice
-½ c. dry white wine
-3 ½  to 4 c. hot chicken broth (low-salt if using canned)
-3 T. fresh chopped lemon thyme (regular thyme if you can not find lemon thyme)
-½ c. freshly grated Parmigiano-Reggiano
-salt and pepper to taste
 
-Heat butter and olive oil in a heavy large saucepan over medium heat.  Add onion and garlic.  Saute until golden, about 10 minutes.  Add rice and Portobello mushrooms.  Saute until rice turns translucent, about 5 minutes.  Add white wine, stirring until almost all liquid has evaporated.  Add chicken broth by the ½ c., stirring constantly until all liquid has evaporated.  Continue adding chicken broth and stirring until the rice is tender and the mixture is creamy.
+
+
+Portobello Risotto
+==================
+
+    | 2 T. unsalted butter
+    | 2 T. olive oil
+    | ½ c. finely chopped onion
+    | 1 clove garlic, minced
+    | 6 oz. Portobello mushrooms, chopped in ½-inch cubes
+    | 1½ c. Arborio rice
+    | ½ c. dry white wine
+    | 3½  to 4 c. hot chicken broth (low-salt if using canned)
+    | 3 T. fresh chopped lemon thyme (regular thyme if you can not find lemon thyme)
+    | ½ c. freshly grated Parmigiano-Reggiano
+    | salt and pepper to taste
+
+Heat butter and olive oil in a heavy large saucepan over medium heat.  Add
+onion and garlic.  Saute until golden, about 10 minutes.  Add rice and
+Portobello mushrooms.  Saute until rice turns translucent, about 5 minutes.
+Add white wine, stirring until almost all liquid has evaporated.
+
+Add chicken broth by the ½ c., stirring constantly until all liquid has
+evaporated.  Continue adding chicken broth and stirring until the rice is
+tender and the mixture is creamy.
+
+
  
 Byerly's Italian Beef Burgers
 =============================
@@ -534,8 +569,6 @@ Byerly's Italian Beef Burgers
 1 -2 tsp. dried oregano
 
 Gently mix all ingredients together.  Form into patties.  Individually wrap and freeze if not grilling them all.  
-
-
 
 
 Amanda Trammell's Raspberry Trifle
@@ -567,8 +600,8 @@ Chicken Burgers
 
 Ingredients:
 
- ¾ c. Panko bread crumbs
-⅓c. buttermilk
+¾ c. Panko bread crumbs
+⅓ c. buttermilk
 ⅓ tsp. black pepper
 ⅓ tsp cayenne pepper
 ¼ tsp. salt
@@ -588,9 +621,9 @@ Coleslaw for Chicken Burgers
 
 Ingredients
 
-1⁄2 head red cabbage, shredded
+½ head red cabbage, shredded
 3 shredded carrots
-1 ½ shredded Beauty Heart radishes (optional)
+1½ shredded Beauty Heart radishes (optional)
 ½ c. plain yogurt
 ¼ c. mayonnaise
 5 T. apple cider vinegar
@@ -600,38 +633,42 @@ Ingredients
 1. Mix dressing ingredients.
 2. Add cabbage, radish and carrot.
 3. I added a beauty heart radish to my salad and would do so again. 
+
+
+
+
 Summer Flavored Waters
+======================
 
 Source: Better Homes and Gardens, May 2005
-
-
 
 Makes 8 (8-ounce) servings each recipe
 Prep: 10 minutes each
 Chill: 2 hours
 
-
-
-
-
-
 Ingredients
+
 2 to 3 slices ripe honeydew melon
-1   lime, sliced ¼-inch thick
-4   mint sprigs
+1 lime, sliced ¼-inch thick
+4 mint sprigs
 2 quarts water
-   Ice cubes
-Directions
-1. Add slices of melon, lime slices, and mint sprigs to a large pitcher. Fill pitcher with the water. Refrigerate for 2 to 4 hours to allow fruit and herbs to transfer flavors to water. To serve, fill glasses with ice. Top with flavored water. Makes 8 (8-ounce) servings each recipe.
+Ice cubes
+
+Add slices of melon, lime slices, and mint sprigs to a large pitcher. Fill
+pitcher with the water. Refrigerate for 2 to 4 hours to allow fruit and herbs
+to transfer flavors to water. To serve, fill glasses with ice. Top with
+flavored water. Makes 8 (8-ounce) servings each recipe.
 
 Herb and Berry Flavored Water: Substitute 1 cup fresh blueberries, lightly crushed, and two 4-inch sprigs fresh rosemary, lightly bruised, for the melon, lime, and mint. Fill pitcher with water, refrigerate 2 to 4 hours, and serve as above.
 
 
  
 Cauliflower Wedges with Lemon Dressing
+======================================
 
 Source: Better Homes and Gardens, May 2005
-Makes 4 servings                         Start to Finish: 20 minutes
+Makes 4 servings
+Start to Finish: 20 minutes
 
 Ingredients
 2 small heads cauliflower
@@ -656,34 +693,53 @@ Note: Serrano ham comes from Spain; find it in some specialty markets or at www.
 
  
 Fragrant beef curry with rice
+=============================
+
 Bon Appétit |  November 2000
-"An Indian friend of my mother's gave her this recipe for beef curry back in 1936," writes Bill Goodhue of Chino, California. "The recipe has been passed on to me, so I can still enjoy the sweet-spicy flavors of this stew more than 60 years later."
+
+"An Indian friend of my mother's gave her this recipe for beef curry back in
+1936," writes Bill Goodhue of Chino, California. "The recipe has been passed
+on to me, so I can still enjoy the sweet-spicy flavors of this stew more than
+60 years later."
+
 Servings:   Makes 6 servings.
-INGREDIENTS
 
-2 pounds well-trimmed boneless beef stew meat, cut into 1-inch pieces
-3 tablespoons vegetable oil2 large onions, sliced
-6 whole cloves
-2 large garlic cloves, chopped
-2 cinnamon sticks
-1 bay leaf
-¼ teaspoon dried crushed red pepper
-1 ½ cups whole milk
-3 large tomatoes, quartered
-3 tablespoons Major Grey chutney
-3 tablespoons fresh lemon juice
-2 tablespoons minced peeled fresh ginger
-1 ½ tablespoons curry powder
-½ teaspoon salt
-Hot cooked rice
-PREPARATION
+    | 2 pounds well-trimmed boneless beef stew meat, cut into 1-inch pieces
+    | 3 tablespoons vegetable oil
+    | 2 large onions, sliced
+    | 6 whole cloves
+    | 2 large garlic cloves, chopped
+    | 2 cinnamon sticks
+    | 1 bay leaf
+    | ¼ teaspoon dried crushed red pepper
+    | 1½ cups whole milk
+    | 3 large tomatoes, quartered
+    | 3 tablespoons Major Grey chutney
+    | 3 tablespoons fresh lemon juice
+    | 2 tablespoons minced peeled fresh ginger
+    | 1½ tablespoons curry powder
+    | ½ teaspoon salt
+    | Hot cooked rice
 
-Sprinkle beef with salt and pepper. Heat 2 tablespoons oil in heavy large pot over high heat. Working in batches, add beef to pot and brown on all sides, about 7 minutes per batch. Using slotted spoon, transfer to plate.
-Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions; sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves, garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute. Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and ½ teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is tender, stirring occasionally, about 2 hours.
-Uncover; increase heat to medium. Boil stew until juices are slightly thickened, about 10 minutes. Serve over rice.
+Sprinkle beef with salt and pepper. Heat 2 tablespoons oil in heavy large pot
+over high heat. Working in batches, add beef to pot and brown on all sides,
+about 7 minutes per batch. Using slotted spoon, transfer to plate.
+
+Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions;
+sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves,
+garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute.
+Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and ½
+teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is
+tender, stirring occasionally, about 2 hours.
+
+Uncover; increase heat to medium. Boil stew until juices are slightly
+thickened, about 10 minutes. Serve over rice.
+
 Makes 6 servings.
 
+
 Hot and Sour Soup
+=================
 
 To rehydrate dried whole mushrooms, place them in a bowl, add boiling water to cover and let soak for 30 minutes, until soft. For dried mushroom slices, reduce the soaking time to 15 to 20 minutes. Drain well. For extra mushroom flavor, reserve the soaking liquid and add it to the dish. Before using, strain the liquid through a sieve lined with cheesecloth or a coffee filter to remove any grit.
 
