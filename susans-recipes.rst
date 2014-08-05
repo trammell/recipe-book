@@ -1,33 +1,67 @@
-Amanda Trammell's Spinach and Bacon Quiche
-(Recipe courtesy Paula Deen & the foodnetwork.com)
-Prep Time:  15 min
-Inactive Prep Time: 45 min
-Cook Time:  45 min
-Level: Easy
-Serves:  8 servings
+================
+Susan's Cookbook
+================
+~~~~~~~~
+Aww yiss
+~~~~~~~~
 
-Ingredients
-•  6 large eggs, beaten
-•  1 1/2 cups heavy cream
-•  Salt and pepper
-•  2 cups chopped fresh baby spinach, packed
-•  1 pound bacon, cooked and crumbled
-•  1 1/2 cups shredded Swiss cheese
-•  1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
-Directions
+
+Amanda Trammell's Spinach and Bacon Quiche
+------------------------------------------
+
+(Recipe courtesy Paula Deen & the foodnetwork.com)
+Prep Time: 15 min
+Inactive Prep Time: 45 min
+Cook Time: 45 min
+Level: Easy
+Serves: 8 servings
+
+Ingredients:
+
+    6 large eggs, beaten
+    1 ½ cups heavy cream
+    Salt and pepper
+    2 cups chopped fresh baby spinach, packed
+    1 pound bacon, cooked and crumbled
+    1 ½ cups shredded Swiss cheese
+    1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
+
 Preheat the oven to 375 degrees F.
 
-Combine the eggs, cream, salt, and pepper in a food processor or blender. Layer the spinach, bacon, and cheese in the bottom of the pie crust, then pour the egg mixture on top. Bake for 35 to 45 minutes until the egg mixture is set. Cut into 8 wedges. 
-Salsa Verde
-Harmony Valley Farms Salsa Verde
+Combine the eggs, cream, salt, and pepper in a food processor or blender.
+Layer the spinach, bacon, and cheese in the bottom of the pie crust, then pour
+the egg mixture on top. Bake for 35 to 45 minutes until the egg mixture is
+set. Cut into 8 wedges. 
 
-6-8 tomatillos (about 12 oz) 1 clove garlic 1 small onion
-1 jalapeño, as desired A few sprigs of cilantro Salt and ground black pepper, to taste
--In a small saucepan, bring 4-5 cups water to a boil. Remove husks from tomatillos and rinse fruit. Boil tomatillos for about 5 minutes or just until softened. -In the bowl of a food processor, put tomatillos and the rest of the ingredients. For a medium heat salsa, use about 1⁄2 of the jalapeño with seeds. Adjust the amount of jalapeño to your liking. Blend until the mixture is a coarse puree. -Refrigerate for 1-2 hours to allow flavors to meld. Adjust seasoning and serve with tortilla chips, tacos, enchiladas, etc. -Yields 1 1/2 cups.  
+
+Salsa Verde
+-----------
+
+Harmony Valley Farms Salsa Verde; yields 1½ cups.  
+
+    6-8 tomatillos (about 12 oz)
+    1 clove garlic
+    1 small onion
+    1 jalapeño, as desired
+    A few sprigs of cilantro
+    Salt and ground black pepper, to taste
+
+In a small saucepan, bring 4-5 cups water to a boil. Remove husks from
+tomatillos and rinse fruit. Boil tomatillos for about 5 minutes or just until
+softened.
+
+In the bowl of a food processor, put tomatillos and the rest of the
+ingredients. For a medium heat salsa, use about 1⁄2 of the jalapeño with
+seeds. Adjust the amount of jalapeño to your liking. Blend until the mixture
+is a coarse puree.
+
+Refrigerate for 1-2 hours to allow flavors to meld. Adjust seasoning and serve
+with tortilla chips, tacos, enchiladas, etc.
+
 
 
 Susan's Guacamole
-=================
+-----------------
 
 Serves 6 (unless Uncle John is visiting then serves not so many)
 
@@ -47,7 +81,7 @@ Note:  I like using the lemon juice versus the lime. 
 
 
 Adeline's Favorite Muffins
-==========================
+--------------------------
 
 Makes 12.  Ingredients:
 
@@ -83,12 +117,19 @@ Pinch salt
 1 cup 100 percent agave tequila, preferably reposado
 1 cup Triple Sec
 
-1. Combine the lime zest and juice, the lemon zest and juice, sugar and salt in a large liquid measuring cup.  Cover with plastic wrap and refrigerate until flavors meld, 4 to 24 hours.
-2. Divide 1 cup crushed ice between 4-6 margarita or double old-fashioned glasses. Strain juice mixture into a 1-quart pitcher or cocktail shaker.  Add tequila, Triple Sec and remaining ice. Stir or shake until thoroughly combined and chilled – 20-60 seconds. Strain into ice-filled glasses and serve immediately.
+1. Combine the lime zest and juice, the lemon zest and juice, sugar and salt
+in a large liquid measuring cup.  Cover with plastic wrap and refrigerate
+until flavors meld, 4 to 24 hours.
+2. Divide 1 cup crushed ice between 4-6 margarita or double old-fashioned
+glasses. Strain juice mixture into a 1-quart pitcher or cocktail shaker.  Add
+tequila, Triple Sec and remaining ice. Stir or shake until thoroughly combined
+and chilled – 20-60 seconds. Strain into ice-filled glasses and serve
+immediately.
 
 Variations:
+
 Fresh Pineapple Margaritas  
-1/2 cored and peeled pineapple (about 1 3/4 pounds)
+½ cored and peeled pineapple (about 1 3/4 pounds)
 Puree pineapple in food processor or blender until smooth and foamy.  Follow above recipe except omit zest and steeping process, reduce lemon and lime juices to ¼ cup each and add ½ cup pineapple juice to juice mixture.
 
 Fresh Raspberry or Strawberry Margarita
@@ -96,7 +137,8 @@ Follow recipe above except omit zest and steeping process.  Puree 1 cup of raspb
 
 Note:  The longer the zest and the juice mixture are allowed to steep, the more developed the citrus flavors in the finished margaritas.  We recommend steeping the full 24 hours, although the margaritas wills till be great if the mixture is steeped for only the minimum of 4 hours.  If you are in a rush and want to serve the margaritas immediately, omit the zest and skip the steeping process altogether. 
 
-Carrot and Apple Slaw 
+
+Carrot and Apple Slaw
 =====================
 
 Bon Appétit | October 1991
@@ -123,25 +165,26 @@ Mexican Chicken Burgers with Lime Cilantro Mayo
 Ingredients:
 
     1 lb ground pork
-    1/2 lb ground chicken
+    ½ lb ground chicken
     2 t minced garlic
-    1 1/2 T chile powder
-    1/2 c. chopped cilantro
+    1½ T chile powder
+    ½ c. chopped cilantro
     2 t lime zest
-    1 1/2 t kosher salt
-    1/2 t black pepper
-    1 1/2 c shredded Monterey jack cheese
+    1½ t kosher salt
+    ½ t black pepper
+    1½ c shredded Monterey jack cheese
     Rolls, split & toasted
 
 Optional: sliced avocado, tomato, red onion, lettuce
 
 Lime mayonnaise
-1/2 c. mayo (the kind made with olive oil)
+½ c. mayo (the kind made with olive oil)
 1 T lime juice
 1/4 c. chopped cilantro
 
-DIRECTIONS
-Preheat grill to medium heat. In medium bowl use hands to lightly blend pork, chicken, garlic, chile powder, cilantro, lime zest, salt, and pepper. Shape into 6-8 patties. Grill 3-4 minutes on each side. 
+Preheat grill to medium heat. In medium bowl use hands to lightly blend pork,
+chicken, garlic, chile powder, cilantro, lime zest, salt, and pepper. Shape
+into 6-8 patties. Grill 3-4 minutes on each side.
 
 Mound cheese on each patty, cover, and cook until cheese melts.
       2 
@@ -154,21 +197,23 @@ Good without the cheese.
  
 
 Butternut Squash Curry with Tilapia
+-----------------------------------
 
-A quick and easy weeknight dinner idea using boxed soup, tilapia and prepared curry paste
-By Rachel Fishman Feddersen
+A quick and easy weeknight dinner idea using boxed soup, tilapia and prepared
+curry paste
 
-Parenting.com
+By Rachel Fishman Feddersen, Parenting.com
 
 Serves: 4
 
 Total time: 20 minutes
 
 Ingredients:
-1 box butternut squash soup
-1 to 2 Tbsp (or to taste) Thai red curry paste (or leftover sauce from Thai takeout)
-1 lb tilapia fillet
-1/4 to 1/2 lb green beans, trimmed
+
+    1 box butternut squash soup
+    1 to 2 Tbsp (or to taste) Thai red curry paste (or leftover sauce from Thai takeout)
+    1 lb tilapia fillet
+    1/4 to ½ lb green beans, trimmed
 
 Directions:
 
@@ -191,7 +236,7 @@ Ingredients
 1/3 cup sugar
 1/3 cup water
 4 green tea bags
-1/2 cup chilled unsweetened cranberry juice
+½ cup chilled unsweetened cranberry juice
 Ice
 3 cups chilled seltzer
 Directions
@@ -340,34 +385,45 @@ Salad:
 5. Top with wonton strips right before serving.
 
 Serves 6 
+
+
 Southwestern Smoked Turkey and Pasta Salads
+===========================================
 
-1 ¼  c. orzo (rice shaped pasta)
+    1¼ c. orzo (rice-shaped pasta)
+    2 c. diced smoked turkey
+    ¾ lb ripe plum tomatoes, seeded, diced
+    ½ med. green bell pepper, thinly sliced
+    1 c. frozen corn kernels, thawed
+    1/3 c. chopped red onion
+    1 15 oz. can black beans, drained and rinsed
 
-2 c. diced smoked turkey 
-¾ lb ripe plum tomatoes, seeded, diced
-½ med. green bell pepper, thinly sliced
-1 c. frozen corn kernels, thawed
-1/3 c. chopped red onion
-1 15 oz. can black beans, drained and rinsed
+    ¼ c. olive oil
+    6 Tb. chopped fresh cilantro
+    3 Tb. white wine vinegar
+    1 Tb Dijon mustard
+    1 large jalapeno chili, seeded, minced
+    1 ¼  tsp ground cumin
+    ¾ tsp. salt
+    ¾ tsp. pepper
 
-¼ c. olive oil
-6 Tb. chopped fresh cilantro
-3 Tb. white wine vinegar
-1 Tb Dijon mustard
-1 large jalapeno chili, seeded, minced
-1 ¼  tsp ground cumin
-¾ tsp. salt
-¾ tsp. pepper
+    1 ripe avocado, peeled, sliced
 
-1 ripe avocado, peeled, sliced
+Cook pasta according to directions.  Drain and cool pasta.  Add turkey,
+tomatoes, green bell pepper, corn, beans and onion to pasta.
 
-Cook pasta according to directions.  Drain and cool pasta.  Add turkey, tomatoes, green bell pepper, corn, beans and onion to pasta.
-
-Whisk together olive oil, cilantro, vinegar, mustard, chili, cumin, salt and pepper.  Pour dressing over salad and mix gently.  Can be prepared 3 hours ahead.  Cover and refrigerate.
+Whisk together olive oil, cilantro, vinegar, mustard, chili, cumin, salt and
+pepper.  Pour dressing over salad and mix gently.  Can be prepared 3 hours
+ahead.  Cover and refrigerate.
 
 Adapted from Bon Appetit, Smoked Turkey and Rice Salad, August 1991. 
+
+
+
+
 Berkeley Petite Lentil Couscous Salad
+=====================================
+
 4-6 servings
 
 ¾ c. petite french green lentils
@@ -497,8 +553,8 @@ Ingredients
 1⁄2 head red cabbage, shredded
 3 shredded carrots
 1 ½ shredded Beauty Heart radishes (optional)
-1/2 c. plain yogurt
-1/4 c. mayonnaise
+½ c. plain yogurt
+¼ c. mayonnaise
 5 T. apple cider vinegar 
 3/4 tsp celery seed 
 4 tsp. sugar
@@ -523,7 +579,7 @@ Chill: 2 hours
 
 Ingredients
 2 to 3 slices ripe honeydew melon
-1   lime, sliced 1/4-inch thick
+1   lime, sliced ¼-inch thick
 4   mint sprigs
 2 quarts water
    Ice cubes
@@ -543,18 +599,18 @@ Ingredients
 2 small heads cauliflower
 2 to 3 ounces thinly sliced Serrano ham, cooked ham, or prosciutto
 1 ounce Manchego cheese or Jack cheese, thinly sliced or crumbled
-1/4 cup olive oil or cooking oil
+¼ cup olive oil or cooking oil
 2 tablespoons lemon juice
 1 clove garlic, minced
-1/2 teaspoon salt
-1/4 teaspoon sugar
-1/4 teaspoon dry mustard
-1/4 teaspoon freshly ground black pepper
+½ teaspoon salt
+¼ teaspoon sugar
+¼ teaspoon dry mustard
+¼ teaspoon freshly ground black pepper
 2 tablespoons toasted pine nuts
 2 tablespoons capers, drained
 
 Directions
-1. Remove heavy leaves and tough stems from cauliflower; cut into 4 to 6 wedges each. Place cauliflower in a microwave-safe 3-quart casserole. Add 1/2 cup water. Microcook, covered, on 100 percent power (high) for 7 to 9 minutes or just until tender. Remove with a slotted spoon to serving plates. Top with ham and cheese. 
+1. Remove heavy leaves and tough stems from cauliflower; cut into 4 to 6 wedges each. Place cauliflower in a microwave-safe 3-quart casserole. Add ½ cup water. Microcook, covered, on 100 percent power (high) for 7 to 9 minutes or just until tender. Remove with a slotted spoon to serving plates. Top with ham and cheese. 
 2. In a screw top jar combine oil, lemon juice, garlic, salt, sugar, mustard, and pepper. Cover and shake well to combine; drizzle over cauliflower, ham, and cheese. Sprinkle with pine nuts and capers. Makes 4 servings. 
 Note: Serrano ham comes from Spain; find it in some specialty markets or at www.tienda.com. Substitute with any other thinly sliced ham. 
 
@@ -574,18 +630,18 @@ INGREDIENTS
 2 cinnamon sticks
 1 bay leaf
 1/4 teaspoon dried crushed red pepper
-1 1/2 cups whole milk
+1 ½ cups whole milk
 3 large tomatoes, quartered
 3 tablespoons Major Grey chutney
 3 tablespoons fresh lemon juice
 2 tablespoons minced peeled fresh ginger
-1 1/2 tablespoons curry powder
-1/2 teaspoon salt
+1 ½ tablespoons curry powder
+½ teaspoon salt
 Hot cooked rice 
 PREPARATION
 
 Sprinkle beef with salt and pepper. Heat 2 tablespoons oil in heavy large pot over high heat. Working in batches, add beef to pot and brown on all sides, about 7 minutes per batch. Using slotted spoon, transfer to plate.
-Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions; sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves, garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute. Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and 1/2 teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is tender, stirring occasionally, about 2 hours.
+Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions; sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves, garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute. Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and ½ teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is tender, stirring occasionally, about 2 hours.
 Uncover; increase heat to medium. Boil stew until juices are slightly thickened, about 10 minutes. Serve over rice. 
 Makes 6 servings.
 
@@ -600,13 +656,13 @@ Ingredients:
 3 cups boiling water
 2 Tbs. plus 1 tsp. white wine vinegar
 1 Tbs. plus 1 tsp. soy sauce
-1/2 tsp. Asian sesame oil
+½ tsp. Asian sesame oil
 1 1/4 tsp. Asian chili oil
-1/2 tsp. freshly ground pepper, plus more, to taste
+½ tsp. freshly ground pepper, plus more, to taste
 5 cups chicken stock
-1/2 cup canned thinly sliced bamboo shoots, rinsed and drained
-1 boneless, skinless whole chicken breast, about 1/2 lb., cut crosswise into thin bite-size  slices
-1/4 lb. firm tofu, drained and cut into 1/2- inch cubes
+½ cup canned thinly sliced bamboo shoots, rinsed and drained
+1 boneless, skinless whole chicken breast, about ½ lb., cut crosswise into thin bite-size  slices
+1/4 lb. firm tofu, drained and cut into ½- inch cubes
 2 Tbs. cornstarch
 1/4 cup water
 1 egg, well beaten
@@ -634,9 +690,9 @@ Salt and freshly ground pepper, to taste
 5 garlic cloves, minced
 1 jalapeño, seeded and minced
 1 lb. Anaheim chilies, roasted, peeled and diced,   or 3 cans (each 7 oz.) whole fire-roasted  Anaheim chilies, diced
-4 to 4 1/2 cups low-sodium chicken broth,   warmed
+4 to 4 ½ cups low-sodium chicken broth,   warmed
 1 lb. diced cooked turkey
-3 cans (each 15 oz.) cannellini beans, drained  and rinsed, or 4 1/2 cups cooked white beans,   drained
+3 cans (each 15 oz.) cannellini beans, drained  and rinsed, or 4 ½ cups cooked white beans,   drained
 2 Tbs. minced fresh oregano
 1/3 cup minced fresh cilantro
 1/4 cup cornmeal
@@ -645,7 +701,7 @@ Shredded jack cheese, sour cream and lime  wedges for serving
 Directions:
 In a large sauté pan over medium heat, warm the olive oil. Add the onion, season with salt and pepper and cook, stirring occasionally, until softened, 5 to 7 minutes. Add the cumin, garlic and jalapeño and cook, stirring, for 30 seconds. Stir in the chilies and 3 1/2 cups of the broth, and then transfer to a slow cooker. Stir in the turkey, beans, oregano and cilantro. 
 
-Put the cornmeal in a small bowl and slowly whisk in 1/2 cup of the broth. Stir the cornmeal mixture into the turkey mixture. Cover and cook on high for 3 hours according to the manufacturer's instructions. Thin the chili with more broth if needed.
+Put the cornmeal in a small bowl and slowly whisk in ½ cup of the broth. Stir the cornmeal mixture into the turkey mixture. Cover and cook on high for 3 hours according to the manufacturer's instructions. Thin the chili with more broth if needed.
 
 Ladle the chili into warmed bowls. Serve with cheese, sour cream and lime wedges. 
 
@@ -686,9 +742,9 @@ Yield: Serves 6
 8 tablespoons (1 stick) butter
 4 cups matchstick-size strips red bell peppers (about 2 large)
 2 cups matchstick-size strips leek (white and pale green parts only; about 1 large)
-1/2 cup dry white wine
+½ cup dry white wine
 1 teaspoon dried crushed red pepper
-1/2 cup thinly sliced fresh basil
+½ cup thinly sliced fresh basil
 1 teaspoon salt
 
 12 sheets fresh phyllo pastry or frozen, thawed
