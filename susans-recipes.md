@@ -1890,131 +1890,183 @@ Plain yogurt
 
 Heat oil in heavy large Dutch oven over medium-high heat. Add onion, bell pepper and garlic; sauté until vegetables soften, about 5 minutes. Add chicken, curry powder, ginger and crushed red pepper; stir 2 minutes. Add 4 cups broth, tomatoes and apple and bring to boil. Reduce heat and simmer 20 minutes. (Can be made 1 day ahead. Cover and refrigerate. Bring to simmer before continuing.)
 Stir orzo and currants into soup and simmer until orzo is just cooked through, about 5 minutes. Season with salt and pepper. Ladle soup into bowls. Garnish with cilantro and dollop of yogurt.  
-Baked Chicken Meatballs with Peperonata 
-Gourmet | August 2009
-by Maggie Ruggiero
 
-Yield: Makes 4 servings
 
-For peperonata:
-3 red bell peppers, cut into strips
-1 ½ tablespoons extra-virgin olive oil, divided
-1 ½ tablespoons drained capers
-1 teaspoon red-wine vinegar 
-⅛ teaspoon hot red pepper flakes
 
-For meatballs:
-3 slices Italian bread, torn into pieces (1 cup)
-⅓ cup milk
-3 ounces sliced pancetta, finely chopped
-1 small onion, finely chopped
-1 small garlic clove, minced
-2 tablespoons extra-virgin olive oil, divided
-1 large egg
-1 pound ground chicken
-3 tablespoons finely chopped flat-leaf parsley
-1 tablespoon tomato paste
 
-Accompaniment: garlic bread made from remainder of Italian loaf
+## Baked Chicken Meatballs with Peperonata
 
-Make peperonata: 
-Preheat oven to 400°F with racks in upper and lower thirds.
-Toss bell peppers with 1 tablespoon oil, then roast in a 4-sided sheet pan in lower third of oven, stirring occasionally, until tender and browned, about 35 minutes.
-Stir together capers, vinegar, red pepper flakes, and remaining ½ tablespoon oil in a medium bowl and set aside.
+Gourmet, August 2009, by Maggie Ruggiero.  Makes 4 servings.
 
-Make meatballs while peppers roast: 
-Soak bread in milk in a small bowl until softened, about 4 minutes.
-Cook pancetta, onion, and garlic in 1 tablespoon oil with ½ teaspoon each of salt and pepper in a 10-inch skillet over medium heat until onion is softened, about 6 minutes. Cool slightly.
-Squeeze bread to remove excess milk, then discard milk. Lightly beat egg in a large bowl, then combine with chicken, pancetta mixture, bread, and parsley. Form 12 meatballs and arrange in another 4-sided sheet pan.
-Stir together tomato paste and remaining tablespoon oil and brush over meatballs, then bake in upper third of oven until meatballs are just cooked through, 15 to 20 minutes.
+#### Peperonata
+
+> 3 red bell peppers, cut into strips  
+> 1½ tablespoons extra-virgin olive oil, divided  
+> 1½ tablespoons drained capers  
+> 1 teaspoon red-wine vinegar  
+> ⅛ teaspoon hot red pepper flakes  
+
+Preheat oven to 400°F with racks in upper and lower thirds.  Toss bell peppers
+with 1 tablespoon oil, then roast in a 4-sided sheet pan in lower third of
+oven, stirring occasionally, until tender and browned, about 35 minutes.
+
+Stir together capers, vinegar, red pepper flakes, and remaining ½ tablespoon
+oil in a medium bowl and set aside.
+
+
+#### Meatballs
+
+> 3 slices Italian bread, torn into pieces (1 cup)  
+> ⅓ cup milk  
+> 3 ounces sliced pancetta, finely chopped  
+> 1 small onion, finely chopped  
+> 1 small garlic clove, minced  
+> 2 tablespoons extra-virgin olive oil, divided  
+> 1 large egg  
+> 1 pound ground chicken  
+> 3 tablespoons finely chopped flat-leaf parsley  
+> 1 tablespoon tomato paste  
+
+Soak bread in milk in a small bowl until softened, about 4 minutes.  Cook
+pancetta, onion, and garlic in 1 tablespoon oil with ½ teaspoon each of salt
+and pepper in a 10-inch skillet over medium heat until onion is softened, about
+6 minutes. Cool slightly.
+
+Squeeze bread to remove excess milk, then discard milk. Lightly beat egg in a
+large bowl, then combine with chicken, pancetta mixture, bread, and parsley.
+Form 12 meatballs and arrange in another 4-sided sheet pan.  Stir together
+tomato paste and remaining tablespoon oil and brush over meatballs, then bake
+in upper third of oven until meatballs are just cooked through, 15 to 20
+minutes.
 
 Toss bell peppers with caper mixture. Serve meatballs with peperonata.
 
+* Make garlic bread to accompany meatballs from the remainder of the Italian
+  loaf.
 
-Louisiana Red Beans and Rice
 
-(Tyler Florence recipe from the foodnetwork.com)
+
+
+## Louisiana Red Beans and Rice
+
+(Tyler Florence recipe from the foodnetwork.com)  
 Serves: 6 servings
 
-Ingredients
-•  1 pound dried small red beans, picked over and rinsed
-•  2 large smoked ham hocks
-•  1 large yellow onion, chopped
-•  2 celery stalks, chopped
-•  1 large green bell pepper, chopped
-•  1 teaspoon cayenne
-•  ¼ bunch fresh flat-leaf parsley, chopped
-•  2 sprigs fresh thyme
-•  3 bay leaves
-•  4 garlic cloves, chopped
-•  2 green onions, green part only, chopped, plus more for garnish
-•  Red pepper sauce
-•  2 andouille sausages, sliced thin
-•  4 cups cooked white rice
+> 1 pound dried small red beans, picked over and rinsed  
+> 2 large smoked ham hocks  
+> 1 large yellow onion, chopped  
+> 2 celery stalks, chopped  
+> 1 large green bell pepper, chopped  
+> 1 teaspoon cayenne  
+> ¼ bunch fresh flat-leaf parsley, chopped  
+> 2 sprigs fresh thyme  
+> 3 bay leaves  
+> 4 garlic cloves, chopped  
+> 2 green onions, green part only, chopped, plus more for garnish  
+> Red pepper sauce  
+> 2 andouille sausages, sliced thin  
+> 4 cups cooked white rice  
 
-Directions
-Place the dried beans in a large bowl and cover with cold water. Soak the beans overnight in the refrigerator.
-Drain the beans and put them in a large heavy pot with the ham hocks, adding just enough cold water to cover (about 2 quarts). Add the onion, celery, green pepper, cayenne, parsley, thyme, bay leaves, garlic, green onions, and several shakes of red pepper sauce; give everything a good stir to combine. Simmer, uncovered, until the beans are tender and starting to thicken, about 2½ hours. You want the beans to be almost overcooked, like they are getting ready to burst. Stir the beans occasionally to prevent scorching on the bottom of the pot. Add about 1 cup of water toward the end of cooking if the mixture appears too thick or dry.
-Mash about 1 cup of the cooked beans against the side of the pot with a wooden spoon, this makes the broth thick and creamy. Toss in the sausages and cook for another 30 minutes to heat them through. Adjust the seasoning, if needed. Serve the red beans in a wide bowl over some steamed white rice and garnished with chopped green onion. 
-Charred Chili Relleno with Green Rice
-(Recipe courtesy of Rachael Ray & The Foodnetwork.com, 2007)
-Prep Time: 20 min (Susan thinks it takes longer)
-Cook Time: 20 min
-Level: Easy
+Place the dried beans in a large bowl and cover with cold water. Soak the beans
+overnight in the refrigerator.
 
-Ingredients
-•  4 cups chicken or vegetable stock, divided
-•  1 bay leaf
-•  2 cups white rice
-•  4 large poblano peppers
-•  6 ears corn on the cob or 3 cups frozen corn kernels
-•  3 tablespoons corn, peanut or vegetable oil, divided
-•  1 red onion, chopped
-•  1 jalapeno, seeded and chopped
-•  4 cloves garlic, chopped
-•  1 (15-ounce) can fire roasted diced tomatoes, drained well
-•  1 ½ teaspoons ground cumin, ½ palm full
-•  ½ teaspoon dried oregano, eyeball it in your palm
-•  Salt and freshly ground black pepper
-•  ½ cup fresh cilantro leaves
-•  ½ pound spinach leaves, deveined and coarsely chopped
-•  4 scallions, coarsely chopped
-•  2 limes, zested, juiced
-•  1 cup shredded Chihuahua cheese, Asadero or Monterey Jack
+Drain the beans and put them in a large heavy pot with the ham hocks, adding
+just enough cold water to cover (about 2 quarts). Add the onion, celery, green
+pepper, cayenne, parsley, thyme, bay leaves, garlic, green onions, and several
+shakes of red pepper sauce; give everything a good stir to combine. Simmer,
+uncovered, until the beans are tender and starting to thicken, about 2½ hours.
+You want the beans to be almost overcooked, like they are getting ready to
+burst. Stir the beans occasionally to prevent scorching on the bottom of the
+pot. Add about 1 cup of water toward the end of cooking if the mixture appears
+too thick or dry.
 
-Directions
-Preheat broiler or grill pan to high. (Don't do this until the rellenos are ready)
-Heat about 3 ½ cups stock in a sauce pot with a bay leaf to boiling. Add rice, cover pot reduce heat to low and simmer 18 minutes until tender.
-Place poblanos under broiler or on hot grill and char evenly all over, 15 minutes.
-While peppers and rice are working, scrape the corn off the cobs or defrost frozen corn and dry by spreading out on clean kitchen towel. Heat 2 tablespoons light oil in a skillet over high heat. When the oil smokes or ripples add corn, onion, jalapenos and toss until the vegetables char at edges and onions are tender, 4 to 5 minutes. Reduce heat to medium-high and add in garlic, fire roasted tomatoes and season with cumin, oregano, salt and pepper. Cook another minute or 2 then turn pan off.
-Place the cilantro, spinach, scallions, lime zest, half a cup of stock and a tablespoon of oil in food processor and process into coarse green paste. Stir into your rice pot in the last 3 to 4 minutes of its cooking time.
+Mash about 1 cup of the cooked beans against the side of the pot with a wooden
+spoon, this makes the broth thick and creamy. Toss in the sausages and cook for
+another 30 minutes to heat them through. Adjust the seasoning, if needed. Serve
+the red beans in a wide bowl over some steamed white rice and garnished with
+chopped green onion. 
+
+
+
+
+
+## Charred Chili Relleno with Green Rice
+
+FIXME
+
+Recipe courtesy of Rachael Ray & The Foodnetwork.com, 2007.  
+Prep Time: 20 min (Susan thinks it takes longer)  
+Cook Time: 20 min  
+Level: Easy  
+
+> 4 cups chicken or vegetable stock, divided  
+> 1 bay leaf  
+> 2 cups white rice  
+> 4 large poblano peppers  
+> 6 ears corn on the cob or 3 cups frozen corn kernels  
+> 3 tablespoons corn, peanut or vegetable oil, divided  
+> 1 red onion, chopped  
+> 1 jalapeno, seeded and chopped  
+> 4 cloves garlic, chopped  
+> 1 (15-ounce) can fire roasted diced tomatoes, drained well  
+> 1½ teaspoons ground cumin, ½ palm full  
+> ½ teaspoon dried oregano, eyeball it in your palm  
+> Salt and freshly ground black pepper  
+> ½ cup fresh cilantro leaves  
+> ½ pound spinach leaves, deveined and coarsely chopped  
+> 4 scallions, coarsely chopped  
+> 2 limes, zested, juiced  
+> 1 cup shredded Chihuahua cheese, Asadero or Monterey Jack  
+
+Preheat broiler or grill pan to high. (Don't do this until the rellenos are
+ready)
+
+Heat about 3 ½ cups stock in a sauce pot with a bay leaf to boiling. Add rice,
+cover pot reduce heat to low and simmer 18 minutes until tender.
+
+Place poblanos under broiler or on hot grill and char evenly all over, 15
+minutes.
+
+While peppers and rice are working, scrape the corn off the cobs or defrost
+frozen corn and dry by spreading out on clean kitchen towel. Heat 2 tablespoons
+light oil in a skillet over high heat. When the oil smokes or ripples add corn,
+onion, jalapenos and toss until the vegetables char at edges and onions are
+tender, 4 to 5 minutes. Reduce heat to medium-high and add in garlic, fire
+roasted tomatoes and season with cumin, oregano, salt and pepper. Cook another
+minute or 2 then turn pan off.
+
+Place the cilantro, spinach, scallions, lime zest, half a cup of stock and a
+tablespoon of oil in food processor and process into coarse green paste. Stir
+into your rice pot in the last 3 to 4 minutes of its cooking time.
+
 Sprinkle the lime juice over the corn mixture.
-Split the charred peppers open but not in half with small sharp knife then scoop out the seeds with a small spoon. Place peppers in a shallow baking dish and stuff each split pepper with lots of the corn mix, top each pepper with ¼ cup cheese and place back under broiler to melt and char the cheese.
-Serve peppers on beds of green rice. Yum-o! 
+
+Split the charred peppers open but not in half with small sharp knife then
+scoop out the seeds with a small spoon. Place peppers in a shallow baking dish
+and stuff each split pepper with lots of the corn mix, top each pepper with ¼
+cup cheese and place back under broiler to melt and char the cheese.
+
+Serve peppers on beds of green rice. Yum-o!
 
 
 
-Creamy Tomato Soup
-==================
 
-PARADE | August 2000
+## Creamy Tomato Soup
 
-Yield: Makes 6 to 8 servings
+Parade, August 2000. Makes 6 to 8 servings.
 
-::
-
-    2 tablespoons butter
-    2 tablespoons olive oil
-    1 large onion, chopped
-    1 tablespoon minced garlic
-    2 tablespoons flour
-    3½ pounds ripe tomatoes, chopped
-    2 tablespoons tomato paste
-    1 teaspoon sugar
-    3 cups chicken broth 
-    ⅛ teaspoon ground cloves
-    Salt and pepper, to taste
-    ½ cup half-and-half
+> 2 tablespoons butter  
+> 2 tablespoons olive oil  
+> 1 large onion, chopped  
+> 1 tablespoon minced garlic  
+> 2 tablespoons flour  
+> 3½ pounds ripe tomatoes, chopped  
+> 2 tablespoons tomato paste  
+> 1 teaspoon sugar  
+> 3 cups chicken broth  
+> ⅛ teaspoon ground cloves  
+> Salt and pepper, to taste  
+> ½ cup half-and-half  
 
 1. Melt the butter with the oil over low heat in a pot.
 2. Add the onion; wilt over low heat for 8 to 10 minutes. Add the garlic during the 
@@ -2029,62 +2081,55 @@ Yield: Makes 6 to 8 servings
 
 
  
-Pearl Barley, Bacon, and Root Vegetable Pilaf
-=============================================
+## Pearl Barley, Bacon, and Root Vegetable Pilaf
 
-Bon Appétit | January 2006
+Bon Appétit, January 2006.  Makes 4 servings.
 
-Yield: Makes 4 servings
+#### Pilaf
 
-Pilaf
------
+> 2 cups water  
+> ½ teaspoon salt  
+> 1 cup pearl barley, rinsed, drained  
 
-::
+> 6 ounces bacon, diced   
+> 1 shallot, minced (onion works just fine)  
+> 1¼ cups ¼- to ⅓-inch cubes peeled root vegetables (such as celery root,  
+>     carrot, turnip, rutabaga, and/or butternut squash)  
 
-    2 cups water
-    ½ teaspoon salt
-    1 cup pearl barley, rinsed, drained
-
-    6 ounces bacon, diced 
-    1 shallot, minced (onion works just fine)
-    1¼ cups ¼- to ⅓-inch cubes peeled root vegetables (such as celery root,
-        carrot, turnip, rutabaga, and/or butternut squash)
-
-    Pinch of sugar
-    2 teaspoons fresh lemon juice
-    ½ teaspoon chopped fresh thyme
-    ½ teaspoon chopped fresh rosemary
-
- 
-For pilaf:
+> pinch of sugar  
+> 2 teaspoons fresh lemon juice  
+> ½ teaspoon chopped fresh thyme  
+> ½ teaspoon chopped fresh rosemary  
 
 Bring 2 cups water and salt to boil in medium saucepan. Mix in barley. Cover
 pan, reduce heat to medium, and simmer until barley is tender, about 30
 minutes. Drain barley.
 
 Sauté bacon in large pot over medium heat until brown and crisp. Using slotted
-spoon, transfer bacon to paper towels. Pour off all but 2 tablespoons
-drippings from pot. Add shallot; stir 30 seconds. Add cubed vegetables and
-sugar; sauté 6 minutes. Add barley, lemon juice, and herbs; stir 2 minutes.
-Mix in bacon; season with salt and pepper.  
+spoon, transfer bacon to paper towels. Pour off all but 2 tablespoons drippings
+from pot. Add shallot; stir 30 seconds. Add cubed vegetables and sugar; sauté 6
+minutes. Add barley, lemon juice, and herbs; stir 2 minutes.  Mix in bacon;
+season with salt and pepper.  
 
 
-Carrot Orzo
-===========
+## Carrot Orzo
 
-Bon Appétit | March 2007
-Yield: Makes 4 servings
+Bon Appétit, March 2007. Makes 4 servings.
 
-6 ounces peeled baby carrots (about 1 ¼ cups; from 16-ounce package)
-2 tablespoons (¼ stick) butter
-1 cup orzo (rice-shaped pasta; about 8 ounces)
-1 ½ cups water
-1 ¼ cups low-salt chicken broth
-1 large garlic clove, minced
-¼ cup grated Parmesan cheese
-2 tablespoons chopped green onions
-1 teaspoon minced fresh rosemary
+> 6 ounces peeled baby carrots (about 1 ¼ cups; from 16-ounce package)  
+> 2 tablespoons (¼ stick) butter  
+> 1 cup orzo (rice-shaped pasta; about 8 ounces)  
+> 1 ½ cups water  
+> 1 ¼ cups low-salt chicken broth  
+> 1 large garlic clove, minced  
+> ¼ cup grated Parmesan cheese  
+> 2 tablespoons chopped green onions  
+> 1 teaspoon minced fresh rosemary  
 
-Place carrots in processor. Using on/off turns, finely chop carrots. Melt butter in heavy medium saucepan over medium heat. Add orzo and carrots; sauté until orzo is golden, about 5 minutes. Add 1 ½ cups water, broth, and garlic; cook uncovered over medium heat until all liquid is absorbed, stirring frequently, about 10 minutes. Stir in cheese, green onions, and rosemary. Season to taste with salt and pepper and serve.
-
+Place carrots in processor. Using on/off turns, finely chop carrots. Melt
+butter in heavy medium saucepan over medium heat. Add orzo and carrots; sauté
+until orzo is golden, about 5 minutes. Add 1 ½ cups water, broth, and garlic;
+cook uncovered over medium heat until all liquid is absorbed, stirring
+frequently, about 10 minutes. Stir in cheese, green onions, and rosemary.
+Season to taste with salt and pepper and serve.
 
