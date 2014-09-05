@@ -1055,276 +1055,361 @@ blend. Toss again and serve.
 
  
 ## Green Bean and Tomato Salad
-Bon Appétit | January 1992
-Yield: Serves 12
 
-3 pounds green beans, trimmed, cut into 2-inch pieces
-3 tablespoons country-style Dijon mustard
-¼ cup Sherry wine vinegar
-⅔ cup olive oil
-⅓ cup minced shallots
-2 1-pint baskets cherry tomatoes
+Bon Appétit, January 1992. Serves 12.
 
-Cook beans in large pot of boiling salted water until crisp-tender, about 5 minutes. Drain. Refresh under cold water; drain well. Transfer to large bowl. Combine mustard and vinegar in small bowl. Gradually whisk oil. Mix in shallots. (Can be prepared 1 day ahead. Cover beans and dressing separately. Refrigerate beans; let dressing stand at room temperature.) Mix dressing and tomatoes into beans. Season to taste with salt and pepper
+> 3 pounds green beans, trimmed, cut into 2-inch pieces  
+> 3 tablespoons country-style Dijon mustard  
+> ¼ cup Sherry wine vinegar  
+> ⅔ cup olive oil  
+> ⅓ cup minced shallots  
+> 2 1-pint baskets cherry tomatoes  
+
+Cook beans in large pot of boiling salted water until crisp-tender, about 5
+minutes. Drain. Refresh under cold water; drain well. Transfer to large bowl.
+Combine mustard and vinegar in small bowl. Gradually whisk oil. Mix in
+shallots. (Can be prepared 1 day ahead. Cover beans and dressing separately.)
+
+Refrigerate beans; let dressing stand at room temperature. Mix dressing and
+tomatoes into beans. Season to taste with salt and pepper.
 
 
  
-Barbecued Pork Burgers with Slaw
-Gourmet | August 2007
-Alexis Touchet
-Spicing up store-bought barbecue sauce with a touch of cayenne and a splash of vinegar is an easy trick that makes a big difference. Here, pork burgers get a triple hit of flavor: The sauce gets mixed into the meat, slathered onto the cooked burgers for the last minute of grilling, and brushed on the bun. A cabbage slaw with a creamy dressing tops them off with just the right crunch.
-Yield: Makes 4 -5 burgers
+## Barbecued Pork Burgers with Slaw
 
-1 (½-pound) piece green cabbage, cored
-¼ cup mayonnaise
-1 tablespoon milk
-1 tablespoon plus 1 ½ teaspoons white-wine vinegar, divided
-½ cup very finely shredded carrot (1 medium)
-1 tablespoon thinly sliced fresh chives
-½ cup bottled tomato-based barbecue sauce
-¼ teaspoon cayenne
-1 ½ pounds ground pork
-4 Kaiser or soft rolls, split and grilled
+Gourmet, August 2007, by Alexis Touchet.  Makes 4 -5 burgers.
+
+Spicing up store-bought barbecue sauce with a touch of cayenne and a splash of
+vinegar is an easy trick that makes a big difference. Here, pork burgers get a
+triple hit of flavor: The sauce gets mixed into the meat, slathered onto the
+cooked burgers for the last minute of grilling, and brushed on the bun. A
+cabbage slaw with a creamy dressing tops them off with just the right crunch.
+
+> 1 (½-pound) piece green cabbage, cored  
+> ¼ cup mayonnaise  
+> 1 tablespoon milk  
+> 1 tablespoon plus 1 ½ teaspoons white-wine vinegar, divided  
+> ½ cup very finely shredded carrot (1 medium)  
+> 1 tablespoon thinly sliced fresh chives  
+> ½ cup bottled tomato-based barbecue sauce  
+> ¼ teaspoon cayenne  
+> 1 ½ pounds ground pork  
+> 4 Kaiser or soft rolls, split and grilled  
 
 Equipment: an adjustable-blade slicer
 
 Prepare grill for direct-heat cooking over medium-hot charcoal (medium heat for gas).
-Thinly slice enough cabbage with slicer to measure 2 cups. Whisk together mayonnaise, milk, and 1 ½ teaspoons vinegar until smooth, then toss with cabbage, carrots, chives, and salt and pepper to taste. Let coleslaw stand at room temperature, uncovered, while making burgers.
-Stir together barbecue sauce, cayenne, ¼ teaspoon salt, and remaining tablespoon vinegar until combined well.
-Mix together pork, ½ teaspoon salt, ¼ teaspoon pepper, and 2 tablespoons barbecue sauce mixture until combined (do not overmix), then form into 4 (¾-inch-thick) burgers (4 inches in diameter).
-Oil grill rack, then grill patties, covered only if using a gas grill, turning over occasionally, until just cooked through, about 6 minutes total. Brush top of each patty with 1 tablespoon barbecue sauce mixture, then turn over and grill 30 seconds. Brush top of each patty with 1 tablespoon barbecue sauce, then turn over and grill 30 seconds more.
-Brush cut sides of rolls with remaining ¼ cup barbecue sauce, then sandwich patties and coleslaw between rolls.
 
-Coleslaw can be made 8 hours ahead and chilled, covered. •Patties can be formed 1 hour ahead and chilled, covered. •
+Thinly slice enough cabbage with slicer to measure 2 cups. Whisk together
+mayonnaise, milk, and 1 ½ teaspoons vinegar until smooth, then toss with
+cabbage, carrots, chives, and salt and pepper to taste. Let coleslaw stand at
+room temperature, uncovered, while making burgers.
+
+Stir together barbecue sauce, cayenne, ¼ teaspoon salt, and remaining
+tablespoon vinegar until combined well.
+
+Mix together pork, ½ teaspoon salt, ¼ teaspoon pepper, and 2 tablespoons
+barbecue sauce mixture until combined (do not overmix), then form into 4
+(¾-inch-thick) burgers (4 inches in diameter).
+
+Oil grill rack, then grill patties, covered only if using a gas grill, turning
+over occasionally, until just cooked through, about 6 minutes total. Brush top
+of each patty with 1 tablespoon barbecue sauce mixture, then turn over and
+grill 30 seconds. Brush top of each patty with 1 tablespoon barbecue sauce,
+then turn over and grill 30 seconds more.
+
+Brush cut sides of rolls with remaining ¼ cup barbecue sauce, then sandwich
+patties and coleslaw between rolls.
+
+Coleslaw can be made 8 hours ahead and chilled, covered. Patties can be formed
+1 hour ahead and chilled, covered.
 
 
 
-Roasted Garlic
-Bon Appétit | October 1999
-Yield: Makes about 1 ⅓ cups
+# Roasted Garlic
 
-Note: Also great mixed into mashed potatoes.
+Bon Appétit, October 1999. Makes about 1 ⅓ cups.
 
-large heads of garlic
-¼ cup olive oil
+> large heads of garlic  
+> ¼ cup olive oil  
 
-Preheat oven to 350°F. Cut top ¼ inch off heads of garlic to expose cloves. Place garlic in small baking dish. Add oil and sprinkle with salt and pepper; toss to coat. Turn garlic cut side up. Cover tightly with aluminum foil. Bake until garlic skins are golden brown and cloves are tender, about 55 minutes. Cool. Squeeze garlic cloves from skins.
-
+Preheat oven to 350 °F. Cut top ¼ inch off heads of garlic to expose cloves.
+Place garlic in small baking dish. Add oil and sprinkle with salt and pepper;
+toss to coat. Turn garlic cut side up. Cover tightly with aluminum foil. Bake
+until garlic skins are golden brown and cloves are tender, about 55 minutes.
+Cool. Squeeze garlic cloves from skins.
  
-Crostini with Roasted Garlic, Goat Cheese and Apple Chutney
-Bon Appétit | October 1999
-128 Cafe, St. Paul, Minnesota
-Kari and Brian Chase of St. Paul, Minnesota say that their neighborhood has a great restaurant: 128 Cafe. The last time they were there they tried a delicious appetizer of crisp bread with roasted garlic, goat cheese and apple chutney.
-Yield: Makes 8 Servings
-
-Note: At the restaurant, the bread is grilled, but it's just as good when it's baked.
-
-1 cup (packed) golden brown sugar
-¾ cup rice vinegar
-2 garlic cloves, minced
-1 ½ teaspoons minced peeled fresh ginger
-⅛ teaspoon cayenne pepper
-1 cinnamon stick
-1 ½ pounds Granny Smith apples, peeled, cored, cut into -inch pieces (about 4 cups)
-1 cup golden raisins
-1 cup diced seeded plum tomatoes
-1 tablespoon chopped fresh mint
-
-1 French-bread baguette, cut into ⅓-inch-thick slices
-Olive oil
-Roasted Garlic
-12 ounces soft fresh goat cheese (such as Montrachet), room temperature
-
-Stir sugar and vinegar in heavy large saucepan over medium heat until sugar dissolves. Add next 4 ingredients and simmer until mixture is syrupy and reduced to ½ cup, about 8 minutes. Mix in apples and raisins. Increase heat to high and boil until apples are tender, stirring frequently, about 10 minutes. Cool to room temperature. (Chutney can be made 3 days ahead; cover and refrigerate.) Mix in tomatoes and mint.
-Preheat oven to 450°F. Arrange baguette slices on baking sheet and brush with olive oil. Bake until golden and crisp, about 8 minutes. Spread each toast with roasted garlic; top with goat cheese and chutney.
+* Also great mixed into mashed potatoes.
 
 
-NOTE:  A good jarred apple chutney or pear chutney works just as well 
-Pork Tenderloin with Herbed Breadcrumb Crust
-Bon Appétit | September 1998
+
+
+
+## Crostini with Roasted Garlic, Goat Cheese and Apple Chutney
+
+Bon Appétit, October 1999.  From the 128 Cafe, St. Paul, Minnesota.  Makes 8
+Servings
+
+Kari and Brian Chase of St. Paul, Minnesota say that their neighborhood has a
+great restaurant: 128 Cafe. The last time they were there they tried a
+delicious appetizer of crisp bread with roasted garlic, goat cheese and apple
+chutney.
+
+> 1 cup (packed) golden brown sugar  
+> ¾ cup rice vinegar  
+> 2 garlic cloves, minced  
+> 1½ teaspoons minced peeled fresh ginger  
+> ⅛ teaspoon cayenne pepper  
+> 1 cinnamon stick  
+> 1½ pounds Granny Smith apples, peeled, cored, cut into FIXME-inch pieces (about 4 cups)  
+> 1 cup golden raisins  
+> 1 cup diced seeded plum tomatoes  
+> 1 tablespoon chopped fresh mint  
+
+> 1 French-bread baguette, cut into ⅓-inch-thick slices  
+> Olive oil  
+> Roasted Garlic  
+> 12 ounces soft fresh goat cheese (such as Montrachet), room temperature  
+
+Stir sugar and vinegar in heavy large saucepan over medium heat until sugar
+dissolves. Add next 4 ingredients and simmer until mixture is syrupy and
+reduced to ½ cup, about 8 minutes. Mix in apples and raisins. Increase heat to
+high and boil until apples are tender, stirring frequently, about 10 minutes.
+Cool to room temperature. (Chutney can be made 3 days ahead; cover and
+refrigerate.) Mix in tomatoes and mint.
+
+Preheat oven to 450°F. Arrange baguette slices on baking sheet and brush with
+olive oil. Bake until golden and crisp, about 8 minutes. Spread each toast with
+roasted garlic; top with goat cheese and chutney.
+
+* At the restaurant, the bread is grilled, but it's just as good when it's baked.
+* A good jarred apple chutney or pear chutney works just as well 
+* Good lord this sounds good
+
+
+## Pork Tenderloin with Herbed Breadcrumb Crust
+
+Bon Appétit, September 1998.  Serves 8.
 
 Simple, appealing and perfect with the polenta. Pour a Barbera or Pinot Bianco.
-Yield: Serves 8
 
+> 6 cups fresh breadcrumbs made from French bread  
+> ⅔ cup chopped fresh parsley  
+> 2 tablespoons chopped fresh rosemary  
+> 1 ¾ teaspoons crumbled bay leaves  
 
-6 cups fresh breadcrumbs made from French bread
-⅔ cup chopped fresh parsley
-2 tablespoons chopped fresh rosemary
-1 ¾ teaspoons crumbled bay leaves
+> 3 pounds pork tenderloins, trimmed  
+> 2 large eggs, beaten to blend  
 
-3 pounds pork tenderloins, trimmed
-2 large eggs, beaten to blend
+> 4 tablespoons (½ stick) butter  
+> 2 tablespoons olive oil  
 
-4 tablespoons (½ stick) butter
-2 tablespoons olive oil
+Preheat oven to 375°F. Mix first 4 ingredients in large bowl to blend. Season
+to taste with salt and pepper.
 
-Preheat oven to 375°F. Mix first 4 ingredients in large bowl to blend. Season to taste
-with salt and pepper.
-Sprinkle pork with salt and pepper. Dip into eggs, then into breadcrumb mixture,
-coating completely.
+Sprinkle pork with salt and pepper. Dip into eggs, then into breadcrumb
+mixture, coating completely.
+
 Melt 2 tablespoons butter and 1 tablespoon oil in heavy large skillet over
 medium-high heat. Add half of pork; cook until golden on all sides, about 5
 minutes. Place on rack set in large roasting pan. Wipe out skillet. Repeat with
 remaining 2 tablespoons butter, 1 tablespoon oil and pork.
 
-Roast pork until crust is golden and thermometer inserted into center
-registers 155°F, about 20 minutes. Transfer pork to cutting board. Let stand 5
-minutes.  Slice pork and serve.
+Roast pork until crust is golden and thermometer inserted into center registers
+155°F, about 20 minutes. Transfer pork to cutting board. Let stand 5 minutes.
+Slice pork and serve.
+
+
+
 
  
-Slow-Cooked Carnitas Tacos
-==========================
+## Slow-Cooked Carnitas Tacos
 
-Bon Appétit | April 2008
-Amy Finely
+Bon Appétit, April 2008, by Amy Finely.  Makes FIXME servings.
+
 You'll need a slow cooker for this recipe (a necessity for any busy cook).
-Yield: servings
 
-2 pounds boneless country-style pork ribs or pork shoulder (Boston butt), cut into 1 ½-inch pieces
-2 teaspoons salt
-2 teaspoons ground black pepper
-2 teaspoons dried oregano (preferably Mexican)
-½ large onion, cut into 4 pieces
-1 avocado, halved, pitted, sliced
-Fresh cilantro sprigs
-Sliced red bell peppers (optional)
-Corn tortillas
-Roasted Tomatillo Salsa
+> 2 pounds boneless country-style pork ribs or pork shoulder (Boston butt), cut into 1 ½-inch pieces  
+> 2 teaspoons salt  
+> 2 teaspoons ground black pepper  
+> 2 teaspoons dried oregano (preferably Mexican)  
+> ½ large onion, cut into 4 pieces  
+> 1 avocado, halved, pitted, sliced  
+> Fresh cilantro sprigs  
+> Sliced red bell peppers (optional)  
+> Corn tortillas  
+> Roasted Tomatillo Salsa  
 
-Toss pork in bowl of slow cooker with salt, black pepper, and dried oregano to coat. Place onion pieces atop pork. Cover slow cooker and cook pork on low setting until meat is very tender and falling apart, about 6 hours.
-Using slotted spoon, transfer pork to cutting board. Discard onion pieces. Using fingers, shred pork; transfer carnitas to platter. Place avocado slices, cilantro sprigs, and sliced red bell peppers, if desired, alongside. Wrap corn tortillas in damp kitchen towel; microwave until warm, about 1 minute. Serve carnitas with warm tortillas and tomatillo salsa.
+Toss pork in bowl of slow cooker with salt, black pepper, and dried oregano to
+coat. Place onion pieces atop pork. Cover slow cooker and cook pork on low
+setting until meat is very tender and falling apart, about 6 hours.
+
+Using slotted spoon, transfer pork to cutting board. Discard onion pieces.
+Using fingers, shred pork; transfer carnitas to platter. Place avocado slices,
+cilantro sprigs, and sliced red bell peppers, if desired, alongside. Wrap corn
+tortillas in damp kitchen towel; microwave until warm, about 1 minute. Serve
+carnitas with warm tortillas and tomatillo salsa.   
+
+
+
+
+## Spicy Garbanzo Bean and Turkey Sausage Soup
+
+Bon Appétit, March 1995.  Serves 6.
+
+Sliced or diced fresh avocado makes a colorful garnish for this hearty
+southwestern soup. If you want to cut up the avocado ahead of time but don't
+want it to discolor, simply place the avocado pieces in a colander and rinse
+them with cold water. They will stay bright green for about two hours.
+
+> 1 teaspoon olive oil  
+> ¾ pound turkey sausage, casings removed, crumbled  
+> 8 large garlic cloves, chopped  
+> 1 cup canned diced peeled tomatoes with juices  
+> 2 tablespoons thinly sliced seeded jalapeño chili  
+> 1 teaspoon ground cumin  
+> 1 teaspoon chopped fresh rosemary or ½ teaspoon dried  
+> 3 15- to 16-ounce cans garbanzo beans (chick-peas), undrained  
+> 2 cups canned chicken broth or beef broth  
+> 2 tablespoons fresh lemon juice  
+> chopped fresh cilantro  
+> 1 avocado, peeled, sliced  
+
+Heat olive oil in heavy large Dutch oven over medium-high heat. Add turkey
+sausage and chopped garlic and sauté until sausage is golden brown and cooked
+through, breaking up sausage with back of fork, about 5 minutes. Reduce heat to
+medium. Add tomatoes with their juices, sliced jalapeño chili, ground cumin and
+chopped fresh rosemary and simmer 10 minutes, stirring frequently.
+
+Add garbanzo beans with their liquid and chicken broth and bring to boil.
+Reduce heat and simmer soup 15 minutes. Stir in fresh lemon juice. Season soup
+to taste with salt and pepper. (Can be prepared 1 day ahead. Cover and
+refrigerate. Rewarm over medium heat before continuing.)
+
+Ladle soup into bowls. Sprinkle soup with chopped fresh cilantro and top with
+sliced avocado. Serve immediately.
  
-Spicy Garbanzo Bean and Turkey Sausage Soup
-===========================================
 
-Bon Appétit | March 1995
 
-Sliced or diced fresh avocado makes a colorful garnish for this hearty southwestern soup. If you want to cut up the avocado ahead of time but don't want it to discolor, simply place the avocado pieces in a colander and rinse them with cold water. They will stay bright green for about two hours.
-Yield: Serves 6
 
-1 teaspoon olive oil
-¾ pound turkey sausage, casings removed, crumbled
-8 large garlic cloves, chopped
-1 cup canned diced peeled tomatoes with juices
-2 tablespoons thinly sliced seeded jalapeño chili
-1 teaspoon ground cumin
-1 teaspoon chopped fresh rosemary or ½ teaspoon dried
-3 15- to 16-ounce cans garbanzo beans (chick-peas), undrained
-2 cups canned chicken broth or beef broth
-2 tablespoons fresh lemon juice
+## Creamy Southwestern Potato Salad
 
-Chopped fresh cilantro
-1 avocado, peeled, sliced
+Bon Appétit, July 2005.  Makes 6 to 8 servings.
 
-Heat olive oil in heavy large Dutch oven over medium-high heat. Add turkey sausage and chopped garlic and sauté until sausage is golden brown and cooked through, breaking up sausage with back of fork, about 5 minutes. Reduce heat to medium. Add tomatoes with their juices, sliced jalapeño chili, ground cumin and chopped fresh rosemary and simmer 10 minutes, stirring frequently. Add garbanzo beans with their liquid and chicken broth and bring to boil. Reduce heat and simmer soup 15 minutes. Stir in fresh lemon juice. Season soup to taste with salt and pepper. (Can be prepared 1 day ahead. Cover and refrigerate. Rewarm over medium heat before continuing.)
-Ladle soup into bowls. Sprinkle soup with chopped fresh cilantro and top with sliced avocado. Serve immediately.
- 
-Creamy Southwestern Potato Salad
-================================
+A bold medley of cumin, cayenne, corn, and cilantro ups the flavor here. Great
+with grilled fish tacos, steak fajitas, or chipotle-rubbed chicken.
 
-Bon Appétit | July 2005
+> ½ cup buttermilk  
+> ¼ cup mayonnaise  
+> 1 tablespoon fresh lime juice  
+> 1 ½ teaspoons ground cumin  
+> ¼ teaspoon cayenne pepper  
 
-A bold medley of cumin, cayenne, corn, and cilantro ups the flavor here. Great with:
-Grilled-fish tacos, steak fajitas, or chipotle-rubbed chicken.
-Yield: Makes 6 to 8 servings
+> 2 pounds small white-skinned potatoes (such as White Rose)  
 
-½ cup buttermilk
-¼ cup mayonnaise
-1 tablespoon fresh lime juice
-1 ½ teaspoons ground cumin
-¼ teaspoon cayenne pepper
+> 1 cup cooked corn kernels (from 1 medium ear)  
+> ½ cup chopped sweet onion (such as Vidalia or Maui)  
+> 1 14-ounce can hearts of palm, drained, each cut crosswise into ⅓-inch-thick rounds  
+> 2 plum tomatoes, seeded, diced (about 1 ¼ cups)  
+> ½ cup chopped fresh cilantro  
+> 1 avocado, pitted, peeled, chopped  
 
-2 pounds small white-skinned potatoes (such as White Rose)
+Whisk buttermilk, mayonnaise, lime juice, cumin, and cayenne in medium bowl to
+blend.
 
-1 cup cooked corn kernels (from 1 medium ear)
-½ cup chopped sweet onion (such as Vidalia or Maui)
-1 14-ounce can hearts of palm, drained, each cut crosswise into ⅓-inch-thick rounds
-2 plum tomatoes, seeded, diced (about 1 ¼ cups)
-½ cup chopped fresh cilantro
-1 avocado, pitted, peeled, chopped
+Cook potatoes in large pot of boiling salted water until tender, about 20
+minutes. Drain; cool.
 
-Whisk buttermilk, mayonnaise, lime juice, cumin, and cayenne in medium bowl to blend.
-Cook potatoes in large pot of boiling salted water until tender, about 20 minutes. Drain; cool.
-Cut potatoes into ½-inch cubes. Place potatoes in large bowl; add corn, onion, hearts of palm,
-tomatoes, and cilantro. Drizzle dressing over potato mixture; toss to coat. Season generously
-with salt. (Can be made 4 hours ahead. Cover and refrigerate.) Gently stir in avocado and serve.
+Cut potatoes into ½-inch cubes. Place potatoes in large bowl; add corn, onion,
+hearts of palm, tomatoes, and cilantro. Drizzle dressing over potato mixture;
+toss to coat. Season generously with salt. (Can be made 4 hours ahead. Cover
+and refrigerate.) Gently stir in avocado and serve.
 
-Test-kitchen tip: Pitting an avocado
-Cut an unpeeled avocado in half lengthwise. Grasp both sides and twist to open. Tap a large
-knife into the pit so it sticks, then twist the knife to loosen and remove the pit.
+##### Test-kitchen tip: Pitting an avocado
+
+Cut an unpeeled avocado in half lengthwise. Grasp both sides and twist to open.
+Tap a large knife into the pit so it sticks, then twist the knife to loosen and
+remove the pit.
 
  
-Sweet-Potato Salad with Spicy Peanut Dressing
-Bon Appétit | July 2005
 
-Great with: Grilled hoisin-glazed ribs, pork chops, or chicken satay.
-Yield: Makes 6 to 8 servings
 
-¼ cup rice vinegar
-¼ cup soy sauce
-3 tablespoons mayonnaise
-4 teaspoons minced peeled fresh ginger
-4 teaspoons toasted sesame oil (such as Asian)
-4 garlic cloves, minced
-1 tablespoon peanut butter
-2 teaspoons chili-garlic sauce
-1 ½ teaspoons golden brown sugar
+## Sweet-Potato Salad with Spicy Peanut Dressing
 
-2 pounds red-skinned sweet potatoes (yams), peeled, cut into ½-inch cubes
+Bon Appétit, July 2005. Makes 6 to 8 servings.
 
-1 ½ cups sugar snap peas, cut crosswise into ½-inch pieces
-1 cup thinly sliced green onions
-⅓ cup coarsely chopped dry-roasted peanuts
+Great with grilled hoisin-glazed ribs, pork chops, or chicken satay.
 
+> ¼ cup rice vinegar  
+> ¼ cup soy sauce  
+> 3 tablespoons mayonnaise  
+> 4 teaspoons minced peeled fresh ginger  
+> 4 teaspoons toasted sesame oil (such as Asian)  
+> 4 garlic cloves, minced  
+> 1 tablespoon peanut butter  
+> 2 teaspoons chili-garlic sauce  
+> 1½ teaspoons golden brown sugar  
+
+> 2 pounds red-skinned sweet potatoes (yams), peeled, cut into ½-inch cubes  
+
+> 1½ cups sugar snap peas, cut crosswise into ½-inch pieces  
+> 1 cup thinly sliced green onions  
+> ⅓ cup coarsely chopped dry-roasted peanuts  
 
 Whisk first 9 ingredients in medium bowl to blend.
-Add enough water to large saucepan to reach depth of ½ inch. Bring to boil; add sweet
-potatoes and cook until just tender, about 5 minutes. Drain; cool.
-Mix sweet potatoes, dressing, peas, and green onions in large bowl. Season salad
-with salt and pepper. (Can be made 4 hours ahead. Cover and refrigerate.)
+
+Add enough water to large saucepan to reach depth of ½ inch. Bring to boil; add
+sweet potatoes and cook until just tender, about 5 minutes. Drain; cool.
+
+Mix sweet potatoes, dressing, peas, and green onions in large bowl. Season
+salad with salt and pepper. (Can be made 4 hours ahead. Cover and refrigerate.)
 Sprinkle salad with peanuts and serve.
 
  
-Mexican Black Beans
-Bon Appétit
-Serve as a side dish with enchiladas. The beans can be topped with grated Monterey Jack cheese, then covered to melt.
-Yield: Serves 6
+## Mexican Black Beans
 
-1 tablespoon olive oil
-4 garlic cloves, finely chopped
-1 large jalapeño chili, seeded, chopped
-½ teaspoon (generous) ground cumin
-2 15-ounce cans black beans, rinsed, drained
-1 14 ½-ounce can low-salt chicken broth
-Fresh lime juice
-Chopped fresh cilantro
+Bon Appétit; serves 6.
 
-Heat oil in heavy large saucepan over medium-high heat. Add garlic, chili and cumin and sauté 30 seconds. Add beans and broth and cook 5 minutes, stirring occasionally. Coarsely mash beans with potato masher. Continue boiling until thick, stirring frequently, about 10 minutes. Season to taste with lime juice, salt and pepper. Transfer to bowl. Sprinkle with cilantro and serve.
+Serve as a side dish with enchiladas. The beans can be topped with grated
+Monterey Jack cheese, then covered to melt.
+
+> 1 tablespoon olive oil  
+> 4 garlic cloves, finely chopped  
+> 1 large jalapeño chili, seeded, chopped    
+> ½ teaspoon (generous) ground cumin  
+> 2 15-ounce cans black beans, rinsed, drained  
+> 1 14½-ounce can low-salt chicken broth  
+> Fresh lime juice  
+> Chopped fresh cilantro  
+
+Heat oil in heavy large saucepan over medium-high heat. Add garlic, chili and
+cumin and sauté 30 seconds. Add beans and broth and cook 5 minutes, stirring
+occasionally. Coarsely mash beans with potato masher. Continue boiling until
+thick, stirring frequently, about 10 minutes. Season to taste with lime juice,
+salt and pepper. Transfer to bowl. Sprinkle with cilantro and serve.
 
 
  
-Wheat Berry and Barley Salad with Smoked Mozzarella
-===================================================
 
-Gourmet | July 1994
+## Wheat Berry and Barley Salad with Smoked Mozzarella
 
-"Berries" are whole grains that have been minimally processed: They have been hulled
-but still have the bran and germ intact.
-Yield: Serves 6 as a main course or 8 to 10 as a side dish
+Gourmet, July 1994. Serves 6 as a main course or 8 to 10 as a side dish.
+
+"Berries" are whole grains that have been minimally processed: They have been
+hulled but still have the bran and germ intact.
 
 
-1 cup wheat berries
-1 cup pearl barley
-1 small red onion, chopped fine
-2 garlic cloves, minced and mashed to a paste with ½ teaspoon salt
-¼ cup balsamic vinegar
-¼ cup olive oil (preferably extra-virgin)
-6 scallions, chopped fine
-1 ½ cups cooked corn (cut from about 2 large ears) (I use frozen corn)
-½ pound smoked mozzarella cheese, diced fine
-1 pint vine-ripened cherry tomatoes, halved
-½ cup chopped fresh chives
-
+> 1 cup wheat berries  
+> 1 cup pearl barley  
+> 1 small red onion, chopped fine  
+> 2 garlic cloves, minced and mashed to a paste with ½ teaspoon salt  
+> ¼ cup balsamic vinegar  
+> ¼ cup olive oil (preferably extra-virgin)  
+> 6 scallions, chopped fine  
+> 1 ½ cups cooked corn (cut from about 2 large ears) (I use frozen corn)  
+> ½ pound smoked mozzarella cheese, diced fine  
+> 1 pint vine-ripened cherry tomatoes, halved  
+> ½ cup chopped fresh chives  
 
 Into a kettle of salted boiling water stir wheat berries and cook at a slow
 boil 30 minutes.  Stir in barley and cook grains at a slow boil 40 minutes
@@ -1337,50 +1422,46 @@ Salad may be made 1 day ahead and chilled, covered.  Bring salad to room
 temperature before serving.
 
  
-Kohlrabi and Apple Salad with Creamy Mustard Dressing
-=====================================================
-Gourmet | October 1992
+## Kohlrabi and Apple Salad with Creamy Mustard Dressing
 
-Can be prepared in 45 minutes or less.
-Yield: Serves 8
+Gourmet, October 1992. Serves 8.  Can be prepared in 45 minutes or less.
 
-½ cup heavy cream
-2 tablespoons fresh lemon juice
-1 tablespoon coarse-grained mustard
-3 tablespoons finely chopped fresh parsley leaves
-½ teaspoon sugar
-2 bunches kohlrabi (about 2 pounds), bulbs peeled and cut into julienne strips,
-stems discarded, and the leaves reserved for another use
-1 Granny Smith apple
+> ½ cup heavy cream  
+> 2 tablespoons fresh lemon juice  
+> 1 tablespoon coarse-grained mustard  
+> 3 tablespoons finely chopped fresh parsley leaves  
+> ½ teaspoon sugar  
+> 2 bunches kohlrabi (about 2 pounds), bulbs peeled and cut into julienne strips,  
+> stems discarded, and the leaves reserved for another use  
+> 1 Granny Smith apple  
 
 In a bowl whisk the cream until it holds soft peaks and whisk in the lemon
-juice, the mustard, the parsley, the sugar, and salt and pepper to taste.
-Stir in the kohlrabi strips and the apple, peeled, cored, and diced, and
-combine the salad well.
- 
-Grilled Chicken Moroccan Style
-==============================
+juice, the mustard, the parsley, the sugar, and salt and pepper to taste.  Stir
+in the kohlrabi strips and the apple, peeled, cored, and diced, and combine the
+salad well.   
 
-Bon Appétit | June 2003
 
-Start marinating the chicken four to six hours ahead. Pour frosty Pilsners or
-a chilled Chenin Blanc.
 
-Yield: Makes 6 servings
+## Grilled Chicken Moroccan Style
 
-1 cup olive oil
-¼ cup red wine vinegar
-3 tablespoons ground cumin
-1 ½ tablespoons ground coriander
-2 teaspoons ground cinnamon
-2 teaspoons salt
-2 teaspoons sugar
-¼ teaspoon cayenne pepper
-4 large chicken breast halves with skin and ribs, cut crosswise in half
-4 chicken legs
-4 chicken thighs
+Bon Appétit, June 2003. Makes 6 servings.
 
-¼ cup minced fresh parsley
+Start marinating the chicken four to six hours ahead. Pour frosty Pilsners or a
+chilled Chenin Blanc.
+
+> 1 cup olive oil  
+> ¼ cup red wine vinegar  
+> 3 tablespoons ground cumin  
+> 1 ½ tablespoons ground coriander  
+> 2 teaspoons ground cinnamon  
+> 2 teaspoons salt  
+> 2 teaspoons sugar  
+> ¼ teaspoon cayenne pepper  
+> 4 large chicken breast halves with skin and ribs, cut crosswise in half  
+> 4 chicken legs  
+> 4 chicken thighs  
+
+> ¼ cup minced fresh parsley  
 
 Whisk first 8 ingredients in large glass baking dish. Add all chicken; turn to
 coat.  Cover with plastic wrap; chill 4 to 6 hours.
@@ -1392,25 +1473,25 @@ per side for leg and thigh pieces. Transfer chicken to platter. Sprinkle with
 parsley.  Drink pilsner.
 
 
-Beet and Carrot Pancakes
-========================
 
-Bon Appétit | March 1998
+
+
+## Beet and Carrot Pancakes
+
+Bon Appétit, March 1998. Makes 8 servings.
+
 An interesting side dish or meatless entrée.
-Yield: Makes 8 servings
 
-::
+> 1⅓ cups (packed) coarsely shredded peeled beets (from 2 medium)  
+> 1 cup coarsely shredded peeled carrots (from 2 medium)  
+> 1 cup thinly sliced onion  
+> 1 large egg  
+> ½ teaspoon salt  
+> ¼ teaspoon pepper  
+> ¼ cup all purpose flour  
 
-    1⅓ cups (packed) coarsely shredded peeled beets (from 2 medium)
-    1 cup coarsely shredded peeled carrots (from 2 medium)
-    1 cup thinly sliced onion
-    1 large egg
-    ½ teaspoon salt
-    ¼ teaspoon pepper
-    ¼ cup all purpose flour
-
-    3 tablespoons olive oil
-    Low-fat sour cream
+> 3 tablespoons olive oil  
+> Low-fat sour cream  
 
 Preheat oven to 300°F. Place baking sheet in oven. Combine beets, carrots and
 onion in large bowl. Mix in egg, salt and pepper. Add flour; stir to blend
@@ -1425,8 +1506,10 @@ beet mixture, making 4 more pancakes.
 Serve pancakes with sour cream.
 
  
-Noodle Salad with Spicy Peanut Butter Dressing
-==============================================
+
+
+
+## Noodle Salad with Spicy Peanut Butter Dressing
 
 Bon Appétit | February 2004
 by Juli Tsuchiya-Waldron, Tokyo, Japan
