@@ -1511,85 +1511,105 @@ Serve pancakes with sour cream.
 
 ## Noodle Salad with Spicy Peanut Butter Dressing
 
-Bon Appétit | February 2004
-by Juli Tsuchiya-Waldron, Tokyo, Japan
-Yield: Makes 6 side-dish servings
+Bon Appétit, February 2004 by Juli Tsuchiya-Waldron (Tokyo, Japan). Makes 6
+side-dish servings.
 
-6 tablespoons creamy peanut butter (do not use old-fashioned style or freshly ground)
-¼ cup low-salt chicken broth
-3 tablespoons rice vinegar
-3 tablespoons soy sauce
-1 ½ tablespoons sugar
-1 tablespoon oriental sesame oil
-1 tablespoon minced peeled fresh ginger
-½ teaspoon cayenne pepper
-8 ounces linguine
-1 large orange bell pepper, cut into matchstick-size strips
-½ cup chopped green onions
-5 large lettuce leaves
-¼ cup chopped fresh cilantro
-¼ cup chopped salted peanuts
+> 6 tablespoons creamy peanut butter (do not use old-fashioned style or freshly ground)  
+> ¼ cup low-salt chicken broth  
+> 3 tablespoons rice vinegar  
+> 3 tablespoons soy sauce  
+> 1 ½ tablespoons sugar  
+> 1 tablespoon oriental sesame oil  
+> 1 tablespoon minced peeled fresh ginger  
+> ½ teaspoon cayenne pepper  
+> 8 ounces linguine  
+> 1 large orange bell pepper, cut into matchstick-size strips  
+> ½ cup chopped green onions  
+> 5 large lettuce leaves  
+> ¼ cup chopped fresh cilantro  
+> ¼ cup chopped salted peanuts  
 
 Combine first 8 ingredients in small bowl; whisk to blend. Set dressing aside.
-Cook pasta in large pot of boiling salted water until just tender but still firm to bite, stirring occasionally. Drain pasta; rinse with cold water and drain again. Transfer pasta to medium bowl. Add bell pepper and green onions. Pour dressing over; toss to coat. Season salad with salt and pepper. Line serving bowl with lettuce leaves. Transfer salad to prepared bowl. Sprinkle with cilantro and peanuts.
+
+Cook pasta in large pot of boiling salted water until just tender but still
+firm to bite, stirring occasionally. Drain pasta; rinse with cold water and
+drain again. Transfer pasta to medium bowl. Add bell pepper and green onions.
+Pour dressing over; toss to coat. Season salad with salt and pepper. Line
+serving bowl with lettuce leaves. Transfer salad to prepared bowl. Sprinkle
+with cilantro and peanuts.
+
+
+
+
+
+##  Peanut Butter Cookies with Chocolate Chunks 
+
+Bon Appétit, March 1997. Makes 27 cookies (we make them smaller). Susan's favorite.
+
+> 1½ cups unbleached all purpose flour  
+> ⅓ cup old-fashioned oats  
+> 1 teaspoon baking soda  
+> ¼ teaspoon salt  
+> 1 cup old-fashioned chunky peanut butter (about 9 ounces)  
+> 1 cup (packed) golden brown sugar  
+> ½ cup (1 stick) unsalted butter, room temperature  
+> ¼ cup honey  
+> 1 large egg  
+> 1 teaspoon vanilla extract  
+> 5 ounces semisweet chocolate, coarsely chopped  
+
+Mix flour, oats, baking soda and salt in medium bowl. Using electric mixer,
+beat peanut butter, brown sugar, butter, honey, egg and vanilla in large bowl
+until well blended. Stir dry ingredients into peanut butter mixture in 2
+additions. Stir in chopped chocolate. Cover and refrigerate until dough is firm
+and no longer sticky, about 30 minutes.
+
+Preheat oven to 350 °F. Butter 2 heavy large baking sheets. With hands, roll 1
+heaping tablespoonful of dough for each cookie into 1 ¾-inch-diameter ball.
+Arrange cookies on prepared baking sheets, spacing 2 ½ inches apart. Bake
+cookies until puffed, beginning to brown on top and still very soft to touch,
+about 12 minutes.
+
+Cool cookies on baking sheets 5 minutes. Using metal spatula, transfer cookies
+to rack and cool completely. (Can be made 2 days ahead. Store in airtight
+container at room temperature.)
 
  
-Peanut Butter Cookies with Chocolate Chunks 
-Bon Appétit | March 1997
-Yield: Makes 27 cookies (we make them smaller)
-Susan's favorite
 
-1 ½ cups unbleached all purpose flour
-⅓ cup old-fashioned oats
-1 teaspoon baking soda
-¼ teaspoon salt
-1 cup old-fashioned chunky peanut butter (about 9 ounces)
-1 cup (packed) golden brown sugar
-½ cup (1 stick) unsalted butter, room temperature
-¼ cup honey
-1 large egg
-1 teaspoon vanilla extract
-5 ounces semisweet chocolate, coarsely chopped
 
-Mix flour, oats, baking soda and salt in medium bowl. Using electric mixer, beat peanut butter, brown sugar, butter, honey, egg and vanilla in large bowl until well blended. Stir dry ingredients into peanut butter mixture in 2 additions. Stir in chopped chocolate. Cover and refrigerate until dough is firm and no longer sticky, about 30 minutes.
-Preheat oven to 350°F. Butter 2 heavy large baking sheets. With hands, roll 1 heaping tablespoonful of dough for each cookie into 1 ¾-inch-diameter ball. Arrange cookies on prepared baking sheets, spacing 2 ½ inches apart. Bake cookies until puffed, beginning to brown on top and still very soft to touch, about 12 minutes. Cool cookies on baking sheets 5 minutes. Using metal spatula, transfer cookies to rack and cool completely. (Can be made 2 days ahead. Store in airtight container at room temperature.)
 
- 
-Szechuan Noodles with Peanut Sauce
-==================================
+## Szechuan Noodles with Peanut Sauce
 
-Bon Appétit | August 1999
-Zygot Bookworks & Cafe
-Yield: Serves 6 as a main-course
+Bon Appétit, August 1999, from Zygot Bookworks & Cafe.  Serves 6 as a main
+course.
 
-::
+> ½ cup (or more) canned vegetable broth  
+> 1 cup super-chunky peanut butter  
+> ¼ cup soy sauce  
+> 2 tablespoons balsamic vinegar  
+> 1 ½ tablespoons chili-garlic sauce*  
+> 5 garlic cloves, minced  
 
-    ½ cup (or more) canned vegetable broth
-    1 cup super-chunky peanut butter
-    ¼ cup soy sauce
-    2 tablespoons balsamic vinegar
-    1 ½ tablespoons chili-garlic sauce*
-    5 garlic cloves, minced
+> 12 ounces dried chow mein udon (Asian-style noodles)*  
+> 1 tablespoon canola oil  
 
-    12 ounces dried chow mein udon (Asian-style noodles)*
-    1 tablespoon canola oil
+> 8 large bok choy leaves  
+> 2 red bell peppers, halved lengthwise  
+> 2 large carrots, peeled  
+> 1 bunch green onions  
 
-    8 large bok choy leaves
-    2 red bell peppers, halved lengthwise
-    2 large carrots, peeled
-    1 bunch green onions
+> 2 cups shredded Napa cabbage  
+> 2 tablespoons toasted sesame seeds  
 
-    2 cups shredded Napa cabbage
-    2 tablespoons toasted sesame seeds
-
-\*Available at Asian markets and in the Asian foods section of many supermarkets.
+* Udon is available at Asian markets and in the Asian foods section of many
+  supermarkets.
 
 Mix ½ cup vegetable broth, peanut butter, soy sauce, balsamic vinegar,
 chili-garlic sauce and minced garlic in medium bowl to blend well (sauce will
 be thick). Cook noodles in large pot of boiling salted water until just tender
 but still firm to bite, about 6 minutes. Drain. Rinse noodles under cold water
-and cool. Cut noodles into 4- to 5-inch lengths. Transfer noodles to very
-large bowl. Toss with oil to coat.
+and cool. Cut noodles into 4- to 5-inch lengths. Transfer noodles to very large
+bowl. Toss with oil to coat.
 
 Cut bok choy, peppers, carrots and onions into matchstick-size strips. (Sauce,
 noodles and vegetables can be prepared 4 hours ahead. Cover separately; chill.
@@ -1601,63 +1621,55 @@ sauce to coat. Sprinkle with sesame seeds.
 
 
  
-Raspberry Corn Muffins
-======================
+## Raspberry Corn Muffins
 
-Gourmet | May 1993
-Can be prepared in 45 minutes or less.
-Yield: Makes 12 muffins
+Gourmet, May 1993.  Makes 12 muffins.  Can be prepared in 45 minutes or less.
 
-::
+> 1 cup yellow cornmeal  
+> 1 cup all-purpose flour  
+> ½ cup sugar  
+> 1 teaspoon double-acting baking powder  
+> 1 teaspoon baking soda  
+> ¼ teaspoon salt  
+> 2 large eggs  
+> 1¼ cups plain yogurt  
+> ½ stick (¼ cup) unsalted butter, melted and cooled  
+> 1 cup fresh raspberries  
 
-    1 cup yellow cornmeal
-    1 cup all-purpose flour
-    ½ cup sugar
-    1 teaspoon double-acting baking powder
-    1 teaspoon baking soda
-    ¼ teaspoon salt
-    2 large eggs
-    1 ¼ cups plain yogurt
-    ½ stick (¼ cup) unsalted butter, melted and cooled
-    1 cup fresh raspberries
-
-Preheat the oven to 375°F. and butter well twelve ½-cup muffin tins. In a
-bowl whisk together the cornmeal, the flour, the sugar, the baking powder, the
-baking soda, and the salt. In another bowl whisk together the eggs, the
-yogurt, and the butter, add the flour mixture, and stir the batter until it is
-just combined.
+Preheat the oven to 375°F. and butter well twelve ½-cup muffin tins. In a bowl
+whisk together the cornmeal, the flour, the sugar, the baking powder, the
+baking soda, and the salt. In another bowl whisk together the eggs, the yogurt,
+and the butter, add the flour mixture, and stir the batter until it is just
+combined.
 
 Fold in the raspberries gently, divide the batter among the muffin tins, and
 bake the muffins in the middle of the oven for 20 minutes, or until a tester
-comes out clean. Let the muffins cool in the tins on a rack for 3 minutes,
-turn them out onto the rack, and let them cool completely. The muffins may be
-made 1 day in advance and kept in an airtight container.
+comes out clean. Let the muffins cool in the tins on a rack for 3 minutes, turn
+them out onto the rack, and let them cool completely. The muffins may be made 1
+day in advance and kept in an airtight container.
 
- 
-Smoky Chipotle Hummus with Garlic Bagel Chips
-=============================================
 
-Bon Appétit | October 2001
+
+
+##  Smoky Chipotle Hummus with Garlic Bagel Chips
+
+Bon Appétit, October 2001.  Makes 20 servings.
 
 If you don't have time to make your own hummus, buy some at the market or
 specialty foods store, and mix in chipotle chilies and cumin to taste.
 
-Yield: Makes 20 servings
+> 2 15-ounce cans garbanzo beans (chickpeas), drained  
+> ½ cup water  
+> ¼ cup plus 2 tablespoons tahini (sesame seed paste)  
+> 3 tablespoons plus 2 teaspoons fresh lemon juice  
+> 2 tablespoons olive oil  
+> 2½ teaspoons minced canned chipotle chilies  
+> 1 large garlic clove, minced  
+> 1½ teaspoons ground cumin  
+> 1 4-ounce jar sliced pimientos in oil, drained  
+> ⅓ cup chopped fresh cilantro  
+> 2 6-ounce packages roasted-garlic bagel chips  
 
-::
-
-    2 15-ounce cans garbanzo beans (chickpeas), drained
-    ½ cup water
-    ¼ cup plus 2 tablespoons tahini (sesame seed paste)*
-    3 tablespoons plus 2 teaspoons fresh lemon juice
-    2 tablespoons olive oil
-    2 ½ teaspoons minced canned chipotle chilies**
-    1 large garlic clove, minced
-    1 ½ teaspoons ground cumin
-    1 4-ounce jar sliced pimientos in oil, drained
-    ⅓ cup chopped fresh cilantro
-    2 6-ounce packages roasted-garlic bagel chips
-    
 Reserve 3 tablespoons garbanzo beans for garnish. Blend remaining garbanzo
 beans and next 7 ingredients in processor until smooth. Add pimientos;
 process, using on/off turns, until pimientos are coarsely chopped. Transfer
@@ -1666,41 +1678,45 @@ pepper. Sprinkle with reserved garbanzo beans. (Can be made 1 day ahead. Cover
 and chill. Bring to room temperature before serving.) Accompany with bagel
 chips.
 
-\*Sold at Middle Eastern markets, natural foods stores and some supermarkets.
-\**Chipotle chilies canned in a spicy tomato sauce, sometimes called adobo,
-are available at Latin American markets, specialty foods stores and some
-supermarkets.
-
- 
-
-Hot Fudge Sauce
-===============
-
-Gourmet | February 2004
-Yield: Makes about 2 cups
-Active Time: 10 min
-Total Time: 30 min
-
-::
-
-    ⅔ cup heavy cream
-    ½ cup light corn syrup
-    ⅓ cup packed dark brown sugar
-    ¼ cup unsweetened Dutch-process cocoa powder
-    ¼ teaspoon salt
-    6 oz fine-quality bittersweet chocolate (not unsweetened), finely chopped
-    2 tablespoons unsalted butter
-    1 teaspoon vanilla
-
-Bring cream, corn syrup, sugar, cocoa, salt, and half of chocolate to a boil in a 1 to 1 ½-quart heavy saucepan over moderate heat, stirring, until chocolate is melted. Reduce heat and cook at a low boil, stirring occasionally, 5 minutes, then remove from heat. Add butter, vanilla, and remaining chocolate and stir until smooth. Cool sauce to warm before serving.
-
-Notes:
-Sauce can be made ahead and cooled completely, then chilled in an airtight container or jar. Reheat before using.
-I have used Baker's chocolate squares and I never chop them.  
+* Tahini ("sesame butter") is sold at Middle Eastern markets, natural foods
+  stores and some supermarkets.
+* Chipotle chilies canned in a spicy tomato sauce, sometimes called adobo,
+  are available at Latin American markets, specialty foods stores and some
+  supermarkets.
 
 
- 
-Grilled Chicken Sandwiches with Sage Pesto and Apples 
+
+
+## Hot Fudge Sauce
+
+Gourmet, February 2004. Makes about 2 cups.  About 30 minutes, start to finish.
+
+> ⅔ cup heavy cream  
+> ½ cup light corn syrup  
+> ⅓ cup packed dark brown sugar  
+> ¼ cup unsweetened Dutch-process cocoa powder  
+> ¼ teaspoon salt  
+> 6 oz fine-quality bittersweet chocolate (not unsweetened), finely chopped  
+> 2 tablespoons unsalted butter  
+> 1 teaspoon vanilla  
+
+Bring cream, corn syrup, sugar, cocoa, salt, and half of chocolate to a boil in
+a 1 to 1 ½-quart heavy saucepan over moderate heat, stirring, until chocolate
+is melted. Reduce heat and cook at a low boil, stirring occasionally, 5
+minutes, then remove from heat. Add butter, vanilla, and remaining chocolate
+and stir until smooth. Cool sauce to warm before serving.
+
+* Sauce can be made ahead and cooled completely, then chilled in an airtight
+  container or jar. Reheat before using.
+* Sauce can be eaten directly from the jar with a spoon, or with your fingers
+  in a pinch.
+* I have used Baker's chocolate squares and I never chop them.
+
+
+
+
+##  Grilled Chicken Sandwiches with Sage Pesto and Apples
+
 Bon Appétit | July 2003
 by Cheryl and Bill Jamison
 Yield: Makes 6 servings
@@ -2132,4 +2148,3 @@ until orzo is golden, about 5 minutes. Add 1 ½ cups water, broth, and garlic;
 cook uncovered over medium heat until all liquid is absorbed, stirring
 frequently, about 10 minutes. Stir in cheese, green onions, and rosemary.
 Season to taste with salt and pepper and serve.
-
