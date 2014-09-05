@@ -1,16 +1,10 @@
-================
-Susan's Cookbook
-================
-~~~~~~~~~~~~~~~~~~~~~~~~
-version 0.1, August 2014
-~~~~~~~~~~~~~~~~~~~~~~~~
+# Susan's Cookbook
 
-.. raw:: pdf
+## version 0.1, August 2014
 
-    PageBreak
 
-Amanda Trammell's Spinach and Bacon Quiche
-==========================================
+## Amanda Trammell's Spinach and Bacon Quiche
+
 
 (Recipe courtesy Paula Deen & the foodnetwork.com)
 
@@ -38,9 +32,6 @@ the egg mixture on top.
 
 Bake for 35 to 45 minutes until the egg mixture is set. Cut into 8 wedges. 
 
-.. raw:: pdf
-
-    PageBreak
 
 
 
