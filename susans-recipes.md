@@ -738,6 +738,7 @@ Ladle the soup into warmed bowls and serve immediately.
 
 
 
+
 ## White Turkey Chili
 
 FIXME
@@ -754,11 +755,11 @@ up leftovers from the Thanksgiving feast.
 > 1 lb. Anaheim chilies, roasted, peeled and diced,   or 3 cans (each 7 oz.) whole fire-roasted Anaheim chilies, diced  
 > 4 to 4 ½ cups low-sodium chicken broth,  warmed  
 > 1 lb. diced cooked turkey  
-> 3 cans (each 15 oz.) cannellini beans, drained  and rinsed, or 4 ½ cups cooked white beans,   drained  
+> 3 cans (each 15 oz.) cannellini beans, drained  and rinsed, or 4 ½ cups cooked white beans, drained  
 > 2 Tbs. minced fresh oregano  
 > ⅓ cup minced fresh cilantro  
 > ¼ cup cornmeal  
-> Shredded jack cheese, sour cream and lime  wedges for serving  
+> Shredded jack cheese, sour cream and lime wedges for serving  
 
 In a large sauté pan over medium heat, warm the olive oil. Add the onion,
 season with salt and pepper and cook, stirring occasionally, until softened, 5
@@ -778,8 +779,7 @@ Serves 6 to 8.
 
 ## Orange-Rosemary Chicken
 
-Williams-Sonoma Kitchen. 
-Bon Appétit | July 1997
+Williams-Sonoma Kitchen, Bon Appétit, July 1997.   FIXME
 
 It's almost as quick to make the citrus-herb glaze that coats the chicken as it
 is to open a bottle of barbecue sauce-and the glaze has a far more interesting
@@ -791,16 +791,16 @@ Yield: Makes 6 Servings
 Active Time: 45 minutes or less
 Total Time: 45 minutes or less
 
-1 12-ounce container frozen orange juice from concentrate, thawed
-⅓ cup dry white wine
-⅓ cup honey-Dijon mustard
-2 tablespoons finely chopped fresh rosemary or 2 teaspoons dried
-4 teaspoons soy sauce
-2 teaspoons hot pepper sauce (such as Tabasco)
-1 large garlic clove, chopped
+> 1 12-ounce container frozen orange juice from concentrate, thawed  
+> ⅓ cup dry white wine  
+> ⅓ cup honey-Dijon mustard  
+> 2 tablespoons finely chopped fresh rosemary or 2 teaspoons dried  
+> 4 teaspoons soy sauce  
+> 2 teaspoons hot pepper sauce (such as Tabasco)  
+> 1 large garlic clove, chopped  
 
-1 cup hickory smoke chips, soaked in water 30 minutes, drained
-2 7-pound chickens, each cut into 8 pieces (breasts halved if large)
+> 1 cup hickory smoke chips, soaked in water 30 minutes, drained  
+> 2 7-pound chickens, each cut into 8 pieces (breasts halved if large)  
 
 Blend first 7 ingredients in processor. Set orange glaze aside.
 
@@ -810,6 +810,8 @@ chicken with salt and pepper. Grill chicken until golden, turning occasionally,
 about 5 minutes per side. Continue grilling chicken until cooked through,
 brushing glaze over chicken and turning occasionally, about 25 minutes longer.
 Transfer to platter.
+
+
 
  
 ## Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper
@@ -834,7 +836,7 @@ and crushed red pepper to skillet. Simmer until liquid evaporates, about 4
 minutes. Remove skillet from heat. Cool vegetable mixture. Stir in basil and
 salt.
 
-Preheat oven to 400°F. Melt remaining 6 tablespoons butter in small saucepan.
+Preheat oven to 400 °F. Melt remaining 6 tablespoons butter in small saucepan.
 Place 1 pastry sheet on work surface (keep remaining phyllo sheets covered).
 Brush with some of melted butter. Top with second pastry sheet; brush with
 melted butter. Place 1 salmon fillet crosswise on pastry sheet, 5 inches in
@@ -918,6 +920,7 @@ Can be made 1 day ahead.  Cool. Cover and chill. Let stand at room temperature
 1 hour, then rewarm in 400 °F oven 15 minutes.
 
 
+
  
 ## Tortilla Soup with Chicken and Lime
 
@@ -954,6 +957,8 @@ lime juice. Season with salt and pepper.
 Ladle soup into bowls. Sprinkle with tortilla strips and serve.
 
 
+
+
 ## Lacinato Kale and Ricotta Salata Salad
 
 Gourmet, January 2007.  Makes 6 servings.  Total time: 25 minutes.
@@ -978,6 +983,8 @@ stream, whisking until combined well.
 Toss kale and ricotta salata in a large bowl with enough dressing to coat well,
 then season with salt and pepper.
 
+
+
  
 ## Petits Pains au Chocolat
 
@@ -987,7 +994,7 @@ These delicious small pastries are easy to make, and they're sure to disappear q
 
 > 2 sheets frozen puff pastry (one 17.3-ounce package), thawed, each sheet cut into 12 squares  
 > 1 large egg beaten to blend with 1 Tb water (for glaze)  
-> 4 3.5-ounce bars imported bittersweet or milk chocolate, each cut into six 2x¾-inch pieces  
+> 4 3½-ounce bars imported bittersweet or milk chocolate, each cut into six 2x¾-inch pieces  
 > sugar  
 
 Line baking sheet with parchment paper. Brush top of each puff pastry square
@@ -997,7 +1004,7 @@ Place pastry rolls on baking sheet, seam side down. (Can be made 1 day ahead.
 Cover pastries with plastic wrap and refrigerate. Cover and refrigerate
 remaining egg glaze.)
 
-Preheat oven to 400°F. Brush tops of pastry rolls with remaining egg glaze.
+Preheat oven to 400 °F. Brush tops of pastry rolls with remaining egg glaze.
 Sprinkle lightly with sugar. Bake until pastries are golden brown, about 15
 minutes. Serve warm or at room temperature.
 
@@ -1053,6 +1060,7 @@ Season slaw to taste with salt and pepper.  Let stand 15 minutes for flavors to
 blend. Toss again and serve.
 
 
+
  
 ## Green Bean and Tomato Salad
 
@@ -1074,6 +1082,7 @@ Refrigerate beans; let dressing stand at room temperature. Mix dressing and
 tomatoes into beans. Season to taste with salt and pepper.
 
 
+
  
 ## Barbecued Pork Burgers with Slaw
 
@@ -1088,12 +1097,12 @@ cabbage slaw with a creamy dressing tops them off with just the right crunch.
 > 1 (½-pound) piece green cabbage, cored  
 > ¼ cup mayonnaise  
 > 1 tablespoon milk  
-> 1 tablespoon plus 1 ½ teaspoons white-wine vinegar, divided  
+> 1 tablespoon plus 1½ teaspoons white-wine vinegar, divided  
 > ½ cup very finely shredded carrot (1 medium)  
 > 1 tablespoon thinly sliced fresh chives  
 > ½ cup bottled tomato-based barbecue sauce  
 > ¼ teaspoon cayenne  
-> 1 ½ pounds ground pork  
+> 1½ pounds ground pork  
 > 4 Kaiser or soft rolls, split and grilled  
 
 Equipment: an adjustable-blade slicer
@@ -1123,6 +1132,7 @@ patties and coleslaw between rolls.
 
 Coleslaw can be made 8 hours ahead and chilled, covered. Patties can be formed
 1 hour ahead and chilled, covered.
+
 
 
 
@@ -1178,13 +1188,15 @@ high and boil until apples are tender, stirring frequently, about 10 minutes.
 Cool to room temperature. (Chutney can be made 3 days ahead; cover and
 refrigerate.) Mix in tomatoes and mint.
 
-Preheat oven to 450°F. Arrange baguette slices on baking sheet and brush with
+Preheat oven to 450 °F. Arrange baguette slices on baking sheet and brush with
 olive oil. Bake until golden and crisp, about 8 minutes. Spread each toast with
 roasted garlic; top with goat cheese and chutney.
 
 * At the restaurant, the bread is grilled, but it's just as good when it's baked.
 * A good jarred apple chutney or pear chutney works just as well 
 * Good lord this sounds good
+
+
 
 
 ## Pork Tenderloin with Herbed Breadcrumb Crust
@@ -1196,7 +1208,7 @@ Simple, appealing and perfect with the polenta. Pour a Barbera or Pinot Bianco.
 > 6 cups fresh breadcrumbs made from French bread  
 > ⅔ cup chopped fresh parsley  
 > 2 tablespoons chopped fresh rosemary  
-> 1 ¾ teaspoons crumbled bay leaves  
+> 1¾ teaspoons crumbled bay leaves  
 
 > 3 pounds pork tenderloins, trimmed  
 > 2 large eggs, beaten to blend  
@@ -1204,7 +1216,7 @@ Simple, appealing and perfect with the polenta. Pour a Barbera or Pinot Bianco.
 > 4 tablespoons (½ stick) butter  
 > 2 tablespoons olive oil  
 
-Preheat oven to 375°F. Mix first 4 ingredients in large bowl to blend. Season
+Preheat oven to 375 °F. Mix first 4 ingredients in large bowl to blend. Season
 to taste with salt and pepper.
 
 Sprinkle pork with salt and pepper. Dip into eggs, then into breadcrumb
@@ -1216,7 +1228,7 @@ minutes. Place on rack set in large roasting pan. Wipe out skillet. Repeat with
 remaining 2 tablespoons butter, 1 tablespoon oil and pork.
 
 Roast pork until crust is golden and thermometer inserted into center registers
-155°F, about 20 minutes. Transfer pork to cutting board. Let stand 5 minutes.
+155 °F, about 20 minutes. Transfer pork to cutting board. Let stand 5 minutes.
 Slice pork and serve.
 
 
@@ -1310,7 +1322,7 @@ with grilled fish tacos, steak fajitas, or chipotle-rubbed chicken.
 > 1 cup cooked corn kernels (from 1 medium ear)  
 > ½ cup chopped sweet onion (such as Vidalia or Maui)  
 > 1 14-ounce can hearts of palm, drained, each cut crosswise into ⅓-inch-thick rounds  
-> 2 plum tomatoes, seeded, diced (about 1 ¼ cups)  
+> 2 plum tomatoes, seeded, diced (about 1¼ cups)  
 > ½ cup chopped fresh cilantro  
 > 1 avocado, pitted, peeled, chopped  
 
@@ -1365,6 +1377,8 @@ Mix sweet potatoes, dressing, peas, and green onions in large bowl. Season
 salad with salt and pepper. (Can be made 4 hours ahead. Cover and refrigerate.)
 Sprinkle salad with peanuts and serve.
 
+
+
  
 ## Mexican Black Beans
 
@@ -1375,7 +1389,7 @@ Monterey Jack cheese, then covered to melt.
 
 > 1 tablespoon olive oil  
 > 4 garlic cloves, finely chopped  
-> 1 large jalapeño chili, seeded, chopped    
+> 1 large jalapeño chili, seeded, chopped  
 > ½ teaspoon (generous) ground cumin  
 > 2 15-ounce cans black beans, rinsed, drained  
 > 1 14½-ounce can low-salt chicken broth  
@@ -1422,6 +1436,8 @@ Salad may be made 1 day ahead and chilled, covered.  Bring salad to room
 temperature before serving.
 
  
+
+
 ## Kohlrabi and Apple Salad with Creamy Mustard Dressing
 
 Gourmet, October 1992. Serves 8.  Can be prepared in 45 minutes or less.
@@ -1493,7 +1509,7 @@ An interesting side dish or meatless entrée.
 > 3 tablespoons olive oil  
 > Low-fat sour cream  
 
-Preheat oven to 300°F. Place baking sheet in oven. Combine beets, carrots and
+Preheat oven to 300 °F. Place baking sheet in oven. Combine beets, carrots and
 onion in large bowl. Mix in egg, salt and pepper. Add flour; stir to blend
 well.
 
@@ -1636,7 +1652,7 @@ Gourmet, May 1993.  Makes 12 muffins.  Can be prepared in 45 minutes or less.
 > ½ stick (¼ cup) unsalted butter, melted and cooled  
 > 1 cup fresh raspberries  
 
-Preheat the oven to 375°F. and butter well twelve ½-cup muffin tins. In a bowl
+Preheat the oven to 375 °F. and butter well twelve ½-cup muffin tins. In a bowl
 whisk together the cornmeal, the flour, the sugar, the baking powder, the
 baking soda, and the salt. In another bowl whisk together the eggs, the yogurt,
 and the butter, add the flour mixture, and stir the batter until it is just
@@ -1717,195 +1733,296 @@ and stir until smooth. Cool sauce to warm before serving.
 
 ##  Grilled Chicken Sandwiches with Sage Pesto and Apples
 
-Bon Appétit | July 2003
-by Cheryl and Bill Jamison
-Yield: Makes 6 servings
+Bon Appétit, July 2003, by Cheryl and Bill Jamison. Makes 6 servings.
 
-¾ cup lightly packed fresh sage leaves (from 2 large bunches)
-¾ cup pine nuts (about 4 ounces)
-¼ cup (packed) fresh Italian parsley leaves
-1 garlic clove
-¾ cup plus 3 tablespoons olive oil
-6 tablespoons freshly grated Parmesan cheese
+#### Sage pesto
 
-6 skinless boneless chicken breast halves
+> ¾ cup lightly packed fresh sage leaves (from 2 large bunches)  
+> ¾ cup pine nuts (about 4 ounces)  
+> ¼ cup (packed) fresh Italian parsley leaves  
+> 1 garlic clove  
+> ¾ cup plus 3 tablespoons olive oil  
+> 6 tablespoons freshly grated Parmesan cheese  
 
-6 4x5-inch rectangles focaccia, ciabatta, or long French rolls, split horizontally
+Using on/off turns, blend sage leaves, pine nuts, parsley, and garlic in
+processor until mixture is finely chopped. With machine running, add ¾ cup oil
+and blend until thick paste forms. Mix in cheese. Transfer to small bowl;
+season with salt and pepper. (Can be made 1 day ahead. Press plastic wrap onto
+surface of pesto and refrigerate. Bring to room temperature before using.)
 
-Mayonnaise
-3 medium Fuji apples, halved, cored, thinly sliced
+#### Sandwiches
 
-Using on/off turns, blend sage leaves, pine nuts, parsley, and garlic in processor until mixture is finely chopped. With machine running, add ¾ cup oil and blend until thick paste forms. Mix in cheese. Transfer to small bowl; season with salt and pepper. (Can be made 1 day ahead. Press plastic wrap onto surface of pesto and refrigerate. Bring to room temperature before using.)
+> 6 skinless boneless chicken breast halves  
+> 6 4x5-inch rectangles focaccia, ciabatta, or long French rolls, split horizontally  
+> Mayonnaise  
+> 3 medium Fuji apples, halved, cored, thinly sliced  
 
-Place each chicken breast between sheets of waxed paper. Using rolling pin or meat mallet, pound each to ½-inch thickness. Brush chicken with 3 tablespoons oil; sprinkle with salt and pepper. Let chicken stand 30 minutes.
+Place each chicken breast between sheets of waxed paper. Using rolling pin or
+meat mallet, pound each to ½-inch thickness. Brush chicken with 3 tablespoons
+oil; sprinkle with salt and pepper. Let chicken stand 30 minutes.
 
-Prepare barbecue (medium heat). Grill chicken until firm to touch and cooked through, about 5 minutes per side. Transfer chicken to platter. Grill focaccia until just beginning to brown, about 1 minute per side.
+Prepare barbecue (medium heat). Grill chicken until firm to touch and cooked
+through, about 5 minutes per side. Transfer chicken to platter. Grill focaccia
+until just beginning to brown, about 1 minute per side.
 
-Arrange bottom halves of focaccia on work surface. Spread each with mayonnaise. Top each with overlapping layer of sliced apple, then 1 chicken breast. Drizzle each chicken breast with pesto. Spread pesto on cut side of bread tops. Place tops on chicken, pesto side down. Cut sandwiches in half on diagonal. Transfer sandwiches to plates and serve.
+Arrange bottom halves of focaccia on work surface. Spread each with mayonnaise.
+Top each with overlapping layer of sliced apple, then 1 chicken breast. Drizzle
+each chicken breast with pesto. Spread pesto on cut side of bread tops. Place
+tops on chicken, pesto side down. Cut sandwiches in half on diagonal. Transfer
+sandwiches to plates and serve.
+
+
+
 
 
  
-Moroccan Chicken 
-Bon Appétit | April 1991
-by Margot Andrew: Los Angeles, California
-Yield: Serves 4 to 6
+## Moroccan Chicken
 
-½ cup dried currants or raisins
-¼ cup dry Sherry
+FIXME
 
-Butter
-3 tablespoons butter
-2 tablespoons finely chopped onion
-3 tablespoons all purpose flour
-1 ½ teaspoons curry powder
-1 cup milk
-1 medium apple, peeled, diced
-6 boneless chicken breast halves, skinned, patted dry
-¼ cup slivered almonds, toasted
+Bon Appétit, April 1991, by Margot Andrew: Los Angeles, California. Serves 4 to
+6.
+
+> ½ cup dried currants or raisins  
+> ¼ cup dry Sherry  
+> 3 tablespoons butter  
+> 2 tablespoons finely chopped onion  
+> 3 tablespoons all purpose flour  
+> 1 ½ teaspoons curry powder  
+> 1 cup milk  
+> 1 medium apple, peeled, diced  
+> 6 boneless chicken breast halves, skinned, patted dry  
+> ¼ cup slivered almonds, toasted  
 
 Place currants in small bowl. Add Sherry and let soak 2 hours.
 
-Preheat oven to 350°F. Lightly butter 8-inch square baking pan. Melt 3 tablespoons butter in heavy medium skillet over low heat. Add onion and cook until translucent, stirring occasionally, about 4 minutes. Add flour and curry powder and stir 3 minutes. Gradually whisk in milk. Bring to boil, stirring constantly. Mix in currants with Sherry and apple. Season to taste with salt.
+Preheat oven to 350 °F. Lightly butter 8-inch square baking pan. Melt 3
+tablespoons butter in heavy medium skillet over low heat. Add onion and cook
+until translucent, stirring occasionally, about 4 minutes. Add flour and curry
+powder and stir 3 minutes. Gradually whisk in milk. Bring to boil, stirring
+constantly. Mix in currants with Sherry and apple. Season to taste with salt.
 
-Arrange chicken in prepared pan in single layer. Cover with sauce. Top with almonds. Bake until chicken is cooked through, about 30 minutes.
+Arrange chicken in prepared pan in single layer. Cover with sauce. Top with
+almonds. Bake until chicken is cooked through, about 30 minutes.   
+
+
+
+
+## Easy Split Pea Soup
+
+Bon Appétit, May 1996, by Patricia Murray: County Kerry, Ireland. Serves 6.
+
+> 2 tablespoons (¼ stick) butter  
+> 1 large onion, chopped  
+> 1 cup chopped celery  
+> 1 cup chopped peeled carrots  
+> 1 ½ pounds smoked pork hocks  
+> 2 teaspoons dried leaf marjoram  
+> 1 ½ cups green split peas  
+> 8 cups water  
+
+Melt butter in heavy large pot or Dutch oven over medium-high heat. Add onion,
+celery and carrots. Sauté until vegetables begin to soften, about 8 minutes.
+Add pork and marjoram; stir 1 minute. Add peas, then water, and bring to boil.
+Reduce heat to medium-low. Partially cover pot; simmer soup until pork and
+vegetables are tender peas are falling apart, stirring often, about 1 hour and
+10 minutes.
+
+Transfer hocks to bowl. Puree 5 cups soup in batches in blender. Return to pot.
+Cut pork off bones. Dice pork; return pork to soup. Season with salt and
+pepper. (Can be made 1 day ahead. Refrigerate until cold, then cover. Rewarm
+before serving.)
  
-Easy Split Pea Soup 
-Bon Appétit | May 1996
-by Patricia Murray: County Kerry, Ireland
-Yield: Serves 6
 
-2 tablespoons (¼ stick) butter
-1 large onion, chopped
-1 cup chopped celery
-1 cup chopped peeled carrots
-1 ½ pounds smoked pork hocks
-2 teaspoons dried leaf marjoram
-1 ½ cups green split peas
-8 cups water
 
-Melt butter in heavy large pot or Dutch oven over medium-high heat. Add onion, celery and carrots. Sauté until vegetables begin to soften, about 8 minutes. Add pork and marjoram; stir 1 minute. Add peas, then water, and bring to boil. Reduce heat to medium-low. Partially cover pot; simmer soup until pork and vegetables are tender peas are falling apart, stirring often, about 1 hour and 10 minutes.
-Transfer hocks to bowl. Puree 5 cups soup in batches in blender. Return to pot. Cut pork off bones. Dice pork; return pork to soup. Season with salt and pepper. (Can be made 1 day ahead. Refrigerate until cold, then cover. Rewarm before serving.) 
- 
-Adeline's Round Meat Soup aka Sausage and Bean Soup 
-Bon Appétit | November 2000
+## Adeline's "Round Meat Soup" _aka._ Sausage and Bean Soup
 
-Yield: Makes 2 servings (can be doubled)
+Bon Appétit, November 2000.  Makes 2 servings.  This recipe is very forgiving
+if you have too much, too little, or the wrong kind of any ingredients.
 
-1 tablespoon olive oil
-6 ounces kielbasa or linguiça sausage, cut into thin rounds
-1 medium onion, chopped
-2 ¾ cups canned low-salt chicken broth
-½ large bunch kale, stems cut away, leaves thinly sliced
-1 15-ounce can small white beans, drained
-¾ cup dry white wine
+> 1 tablespoon olive oil  
+> 6 ounces kielbasa or linguiça sausage, cut into thin rounds  
+> 1 medium onion, chopped  
+> 2¾ cups canned low-salt chicken broth  
+> ½ large bunch kale, stems cut away, leaves thinly sliced  
+> 1 15-ounce can small white beans, drained  
+> ¾ cup dry white wine  
 
-Heat oil in heavy large saucepan over medium heat. Add sausage and onion; Sauté until onion is tender, about 6 minutes. Add broth and kale; bring to boil. Reduce heat to medium-low; simmer uncovered 10 minutes. Add beans and wine. Cook until kale is tender, about 10 minutes. Season with salt and pepper.
+Heat oil in heavy large saucepan over medium heat. Add sausage and onion; Sauté
+until onion is tender, about 6 minutes. Add broth and kale; bring to boil.
+Reduce heat to medium-low; simmer uncovered 10 minutes. Add beans and wine.
+Cook until kale is tender, about 10 minutes. Season with salt and pepper.
 
- 
-Cheesy Baked Penne with Cauliflower 
-Bon Appétit | October 2008
-by Bruce Aidells (adapted by Susan)
+Variations include:
 
-Yield: Makes 8 servings
+* use beet or carrot greens
+* use spicy andouille sausage, meatballs, or even no meat
 
-1 large head of cauliflower, cored, cut into 1-inch florets
-2 large heirloom tomatoes
-5 tablespoons butter, divided
-½ cup thinly sliced green onions
-Coarse kosher salt
-2 tablespoons all purpose flour
-1 cup heavy whipping cream
-3 cups coarsely grated Comté cheese (or half Gruyère and half Fontina; about 9 ounces), divided
-¾ cup Parmigiano-Reggiano, finely grated Parmesan cheese, divided
-1 cup sour cream
-1 tablespoon whole grain Dijon mustard
-10 ounces penne (3 ½ cups)
-1 cup Panko crumbs
 
-Cook cauliflower in large pot of boiling salted water until crisp-tender, about 5 minutes. Using large sieve, transfer cauliflower to bowl. Add tomatoes to pot; cook 1 minute. Remove from water; peel and dice tomatoes. Reserve pot of water.
 
-Melt 2 tablespoons butter in large skillet over medium-high heat. Add cauliflower; sauté until beginning to brown, about 5 minutes. Add tomatoes and green onions. Cook 1 minute to blend flavors. Remove from heat. Season with coarse salt and pepper.
+## Cheesy Baked Penne with Cauliflower
 
-Melt 2 tablespoons butter in large saucepan over medium-low heat. Add flour and stir 2 minutes. Gradually whisk in cream. Cook until sauce thickens, whisking occasionally, about 4 minutes. Add 2 cups Comté cheese; whisk until melted and sauce is smooth. Whisk in ½ cup Parmesan, then crème fraîche and mustard. Season with salt and pepper. Remove from heat.
+Bon Appétit, October 2008, by Bruce Aidells (adapted by Susan).  One of
+Adeline's favorites.  Makes 8 servings.
 
-Return reserved pot of water to boil. Add pasta and cook until tender but still firm to bite, stirring occasionally. Drain; return pasta to same pot. Stir in cauliflower mixture and sauce.
+> 1 large head of cauliflower, cored, cut into 1-inch florets  
+> 2 large heirloom tomatoes  
+> 5 tablespoons butter, divided  
+> ½ cup thinly sliced green onions  
+> coarse kosher salt  
+> 2 tablespoons all purpose flour  
+> 1 cup heavy whipping cream  
+> 3 cups coarsely grated Comté cheese (or half Gruyère and half Fontina; about 9 ounces), divided  
+> ¾ cup Parmigiano-Reggiano, finely grated Parmesan cheese, divided  
+> 1 cup sour cream  
+> 1 tablespoon whole grain Dijon mustard  
+> 10 ounces penne (approx. 3½ cups)  
+> 1 cup Panko crumbs  
 
-Butter 13x9x2-inch glass baking dish or individual sized ramekins. Spoon in half of pasta mixture; sprinkle with ½ cup Comté cheese. Top with remaining pasta mixture and ½ cup Comté cheese. Melt remaining 1 tablespoon butter in small skillet. Add breadcrumbs and toss to coat. Remove from heat; mix in ¼ cup Parmesan. Sprinkle crumbs over pasta. DO AHEAD: Can be made 2 hours ahead. Let stand at room temperature.
-Preheat oven to 350°F. Bake pasta uncovered until heated through and bubbling, about 35 minutes.  
-Fragrant Beef Curry with Rice 
-Bon Appétit November 2000
-Bill Goodhue of Chino, California. 
-Yield: Makes 6 servings
+Cook cauliflower in large pot of boiling salted water until crisp-tender, about
+5 minutes. Using large sieve, transfer cauliflower to bowl. Add tomatoes to
+pot; cook 1 minute. Remove from water; peel and dice tomatoes. Reserve pot of
+water.
 
-2 pounds well-trimmed boneless beef stew meat, cut into 1-inch pieces
-3 tablespoons vegetable oil
+Melt 2 tablespoons butter in large skillet over medium-high heat. Add
+cauliflower; sauté until beginning to brown, about 5 minutes. Add tomatoes and
+green onions. Cook 1 minute to blend flavors. Remove from heat. Season with
+coarse salt and pepper.
 
-2 large onions, sliced
-6 whole cloves
-2 large garlic cloves, chopped
-2 cinnamon sticks
-1 bay leaf
-¼ teaspoon dried crushed red pepper
-1 ½ cups whole milk
-3 large tomatoes, quartered
-3 tablespoons Major Grey chutney
-3 tablespoons fresh lemon juice
-2 tablespoons minced peeled fresh ginger
-1 ½ tablespoons curry powder
-½ teaspoon salt
+Melt 2 tablespoons butter in large saucepan over medium-low heat. Add flour and
+stir 2 minutes. Gradually whisk in cream. Cook until sauce thickens, whisking
+occasionally, about 4 minutes. Add 2 cups Comté cheese; whisk until melted and
+sauce is smooth. Whisk in ½ cup Parmesan, then crème fraîche and mustard.
+Season with salt and pepper. Remove from heat.
 
-Hot cooked rice
+Return reserved pot of water to boil. Add pasta and cook until tender but still
+firm to bite, stirring occasionally. Drain; return pasta to same pot. Stir in
+cauliflower mixture and sauce.
 
-Sprinkle beef with salt and pepper. Heat 2 tablespoons oil in heavy large pot over high heat. Working in batches, add beef to pot and brown on all sides, about 7 minutes per batch. Using slotted spoon, transfer to plate.
-Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions; sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves, garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute. Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and ½ teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is tender, stirring occasionally, about 2 hours.
-Uncover; increase heat to medium. Boil stew until juices are slightly thickened, about 10 minutes. Serve over rice.
- 
-Chicken Mole with Chipotles 
-Bon Appétit | December 2001
+Butter 13x9x2-inch glass baking dish or individual sized ramekins. Spoon in
+half of pasta mixture; sprinkle with ½ cup Comté cheese. Top with remaining
+pasta mixture and ½ cup Comté cheese. Melt remaining 1 tablespoon butter in
+small skillet. Add breadcrumbs and toss to coat. Remove from heat; mix in ¼ cup
+Parmesan. Sprinkle crumbs over pasta. DO AHEAD: Can be made 2 hours ahead. Let
+stand at room temperature.  Preheat oven to 350 °F. Bake pasta uncovered until
+heated through and bubbling, about 35 minutes.  
 
-Mole, a classic Mexican chili sauce, gets streamlined here. Chipotle chilies (available canned at Latin American markets and many supermarkets) add heat, while unsweetened chocolate provides subtle sweetness. Serve the stew in shallow bowls with steamed rice. Add an arugula, orange, and red onion salad and a basket of warm corn tortillas. For dessert, offer cinnamon-spiked hot chocolate and wafer cookies.
+
+FIXME
+
+
+
+## Fragrant Beef Curry with Rice
+
+Bon Appétit, November 2000, from Bill Goodhue of Chino, California. Makes 6
+servings.
+
+> 2 pounds well-trimmed boneless beef stew meat, cut into 1-inch pieces  
+> 3 tablespoons vegetable oil  
+
+> 2 large onions, sliced  
+> 6 whole cloves  
+> 2 large garlic cloves, chopped  
+> 2 cinnamon sticks  
+> 1 bay leaf  
+> ¼ teaspoon dried crushed red pepper  
+> 1½ cups whole milk  
+> 3 large tomatoes, quartered  
+> 3 tablespoons Major Grey chutney  
+> 3 tablespoons fresh lemon juice  
+> 2 tablespoons minced peeled fresh ginger  
+> 1 ½ tablespoons curry powder  
+> ½ teaspoon salt  
+
+> hot cooked rice  
+
+Sprinkle beef with salt and pepper. Heat 2 tablespoons oil in heavy large pot
+over high heat. Working in batches, add beef to pot and brown on all sides,
+about 7 minutes per batch. Using slotted spoon, transfer to plate.
+
+Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions;
+sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves,
+garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute.
+Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and ½
+teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is
+tender, stirring occasionally, about 2 hours.
+
+Uncover; increase heat to medium. Boil stew until juices are slightly
+thickened, about 10 minutes. Serve over rice.
+
+FIXME
+
+
+
+
+## Chicken Mole with Chipotles
+
+Bon Appétit, December 2001.
+
+Mole, a classic Mexican chili sauce, gets streamlined here. Chipotle chilies
+(available canned at Latin American markets and many supermarkets) add heat,
+while unsweetened chocolate provides subtle sweetness. Serve the stew in
+shallow bowls with steamed rice. Add an arugula, orange, and red onion salad
+and a basket of warm corn tortillas. For dessert, offer cinnamon-spiked hot
+chocolate and wafer cookies.
 
 Yield: Makes 4 servings
 
-6 skinless boneless chicken thighs, each cut into 3 pieces
-2 tablespoons ground cumin
+> 6 skinless boneless chicken thighs, each cut into 3 pieces  
+> 2 tablespoons ground cumin  
 
-1 tablespoon olive oil
-1 large onion, thinly sliced
-2 14 ½-ounce cans chili-style chunky tomatoes in juice
-1 cup canned low-salt chicken broth
-2 tablespoons minced canned chipotle chilies plus 1 tablespoon adobo sauce
+> 1 tablespoon olive oil  
+> 1 large onion, thinly sliced  
+> 2 14½-ounce cans chili-style chunky tomatoes in juice  
+> 4 small nothern american garden moles, freshly caught, skinned and gutted  
+> 1 cup canned low-salt chicken broth  
+> 2 tablespoons minced canned chipotle chilies plus 1 tablespoon adobo sauce  
 
-1 ounce unsweetened chocolate, chopped
+> 1 ounce unsweetened chocolate, chopped  
 
-Coat chicken on all sides with cumin. Sprinkle with salt and pepper.
-Heat oil in heavy large pot over medium-high heat. Add chicken; sauté until browned on all sides, about 5 minutes. Add onion and sauté until beginning to brown, about 3 minutes. Add tomatoes with juice, broth, chipotle chilies, adobo sauce, and chocolate and bring to simmer. Reduce heat to medium-low and simmer until chicken is cooked through and sauce thickens slightly, about 20 minutes. Season with salt and pepper; serve.
- 
-Country Captain Soup 
-Bon Appétit | March 1995
-Adapted by Susan
+Coat chicken on all sides with cumin. Sprinkle with salt and pepper.  Discard
+moles; what were you thinking?
 
-Yield: Serves 6
+Heat oil in heavy large pot over medium-high heat. Add chicken; sauté until
+browned on all sides, about 5 minutes. Add onion and sauté until beginning to
+brown, about 3 minutes. Add tomatoes with juice, broth, chipotle chilies, adobo
+sauce, and chocolate and bring to simmer. Reduce heat to medium-low and simmer
+until chicken is cooked through and sauce thickens slightly, about 20 minutes.
+Season with salt and pepper; serve.   
 
-1 tablespoon olive oil
-1 large onion, coarsely chopped
-½ cup chopped red bell pepper
-4 garlic cloves, chopped
-6 skinless boneless chicken thighs (about 1 ¼ pounds), cut into 1-inch pieces
-1 tablespoon curry powder
-1 teaspoon grated peeled fresh ginger
-¼ teaspoon dried crushed red pepper
-4 cups (or more) canned chicken broth
-2 cups canned diced peeled tomatoes with juices
-1 large Granny Smith apple, peeled, coarsely chopped
 
-½ cup orzo (rice-shaped pasta; also called riso)
-2 tablespoons dried currants
-Chopped fresh cilantro
-Plain yogurt
 
-Heat oil in heavy large Dutch oven over medium-high heat. Add onion, bell pepper and garlic; sauté until vegetables soften, about 5 minutes. Add chicken, curry powder, ginger and crushed red pepper; stir 2 minutes. Add 4 cups broth, tomatoes and apple and bring to boil. Reduce heat and simmer 20 minutes. (Can be made 1 day ahead. Cover and refrigerate. Bring to simmer before continuing.)
-Stir orzo and currants into soup and simmer until orzo is just cooked through, about 5 minutes. Season with salt and pepper. Ladle soup into bowls. Garnish with cilantro and dollop of yogurt.  
+
+## Country Captain Soup
+
+Bon Appétit, March 1995. Adapted by Susan. Serves 6.
+
+> 1 tablespoon olive oil  
+> 1 large onion, coarsely chopped  
+> ½ cup chopped red bell pepper  
+> 4 garlic cloves, chopped  
+> 6 skinless boneless chicken thighs (about 1¼ pounds), cut into 1-inch pieces  
+> 1 tablespoon curry powder  
+> 1 teaspoon grated peeled fresh ginger  
+> ¼ teaspoon dried crushed red pepper  
+> 4 cups (or more) canned chicken broth  
+> 2 cups canned diced peeled tomatoes with juices  
+> 1 large Granny Smith apple, peeled, coarsely chopped  
+
+> ½ cup orzo (rice-shaped pasta; also called riso)  
+> 2 tablespoons dried currants  
+> chopped fresh cilantro  
+> plain yogurt  
+
+Heat oil in heavy large Dutch oven over medium-high heat. Add onion, bell
+pepper and garlic; sauté until vegetables soften, about 5 minutes. Add chicken,
+curry powder, ginger and crushed red pepper; stir 2 minutes. Add 4 cups broth,
+tomatoes and apple and bring to boil. Reduce heat and simmer 20 minutes. (Can
+be made 1 day ahead. Cover and refrigerate. Bring to simmer before continuing.)
+
+Stir orzo and currants into soup and simmer until orzo is just cooked through,
+about 5 minutes. Season with salt and pepper. Ladle soup into bowls. Garnish
+with cilantro and dollop of yogurt.  
 
 
 
@@ -1922,7 +2039,7 @@ Gourmet, August 2009, by Maggie Ruggiero.  Makes 4 servings.
 > 1 teaspoon red-wine vinegar  
 > ⅛ teaspoon hot red pepper flakes  
 
-Preheat oven to 400°F with racks in upper and lower thirds.  Toss bell peppers
+Preheat oven to 400 °F with racks in upper and lower thirds.  Toss bell peppers
 with 1 tablespoon oil, then roast in a 4-sided sheet pan in lower third of
 oven, stirring occasionally, until tender and browned, about 35 minutes.
 
@@ -2035,7 +2152,7 @@ Level: Easy
 > 1 cup shredded Chihuahua cheese, Asadero or Monterey Jack  
 
 Preheat broiler or grill pan to high. (Don't do this until the rellenos are
-ready)
+ready.)
 
 Heat about 3 ½ cups stock in a sauce pot with a bay leaf to boiling. Add rice,
 cover pot reduce heat to low and simmer 18 minutes until tender.
@@ -2126,6 +2243,8 @@ spoon, transfer bacon to paper towels. Pour off all but 2 tablespoons drippings
 from pot. Add shallot; stir 30 seconds. Add cubed vegetables and sugar; sauté 6
 minutes. Add barley, lemon juice, and herbs; stir 2 minutes.  Mix in bacon;
 season with salt and pepper.  
+
+
 
 
 ## Carrot Orzo
