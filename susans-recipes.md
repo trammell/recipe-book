@@ -18,6 +18,8 @@
   - [Creamy Tomato Soup](#creamy-tomato-soup)
   - [Country Captain Soup](#country-captain-soup)
 - [Sides and Salads](#sides-and-salads)
+  - [Kohlrabi and Apple Salad with Creamy Mustard Dressing](#kohlrabi-and-apple-salad-with-creamy-mustard-dressing)
+  - [Beet and Carrot Pancakes](#beet-and-carrot-pancakes)
   - [Noodle Salad with Spicy Peanut Butter Dressing](#noodle-salad-with-spicy-peanut-butter-dressing)
   - [Mexican Black Beans](#mexican-black-beans)
   - [Salsa Verde](#salsa-verde)
@@ -27,6 +29,7 @@
   - [Szechuan Noodles with Peanut Sauce](#szechuan-noodles-with-peanut-sauce)
   - [Wheat Berry and Barley Salad with Smoked Mozzarella](#wheat-berry-and-barley-salad-with-smoked-mozzarella)
 - [Breakfast Dishes](#breakfast-dishes)
+  - [Café Beaujolais Yogurt Pancakes](#café-beaujolais-yogurt-pancakes)
   - [Raspberry Corn Muffins](#raspberry-corn-muffins)
   - [Adeline's Favorite Muffins](#adelines-favorite-muffins)
   - [Amanda Trammell's Spinach and Bacon Quiche](#amanda-trammells-spinach-and-bacon-quiche)
@@ -62,9 +65,7 @@
   - [Green Tea / Cranberry Spritzer](#green-tea--cranberry-spritzer)
   - [Carrot Walnut Salad](#carrot-walnut-salad)
     - [Lemon-Tarragon dressing (makes about ½ cup)](#lemon-tarragon-dressing-makes-about-½-cup)
-  - [Café Beaujolais Yogurt Pancakes](#café-beaujolais-yogurt-pancakes)
   - [Susan's Spinach and Cheese Curry](#susans-spinach-and-cheese-curry)
-    - [Notes](#notes)
       - [How to Prepare Mustard Greens](#how-to-prepare-mustard-greens)
   - [Susan's Asian Chicken Pasta Salad](#susans-asian-chicken-pasta-salad)
       - [Creamy sesame dressing](#creamy-sesame-dressing)
@@ -98,8 +99,6 @@
   - [Creamy Southwestern Potato Salad](#creamy-southwestern-potato-salad)
         - [Test-kitchen tip: Pitting an avocado](#test-kitchen-tip-pitting-an-avocado)
   - [Sweet-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
-  - [Kohlrabi and Apple Salad with Creamy Mustard Dressing](#kohlrabi-and-apple-salad-with-creamy-mustard-dressing)
-  - [Beet and Carrot Pancakes](#beet-and-carrot-pancakes)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
