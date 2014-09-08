@@ -407,6 +407,56 @@ with cilantro and dollop of yogurt.  
 
 # Sides and Salads
 
+## Kohlrabi and Apple Salad with Creamy Mustard Dressing
+
+Gourmet, October 1992. Serves 8.  Can be prepared in 45 minutes or less.
+
+> ½ cup heavy cream  
+> 2 tablespoons fresh lemon juice  
+> 1 tablespoon coarse-grained mustard  
+> 3 tablespoons finely chopped fresh parsley leaves  
+> ½ teaspoon sugar  
+> 2 bunches kohlrabi (about 2 pounds), bulbs peeled and cut into julienne strips,  
+> stems discarded, and the leaves reserved for another use  
+> 1 Granny Smith apple  
+
+In a bowl whisk the cream until it holds soft peaks and whisk in the lemon
+juice, the mustard, the parsley, the sugar, and salt and pepper to taste.  Stir
+in the kohlrabi strips and the apple, peeled, cored, and diced, and combine the
+salad well.   
+
+
+
+## Beet and Carrot Pancakes
+
+Bon Appétit, March 1998. Makes 8 servings.
+
+An interesting side dish or meatless entrée.
+
+> 1⅓ cups (packed) coarsely shredded peeled beets (from 2 medium)  
+> 1 cup coarsely shredded peeled carrots (from 2 medium)  
+> 1 cup thinly sliced onion  
+> 1 large egg  
+> ½ teaspoon salt  
+> ¼ teaspoon pepper  
+> ¼ cup all purpose flour  
+
+> 3 tablespoons olive oil  
+> Low-fat sour cream  
+
+Preheat oven to 300 °F. Place baking sheet in oven. Combine beets, carrots and
+onion in large bowl. Mix in egg, salt and pepper. Add flour; stir to blend
+well.
+
+Heat 1½ tablespoons oil in heavy large skillet over medium heat. Using ⅓ cup
+beet mixture for each pancake, drop 4 pancakes into skillet. Flatten each into
+3-inch round. Cook until brown and cooked through, about 4 minutes per side.
+Transfer pancakes to baking sheet in oven; keep warm. Repeat with remaining
+beet mixture, making 4 more pancakes.
+
+Serve pancakes with sour cream.
+
+
 ## Noodle Salad with Spicy Peanut Butter Dressing
 
 Bon Appétit, February 2004 by Juli Tsuchiya-Waldron (Tokyo, Japan). Makes 6
@@ -621,6 +671,30 @@ temperature before serving.
 
 
 # Breakfast Dishes
+
+## Café Beaujolais Yogurt Pancakes
+
+> 1½ c. whole wheat white flour  
+> 1½ Tbs. sugar  
+> 1 tsp. salt  
+> 1½ tsp. baking soda  
+> 2 eggs  
+> 2 c. plain low-fat yogurt (I use Greek non-fat)  
+> ¼ c. canola oil, plus a little for the skillet  
+> 3 Tbs. cold water  
+
+Sift together the flour, sugar, salt, baking powder, and baking soda into a
+mixing bowl.  In a separate bowl, whisk together the remaining ingredients and
+add to the fry mixture, stirring lightly to blend.
+
+Heat a lightly oiled griddle or heavy skillet over medium-high heat.  Pour ¼ c.
+of the batter onto the hot surface to form a pancake.  When bubbles come to the
+surface of the pancake and the underside is lightly browned, flip the cake and
+cook until the other side is lightly browned.
+
+Top with honey-flavored greek yogurt, berries, or maple syrup. 
+
+
  
 ## Raspberry Corn Muffins
 
@@ -1333,29 +1407,6 @@ Lightly mix carrots, walnuts, chives and dressing.  Cover and refrigerate 1 to
 3 hours to meld flavors.   
 
 
-## Café Beaujolais Yogurt Pancakes
-
-> 1½  c. whole wheat white flour  
-> 1½ Tbs. sugar  
-> 1 tsp. salt  
-> 1½ tsp. baking soda  
-> 2 eggs  
-> 2 c. plain low-fat yogurt (I use Greek non-fat)  
-> ¼ c. canola oil, plus a little for the skillet  
-> 3 Tbs. cold water  
-
-Sift together the flour, sugar, salt, baking powder, and baking soda into a
-mixing bowl.  In a separate bowl, whisk together the remaining ingredients and
-add to the fry mixture, stirring lightly to blend.
-
-Heat a lightly oiled griddle or heavy skillet over medium-high heat.  Pour ¼ c.
-of the batter onto the hot surface to form a pancake.  When bubbles come to the
-surface of the pancake and the underside is lightly browned, flip the cake and
-cook until the other side is lightly browned.
-
-Top with honey-flavored greek yogurt, berries, or maple syrup. 
-
-
 
 ## Susan's Spinach and Cheese Curry
 
@@ -1395,24 +1446,20 @@ Serves 6.
    simmering the curry, covered, stirring occasionally, until the cheese and
    cream are warmed through, 5 to 8 minutes. Then serve.
 
-### Notes
-
-The original recipe can be found at http://www.cookstr.com/recipes/spinach-and-mustard-greens-with-cheese .
-
-I just use plain garam masala (and in different quantities than the original
-recipe) but you can get fancy (like the original chef of this recipe) and use
-two garam masalas here in different ways. Initially, you add the untoasted
-blend (the Bin bhuna hua garam marsala) early on, soon after the onion browns,
-to make sure the raw spices cook, providing the first spice layering. Then you
-swirl in the garam masala (ta toasted Punjabi garam masala) toward the end,
-after the curry has cooked. This blend is a finishing spice yielding a second
-tier of flavors that are aromatic, smooth, and assertive. Both blends contain
-similar spices, but what you did with them at various stages creates a
-complex-tasting sauce.
-
-The original recipe calls for 1¼ lb Doodh paneer.  I cut this down
-substantially and often times I either buy it pre-fried or just use it without
-frying it.
+* The original recipe can be found at http://www.cookstr.com/recipes/spinach-and-mustard-greens-with-cheese
+* I just use plain garam masala (and in different quantities than the original
+  recipe) but you can get fancy (like the original chef of this recipe) and use
+  two garam masalas here in different ways. Initially, you add the untoasted
+  blend (the Bin bhuna hua garam marsala) early on, soon after the onion browns,
+  to make sure the raw spices cook, providing the first spice layering. Then you
+  swirl in the garam masala (ta toasted Punjabi garam masala) toward the end,
+  after the curry has cooked. This blend is a finishing spice yielding a second
+  tier of flavors that are aromatic, smooth, and assertive. Both blends contain
+  similar spices, but what you did with them at various stages creates a
+  complex-tasting sauce.
+* The original recipe calls for 1¼ lb Doodh paneer.  I cut this down
+  substantially and often times I either buy it pre-fried or just use it
+  without frying it.
 
 #### How to Prepare Mustard Greens
 
@@ -2339,56 +2386,6 @@ Sprinkle salad with peanuts and serve.
 
 
 
- 
-
-## Kohlrabi and Apple Salad with Creamy Mustard Dressing
-
-Gourmet, October 1992. Serves 8.  Can be prepared in 45 minutes or less.
-
-> ½ cup heavy cream  
-> 2 tablespoons fresh lemon juice  
-> 1 tablespoon coarse-grained mustard  
-> 3 tablespoons finely chopped fresh parsley leaves  
-> ½ teaspoon sugar  
-> 2 bunches kohlrabi (about 2 pounds), bulbs peeled and cut into julienne strips,  
-> stems discarded, and the leaves reserved for another use  
-> 1 Granny Smith apple  
-
-In a bowl whisk the cream until it holds soft peaks and whisk in the lemon
-juice, the mustard, the parsley, the sugar, and salt and pepper to taste.  Stir
-in the kohlrabi strips and the apple, peeled, cored, and diced, and combine the
-salad well.   
-
-
-
-## Beet and Carrot Pancakes
-
-Bon Appétit, March 1998. Makes 8 servings.
-
-An interesting side dish or meatless entrée.
-
-> 1⅓ cups (packed) coarsely shredded peeled beets (from 2 medium)  
-> 1 cup coarsely shredded peeled carrots (from 2 medium)  
-> 1 cup thinly sliced onion  
-> 1 large egg  
-> ½ teaspoon salt  
-> ¼ teaspoon pepper  
-> ¼ cup all purpose flour  
-
-> 3 tablespoons olive oil  
-> Low-fat sour cream  
-
-Preheat oven to 300 °F. Place baking sheet in oven. Combine beets, carrots and
-onion in large bowl. Mix in egg, salt and pepper. Add flour; stir to blend
-well.
-
-Heat 1½ tablespoons oil in heavy large skillet over medium heat. Using ⅓ cup
-beet mixture for each pancake, drop 4 pancakes into skillet. Flatten each into
-3-inch round. Cook until brown and cooked through, about 4 minutes per side.
-Transfer pancakes to baking sheet in oven; keep warm. Repeat with remaining
-beet mixture, making 4 more pancakes.
-
-Serve pancakes with sour cream.
 
  
 
