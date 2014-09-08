@@ -1,4 +1,5 @@
 <!-- vim: set foldlevel=1 : -->
+
 # Susan's Cookbook
 #### version 0.1, September 2014
 
@@ -194,7 +195,7 @@ chutney.
 > 1½ teaspoons minced peeled fresh ginger  
 > ⅛ teaspoon cayenne pepper  
 > 1 cinnamon stick  
-> 1½ pounds Granny Smith apples, peeled, cored, cut into FIXME-inch pieces (about 4 cups)  
+> 1½ pounds Granny Smith apples, peeled, cored, cut into ½-inch pieces (about 4 cups)  
 > 1 cup golden raisins  
 > 1 cup diced seeded plum tomatoes  
 > 1 tablespoon chopped fresh mint  
@@ -217,10 +218,6 @@ roasted garlic; top with goat cheese and chutney.
 
 * At the restaurant, the bread is grilled, but it's just as good when it's baked.
 * A good jarred apple chutney or pear chutney works just as well 
-* Good lord this sounds good
-
-
-
 
 
 
@@ -354,10 +351,8 @@ Season with salt and pepper.
   
 ## Hot and Sour Soup
 
-Adapted from Williams-Sonoma Collection Series, Soup, by Diane Rossen
+Adapted from Williams-Sonoma Collection Series, _Soup_, by Diane Rossen
 Worthington (Simon & Schuster, 2001). 
-
-FIXME
 
 To rehydrate dried whole mushrooms, place them in a bowl, add boiling water to
 cover and let soak for 30 minutes, until soft. For dried mushroom slices,
@@ -402,7 +397,6 @@ from the heat. Add the egg, whisking with a fork until little shreds of cooked
 egg form. Taste and adjust the seasonings with vinegar, pepper or soy sauce.
 
 Ladle the soup into warmed bowls and serve immediately.
-
 
 
 
@@ -505,10 +499,8 @@ Parade, August 2000. Makes 6 to 8 servings.
 
 ## White Turkey Chili
 
-FIXME
-
 Made with chunks of cooked turkey, this hearty chili is a wonderful way to use
-up leftovers from the Thanksgiving feast.
+up leftovers from the Thanksgiving feast.  Serves 6 to 8.
 
 > 2 Tbs. olive oil  
 > 1 large yellow onion, diced  
@@ -516,10 +508,10 @@ up leftovers from the Thanksgiving feast.
 > 2 tsp. toasted ground cumin  
 > 5 garlic cloves, minced  
 > 1 jalapeño, seeded and minced  
-> 1 lb. Anaheim chilies, roasted, peeled and diced,   or 3 cans (each 7 oz.) whole fire-roasted Anaheim chilies, diced  
-> 4 to 4 ½ cups low-sodium chicken broth,  warmed  
+> 1 lb. Anaheim chilies, roasted, peeled and diced, or 3 cans (each 7 oz.) whole fire-roasted Anaheim chilies, diced  
+> 4 to 4½ cups low-sodium chicken broth, warmed  
 > 1 lb. diced cooked turkey  
-> 3 cans (each 15 oz.) cannellini beans, drained  and rinsed, or 4 ½ cups cooked white beans, drained  
+> 3 cans (each 15 oz.) cannellini beans, drained and rinsed, or 4½ cups cooked white beans, drained  
 > 2 Tbs. minced fresh oregano  
 > ⅓ cup minced fresh cilantro  
 > ¼ cup cornmeal  
@@ -538,7 +530,6 @@ broth if needed.
 
 Ladle the chili into warmed bowls. Serve with cheese, sour cream and lime wedges.
 
-Serves 6 to 8.
 
 
 ## Country Captain Soup
@@ -1025,12 +1016,6 @@ temperature before serving.
 
 Serves 4-6.
 
-> 4 medium carrots, shredded (about 3 cups)  
-> ½ c. chopped toasted walnuts  
-> 2 Tb. fresh chives  
-
-### Lemon-Tarragon dressing (makes about ½ cup)
-
 > 1 Tb. lemon juice  
 > 1 Tb. tarragon-flavored wine vinegar  
 > 1 tsp. Dijon mustard  
@@ -1039,13 +1024,16 @@ Serves 4-6.
 > pinch of white pepper  
 > ¼ c. olive or walnut oil  
 
+> 4 medium carrots, shredded (about 3 cups)  
+> ½ c. chopped toasted walnuts  
+> 2 Tb. fresh chives  
+
 In a small bowl, mix the lemon juice, vinegar, mustard, lemon zest, salt and
 pepper.  Using a whisk gradually beat in oil until dressing is smooth and
-slightly thickened.
+slightly thickened.  Makes about ¼ cup.
 
 Lightly mix carrots, walnuts, chives and dressing.  Cover and refrigerate 1 to
 3 hours to meld flavors.   
-
 
 
 ## Southwestern Smoked Turkey and Pasta Salads
@@ -1404,7 +1392,7 @@ thickened, about 10 minutes. Serve over rice.
 
 ## Slow-Cooked Carnitas Tacos
 
-Bon Appétit, April 2008, by Amy Finely.  Makes FIXME servings.
+Bon Appétit, April 2008, by Amy Finely.  Makes 4 servings.
 
 You'll need a slow cooker for this recipe (a necessity for any busy cook).
 
@@ -1470,7 +1458,7 @@ tender, stirring occasionally, about 2 hours.
 Uncover; increase heat to medium. Boil stew until juices are slightly
 thickened, about 10 minutes. Serve over rice.
 
-FIXME
+* FIXME: need to talk to Susan to get updates on this awesome recipe
 
 
 
