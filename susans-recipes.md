@@ -7,29 +7,47 @@
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [Appetizers/Starters](#appetizersstarters)
+  - [  Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
   - [Susan's Guacamole](#susans-guacamole)
+  - [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
 - [Soups](#soups)
+  - [Spicy Garbanzo Bean and Turkey Sausage Soup](#spicy-garbanzo-bean-and-turkey-sausage-soup)
+  - [Easy Split Pea Soup](#easy-split-pea-soup)
+  - [Adeline's "Round Meat Soup" _aka._ Sausage and Bean Soup](#adelines-round-meat-soup-_aka_-sausage-and-bean-soup)
   - [Louisiana Red Beans and Rice](#louisiana-red-beans-and-rice)
   - [Creamy Tomato Soup](#creamy-tomato-soup)
   - [Country Captain Soup](#country-captain-soup)
 - [Salads](#salads)
+  - [Wheat Berry and Barley Salad with Smoked Mozzarella](#wheat-berry-and-barley-salad-with-smoked-mozzarella)
 - [Breakfast Dishes](#breakfast-dishes)
+  - [Raspberry Corn Muffins](#raspberry-corn-muffins)
   - [Adeline's Favorite Muffins](#adelines-favorite-muffins)
   - [Amanda Trammell's Spinach and Bacon Quiche](#amanda-trammells-spinach-and-bacon-quiche)
 - [Meat Main Dishes](#meat-main-dishes)
+  - [Slow-Cooked Carnitas Tacos](#slow-cooked-carnitas-tacos)
+  - [Fragrant Beef Curry with Rice](#fragrant-beef-curry-with-rice)
   - [Baked Chicken Meatballs with Peperonata](#baked-chicken-meatballs-with-peperonata)
       - [Peperonata](#peperonata)
       - [Meatballs](#meatballs)
 - [Poultry Main Dishes](#poultry-main-dishes)
+  - [Grilled Chicken Moroccan Style](#grilled-chicken-moroccan-style)
+  - [  Grilled Chicken Sandwiches with Sage Pesto and Apples](#grilled-chicken-sandwiches-with-sage-pesto-and-apples)
+      - [Sage pesto](#sage-pesto)
+      - [Sandwiches](#sandwiches)
+  - [Moroccan Chicken](#moroccan-chicken)
   - [Chicken Mole with Chipotles](#chicken-mole-with-chipotles)
-- [Vegetable Main Dishes](#vegetable-main-dishes)
+- [Other Main Dishes](#other-main-dishes)
+  - [Cheesy Baked Penne with Cauliflower](#cheesy-baked-penne-with-cauliflower)
   - [Charred Chili Relleno with Green Rice](#charred-chili-relleno-with-green-rice)
 - [Side Dishes](#side-dishes)
+  - [Mexican Black Beans](#mexican-black-beans)
   - [Salsa Verde](#salsa-verde)
   - [Carrot Orzo](#carrot-orzo)
   - [Pearl Barley, Bacon, and Root Vegetable Pilaf](#pearl-barley-bacon-and-root-vegetable-pilaf)
       - [Pilaf](#pilaf)
 - [Desserts](#desserts)
+  - [  Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
+  - [Hot Fudge Sauce](#hot-fudge-sauce)
 - [Beverages](#beverages)
   - [Margaritas](#margaritas)
     - [Variations](#variations)
@@ -75,36 +93,52 @@
   - [Green Bean and Tomato Salad](#green-bean-and-tomato-salad)
   - [Barbecued Pork Burgers with Slaw](#barbecued-pork-burgers-with-slaw)
 - [Roasted Garlic](#roasted-garlic)
-  - [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
   - [Pork Tenderloin with Herbed Breadcrumb Crust](#pork-tenderloin-with-herbed-breadcrumb-crust)
-  - [Slow-Cooked Carnitas Tacos](#slow-cooked-carnitas-tacos)
-  - [Spicy Garbanzo Bean and Turkey Sausage Soup](#spicy-garbanzo-bean-and-turkey-sausage-soup)
   - [Creamy Southwestern Potato Salad](#creamy-southwestern-potato-salad)
         - [Test-kitchen tip: Pitting an avocado](#test-kitchen-tip-pitting-an-avocado)
   - [Sweet-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
-  - [Mexican Black Beans](#mexican-black-beans)
-  - [Wheat Berry and Barley Salad with Smoked Mozzarella](#wheat-berry-and-barley-salad-with-smoked-mozzarella)
   - [Kohlrabi and Apple Salad with Creamy Mustard Dressing](#kohlrabi-and-apple-salad-with-creamy-mustard-dressing)
-  - [Grilled Chicken Moroccan Style](#grilled-chicken-moroccan-style)
   - [Beet and Carrot Pancakes](#beet-and-carrot-pancakes)
   - [Noodle Salad with Spicy Peanut Butter Dressing](#noodle-salad-with-spicy-peanut-butter-dressing)
-  - [  Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
   - [Szechuan Noodles with Peanut Sauce](#szechuan-noodles-with-peanut-sauce)
-  - [Raspberry Corn Muffins](#raspberry-corn-muffins)
-  - [  Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
-  - [Hot Fudge Sauce](#hot-fudge-sauce)
-  - [  Grilled Chicken Sandwiches with Sage Pesto and Apples](#grilled-chicken-sandwiches-with-sage-pesto-and-apples)
-      - [Sage pesto](#sage-pesto)
-      - [Sandwiches](#sandwiches)
-  - [Moroccan Chicken](#moroccan-chicken)
-  - [Easy Split Pea Soup](#easy-split-pea-soup)
-  - [Adeline's "Round Meat Soup" _aka._ Sausage and Bean Soup](#adelines-round-meat-soup-_aka_-sausage-and-bean-soup)
-  - [Cheesy Baked Penne with Cauliflower](#cheesy-baked-penne-with-cauliflower)
-  - [Fragrant Beef Curry with Rice](#fragrant-beef-curry-with-rice)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Appetizers/Starters
+
+##  Smoky Chipotle Hummus with Garlic Bagel Chips
+
+Bon Appétit, October 2001.  Makes 20 servings.
+
+If you don't have time to make your own hummus, buy some at the market or
+specialty foods store, and mix in chipotle chilies and cumin to taste.
+
+> 2 15-ounce cans garbanzo beans (chickpeas), drained  
+> ½ cup water  
+> ¼ cup plus 2 tablespoons tahini (sesame seed paste)  
+> 3 tablespoons plus 2 teaspoons fresh lemon juice  
+> 2 tablespoons olive oil  
+> 2½ teaspoons minced canned chipotle chilies  
+> 1 large garlic clove, minced  
+> 1½ teaspoons ground cumin  
+> 1 4-ounce jar sliced pimientos in oil, drained  
+> ⅓ cup chopped fresh cilantro  
+> 2 6-ounce packages roasted-garlic bagel chips  
+
+Reserve 3 tablespoons garbanzo beans for garnish. Blend remaining garbanzo
+beans and next 7 ingredients in processor until smooth. Add pimientos;
+process, using on/off turns, until pimientos are coarsely chopped. Transfer
+hummus to medium bowl. Stir in cilantro. Season hummus to taste with salt and
+pepper. Sprinkle with reserved garbanzo beans. (Can be made 1 day ahead. Cover
+and chill. Bring to room temperature before serving.) Accompany with bagel
+chips.
+
+* Tahini ("sesame butter") is sold at Middle Eastern markets, natural foods
+  stores and some supermarkets.
+* Chipotle chilies canned in a spicy tomato sauce, sometimes called adobo,
+  are available at Latin American markets, specialty foods stores and some
+  supermarkets.
+
 
 
 ## Susan's Guacamole
@@ -119,15 +153,151 @@ Serves 6 (unless Uncle John is visiting then serves not so many)
 > ½ teaspoon salt  
 
 Peel avocadoes. Mash with a fork in a medium bowl.  Stir in tomato, onion,
-lime or lemon juice, garlic powder and salt.  Serve at once.
+lime or lemon juice, garlic powder and salt.  Serve quickly with chips or jicama slices.
 
-Note: Susan likes using the lemon juice versus the lime. 
+* Susan likes using the lemon juice versus the lime. 
+* The avocado will rapidly darken when exposed to air; to delay this press
+  plastic wrap down on to the guacamole to keep air away.
+
+
+
+## Crostini with Roasted Garlic, Goat Cheese and Apple Chutney
+
+Bon Appétit, October 1999.  From the 128 Cafe, St. Paul, Minnesota.  Makes 8
+Servings
+
+Kari and Brian Chase of St. Paul, Minnesota say that their neighborhood has a
+great restaurant: 128 Cafe. The last time they were there they tried a
+delicious appetizer of crisp bread with roasted garlic, goat cheese and apple
+chutney.
+
+> 1 cup (packed) golden brown sugar  
+> ¾ cup rice vinegar  
+> 2 garlic cloves, minced  
+> 1½ teaspoons minced peeled fresh ginger  
+> ⅛ teaspoon cayenne pepper  
+> 1 cinnamon stick  
+> 1½ pounds Granny Smith apples, peeled, cored, cut into FIXME-inch pieces (about 4 cups)  
+> 1 cup golden raisins  
+> 1 cup diced seeded plum tomatoes  
+> 1 tablespoon chopped fresh mint  
+
+> 1 French-bread baguette, cut into ⅓-inch-thick slices  
+> Olive oil  
+> Roasted Garlic  
+> 12 ounces soft fresh goat cheese (such as Montrachet), room temperature  
+
+Stir sugar and vinegar in heavy large saucepan over medium heat until sugar
+dissolves. Add next 4 ingredients and simmer until mixture is syrupy and
+reduced to ½ cup, about 8 minutes. Mix in apples and raisins. Increase heat to
+high and boil until apples are tender, stirring frequently, about 10 minutes.
+Cool to room temperature. (Chutney can be made 3 days ahead; cover and
+refrigerate.) Mix in tomatoes and mint.
+
+Preheat oven to 450 °F. Arrange baguette slices on baking sheet and brush with
+olive oil. Bake until golden and crisp, about 8 minutes. Spread each toast with
+roasted garlic; top with goat cheese and chutney.
+
+* At the restaurant, the bread is grilled, but it's just as good when it's baked.
+* A good jarred apple chutney or pear chutney works just as well 
+* Good lord this sounds good
+
 
 
 
 
 
 # Soups
+
+## Spicy Garbanzo Bean and Turkey Sausage Soup
+
+Bon Appétit, March 1995.  Serves 6.
+
+Sliced or diced fresh avocado makes a colorful garnish for this hearty
+southwestern soup. If you want to cut up the avocado ahead of time but don't
+want it to discolor, simply place the avocado pieces in a colander and rinse
+them with cold water. They will stay bright green for about two hours.
+
+> 1 teaspoon olive oil  
+> ¾ pound turkey sausage, casings removed, crumbled  
+> 8 large garlic cloves, chopped  
+> 1 cup canned diced peeled tomatoes with juices  
+> 2 tablespoons thinly sliced seeded jalapeño chili  
+> 1 teaspoon ground cumin  
+> 1 teaspoon chopped fresh rosemary or ½ teaspoon dried  
+> 3 15- to 16-ounce cans garbanzo beans (chick-peas), undrained  
+> 2 cups canned chicken broth or beef broth  
+> 2 tablespoons fresh lemon juice  
+> chopped fresh cilantro  
+> 1 avocado, peeled, sliced  
+
+Heat olive oil in heavy large Dutch oven over medium-high heat. Add turkey
+sausage and chopped garlic and sauté until sausage is golden brown and cooked
+through, breaking up sausage with back of fork, about 5 minutes. Reduce heat to
+medium. Add tomatoes with their juices, sliced jalapeño chili, ground cumin and
+chopped fresh rosemary and simmer 10 minutes, stirring frequently.
+
+Add garbanzo beans with their liquid and chicken broth and bring to boil.
+Reduce heat and simmer soup 15 minutes. Stir in fresh lemon juice. Season soup
+to taste with salt and pepper. (Can be prepared 1 day ahead. Cover and
+refrigerate. Rewarm over medium heat before continuing.)
+
+Ladle soup into bowls. Sprinkle soup with chopped fresh cilantro and top with
+sliced avocado. Serve immediately.
+ 
+
+
+## Easy Split Pea Soup
+
+Bon Appétit, May 1996, by Patricia Murray: County Kerry, Ireland. Serves 6.
+
+> 2 tablespoons (¼ stick) butter  
+> 1 large onion, chopped  
+> 1 cup chopped celery  
+> 1 cup chopped peeled carrots  
+> 1 ½ pounds smoked pork hocks  
+> 2 teaspoons dried leaf marjoram  
+> 1 ½ cups green split peas  
+> 8 cups water  
+
+Melt butter in heavy large pot or Dutch oven over medium-high heat. Add onion,
+celery and carrots. Sauté until vegetables begin to soften, about 8 minutes.
+Add pork and marjoram; stir 1 minute. Add peas, then water, and bring to boil.
+Reduce heat to medium-low. Partially cover pot; simmer soup until pork and
+vegetables are tender peas are falling apart, stirring often, about 1 hour and
+10 minutes.
+
+Transfer hocks to bowl. Puree 5 cups soup in batches in blender. Return to pot.
+Cut pork off bones. Dice pork; return pork to soup. Season with salt and
+pepper. (Can be made 1 day ahead. Refrigerate until cold, then cover. Rewarm
+before serving.)
+ 
+
+
+## Adeline's "Round Meat Soup" _aka._ Sausage and Bean Soup
+
+Bon Appétit, November 2000.  Makes 2 servings.  This recipe is very forgiving
+if you have too much, too little, or the wrong kind of any ingredients.
+
+> 1 tablespoon olive oil  
+> 6 ounces kielbasa or linguiça sausage, cut into thin rounds  
+> 1 medium onion, chopped  
+> 2¾ cups canned low-salt chicken broth  
+> ½ large bunch kale, stems cut away, leaves thinly sliced  
+> 1 15-ounce can small white beans, drained  
+> ¾ cup dry white wine  
+
+Heat oil in heavy large saucepan over medium heat. Add sausage and onion; Sauté
+until onion is tender, about 6 minutes. Add broth and kale; bring to boil.
+Reduce heat to medium-low; simmer uncovered 10 minutes. Add beans and wine.
+Cook until kale is tender, about 10 minutes. Season with salt and pepper.
+
+Variations include:
+
+* use beet or carrot greens
+* use spicy andouille sausage, meatballs, or even no meat
+
+
 
 ## Louisiana Red Beans and Rice
 
@@ -237,8 +407,68 @@ with cilantro and dollop of yogurt.  
 
 
 # Salads
+ 
+## Wheat Berry and Barley Salad with Smoked Mozzarella
+
+Gourmet, July 1994. Serves 6 as a main course or 8 to 10 as a side dish.
+
+"Berries" are whole grains that have been minimally processed--they have been
+hulled but still have the bran and germ intact.
+
+> 1 cup wheat berries  
+> 1 cup pearl barley  
+> 1 small red onion, chopped fine  
+> 2 garlic cloves, minced and mashed to a paste with ½ teaspoon salt  
+> ¼ cup balsamic vinegar  
+> ¼ cup olive oil (preferably extra-virgin)  
+> 6 scallions, chopped fine  
+> 1 ½ cups cooked corn (cut from about 2 large ears) (I use frozen corn)  
+> ½ pound smoked mozzarella cheese, diced fine  
+> 1 pint vine-ripened cherry tomatoes, halved  
+> ½ cup chopped fresh chives  
+
+Into a kettle of salted boiling water stir wheat berries and cook at a slow
+boil 30 minutes.  Stir in barley and cook grains at a slow boil 40 minutes
+While grains are cooking, in a large bowl stir together onion, garlic paste,
+vinegar, and oil.  Drain grains well and add to onion mixture. Toss mixture
+well and cool. Add scallions, corn, mozzarella, tomatoes, chives, and salt and
+pepper to taste and toss well.
+
+Salad may be made 1 day ahead and chilled, covered.  Bring salad to room
+temperature before serving.
+ 
+
 
 # Breakfast Dishes
+ 
+## Raspberry Corn Muffins
+
+Gourmet, May 1993.  Makes 12 muffins.  Can be prepared in 45 minutes or less.
+
+> 1 cup yellow cornmeal  
+> 1 cup all-purpose flour  
+> ½ cup sugar  
+> 1 teaspoon double-acting baking powder  
+> 1 teaspoon baking soda  
+> ¼ teaspoon salt  
+> 2 large eggs  
+> 1¼ cups plain yogurt  
+> ½ stick (¼ cup) unsalted butter, melted and cooled  
+> 1 cup fresh raspberries  
+
+Preheat the oven to 375 °F. and butter well twelve ½-cup muffin tins. In a bowl
+whisk together the cornmeal, the flour, the sugar, the baking powder, the
+baking soda, and the salt. In another bowl whisk together the eggs, the yogurt,
+and the butter, add the flour mixture, and stir the batter until it is just
+combined.
+
+Fold in the raspberries gently, divide the batter among the muffin tins, and
+bake the muffins in the middle of the oven for 20 minutes, or until a tester
+comes out clean. Let the muffins cool in the tins on a rack for 3 minutes, turn
+them out onto the rack, and let them cool completely. The muffins may be made 1
+day in advance and kept in an airtight container.
+
+
 
 ## Adeline's Favorite Muffins
 
@@ -297,6 +527,78 @@ Bake for 35 to 45 minutes until the egg mixture is set. Cut into 8 wedges. 
 
 
 # Meat Main Dishes
+ 
+## Slow-Cooked Carnitas Tacos
+
+Bon Appétit, April 2008, by Amy Finely.  Makes FIXME servings.
+
+You'll need a slow cooker for this recipe (a necessity for any busy cook).
+
+> 2 pounds boneless country-style pork ribs or pork shoulder (Boston butt), cut into 1 ½-inch pieces  
+> 2 teaspoons salt  
+> 2 teaspoons ground black pepper  
+> 2 teaspoons dried oregano (preferably Mexican)  
+> ½ large onion, cut into 4 pieces  
+> 1 avocado, halved, pitted, sliced  
+> Fresh cilantro sprigs  
+> Sliced red bell peppers (optional)  
+> Corn tortillas  
+> Roasted Tomatillo Salsa  
+
+Toss pork in bowl of slow cooker with salt, black pepper, and dried oregano to
+coat. Place onion pieces atop pork. Cover slow cooker and cook pork on low
+setting until meat is very tender and falling apart, about 6 hours.
+
+Using slotted spoon, transfer pork to cutting board. Discard onion pieces.
+Using fingers, shred pork; transfer carnitas to platter. Place avocado slices,
+cilantro sprigs, and sliced red bell peppers, if desired, alongside. Wrap corn
+tortillas in damp kitchen towel; microwave until warm, about 1 minute. Serve
+carnitas with warm tortillas and tomatillo salsa.   
+
+
+
+
+## Fragrant Beef Curry with Rice
+
+Bon Appétit, November 2000, from Bill Goodhue of Chino, California. Makes 6
+servings.
+
+> 2 pounds well-trimmed boneless beef stew meat, cut into 1-inch pieces  
+> 3 tablespoons vegetable oil  
+
+> 2 large onions, sliced  
+> 6 whole cloves  
+> 2 large garlic cloves, chopped  
+> 2 cinnamon sticks  
+> 1 bay leaf  
+> ¼ teaspoon dried crushed red pepper  
+> 1½ cups whole milk  
+> 3 large tomatoes, quartered  
+> 3 tablespoons Major Grey chutney  
+> 3 tablespoons fresh lemon juice  
+> 2 tablespoons minced peeled fresh ginger  
+> 1 ½ tablespoons curry powder  
+> ½ teaspoon salt  
+
+> hot cooked rice  
+
+Sprinkle beef with salt and pepper. Heat 2 tablespoons oil in heavy large pot
+over high heat. Working in batches, add beef to pot and brown on all sides,
+about 7 minutes per batch. Using slotted spoon, transfer to plate.
+
+Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions;
+sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves,
+garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute.
+Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and ½
+teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is
+tender, stirring occasionally, about 2 hours.
+
+Uncover; increase heat to medium. Boil stew until juices are slightly
+thickened, about 10 minutes. Serve over rice.
+
+FIXME
+
+
 
 ## Baked Chicken Meatballs with Peperonata
 
@@ -355,6 +657,111 @@ Toss bell peppers with caper mixture. Serve meatballs with peperonata.
 
 # Poultry Main Dishes
 
+## Grilled Chicken Moroccan Style
+
+Bon Appétit, June 2003. Makes 6 servings.
+
+Start marinating the chicken four to six hours ahead. Pour frosty Pilsners or a
+chilled Chenin Blanc.
+
+> 1 cup olive oil  
+> ¼ cup red wine vinegar  
+> 3 tablespoons ground cumin  
+> 1 ½ tablespoons ground coriander  
+> 2 teaspoons ground cinnamon  
+> 2 teaspoons salt  
+> 2 teaspoons sugar  
+> ¼ teaspoon cayenne pepper  
+> 4 large chicken breast halves with skin and ribs, cut crosswise in half  
+> 4 chicken legs  
+> 4 chicken thighs  
+
+> ¼ cup minced fresh parsley  
+
+Whisk first 8 ingredients in large glass baking dish. Add all chicken; turn to
+coat.  Cover with plastic wrap; chill 4 to 6 hours.
+
+Prepare barbecue (medium heat). Place marinade-coated chicken on barbecue.
+Grill chicken until just cooked through, occasionally brushing with any
+remaining marinade, about 10 minutes per side for breasts and about 12 minutes
+per side for leg and thigh pieces. Transfer chicken to platter. Sprinkle with
+parsley.  Drink pilsner.
+
+
+
+##  Grilled Chicken Sandwiches with Sage Pesto and Apples
+
+Bon Appétit, July 2003, by Cheryl and Bill Jamison. Makes 6 servings.
+
+#### Sage pesto
+
+> ¾ cup lightly packed fresh sage leaves (from 2 large bunches)  
+> ¾ cup pine nuts (about 4 ounces)  
+> ¼ cup (packed) fresh Italian parsley leaves  
+> 1 garlic clove  
+> ¾ cup plus 3 tablespoons olive oil  
+> 6 tablespoons freshly grated Parmesan cheese  
+
+Using on/off turns, blend sage leaves, pine nuts, parsley, and garlic in
+processor until mixture is finely chopped. With machine running, add ¾ cup oil
+and blend until thick paste forms. Mix in cheese. Transfer to small bowl;
+season with salt and pepper. (Can be made 1 day ahead. Press plastic wrap onto
+surface of pesto and refrigerate. Bring to room temperature before using.)
+
+#### Sandwiches
+
+> 6 skinless boneless chicken breast halves  
+> 6 4x5-inch rectangles focaccia, ciabatta, or long French rolls, split horizontally  
+> Mayonnaise  
+> 3 medium Fuji apples, halved, cored, thinly sliced  
+
+Place each chicken breast between sheets of waxed paper. Using rolling pin or
+meat mallet, pound each to ½-inch thickness. Brush chicken with 3 tablespoons
+oil; sprinkle with salt and pepper. Let chicken stand 30 minutes.
+
+Prepare barbecue (medium heat). Grill chicken until firm to touch and cooked
+through, about 5 minutes per side. Transfer chicken to platter. Grill focaccia
+until just beginning to brown, about 1 minute per side.
+
+Arrange bottom halves of focaccia on work surface. Spread each with mayonnaise.
+Top each with overlapping layer of sliced apple, then 1 chicken breast. Drizzle
+each chicken breast with pesto. Spread pesto on cut side of bread tops. Place
+tops on chicken, pesto side down. Cut sandwiches in half on diagonal. Transfer
+sandwiches to plates and serve.
+
+
+ 
+## Moroccan Chicken
+
+FIXME
+
+Bon Appétit, April 1991, by Margot Andrew: Los Angeles, California. Serves 4 to
+6.
+
+> ½ cup dried currants or raisins  
+> ¼ cup dry Sherry  
+> 3 tablespoons butter  
+> 2 tablespoons finely chopped onion  
+> 3 tablespoons all purpose flour  
+> 1 ½ teaspoons curry powder  
+> 1 cup milk  
+> 1 medium apple, peeled, diced  
+> 6 boneless chicken breast halves, skinned, patted dry  
+> ¼ cup slivered almonds, toasted  
+
+Place currants in small bowl. Add Sherry and let soak 2 hours.
+
+Preheat oven to 350 °F. Lightly butter 8-inch square baking pan. Melt 3
+tablespoons butter in heavy medium skillet over low heat. Add onion and cook
+until translucent, stirring occasionally, about 4 minutes. Add flour and curry
+powder and stir 3 minutes. Gradually whisk in milk. Bring to boil, stirring
+constantly. Mix in currants with Sherry and apple. Season to taste with salt.
+
+Arrange chicken in prepared pan in single layer. Cover with sauce. Top with
+almonds. Bake until chicken is cooked through, about 30 minutes.   
+
+
+
 ## Chicken Mole with Chipotles
 
 Bon Appétit, December 2001.
@@ -392,10 +799,62 @@ Season with salt and pepper; serve.   
 
 
 
-
-# Vegetable Main Dishes
+# Other Main Dishes
 
 Note: some of these dishes are vegetarian, some are not!
+
+## Cheesy Baked Penne with Cauliflower
+
+FIXME
+
+Bon Appétit, October 2008, by Bruce Aidells (adapted by Susan).  One of
+Adeline's favorites.  Makes 8 servings.
+
+> 1 large head of cauliflower, cored, cut into 1-inch florets  
+> 2 large heirloom tomatoes  
+> 5 tablespoons butter, divided  
+> ½ cup thinly sliced green onions  
+> coarse kosher salt  
+> 2 tablespoons all purpose flour  
+> 1 cup heavy whipping cream  
+> 3 cups coarsely grated Comté cheese (or half Gruyère and half Fontina; about 9 ounces), divided  
+> ¾ cup Parmigiano-Reggiano, finely grated Parmesan cheese, divided  
+> 1 cup sour cream  
+> 1 tablespoon whole grain Dijon mustard  
+> 10 ounces penne (approx. 3½ cups)  
+> 1 cup Panko crumbs  
+
+Cook cauliflower in large pot of boiling salted water until crisp-tender, about
+5 minutes. Using large sieve, transfer cauliflower to bowl. Add tomatoes to
+pot; cook 1 minute. Remove from water; peel and dice tomatoes. Reserve pot of
+water.
+
+Melt 2 tablespoons butter in large skillet over medium-high heat. Add
+cauliflower; sauté until beginning to brown, about 5 minutes. Add tomatoes and
+green onions. Cook 1 minute to blend flavors. Remove from heat. Season with
+coarse salt and pepper.
+
+Melt 2 tablespoons butter in large saucepan over medium-low heat. Add flour and
+stir 2 minutes. Gradually whisk in cream. Cook until sauce thickens, whisking
+occasionally, about 4 minutes. Add 2 cups Comté cheese; whisk until melted and
+sauce is smooth. Whisk in ½ cup Parmesan, then crème fraîche and mustard.
+Season with salt and pepper. Remove from heat.
+
+Return reserved pot of water to boil. Add pasta and cook until tender but still
+firm to bite, stirring occasionally. Drain; return pasta to same pot. Stir in
+cauliflower mixture and sauce.
+
+Butter 13x9x2-inch glass baking dish or individual sized ramekins. Spoon in
+half of pasta mixture; sprinkle with ½ cup Comté cheese. Top with remaining
+pasta mixture and ½ cup Comté cheese. Melt remaining 1 tablespoon butter in
+small skillet. Add breadcrumbs and toss to coat. Remove from heat; mix in ¼ cup
+Parmesan. Sprinkle crumbs over pasta. DO AHEAD: Can be made 2 hours ahead. Let
+stand at room temperature.  Preheat oven to 350 °F. Bake pasta uncovered until
+heated through and bubbling, about 35 minutes.  
+
+
+
+
 
 ## Charred Chili Relleno with Green Rice
 
@@ -459,6 +918,30 @@ Serve peppers on beds of green rice. Yum-o!
 
 
 # Side Dishes
+
+## Mexican Black Beans
+
+Bon Appétit; serves 6.
+
+Serve as a side dish with enchiladas. The beans can be topped with grated
+Monterey Jack cheese, then covered to melt.
+
+> 1 tablespoon olive oil  
+> 4 garlic cloves, finely chopped  
+> 1 large jalapeño chili, seeded, chopped  
+> ½ teaspoon (generous) ground cumin  
+> 2 15-ounce cans black beans, rinsed, drained  
+> 1 14½-ounce can low-salt chicken broth  
+> Fresh lime juice  
+> Chopped fresh cilantro  
+
+Heat oil in heavy large saucepan over medium-high heat. Add garlic, chili and
+cumin and sauté 30 seconds. Add beans and broth and cook 5 minutes, stirring
+occasionally. Coarsely mash beans with potato masher. Continue boiling until
+thick, stirring frequently, about 10 minutes. Season to taste with lime juice,
+salt and pepper. Transfer to bowl. Sprinkle with cilantro and serve.
+
+
 
 ## Salsa Verde
 
@@ -544,6 +1027,67 @@ season with salt and pepper.  
 
 
 # Desserts
+
+##  Peanut Butter Cookies with Chocolate Chunks 
+
+Bon Appétit, March 1997. Makes 27 cookies (we make them smaller). Susan's favorite.
+
+> 1½ cups unbleached all purpose flour  
+> ⅓ cup old-fashioned oats  
+> 1 teaspoon baking soda  
+> ¼ teaspoon salt  
+> 1 cup old-fashioned chunky peanut butter (about 9 ounces)  
+> 1 cup (packed) golden brown sugar  
+> ½ cup (1 stick) unsalted butter, room temperature  
+> ¼ cup honey  
+> 1 large egg  
+> 1 teaspoon vanilla extract  
+> 5 ounces semisweet chocolate, coarsely chopped  
+
+Mix flour, oats, baking soda and salt in medium bowl. Using electric mixer,
+beat peanut butter, brown sugar, butter, honey, egg and vanilla in large bowl
+until well blended. Stir dry ingredients into peanut butter mixture in 2
+additions. Stir in chopped chocolate. Cover and refrigerate until dough is firm
+and no longer sticky, about 30 minutes.
+
+Preheat oven to 350 °F. Butter 2 heavy large baking sheets. With hands, roll 1
+heaping tablespoonful of dough for each cookie into 1 ¾-inch-diameter ball.
+Arrange cookies on prepared baking sheets, spacing 2 ½ inches apart. Bake
+cookies until puffed, beginning to brown on top and still very soft to touch,
+about 12 minutes.
+
+Cool cookies on baking sheets 5 minutes. Using metal spatula, transfer cookies
+to rack and cool completely. (Can be made 2 days ahead. Store in airtight
+container at room temperature.)
+ 
+
+
+## Hot Fudge Sauce
+
+Gourmet, February 2004. Makes about 2 cups.  About 30 minutes, start to finish.
+
+> ⅔ cup heavy cream  
+> ½ cup light corn syrup  
+> ⅓ cup packed dark brown sugar  
+> ¼ cup unsweetened Dutch-process cocoa powder  
+> ¼ teaspoon salt  
+> 6 oz fine-quality bittersweet chocolate (not unsweetened), finely chopped  
+> 2 tablespoons unsalted butter  
+> 1 teaspoon vanilla  
+
+Bring cream, corn syrup, sugar, cocoa, salt, and half of chocolate to a boil in
+a 1 to 1 ½-quart heavy saucepan over moderate heat, stirring, until chocolate
+is melted. Reduce heat and cook at a low boil, stirring occasionally, 5
+minutes, then remove from heat. Add butter, vanilla, and remaining chocolate
+and stir until smooth. Cool sauce to warm before serving.
+
+* Sauce can be made ahead and cooled completely, then chilled in an airtight
+  container or jar. Reheat before using.
+* Sauce can be eaten directly from the jar with a spoon, or with your fingers
+  in a pinch.
+* I have used Baker's chocolate squares and I never chop them.
+
+
 
 
 
@@ -1610,49 +2154,6 @@ Cool. Squeeze garlic cloves from skins.
 
 
 
-## Crostini with Roasted Garlic, Goat Cheese and Apple Chutney
-
-Bon Appétit, October 1999.  From the 128 Cafe, St. Paul, Minnesota.  Makes 8
-Servings
-
-Kari and Brian Chase of St. Paul, Minnesota say that their neighborhood has a
-great restaurant: 128 Cafe. The last time they were there they tried a
-delicious appetizer of crisp bread with roasted garlic, goat cheese and apple
-chutney.
-
-> 1 cup (packed) golden brown sugar  
-> ¾ cup rice vinegar  
-> 2 garlic cloves, minced  
-> 1½ teaspoons minced peeled fresh ginger  
-> ⅛ teaspoon cayenne pepper  
-> 1 cinnamon stick  
-> 1½ pounds Granny Smith apples, peeled, cored, cut into FIXME-inch pieces (about 4 cups)  
-> 1 cup golden raisins  
-> 1 cup diced seeded plum tomatoes  
-> 1 tablespoon chopped fresh mint  
-
-> 1 French-bread baguette, cut into ⅓-inch-thick slices  
-> Olive oil  
-> Roasted Garlic  
-> 12 ounces soft fresh goat cheese (such as Montrachet), room temperature  
-
-Stir sugar and vinegar in heavy large saucepan over medium heat until sugar
-dissolves. Add next 4 ingredients and simmer until mixture is syrupy and
-reduced to ½ cup, about 8 minutes. Mix in apples and raisins. Increase heat to
-high and boil until apples are tender, stirring frequently, about 10 minutes.
-Cool to room temperature. (Chutney can be made 3 days ahead; cover and
-refrigerate.) Mix in tomatoes and mint.
-
-Preheat oven to 450 °F. Arrange baguette slices on baking sheet and brush with
-olive oil. Bake until golden and crisp, about 8 minutes. Spread each toast with
-roasted garlic; top with goat cheese and chutney.
-
-* At the restaurant, the bread is grilled, but it's just as good when it's baked.
-* A good jarred apple chutney or pear chutney works just as well 
-* Good lord this sounds good
-
-
-
 
 ## Pork Tenderloin with Herbed Breadcrumb Crust
 
@@ -1688,74 +2189,6 @@ Slice pork and serve.
 
 
 
-
- 
-## Slow-Cooked Carnitas Tacos
-
-Bon Appétit, April 2008, by Amy Finely.  Makes FIXME servings.
-
-You'll need a slow cooker for this recipe (a necessity for any busy cook).
-
-> 2 pounds boneless country-style pork ribs or pork shoulder (Boston butt), cut into 1 ½-inch pieces  
-> 2 teaspoons salt  
-> 2 teaspoons ground black pepper  
-> 2 teaspoons dried oregano (preferably Mexican)  
-> ½ large onion, cut into 4 pieces  
-> 1 avocado, halved, pitted, sliced  
-> Fresh cilantro sprigs  
-> Sliced red bell peppers (optional)  
-> Corn tortillas  
-> Roasted Tomatillo Salsa  
-
-Toss pork in bowl of slow cooker with salt, black pepper, and dried oregano to
-coat. Place onion pieces atop pork. Cover slow cooker and cook pork on low
-setting until meat is very tender and falling apart, about 6 hours.
-
-Using slotted spoon, transfer pork to cutting board. Discard onion pieces.
-Using fingers, shred pork; transfer carnitas to platter. Place avocado slices,
-cilantro sprigs, and sliced red bell peppers, if desired, alongside. Wrap corn
-tortillas in damp kitchen towel; microwave until warm, about 1 minute. Serve
-carnitas with warm tortillas and tomatillo salsa.   
-
-
-
-
-## Spicy Garbanzo Bean and Turkey Sausage Soup
-
-Bon Appétit, March 1995.  Serves 6.
-
-Sliced or diced fresh avocado makes a colorful garnish for this hearty
-southwestern soup. If you want to cut up the avocado ahead of time but don't
-want it to discolor, simply place the avocado pieces in a colander and rinse
-them with cold water. They will stay bright green for about two hours.
-
-> 1 teaspoon olive oil  
-> ¾ pound turkey sausage, casings removed, crumbled  
-> 8 large garlic cloves, chopped  
-> 1 cup canned diced peeled tomatoes with juices  
-> 2 tablespoons thinly sliced seeded jalapeño chili  
-> 1 teaspoon ground cumin  
-> 1 teaspoon chopped fresh rosemary or ½ teaspoon dried  
-> 3 15- to 16-ounce cans garbanzo beans (chick-peas), undrained  
-> 2 cups canned chicken broth or beef broth  
-> 2 tablespoons fresh lemon juice  
-> chopped fresh cilantro  
-> 1 avocado, peeled, sliced  
-
-Heat olive oil in heavy large Dutch oven over medium-high heat. Add turkey
-sausage and chopped garlic and sauté until sausage is golden brown and cooked
-through, breaking up sausage with back of fork, about 5 minutes. Reduce heat to
-medium. Add tomatoes with their juices, sliced jalapeño chili, ground cumin and
-chopped fresh rosemary and simmer 10 minutes, stirring frequently.
-
-Add garbanzo beans with their liquid and chicken broth and bring to boil.
-Reduce heat and simmer soup 15 minutes. Stir in fresh lemon juice. Season soup
-to taste with salt and pepper. (Can be prepared 1 day ahead. Cover and
-refrigerate. Rewarm over medium heat before continuing.)
-
-Ladle soup into bowls. Sprinkle soup with chopped fresh cilantro and top with
-sliced avocado. Serve immediately.
- 
 
 
 
@@ -1835,63 +2268,6 @@ Sprinkle salad with peanuts and serve.
 
 
  
-## Mexican Black Beans
-
-Bon Appétit; serves 6.
-
-Serve as a side dish with enchiladas. The beans can be topped with grated
-Monterey Jack cheese, then covered to melt.
-
-> 1 tablespoon olive oil  
-> 4 garlic cloves, finely chopped  
-> 1 large jalapeño chili, seeded, chopped  
-> ½ teaspoon (generous) ground cumin  
-> 2 15-ounce cans black beans, rinsed, drained  
-> 1 14½-ounce can low-salt chicken broth  
-> Fresh lime juice  
-> Chopped fresh cilantro  
-
-Heat oil in heavy large saucepan over medium-high heat. Add garlic, chili and
-cumin and sauté 30 seconds. Add beans and broth and cook 5 minutes, stirring
-occasionally. Coarsely mash beans with potato masher. Continue boiling until
-thick, stirring frequently, about 10 minutes. Season to taste with lime juice,
-salt and pepper. Transfer to bowl. Sprinkle with cilantro and serve.
-
-
- 
-
-## Wheat Berry and Barley Salad with Smoked Mozzarella
-
-Gourmet, July 1994. Serves 6 as a main course or 8 to 10 as a side dish.
-
-"Berries" are whole grains that have been minimally processed: They have been
-hulled but still have the bran and germ intact.
-
-
-> 1 cup wheat berries  
-> 1 cup pearl barley  
-> 1 small red onion, chopped fine  
-> 2 garlic cloves, minced and mashed to a paste with ½ teaspoon salt  
-> ¼ cup balsamic vinegar  
-> ¼ cup olive oil (preferably extra-virgin)  
-> 6 scallions, chopped fine  
-> 1 ½ cups cooked corn (cut from about 2 large ears) (I use frozen corn)  
-> ½ pound smoked mozzarella cheese, diced fine  
-> 1 pint vine-ripened cherry tomatoes, halved  
-> ½ cup chopped fresh chives  
-
-Into a kettle of salted boiling water stir wheat berries and cook at a slow
-boil 30 minutes.  Stir in barley and cook grains at a slow boil 40 minutes
-While grains are cooking, in a large bowl stir together onion, garlic paste,
-vinegar, and oil.  Drain grains well and add to onion mixture. Toss mixture
-well and cool. Add scallions, corn, mozzarella, tomatoes, chives, and salt and
-pepper to taste and toss well.
-
-Salad may be made 1 day ahead and chilled, covered.  Bring salad to room
-temperature before serving.
-
- 
-
 
 ## Kohlrabi and Apple Salad with Creamy Mustard Dressing
 
@@ -1910,40 +2286,6 @@ In a bowl whisk the cream until it holds soft peaks and whisk in the lemon
 juice, the mustard, the parsley, the sugar, and salt and pepper to taste.  Stir
 in the kohlrabi strips and the apple, peeled, cored, and diced, and combine the
 salad well.   
-
-
-
-## Grilled Chicken Moroccan Style
-
-Bon Appétit, June 2003. Makes 6 servings.
-
-Start marinating the chicken four to six hours ahead. Pour frosty Pilsners or a
-chilled Chenin Blanc.
-
-> 1 cup olive oil  
-> ¼ cup red wine vinegar  
-> 3 tablespoons ground cumin  
-> 1 ½ tablespoons ground coriander  
-> 2 teaspoons ground cinnamon  
-> 2 teaspoons salt  
-> 2 teaspoons sugar  
-> ¼ teaspoon cayenne pepper  
-> 4 large chicken breast halves with skin and ribs, cut crosswise in half  
-> 4 chicken legs  
-> 4 chicken thighs  
-
-> ¼ cup minced fresh parsley  
-
-Whisk first 8 ingredients in large glass baking dish. Add all chicken; turn to
-coat.  Cover with plastic wrap; chill 4 to 6 hours.
-
-Prepare barbecue (medium heat). Place marinade-coated chicken on barbecue.
-Grill chicken until just cooked through, occasionally brushing with any
-remaining marinade, about 10 minutes per side for breasts and about 12 minutes
-per side for leg and thigh pieces. Transfer chicken to platter. Sprinkle with
-parsley.  Drink pilsner.
-
-
 
 
 
@@ -2012,43 +2354,6 @@ with cilantro and peanuts.
 
 
 
-
-##  Peanut Butter Cookies with Chocolate Chunks 
-
-Bon Appétit, March 1997. Makes 27 cookies (we make them smaller). Susan's favorite.
-
-> 1½ cups unbleached all purpose flour  
-> ⅓ cup old-fashioned oats  
-> 1 teaspoon baking soda  
-> ¼ teaspoon salt  
-> 1 cup old-fashioned chunky peanut butter (about 9 ounces)  
-> 1 cup (packed) golden brown sugar  
-> ½ cup (1 stick) unsalted butter, room temperature  
-> ¼ cup honey  
-> 1 large egg  
-> 1 teaspoon vanilla extract  
-> 5 ounces semisweet chocolate, coarsely chopped  
-
-Mix flour, oats, baking soda and salt in medium bowl. Using electric mixer,
-beat peanut butter, brown sugar, butter, honey, egg and vanilla in large bowl
-until well blended. Stir dry ingredients into peanut butter mixture in 2
-additions. Stir in chopped chocolate. Cover and refrigerate until dough is firm
-and no longer sticky, about 30 minutes.
-
-Preheat oven to 350 °F. Butter 2 heavy large baking sheets. With hands, roll 1
-heaping tablespoonful of dough for each cookie into 1 ¾-inch-diameter ball.
-Arrange cookies on prepared baking sheets, spacing 2 ½ inches apart. Bake
-cookies until puffed, beginning to brown on top and still very soft to touch,
-about 12 minutes.
-
-Cool cookies on baking sheets 5 minutes. Using metal spatula, transfer cookies
-to rack and cool completely. (Can be made 2 days ahead. Store in airtight
-container at room temperature.)
-
- 
-
-
-
 ## Szechuan Noodles with Peanut Sauce
 
 Bon Appétit, August 1999, from Zygot Bookworks & Cafe.  Serves 6 as a main
@@ -2089,326 +2394,5 @@ broth if necessary.)
 
 Add shredded cabbage and vegetable strips to noodles. Toss with enough peanut
 sauce to coat. Sprinkle with sesame seeds.
-
-
- 
-## Raspberry Corn Muffins
-
-Gourmet, May 1993.  Makes 12 muffins.  Can be prepared in 45 minutes or less.
-
-> 1 cup yellow cornmeal  
-> 1 cup all-purpose flour  
-> ½ cup sugar  
-> 1 teaspoon double-acting baking powder  
-> 1 teaspoon baking soda  
-> ¼ teaspoon salt  
-> 2 large eggs  
-> 1¼ cups plain yogurt  
-> ½ stick (¼ cup) unsalted butter, melted and cooled  
-> 1 cup fresh raspberries  
-
-Preheat the oven to 375 °F. and butter well twelve ½-cup muffin tins. In a bowl
-whisk together the cornmeal, the flour, the sugar, the baking powder, the
-baking soda, and the salt. In another bowl whisk together the eggs, the yogurt,
-and the butter, add the flour mixture, and stir the batter until it is just
-combined.
-
-Fold in the raspberries gently, divide the batter among the muffin tins, and
-bake the muffins in the middle of the oven for 20 minutes, or until a tester
-comes out clean. Let the muffins cool in the tins on a rack for 3 minutes, turn
-them out onto the rack, and let them cool completely. The muffins may be made 1
-day in advance and kept in an airtight container.
-
-
-
-
-##  Smoky Chipotle Hummus with Garlic Bagel Chips
-
-Bon Appétit, October 2001.  Makes 20 servings.
-
-If you don't have time to make your own hummus, buy some at the market or
-specialty foods store, and mix in chipotle chilies and cumin to taste.
-
-> 2 15-ounce cans garbanzo beans (chickpeas), drained  
-> ½ cup water  
-> ¼ cup plus 2 tablespoons tahini (sesame seed paste)  
-> 3 tablespoons plus 2 teaspoons fresh lemon juice  
-> 2 tablespoons olive oil  
-> 2½ teaspoons minced canned chipotle chilies  
-> 1 large garlic clove, minced  
-> 1½ teaspoons ground cumin  
-> 1 4-ounce jar sliced pimientos in oil, drained  
-> ⅓ cup chopped fresh cilantro  
-> 2 6-ounce packages roasted-garlic bagel chips  
-
-Reserve 3 tablespoons garbanzo beans for garnish. Blend remaining garbanzo
-beans and next 7 ingredients in processor until smooth. Add pimientos;
-process, using on/off turns, until pimientos are coarsely chopped. Transfer
-hummus to medium bowl. Stir in cilantro. Season hummus to taste with salt and
-pepper. Sprinkle with reserved garbanzo beans. (Can be made 1 day ahead. Cover
-and chill. Bring to room temperature before serving.) Accompany with bagel
-chips.
-
-* Tahini ("sesame butter") is sold at Middle Eastern markets, natural foods
-  stores and some supermarkets.
-* Chipotle chilies canned in a spicy tomato sauce, sometimes called adobo,
-  are available at Latin American markets, specialty foods stores and some
-  supermarkets.
-
-
-
-
-## Hot Fudge Sauce
-
-Gourmet, February 2004. Makes about 2 cups.  About 30 minutes, start to finish.
-
-> ⅔ cup heavy cream  
-> ½ cup light corn syrup  
-> ⅓ cup packed dark brown sugar  
-> ¼ cup unsweetened Dutch-process cocoa powder  
-> ¼ teaspoon salt  
-> 6 oz fine-quality bittersweet chocolate (not unsweetened), finely chopped  
-> 2 tablespoons unsalted butter  
-> 1 teaspoon vanilla  
-
-Bring cream, corn syrup, sugar, cocoa, salt, and half of chocolate to a boil in
-a 1 to 1 ½-quart heavy saucepan over moderate heat, stirring, until chocolate
-is melted. Reduce heat and cook at a low boil, stirring occasionally, 5
-minutes, then remove from heat. Add butter, vanilla, and remaining chocolate
-and stir until smooth. Cool sauce to warm before serving.
-
-* Sauce can be made ahead and cooled completely, then chilled in an airtight
-  container or jar. Reheat before using.
-* Sauce can be eaten directly from the jar with a spoon, or with your fingers
-  in a pinch.
-* I have used Baker's chocolate squares and I never chop them.
-
-
-
-
-##  Grilled Chicken Sandwiches with Sage Pesto and Apples
-
-Bon Appétit, July 2003, by Cheryl and Bill Jamison. Makes 6 servings.
-
-#### Sage pesto
-
-> ¾ cup lightly packed fresh sage leaves (from 2 large bunches)  
-> ¾ cup pine nuts (about 4 ounces)  
-> ¼ cup (packed) fresh Italian parsley leaves  
-> 1 garlic clove  
-> ¾ cup plus 3 tablespoons olive oil  
-> 6 tablespoons freshly grated Parmesan cheese  
-
-Using on/off turns, blend sage leaves, pine nuts, parsley, and garlic in
-processor until mixture is finely chopped. With machine running, add ¾ cup oil
-and blend until thick paste forms. Mix in cheese. Transfer to small bowl;
-season with salt and pepper. (Can be made 1 day ahead. Press plastic wrap onto
-surface of pesto and refrigerate. Bring to room temperature before using.)
-
-#### Sandwiches
-
-> 6 skinless boneless chicken breast halves  
-> 6 4x5-inch rectangles focaccia, ciabatta, or long French rolls, split horizontally  
-> Mayonnaise  
-> 3 medium Fuji apples, halved, cored, thinly sliced  
-
-Place each chicken breast between sheets of waxed paper. Using rolling pin or
-meat mallet, pound each to ½-inch thickness. Brush chicken with 3 tablespoons
-oil; sprinkle with salt and pepper. Let chicken stand 30 minutes.
-
-Prepare barbecue (medium heat). Grill chicken until firm to touch and cooked
-through, about 5 minutes per side. Transfer chicken to platter. Grill focaccia
-until just beginning to brown, about 1 minute per side.
-
-Arrange bottom halves of focaccia on work surface. Spread each with mayonnaise.
-Top each with overlapping layer of sliced apple, then 1 chicken breast. Drizzle
-each chicken breast with pesto. Spread pesto on cut side of bread tops. Place
-tops on chicken, pesto side down. Cut sandwiches in half on diagonal. Transfer
-sandwiches to plates and serve.
-
-
-
-
-
- 
-## Moroccan Chicken
-
-FIXME
-
-Bon Appétit, April 1991, by Margot Andrew: Los Angeles, California. Serves 4 to
-6.
-
-> ½ cup dried currants or raisins  
-> ¼ cup dry Sherry  
-> 3 tablespoons butter  
-> 2 tablespoons finely chopped onion  
-> 3 tablespoons all purpose flour  
-> 1 ½ teaspoons curry powder  
-> 1 cup milk  
-> 1 medium apple, peeled, diced  
-> 6 boneless chicken breast halves, skinned, patted dry  
-> ¼ cup slivered almonds, toasted  
-
-Place currants in small bowl. Add Sherry and let soak 2 hours.
-
-Preheat oven to 350 °F. Lightly butter 8-inch square baking pan. Melt 3
-tablespoons butter in heavy medium skillet over low heat. Add onion and cook
-until translucent, stirring occasionally, about 4 minutes. Add flour and curry
-powder and stir 3 minutes. Gradually whisk in milk. Bring to boil, stirring
-constantly. Mix in currants with Sherry and apple. Season to taste with salt.
-
-Arrange chicken in prepared pan in single layer. Cover with sauce. Top with
-almonds. Bake until chicken is cooked through, about 30 minutes.   
-
-
-
-
-## Easy Split Pea Soup
-
-Bon Appétit, May 1996, by Patricia Murray: County Kerry, Ireland. Serves 6.
-
-> 2 tablespoons (¼ stick) butter  
-> 1 large onion, chopped  
-> 1 cup chopped celery  
-> 1 cup chopped peeled carrots  
-> 1 ½ pounds smoked pork hocks  
-> 2 teaspoons dried leaf marjoram  
-> 1 ½ cups green split peas  
-> 8 cups water  
-
-Melt butter in heavy large pot or Dutch oven over medium-high heat. Add onion,
-celery and carrots. Sauté until vegetables begin to soften, about 8 minutes.
-Add pork and marjoram; stir 1 minute. Add peas, then water, and bring to boil.
-Reduce heat to medium-low. Partially cover pot; simmer soup until pork and
-vegetables are tender peas are falling apart, stirring often, about 1 hour and
-10 minutes.
-
-Transfer hocks to bowl. Puree 5 cups soup in batches in blender. Return to pot.
-Cut pork off bones. Dice pork; return pork to soup. Season with salt and
-pepper. (Can be made 1 day ahead. Refrigerate until cold, then cover. Rewarm
-before serving.)
- 
-
-
-## Adeline's "Round Meat Soup" _aka._ Sausage and Bean Soup
-
-Bon Appétit, November 2000.  Makes 2 servings.  This recipe is very forgiving
-if you have too much, too little, or the wrong kind of any ingredients.
-
-> 1 tablespoon olive oil  
-> 6 ounces kielbasa or linguiça sausage, cut into thin rounds  
-> 1 medium onion, chopped  
-> 2¾ cups canned low-salt chicken broth  
-> ½ large bunch kale, stems cut away, leaves thinly sliced  
-> 1 15-ounce can small white beans, drained  
-> ¾ cup dry white wine  
-
-Heat oil in heavy large saucepan over medium heat. Add sausage and onion; Sauté
-until onion is tender, about 6 minutes. Add broth and kale; bring to boil.
-Reduce heat to medium-low; simmer uncovered 10 minutes. Add beans and wine.
-Cook until kale is tender, about 10 minutes. Season with salt and pepper.
-
-Variations include:
-
-* use beet or carrot greens
-* use spicy andouille sausage, meatballs, or even no meat
-
-
-
-## Cheesy Baked Penne with Cauliflower
-
-Bon Appétit, October 2008, by Bruce Aidells (adapted by Susan).  One of
-Adeline's favorites.  Makes 8 servings.
-
-> 1 large head of cauliflower, cored, cut into 1-inch florets  
-> 2 large heirloom tomatoes  
-> 5 tablespoons butter, divided  
-> ½ cup thinly sliced green onions  
-> coarse kosher salt  
-> 2 tablespoons all purpose flour  
-> 1 cup heavy whipping cream  
-> 3 cups coarsely grated Comté cheese (or half Gruyère and half Fontina; about 9 ounces), divided  
-> ¾ cup Parmigiano-Reggiano, finely grated Parmesan cheese, divided  
-> 1 cup sour cream  
-> 1 tablespoon whole grain Dijon mustard  
-> 10 ounces penne (approx. 3½ cups)  
-> 1 cup Panko crumbs  
-
-Cook cauliflower in large pot of boiling salted water until crisp-tender, about
-5 minutes. Using large sieve, transfer cauliflower to bowl. Add tomatoes to
-pot; cook 1 minute. Remove from water; peel and dice tomatoes. Reserve pot of
-water.
-
-Melt 2 tablespoons butter in large skillet over medium-high heat. Add
-cauliflower; sauté until beginning to brown, about 5 minutes. Add tomatoes and
-green onions. Cook 1 minute to blend flavors. Remove from heat. Season with
-coarse salt and pepper.
-
-Melt 2 tablespoons butter in large saucepan over medium-low heat. Add flour and
-stir 2 minutes. Gradually whisk in cream. Cook until sauce thickens, whisking
-occasionally, about 4 minutes. Add 2 cups Comté cheese; whisk until melted and
-sauce is smooth. Whisk in ½ cup Parmesan, then crème fraîche and mustard.
-Season with salt and pepper. Remove from heat.
-
-Return reserved pot of water to boil. Add pasta and cook until tender but still
-firm to bite, stirring occasionally. Drain; return pasta to same pot. Stir in
-cauliflower mixture and sauce.
-
-Butter 13x9x2-inch glass baking dish or individual sized ramekins. Spoon in
-half of pasta mixture; sprinkle with ½ cup Comté cheese. Top with remaining
-pasta mixture and ½ cup Comté cheese. Melt remaining 1 tablespoon butter in
-small skillet. Add breadcrumbs and toss to coat. Remove from heat; mix in ¼ cup
-Parmesan. Sprinkle crumbs over pasta. DO AHEAD: Can be made 2 hours ahead. Let
-stand at room temperature.  Preheat oven to 350 °F. Bake pasta uncovered until
-heated through and bubbling, about 35 minutes.  
-
-
-FIXME
-
-
-
-## Fragrant Beef Curry with Rice
-
-Bon Appétit, November 2000, from Bill Goodhue of Chino, California. Makes 6
-servings.
-
-> 2 pounds well-trimmed boneless beef stew meat, cut into 1-inch pieces  
-> 3 tablespoons vegetable oil  
-
-> 2 large onions, sliced  
-> 6 whole cloves  
-> 2 large garlic cloves, chopped  
-> 2 cinnamon sticks  
-> 1 bay leaf  
-> ¼ teaspoon dried crushed red pepper  
-> 1½ cups whole milk  
-> 3 large tomatoes, quartered  
-> 3 tablespoons Major Grey chutney  
-> 3 tablespoons fresh lemon juice  
-> 2 tablespoons minced peeled fresh ginger  
-> 1 ½ tablespoons curry powder  
-> ½ teaspoon salt  
-
-> hot cooked rice  
-
-Sprinkle beef with salt and pepper. Heat 2 tablespoons oil in heavy large pot
-over high heat. Working in batches, add beef to pot and brown on all sides,
-about 7 minutes per batch. Using slotted spoon, transfer to plate.
-
-Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions;
-sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves,
-garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute.
-Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and ½
-teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is
-tender, stirring occasionally, about 2 hours.
-
-Uncover; increase heat to medium. Boil stew until juices are slightly
-thickened, about 10 minutes. Serve over rice.
-
-FIXME
-
-
-
-
 
 
