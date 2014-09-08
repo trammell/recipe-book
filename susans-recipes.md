@@ -17,7 +17,14 @@
   - [Louisiana Red Beans and Rice](#louisiana-red-beans-and-rice)
   - [Creamy Tomato Soup](#creamy-tomato-soup)
   - [Country Captain Soup](#country-captain-soup)
-- [Salads](#salads)
+- [Sides and Salads](#sides-and-salads)
+  - [Noodle Salad with Spicy Peanut Butter Dressing](#noodle-salad-with-spicy-peanut-butter-dressing)
+  - [Mexican Black Beans](#mexican-black-beans)
+  - [Salsa Verde](#salsa-verde)
+  - [Carrot Orzo](#carrot-orzo)
+  - [Pearl Barley, Bacon, and Root Vegetable Pilaf](#pearl-barley-bacon-and-root-vegetable-pilaf)
+      - [Pilaf](#pilaf)
+  - [Szechuan Noodles with Peanut Sauce](#szechuan-noodles-with-peanut-sauce)
   - [Wheat Berry and Barley Salad with Smoked Mozzarella](#wheat-berry-and-barley-salad-with-smoked-mozzarella)
 - [Breakfast Dishes](#breakfast-dishes)
   - [Raspberry Corn Muffins](#raspberry-corn-muffins)
@@ -31,7 +38,7 @@
       - [Meatballs](#meatballs)
 - [Poultry Main Dishes](#poultry-main-dishes)
   - [Grilled Chicken Moroccan Style](#grilled-chicken-moroccan-style)
-  - [Grilled Chicken Sandwiches with Sage Pesto and Apples](#grilled-chicken-sandwiches-with-sage-pesto-and-apples)
+  - [ Grilled Chicken Sandwiches with Sage Pesto and Apples](#grilled-chicken-sandwiches-with-sage-pesto-and-apples)
       - [Sage pesto](#sage-pesto)
       - [Sandwiches](#sandwiches)
   - [Moroccan Chicken](#moroccan-chicken)
@@ -39,12 +46,6 @@
 - [Other Main Dishes](#other-main-dishes)
   - [Cheesy Baked Penne with Cauliflower](#cheesy-baked-penne-with-cauliflower)
   - [Charred Chili Relleno with Green Rice](#charred-chili-relleno-with-green-rice)
-- [Side Dishes](#side-dishes)
-  - [Mexican Black Beans](#mexican-black-beans)
-  - [Salsa Verde](#salsa-verde)
-  - [Carrot Orzo](#carrot-orzo)
-  - [Pearl Barley, Bacon, and Root Vegetable Pilaf](#pearl-barley-bacon-and-root-vegetable-pilaf)
-      - [Pilaf](#pilaf)
 - [Desserts](#desserts)
   - [Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
   - [Hot Fudge Sauce](#hot-fudge-sauce)
@@ -99,8 +100,6 @@
   - [Sweet-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
   - [Kohlrabi and Apple Salad with Creamy Mustard Dressing](#kohlrabi-and-apple-salad-with-creamy-mustard-dressing)
   - [Beet and Carrot Pancakes](#beet-and-carrot-pancakes)
-  - [Noodle Salad with Spicy Peanut Butter Dressing](#noodle-salad-with-spicy-peanut-butter-dressing)
-  - [Szechuan Noodles with Peanut Sauce](#szechuan-noodles-with-peanut-sauce)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -406,7 +405,189 @@ with cilantro and dollop of yogurt.  
 
 
 
-# Salads
+# Sides and Salads
+
+## Noodle Salad with Spicy Peanut Butter Dressing
+
+Bon Appétit, February 2004 by Juli Tsuchiya-Waldron (Tokyo, Japan). Makes 6
+side-dish servings.
+
+> 6 tablespoons creamy peanut butter (do not use old-fashioned style or freshly ground)  
+> ¼ cup low-salt chicken broth  
+> 3 tablespoons rice vinegar  
+> 3 tablespoons soy sauce  
+> 1 ½ tablespoons sugar  
+> 1 tablespoon oriental sesame oil  
+> 1 tablespoon minced peeled fresh ginger  
+> ½ teaspoon cayenne pepper  
+> 8 ounces linguine  
+> 1 large orange bell pepper, cut into matchstick-size strips  
+> ½ cup chopped green onions  
+> 5 large lettuce leaves  
+> ¼ cup chopped fresh cilantro  
+> ¼ cup chopped salted peanuts  
+
+Combine first 8 ingredients in small bowl; whisk to blend. Set dressing aside.
+
+Cook pasta in large pot of boiling salted water until just tender but still
+firm to bite, stirring occasionally. Drain pasta; rinse with cold water and
+drain again. Transfer pasta to medium bowl. Add bell pepper and green onions.
+Pour dressing over; toss to coat. Season salad with salt and pepper. Line
+serving bowl with lettuce leaves. Transfer salad to prepared bowl. Sprinkle
+with cilantro and peanuts.
+
+
+
+
+## Mexican Black Beans
+
+Bon Appétit; serves 6.
+
+Serve as a side dish with enchiladas. The beans can be topped with grated
+Monterey Jack cheese, then covered to melt.
+
+> 1 tablespoon olive oil  
+> 4 garlic cloves, finely chopped  
+> 1 large jalapeño chili, seeded, chopped  
+> ½ teaspoon (generous) ground cumin  
+> 2 15-ounce cans black beans, rinsed, drained  
+> 1 14½-ounce can low-salt chicken broth  
+> Fresh lime juice  
+> Chopped fresh cilantro  
+
+Heat oil in heavy large saucepan over medium-high heat. Add garlic, chili and
+cumin and sauté 30 seconds. Add beans and broth and cook 5 minutes, stirring
+occasionally. Coarsely mash beans with potato masher. Continue boiling until
+thick, stirring frequently, about 10 minutes. Season to taste with lime juice,
+salt and pepper. Transfer to bowl. Sprinkle with cilantro and serve.
+
+
+
+## Salsa Verde
+
+Harmony Valley Farms Salsa Verde; yields 1½ cups.  
+
+> 6-8 tomatillos (about 12 oz)  
+> 1 clove garlic  
+> 1 small onion  
+> 1 jalapeño, as desired  
+> A few sprigs of cilantro  
+> Salt and ground black pepper, to taste  
+
+In a small saucepan, bring 4-5 cups water to a boil. Remove husks from
+tomatillos and rinse fruit. Boil tomatillos for about 5 minutes or just until
+softened.
+
+In the bowl of a food processor, put tomatillos and the rest of the
+ingredients. For a medium heat salsa, use about ½ of the jalapeño with
+seeds. Adjust the amount of jalapeño to your liking. Blend until the mixture
+is a coarse puree.
+
+Refrigerate for 1-2 hours to allow flavors to meld. Adjust seasoning and serve
+with tortilla chips, tacos, enchiladas, etc.
+
+
+
+## Carrot Orzo
+
+Bon Appétit, March 2007. Makes 4 servings.
+
+> 6 ounces peeled baby carrots (about 1 ¼ cups; from 16-ounce package)  
+> 2 tablespoons (¼ stick) butter  
+> 1 cup orzo (rice-shaped pasta; about 8 ounces)  
+> 1 ½ cups water  
+> 1 ¼ cups low-salt chicken broth  
+> 1 large garlic clove, minced  
+> ¼ cup grated Parmesan cheese  
+> 2 tablespoons chopped green onions  
+> 1 teaspoon minced fresh rosemary  
+
+Place carrots in processor. Using on/off turns, finely chop carrots. Melt
+butter in heavy medium saucepan over medium heat. Add orzo and carrots; sauté
+until orzo is golden, about 5 minutes. Add 1 ½ cups water, broth, and garlic;
+cook uncovered over medium heat until all liquid is absorbed, stirring
+frequently, about 10 minutes. Stir in cheese, green onions, and rosemary.
+Season to taste with salt and pepper and serve.
+
+
+
+## Pearl Barley, Bacon, and Root Vegetable Pilaf
+
+Bon Appétit, January 2006.  Makes 4 servings.
+
+#### Pilaf
+
+> 2 cups water  
+> ½ teaspoon salt  
+> 1 cup pearl barley, rinsed, drained  
+
+> 6 ounces bacon, diced   
+> 1 shallot, minced (onion works just fine)  
+> 1¼ cups ¼- to ⅓-inch cubes peeled root vegetables (such as celery root,  
+>     carrot, turnip, rutabaga, and/or butternut squash)  
+
+> pinch of sugar  
+> 2 teaspoons fresh lemon juice  
+> ½ teaspoon chopped fresh thyme  
+> ½ teaspoon chopped fresh rosemary  
+
+Bring 2 cups water and salt to boil in medium saucepan. Mix in barley. Cover
+pan, reduce heat to medium, and simmer until barley is tender, about 30
+minutes. Drain barley.
+
+Sauté bacon in large pot over medium heat until brown and crisp. Using slotted
+spoon, transfer bacon to paper towels. Pour off all but 2 tablespoons drippings
+from pot. Add shallot; stir 30 seconds. Add cubed vegetables and sugar; sauté 6
+minutes. Add barley, lemon juice, and herbs; stir 2 minutes.  Mix in bacon;
+season with salt and pepper.  
+
+
+
+
+
+
+## Szechuan Noodles with Peanut Sauce
+
+Bon Appétit, August 1999, from Zygot Bookworks & Cafe.  Serves 6 as a main
+course.
+
+> ½ cup (or more) canned vegetable broth  
+> 1 cup super-chunky peanut butter  
+> ¼ cup soy sauce  
+> 2 tablespoons balsamic vinegar  
+> 1 ½ tablespoons chili-garlic sauce*  
+> 5 garlic cloves, minced  
+
+> 12 ounces dried chow mein udon (Asian-style noodles)*  
+> 1 tablespoon canola oil  
+
+> 8 large bok choy leaves  
+> 2 red bell peppers, halved lengthwise  
+> 2 large carrots, peeled  
+> 1 bunch green onions  
+
+> 2 cups shredded Napa cabbage  
+> 2 tablespoons toasted sesame seeds  
+
+* Udon is available at Asian markets and in the Asian foods section of many
+  supermarkets.
+
+Mix ½ cup vegetable broth, peanut butter, soy sauce, balsamic vinegar,
+chili-garlic sauce and minced garlic in medium bowl to blend well (sauce will
+be thick). Cook noodles in large pot of boiling salted water until just tender
+but still firm to bite, about 6 minutes. Drain. Rinse noodles under cold water
+and cool. Cut noodles into 4- to 5-inch lengths. Transfer noodles to very large
+bowl. Toss with oil to coat.
+
+Cut bok choy, peppers, carrots and onions into matchstick-size strips. (Sauce,
+noodles and vegetables can be prepared 4 hours ahead. Cover separately; chill.
+Bring sauce to room temperature before continuing, thinning with additional
+broth if necessary.)
+
+Add shredded cabbage and vegetable strips to noodles. Toss with enough peanut
+sauce to coat. Sprinkle with sesame seeds.
+
+
  
 ## Wheat Berry and Barley Salad with Smoked Mozzarella
 
@@ -915,115 +1096,6 @@ cup cheese and place back under broiler to melt and char the cheese.
 Serve peppers on beds of green rice. Yum-o!
 
  
-
-
-# Side Dishes
-
-## Mexican Black Beans
-
-Bon Appétit; serves 6.
-
-Serve as a side dish with enchiladas. The beans can be topped with grated
-Monterey Jack cheese, then covered to melt.
-
-> 1 tablespoon olive oil  
-> 4 garlic cloves, finely chopped  
-> 1 large jalapeño chili, seeded, chopped  
-> ½ teaspoon (generous) ground cumin  
-> 2 15-ounce cans black beans, rinsed, drained  
-> 1 14½-ounce can low-salt chicken broth  
-> Fresh lime juice  
-> Chopped fresh cilantro  
-
-Heat oil in heavy large saucepan over medium-high heat. Add garlic, chili and
-cumin and sauté 30 seconds. Add beans and broth and cook 5 minutes, stirring
-occasionally. Coarsely mash beans with potato masher. Continue boiling until
-thick, stirring frequently, about 10 minutes. Season to taste with lime juice,
-salt and pepper. Transfer to bowl. Sprinkle with cilantro and serve.
-
-
-
-## Salsa Verde
-
-Harmony Valley Farms Salsa Verde; yields 1½ cups.  
-
-> 6-8 tomatillos (about 12 oz)  
-> 1 clove garlic  
-> 1 small onion  
-> 1 jalapeño, as desired  
-> A few sprigs of cilantro  
-> Salt and ground black pepper, to taste  
-
-In a small saucepan, bring 4-5 cups water to a boil. Remove husks from
-tomatillos and rinse fruit. Boil tomatillos for about 5 minutes or just until
-softened.
-
-In the bowl of a food processor, put tomatillos and the rest of the
-ingredients. For a medium heat salsa, use about ½ of the jalapeño with
-seeds. Adjust the amount of jalapeño to your liking. Blend until the mixture
-is a coarse puree.
-
-Refrigerate for 1-2 hours to allow flavors to meld. Adjust seasoning and serve
-with tortilla chips, tacos, enchiladas, etc.
-
-
-
-## Carrot Orzo
-
-Bon Appétit, March 2007. Makes 4 servings.
-
-> 6 ounces peeled baby carrots (about 1 ¼ cups; from 16-ounce package)  
-> 2 tablespoons (¼ stick) butter  
-> 1 cup orzo (rice-shaped pasta; about 8 ounces)  
-> 1 ½ cups water  
-> 1 ¼ cups low-salt chicken broth  
-> 1 large garlic clove, minced  
-> ¼ cup grated Parmesan cheese  
-> 2 tablespoons chopped green onions  
-> 1 teaspoon minced fresh rosemary  
-
-Place carrots in processor. Using on/off turns, finely chop carrots. Melt
-butter in heavy medium saucepan over medium heat. Add orzo and carrots; sauté
-until orzo is golden, about 5 minutes. Add 1 ½ cups water, broth, and garlic;
-cook uncovered over medium heat until all liquid is absorbed, stirring
-frequently, about 10 minutes. Stir in cheese, green onions, and rosemary.
-Season to taste with salt and pepper and serve.
-
-
-## Pearl Barley, Bacon, and Root Vegetable Pilaf
-
-Bon Appétit, January 2006.  Makes 4 servings.
-
-#### Pilaf
-
-> 2 cups water  
-> ½ teaspoon salt  
-> 1 cup pearl barley, rinsed, drained  
-
-> 6 ounces bacon, diced   
-> 1 shallot, minced (onion works just fine)  
-> 1¼ cups ¼- to ⅓-inch cubes peeled root vegetables (such as celery root,  
->     carrot, turnip, rutabaga, and/or butternut squash)  
-
-> pinch of sugar  
-> 2 teaspoons fresh lemon juice  
-> ½ teaspoon chopped fresh thyme  
-> ½ teaspoon chopped fresh rosemary  
-
-Bring 2 cups water and salt to boil in medium saucepan. Mix in barley. Cover
-pan, reduce heat to medium, and simmer until barley is tender, about 30
-minutes. Drain barley.
-
-Sauté bacon in large pot over medium heat until brown and crisp. Using slotted
-spoon, transfer bacon to paper towels. Pour off all but 2 tablespoons drippings
-from pot. Add shallot; stir 30 seconds. Add cubed vegetables and sugar; sauté 6
-minutes. Add barley, lemon juice, and herbs; stir 2 minutes.  Mix in bacon;
-season with salt and pepper.  
-
-
-
-
-
 
 
 # Desserts
@@ -2320,79 +2392,5 @@ Serve pancakes with sour cream.
 
  
 
-
-
-## Noodle Salad with Spicy Peanut Butter Dressing
-
-Bon Appétit, February 2004 by Juli Tsuchiya-Waldron (Tokyo, Japan). Makes 6
-side-dish servings.
-
-> 6 tablespoons creamy peanut butter (do not use old-fashioned style or freshly ground)  
-> ¼ cup low-salt chicken broth  
-> 3 tablespoons rice vinegar  
-> 3 tablespoons soy sauce  
-> 1 ½ tablespoons sugar  
-> 1 tablespoon oriental sesame oil  
-> 1 tablespoon minced peeled fresh ginger  
-> ½ teaspoon cayenne pepper  
-> 8 ounces linguine  
-> 1 large orange bell pepper, cut into matchstick-size strips  
-> ½ cup chopped green onions  
-> 5 large lettuce leaves  
-> ¼ cup chopped fresh cilantro  
-> ¼ cup chopped salted peanuts  
-
-Combine first 8 ingredients in small bowl; whisk to blend. Set dressing aside.
-
-Cook pasta in large pot of boiling salted water until just tender but still
-firm to bite, stirring occasionally. Drain pasta; rinse with cold water and
-drain again. Transfer pasta to medium bowl. Add bell pepper and green onions.
-Pour dressing over; toss to coat. Season salad with salt and pepper. Line
-serving bowl with lettuce leaves. Transfer salad to prepared bowl. Sprinkle
-with cilantro and peanuts.
-
-
-
-
-## Szechuan Noodles with Peanut Sauce
-
-Bon Appétit, August 1999, from Zygot Bookworks & Cafe.  Serves 6 as a main
-course.
-
-> ½ cup (or more) canned vegetable broth  
-> 1 cup super-chunky peanut butter  
-> ¼ cup soy sauce  
-> 2 tablespoons balsamic vinegar  
-> 1 ½ tablespoons chili-garlic sauce*  
-> 5 garlic cloves, minced  
-
-> 12 ounces dried chow mein udon (Asian-style noodles)*  
-> 1 tablespoon canola oil  
-
-> 8 large bok choy leaves  
-> 2 red bell peppers, halved lengthwise  
-> 2 large carrots, peeled  
-> 1 bunch green onions  
-
-> 2 cups shredded Napa cabbage  
-> 2 tablespoons toasted sesame seeds  
-
-* Udon is available at Asian markets and in the Asian foods section of many
-  supermarkets.
-
-Mix ½ cup vegetable broth, peanut butter, soy sauce, balsamic vinegar,
-chili-garlic sauce and minced garlic in medium bowl to blend well (sauce will
-be thick). Cook noodles in large pot of boiling salted water until just tender
-but still firm to bite, about 6 minutes. Drain. Rinse noodles under cold water
-and cool. Cut noodles into 4- to 5-inch lengths. Transfer noodles to very large
-bowl. Toss with oil to coat.
-
-Cut bok choy, peppers, carrots and onions into matchstick-size strips. (Sauce,
-noodles and vegetables can be prepared 4 hours ahead. Cover separately; chill.
-Bring sauce to room temperature before continuing, thinning with additional
-broth if necessary.)
-
-Add shredded cabbage and vegetable strips to noodles. Toss with enough peanut
-sauce to coat. Sprinkle with sesame seeds.
 
 
