@@ -4,7 +4,6 @@ usage:
 clean:
 	rm -f *.pdf
 
-book: susans-recipes.rst
-	rst2pdf susans-recipes.rst
-
+toc: susans-recipes.md
+	doctoc susans-recipes.md
 
