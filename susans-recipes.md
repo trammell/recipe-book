@@ -7,7 +7,7 @@
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [Appetizers/Starters](#appetizersstarters)
-  - [  Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
+  - [Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
   - [Susan's Guacamole](#susans-guacamole)
   - [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
 - [Soups](#soups)
@@ -31,7 +31,7 @@
       - [Meatballs](#meatballs)
 - [Poultry Main Dishes](#poultry-main-dishes)
   - [Grilled Chicken Moroccan Style](#grilled-chicken-moroccan-style)
-  - [  Grilled Chicken Sandwiches with Sage Pesto and Apples](#grilled-chicken-sandwiches-with-sage-pesto-and-apples)
+  - [Grilled Chicken Sandwiches with Sage Pesto and Apples](#grilled-chicken-sandwiches-with-sage-pesto-and-apples)
       - [Sage pesto](#sage-pesto)
       - [Sandwiches](#sandwiches)
   - [Moroccan Chicken](#moroccan-chicken)
@@ -46,7 +46,7 @@
   - [Pearl Barley, Bacon, and Root Vegetable Pilaf](#pearl-barley-bacon-and-root-vegetable-pilaf)
       - [Pilaf](#pilaf)
 - [Desserts](#desserts)
-  - [  Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
+  - [Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
   - [Hot Fudge Sauce](#hot-fudge-sauce)
 - [Beverages](#beverages)
   - [Margaritas](#margaritas)
@@ -106,7 +106,7 @@
 
 # Appetizers/Starters
 
-##  Smoky Chipotle Hummus with Garlic Bagel Chips
+## Smoky Chipotle Hummus with Garlic Bagel Chips
 
 Bon Appétit, October 2001.  Makes 20 servings.
 
@@ -315,7 +315,7 @@ Serves: 6 servings
 > 3 bay leaves  
 > 4 garlic cloves, chopped  
 > 2 green onions, green part only, chopped, plus more for garnish  
-> Red pepper sauce  
+> red pepper sauce  
 > 2 andouille sausages, sliced thin  
 > 4 cups cooked white rice  
 
@@ -689,7 +689,7 @@ parsley.  Drink pilsner.
 
 
 
-##  Grilled Chicken Sandwiches with Sage Pesto and Apples
+## Grilled Chicken Sandwiches with Sage Pesto and Apples
 
 Bon Appétit, July 2003, by Cheryl and Bill Jamison. Makes 6 servings.
 
@@ -1028,7 +1028,7 @@ season with salt and pepper.  
 
 # Desserts
 
-##  Peanut Butter Cookies with Chocolate Chunks 
+## Peanut Butter Cookies with Chocolate Chunks 
 
 Bon Appétit, March 1997. Makes 27 cookies (we make them smaller). Susan's favorite.
 
