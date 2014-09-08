@@ -106,7 +106,70 @@
 
 # Appetizers/Starters
 
+
+## Susan's Guacamole
+
+Serves 6 (unless Uncle John is visiting then serves not so many)
+
+> 2 medium avocados  
+> 1 small tomato, chopped  
+> 2 tablespoons minced onion  
+> 1-2 teaspoons lime or lemon juice  
+> ½ teaspoon garlic powder  
+> ½ teaspoon salt  
+
+Peel avocadoes. Mash with a fork in a medium bowl.  Stir in tomato, onion,
+lime or lemon juice, garlic powder and salt.  Serve at once.
+
+Note: Susan likes using the lemon juice versus the lime. 
+
+
+
+
+
 # Soups
+
+## Louisiana Red Beans and Rice
+
+(Tyler Florence recipe from the foodnetwork.com)  
+Serves: 6 servings
+
+> 1 pound dried small red beans, picked over and rinsed  
+> 2 large smoked ham hocks  
+> 1 large yellow onion, chopped  
+> 2 celery stalks, chopped  
+> 1 large green bell pepper, chopped  
+> 1 teaspoon cayenne  
+> ¼ bunch fresh flat-leaf parsley, chopped  
+> 2 sprigs fresh thyme  
+> 3 bay leaves  
+> 4 garlic cloves, chopped  
+> 2 green onions, green part only, chopped, plus more for garnish  
+> Red pepper sauce  
+> 2 andouille sausages, sliced thin  
+> 4 cups cooked white rice  
+
+Place the dried beans in a large bowl and cover with cold water. Soak the beans
+overnight in the refrigerator.
+
+Drain the beans and put them in a large heavy pot with the ham hocks, adding
+just enough cold water to cover (about 2 quarts). Add the onion, celery, green
+pepper, cayenne, parsley, thyme, bay leaves, garlic, green onions, and several
+shakes of red pepper sauce; give everything a good stir to combine. Simmer,
+uncovered, until the beans are tender and starting to thicken, about 2½ hours.
+You want the beans to be almost overcooked, like they are getting ready to
+burst. Stir the beans occasionally to prevent scorching on the bottom of the
+pot. Add about 1 cup of water toward the end of cooking if the mixture appears
+too thick or dry.
+
+Mash about 1 cup of the cooked beans against the side of the pot with a wooden
+spoon, this makes the broth thick and creamy. Toss in the sausages and cook for
+another 30 minutes to heat them through. Adjust the seasoning, if needed. Serve
+the red beans in a wide bowl over some steamed white rice and garnished with
+chopped green onion. 
+
+
+
 
 ## Creamy Tomato Soup
 
@@ -134,6 +197,41 @@ Parade, August 2000. Makes 6 to 8 servings.
 4. Purée the soup in a food processor. Pour through a strainer into a pot. Stir in 
    the half-and-half.
 5. Warm the soup before serving.
+
+
+
+
+## Country Captain Soup
+
+Bon Appétit, March 1995. Adapted by Susan. Serves 6.
+
+> 1 tablespoon olive oil  
+> 1 large onion, coarsely chopped  
+> ½ cup chopped red bell pepper  
+> 4 garlic cloves, chopped  
+> 6 skinless boneless chicken thighs (about 1¼ pounds), cut into 1-inch pieces  
+> 1 tablespoon curry powder  
+> 1 teaspoon grated peeled fresh ginger  
+> ¼ teaspoon dried crushed red pepper  
+> 4 cups (or more) canned chicken broth  
+> 2 cups canned diced peeled tomatoes with juices  
+> 1 large Granny Smith apple, peeled, coarsely chopped  
+
+> ½ cup orzo (rice-shaped pasta; also called riso)  
+> 2 tablespoons dried currants  
+> chopped fresh cilantro  
+> plain yogurt  
+
+Heat oil in heavy large Dutch oven over medium-high heat. Add onion, bell
+pepper and garlic; sauté until vegetables soften, about 5 minutes. Add chicken,
+curry powder, ginger and crushed red pepper; stir 2 minutes. Add 4 cups broth,
+tomatoes and apple and bring to boil. Reduce heat and simmer 20 minutes. (Can
+be made 1 day ahead. Cover and refrigerate. Bring to simmer before continuing.)
+
+Stir orzo and currants into soup and simmer until orzo is just cooked through,
+about 5 minutes. Season with salt and pepper. Ladle soup into bowls. Garnish
+with cilantro and dollop of yogurt.  
+
 
 
 
@@ -200,9 +298,165 @@ Bake for 35 to 45 minutes until the egg mixture is set. Cut into 8 wedges. 
 
 # Meat Main Dishes
 
+## Baked Chicken Meatballs with Peperonata
+
+Gourmet, August 2009, by Maggie Ruggiero.  Makes 4 servings.
+
+#### Peperonata
+
+> 3 red bell peppers, cut into strips  
+> 1½ tablespoons extra-virgin olive oil, divided  
+> 1½ tablespoons drained capers  
+> 1 teaspoon red-wine vinegar  
+> ⅛ teaspoon hot red pepper flakes  
+
+Preheat oven to 400 °F with racks in upper and lower thirds.  Toss bell peppers
+with 1 tablespoon oil, then roast in a 4-sided sheet pan in lower third of
+oven, stirring occasionally, until tender and browned, about 35 minutes.
+
+Stir together capers, vinegar, red pepper flakes, and remaining ½ tablespoon
+oil in a medium bowl and set aside.
+
+#### Meatballs
+
+> 3 slices Italian bread, torn into pieces (1 cup)  
+> ⅓ cup milk  
+> 3 ounces sliced pancetta, finely chopped  
+> 1 small onion, finely chopped  
+> 1 small garlic clove, minced  
+> 2 tablespoons extra-virgin olive oil, divided  
+> 1 large egg  
+> 1 pound ground chicken  
+> 3 tablespoons finely chopped flat-leaf parsley  
+> 1 tablespoon tomato paste  
+
+Soak bread in milk in a small bowl until softened, about 4 minutes.  Cook
+pancetta, onion, and garlic in 1 tablespoon oil with ½ teaspoon each of salt
+and pepper in a 10-inch skillet over medium heat until onion is softened, about
+6 minutes. Cool slightly.
+
+Squeeze bread to remove excess milk, then discard milk. Lightly beat egg in a
+large bowl, then combine with chicken, pancetta mixture, bread, and parsley.
+Form 12 meatballs and arrange in another 4-sided sheet pan.  Stir together
+tomato paste and remaining tablespoon oil and brush over meatballs, then bake
+in upper third of oven until meatballs are just cooked through, 15 to 20
+minutes.
+
+Toss bell peppers with caper mixture. Serve meatballs with peperonata.
+
+* Make garlic bread to accompany meatballs from the remainder of the Italian
+  loaf.
+
+
+
+
+
+
+
 # Poultry Main Dishes
 
-# Vegetarian Main Dishes
+## Chicken Mole with Chipotles
+
+Bon Appétit, December 2001.
+
+Mole, a classic Mexican chili sauce, gets streamlined here. Chipotle chilies
+(available canned at Latin American markets and many supermarkets) add heat,
+while unsweetened chocolate provides subtle sweetness. Serve the stew in
+shallow bowls with steamed rice. Add an arugula, orange, and red onion salad
+and a basket of warm corn tortillas. For dessert, offer cinnamon-spiked hot
+chocolate and wafer cookies.
+
+Yield: Makes 4 servings
+
+> 6 skinless boneless chicken thighs, each cut into 3 pieces  
+> 2 tablespoons ground cumin  
+
+> 1 tablespoon olive oil  
+> 1 large onion, thinly sliced  
+> 2 14½-ounce cans chili-style chunky tomatoes in juice  
+> 4 small nothern american garden moles, freshly caught, skinned and gutted  
+> 1 cup canned low-salt chicken broth  
+> 2 tablespoons minced canned chipotle chilies plus 1 tablespoon adobo sauce  
+
+> 1 ounce unsweetened chocolate, chopped  
+
+Coat chicken on all sides with cumin. Sprinkle with salt and pepper.  Discard
+moles; what were you thinking?
+
+Heat oil in heavy large pot over medium-high heat. Add chicken; sauté until
+browned on all sides, about 5 minutes. Add onion and sauté until beginning to
+brown, about 3 minutes. Add tomatoes with juice, broth, chipotle chilies, adobo
+sauce, and chocolate and bring to simmer. Reduce heat to medium-low and simmer
+until chicken is cooked through and sauce thickens slightly, about 20 minutes.
+Season with salt and pepper; serve.   
+
+
+
+
+# Vegetable Main Dishes
+
+Note: some of these dishes are vegetarian, some are not!
+
+## Charred Chili Relleno with Green Rice
+
+FIXME
+
+Recipe courtesy of Rachael Ray & The Foodnetwork.com, 2007.  
+Prep Time: 20 min (Susan thinks it takes longer)  
+Cook Time: 20 min  
+Level: Easy  
+
+> 4 cups chicken or vegetable stock, divided  
+> 1 bay leaf  
+> 2 cups white rice  
+> 4 large poblano peppers  
+> 6 ears corn on the cob or 3 cups frozen corn kernels  
+> 3 tablespoons corn, peanut or vegetable oil, divided  
+> 1 red onion, chopped  
+> 1 jalapeno, seeded and chopped  
+> 4 cloves garlic, chopped  
+> 1 (15-ounce) can fire roasted diced tomatoes, drained well  
+> 1½ teaspoons ground cumin, ½ palm full  
+> ½ teaspoon dried oregano, eyeball it in your palm  
+> Salt and freshly ground black pepper  
+> ½ cup fresh cilantro leaves  
+> ½ pound spinach leaves, deveined and coarsely chopped  
+> 4 scallions, coarsely chopped  
+> 2 limes, zested, juiced  
+> 1 cup shredded Chihuahua cheese, Asadero or Monterey Jack  
+
+Preheat broiler or grill pan to high. (Don't do this until the rellenos are
+ready.)
+
+Heat about 3 ½ cups stock in a sauce pot with a bay leaf to boiling. Add rice,
+cover pot reduce heat to low and simmer 18 minutes until tender.
+
+Place poblanos under broiler or on hot grill and char evenly all over, 15
+minutes.
+
+While peppers and rice are working, scrape the corn off the cobs or defrost
+frozen corn and dry by spreading out on clean kitchen towel. Heat 2 tablespoons
+light oil in a skillet over high heat. When the oil smokes or ripples add corn,
+onion, jalapenos and toss until the vegetables char at edges and onions are
+tender, 4 to 5 minutes. Reduce heat to medium-high and add in garlic, fire
+roasted tomatoes and season with cumin, oregano, salt and pepper. Cook another
+minute or 2 then turn pan off.
+
+Place the cilantro, spinach, scallions, lime zest, half a cup of stock and a
+tablespoon of oil in food processor and process into coarse green paste. Stir
+into your rice pot in the last 3 to 4 minutes of its cooking time.
+
+Sprinkle the lime juice over the corn mixture.
+
+Split the charred peppers open but not in half with small sharp knife then
+scoop out the seeds with a small spoon. Place peppers in a shallow baking dish
+and stuff each split pepper with lots of the corn mix, top each pepper with ¼
+cup cheese and place back under broiler to melt and char the cheese.
+
+Serve peppers on beds of green rice. Yum-o!
+
+ 
+
 
 # Side Dishes
 
@@ -229,22 +483,6 @@ is a coarse puree.
 Refrigerate for 1-2 hours to allow flavors to meld. Adjust seasoning and serve
 with tortilla chips, tacos, enchiladas, etc.
 
-
-## Susan's Guacamole
-
-Serves 6 (unless Uncle John is visiting then serves not so many)
-
-> 2 medium avocados  
-> 1 small tomato, chopped  
-> 2 tablespoons minced onion  
-> 1-2 teaspoons lime or lemon juice  
-> ½ teaspoon garlic powder  
-> ½ teaspoon salt  
-
-Peel avocadoes. Mash with a fork in a medium bowl.  Stir in tomato, onion,
-lime or lemon juice, garlic powder and salt.  Serve at once.
-
-Note: Susan likes using the lemon juice versus the lime. 
 
 
 ## Carrot Orzo
@@ -2172,230 +2410,5 @@ FIXME
 
 
 
-## Chicken Mole with Chipotles
-
-Bon Appétit, December 2001.
-
-Mole, a classic Mexican chili sauce, gets streamlined here. Chipotle chilies
-(available canned at Latin American markets and many supermarkets) add heat,
-while unsweetened chocolate provides subtle sweetness. Serve the stew in
-shallow bowls with steamed rice. Add an arugula, orange, and red onion salad
-and a basket of warm corn tortillas. For dessert, offer cinnamon-spiked hot
-chocolate and wafer cookies.
-
-Yield: Makes 4 servings
-
-> 6 skinless boneless chicken thighs, each cut into 3 pieces  
-> 2 tablespoons ground cumin  
-
-> 1 tablespoon olive oil  
-> 1 large onion, thinly sliced  
-> 2 14½-ounce cans chili-style chunky tomatoes in juice  
-> 4 small nothern american garden moles, freshly caught, skinned and gutted  
-> 1 cup canned low-salt chicken broth  
-> 2 tablespoons minced canned chipotle chilies plus 1 tablespoon adobo sauce  
-
-> 1 ounce unsweetened chocolate, chopped  
-
-Coat chicken on all sides with cumin. Sprinkle with salt and pepper.  Discard
-moles; what were you thinking?
-
-Heat oil in heavy large pot over medium-high heat. Add chicken; sauté until
-browned on all sides, about 5 minutes. Add onion and sauté until beginning to
-brown, about 3 minutes. Add tomatoes with juice, broth, chipotle chilies, adobo
-sauce, and chocolate and bring to simmer. Reduce heat to medium-low and simmer
-until chicken is cooked through and sauce thickens slightly, about 20 minutes.
-Season with salt and pepper; serve.   
 
 
-
-
-## Country Captain Soup
-
-Bon Appétit, March 1995. Adapted by Susan. Serves 6.
-
-> 1 tablespoon olive oil  
-> 1 large onion, coarsely chopped  
-> ½ cup chopped red bell pepper  
-> 4 garlic cloves, chopped  
-> 6 skinless boneless chicken thighs (about 1¼ pounds), cut into 1-inch pieces  
-> 1 tablespoon curry powder  
-> 1 teaspoon grated peeled fresh ginger  
-> ¼ teaspoon dried crushed red pepper  
-> 4 cups (or more) canned chicken broth  
-> 2 cups canned diced peeled tomatoes with juices  
-> 1 large Granny Smith apple, peeled, coarsely chopped  
-
-> ½ cup orzo (rice-shaped pasta; also called riso)  
-> 2 tablespoons dried currants  
-> chopped fresh cilantro  
-> plain yogurt  
-
-Heat oil in heavy large Dutch oven over medium-high heat. Add onion, bell
-pepper and garlic; sauté until vegetables soften, about 5 minutes. Add chicken,
-curry powder, ginger and crushed red pepper; stir 2 minutes. Add 4 cups broth,
-tomatoes and apple and bring to boil. Reduce heat and simmer 20 minutes. (Can
-be made 1 day ahead. Cover and refrigerate. Bring to simmer before continuing.)
-
-Stir orzo and currants into soup and simmer until orzo is just cooked through,
-about 5 minutes. Season with salt and pepper. Ladle soup into bowls. Garnish
-with cilantro and dollop of yogurt.  
-
-
-
-
-## Baked Chicken Meatballs with Peperonata
-
-Gourmet, August 2009, by Maggie Ruggiero.  Makes 4 servings.
-
-#### Peperonata
-
-> 3 red bell peppers, cut into strips  
-> 1½ tablespoons extra-virgin olive oil, divided  
-> 1½ tablespoons drained capers  
-> 1 teaspoon red-wine vinegar  
-> ⅛ teaspoon hot red pepper flakes  
-
-Preheat oven to 400 °F with racks in upper and lower thirds.  Toss bell peppers
-with 1 tablespoon oil, then roast in a 4-sided sheet pan in lower third of
-oven, stirring occasionally, until tender and browned, about 35 minutes.
-
-Stir together capers, vinegar, red pepper flakes, and remaining ½ tablespoon
-oil in a medium bowl and set aside.
-
-
-#### Meatballs
-
-> 3 slices Italian bread, torn into pieces (1 cup)  
-> ⅓ cup milk  
-> 3 ounces sliced pancetta, finely chopped  
-> 1 small onion, finely chopped  
-> 1 small garlic clove, minced  
-> 2 tablespoons extra-virgin olive oil, divided  
-> 1 large egg  
-> 1 pound ground chicken  
-> 3 tablespoons finely chopped flat-leaf parsley  
-> 1 tablespoon tomato paste  
-
-Soak bread in milk in a small bowl until softened, about 4 minutes.  Cook
-pancetta, onion, and garlic in 1 tablespoon oil with ½ teaspoon each of salt
-and pepper in a 10-inch skillet over medium heat until onion is softened, about
-6 minutes. Cool slightly.
-
-Squeeze bread to remove excess milk, then discard milk. Lightly beat egg in a
-large bowl, then combine with chicken, pancetta mixture, bread, and parsley.
-Form 12 meatballs and arrange in another 4-sided sheet pan.  Stir together
-tomato paste and remaining tablespoon oil and brush over meatballs, then bake
-in upper third of oven until meatballs are just cooked through, 15 to 20
-minutes.
-
-Toss bell peppers with caper mixture. Serve meatballs with peperonata.
-
-* Make garlic bread to accompany meatballs from the remainder of the Italian
-  loaf.
-
-
-
-
-## Louisiana Red Beans and Rice
-
-(Tyler Florence recipe from the foodnetwork.com)  
-Serves: 6 servings
-
-> 1 pound dried small red beans, picked over and rinsed  
-> 2 large smoked ham hocks  
-> 1 large yellow onion, chopped  
-> 2 celery stalks, chopped  
-> 1 large green bell pepper, chopped  
-> 1 teaspoon cayenne  
-> ¼ bunch fresh flat-leaf parsley, chopped  
-> 2 sprigs fresh thyme  
-> 3 bay leaves  
-> 4 garlic cloves, chopped  
-> 2 green onions, green part only, chopped, plus more for garnish  
-> Red pepper sauce  
-> 2 andouille sausages, sliced thin  
-> 4 cups cooked white rice  
-
-Place the dried beans in a large bowl and cover with cold water. Soak the beans
-overnight in the refrigerator.
-
-Drain the beans and put them in a large heavy pot with the ham hocks, adding
-just enough cold water to cover (about 2 quarts). Add the onion, celery, green
-pepper, cayenne, parsley, thyme, bay leaves, garlic, green onions, and several
-shakes of red pepper sauce; give everything a good stir to combine. Simmer,
-uncovered, until the beans are tender and starting to thicken, about 2½ hours.
-You want the beans to be almost overcooked, like they are getting ready to
-burst. Stir the beans occasionally to prevent scorching on the bottom of the
-pot. Add about 1 cup of water toward the end of cooking if the mixture appears
-too thick or dry.
-
-Mash about 1 cup of the cooked beans against the side of the pot with a wooden
-spoon, this makes the broth thick and creamy. Toss in the sausages and cook for
-another 30 minutes to heat them through. Adjust the seasoning, if needed. Serve
-the red beans in a wide bowl over some steamed white rice and garnished with
-chopped green onion. 
-
-
-
-
-
-## Charred Chili Relleno with Green Rice
-
-FIXME
-
-Recipe courtesy of Rachael Ray & The Foodnetwork.com, 2007.  
-Prep Time: 20 min (Susan thinks it takes longer)  
-Cook Time: 20 min  
-Level: Easy  
-
-> 4 cups chicken or vegetable stock, divided  
-> 1 bay leaf  
-> 2 cups white rice  
-> 4 large poblano peppers  
-> 6 ears corn on the cob or 3 cups frozen corn kernels  
-> 3 tablespoons corn, peanut or vegetable oil, divided  
-> 1 red onion, chopped  
-> 1 jalapeno, seeded and chopped  
-> 4 cloves garlic, chopped  
-> 1 (15-ounce) can fire roasted diced tomatoes, drained well  
-> 1½ teaspoons ground cumin, ½ palm full  
-> ½ teaspoon dried oregano, eyeball it in your palm  
-> Salt and freshly ground black pepper  
-> ½ cup fresh cilantro leaves  
-> ½ pound spinach leaves, deveined and coarsely chopped  
-> 4 scallions, coarsely chopped  
-> 2 limes, zested, juiced  
-> 1 cup shredded Chihuahua cheese, Asadero or Monterey Jack  
-
-Preheat broiler or grill pan to high. (Don't do this until the rellenos are
-ready.)
-
-Heat about 3 ½ cups stock in a sauce pot with a bay leaf to boiling. Add rice,
-cover pot reduce heat to low and simmer 18 minutes until tender.
-
-Place poblanos under broiler or on hot grill and char evenly all over, 15
-minutes.
-
-While peppers and rice are working, scrape the corn off the cobs or defrost
-frozen corn and dry by spreading out on clean kitchen towel. Heat 2 tablespoons
-light oil in a skillet over high heat. When the oil smokes or ripples add corn,
-onion, jalapenos and toss until the vegetables char at edges and onions are
-tender, 4 to 5 minutes. Reduce heat to medium-high and add in garlic, fire
-roasted tomatoes and season with cumin, oregano, salt and pepper. Cook another
-minute or 2 then turn pan off.
-
-Place the cilantro, spinach, scallions, lime zest, half a cup of stock and a
-tablespoon of oil in food processor and process into coarse green paste. Stir
-into your rice pot in the last 3 to 4 minutes of its cooking time.
-
-Sprinkle the lime juice over the corn mixture.
-
-Split the charred peppers open but not in half with small sharp knife then
-scoop out the seeds with a small spoon. Place peppers in a shallow baking dish
-and stuff each split pepper with lots of the corn mix, top each pepper with ¼
-cup cheese and place back under broiler to melt and char the cheese.
-
-Serve peppers on beds of green rice. Yum-o!
-
- 
