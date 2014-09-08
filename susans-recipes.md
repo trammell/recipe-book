@@ -6,12 +6,23 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [Susan's Cookbook](#susans-cookbook)
-      - [version 0.1, September 2014](#version-01-september-2014)
+- [Appetizers/Starters](#appetizersstarters)
+- [Soups](#soups)
+- [Salads](#salads)
+- [Breakfast Dishes](#breakfast-dishes)
+  - [Adeline's Favorite Muffins](#adelines-favorite-muffins)
   - [Amanda Trammell's Spinach and Bacon Quiche](#amanda-trammells-spinach-and-bacon-quiche)
+- [Meat Main Dishes](#meat-main-dishes)
+- [Poultry Main Dishes](#poultry-main-dishes)
+- [Vegetarian Main Dishes](#vegetarian-main-dishes)
+- [Side Dishes](#side-dishes)
   - [Salsa Verde](#salsa-verde)
   - [Susan's Guacamole](#susans-guacamole)
-  - [Adeline's Favorite Muffins](#adelines-favorite-muffins)
+  - [Carrot Orzo](#carrot-orzo)
+  - [Pearl Barley, Bacon, and Root Vegetable Pilaf](#pearl-barley-bacon-and-root-vegetable-pilaf)
+      - [Pilaf](#pilaf)
+- [Desserts](#desserts)
+- [Beverages](#beverages)
   - [Margaritas](#margaritas)
     - [Variations](#variations)
       - [Fresh Pineapple Margaritas](#fresh-pineapple-margaritas)
@@ -90,11 +101,42 @@
   - [Louisiana Red Beans and Rice](#louisiana-red-beans-and-rice)
   - [Charred Chili Relleno with Green Rice](#charred-chili-relleno-with-green-rice)
   - [Creamy Tomato Soup](#creamy-tomato-soup)
-  - [Pearl Barley, Bacon, and Root Vegetable Pilaf](#pearl-barley-bacon-and-root-vegetable-pilaf)
-      - [Pilaf](#pilaf)
-  - [Carrot Orzo](#carrot-orzo)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Appetizers/Starters
+
+# Soups
+
+# Salads
+
+# Breakfast Dishes
+
+## Adeline's Favorite Muffins
+
+Makes 12.
+
+> 2 cups whole wheat white flour  
+> ½ teaspoon salt  
+> ¼ teaspoon baking soda  
+> ⅔ c. sugar  
+> ⅓ cup canola oil  
+> 2 large eggs  
+> ¾ cup sour cream  
+> 1 teaspoon vanilla  
+> ¼ cup poppy seed or ¾ cup fresh or frozen blueberries  
+
+1. Heat oven to 400 °F.  Line muffins tins with paper muffin cup.
+2. In a large bowl, combine the flour, salt, sugar and baking soda.  If using
+   the poppy seeds, mix them in also.
+3. In a medium size bowl, mix together, using a mixer on medium speed, the
+   canola oil, the eggs, sour cream and vanilla.
+4. With a rubber spatula, fold the oil mixture into the flour mixture just
+   until moistened.  If using blueberries, add now.
+5. Divide the batter among the muffin cups.
+6. Bake the muffins 15-20 minutes or until a cake tester, or toothpick, comes
+   out clean. 
+
 
 
 ## Amanda Trammell's Spinach and Bacon Quiche
@@ -125,6 +167,14 @@ Bake for 35 to 45 minutes until the egg mixture is set. Cut into 8 wedges. 
 
 
 
+
+# Meat Main Dishes
+
+# Poultry Main Dishes
+
+# Vegetarian Main Dishes
+
+# Side Dishes
 
 ## Salsa Verde
 
@@ -167,30 +217,72 @@ lime or lemon juice, garlic powder and salt.  Serve at once.
 Note: Susan likes using the lemon juice versus the lime. 
 
 
-## Adeline's Favorite Muffins
+## Carrot Orzo
 
-Makes 12.
+Bon Appétit, March 2007. Makes 4 servings.
 
-> 2 cups whole wheat white flour  
+> 6 ounces peeled baby carrots (about 1 ¼ cups; from 16-ounce package)  
+> 2 tablespoons (¼ stick) butter  
+> 1 cup orzo (rice-shaped pasta; about 8 ounces)  
+> 1 ½ cups water  
+> 1 ¼ cups low-salt chicken broth  
+> 1 large garlic clove, minced  
+> ¼ cup grated Parmesan cheese  
+> 2 tablespoons chopped green onions  
+> 1 teaspoon minced fresh rosemary  
+
+Place carrots in processor. Using on/off turns, finely chop carrots. Melt
+butter in heavy medium saucepan over medium heat. Add orzo and carrots; sauté
+until orzo is golden, about 5 minutes. Add 1 ½ cups water, broth, and garlic;
+cook uncovered over medium heat until all liquid is absorbed, stirring
+frequently, about 10 minutes. Stir in cheese, green onions, and rosemary.
+Season to taste with salt and pepper and serve.
+
+
+## Pearl Barley, Bacon, and Root Vegetable Pilaf
+
+Bon Appétit, January 2006.  Makes 4 servings.
+
+#### Pilaf
+
+> 2 cups water  
 > ½ teaspoon salt  
-> ¼ teaspoon baking soda  
-> ⅔ c. sugar  
-> ⅓ cup canola oil  
-> 2 large eggs  
-> ¾ cup sour cream  
-> 1 teaspoon vanilla  
-> ¼ cup poppy seed or ¾ cup fresh or frozen blueberries  
+> 1 cup pearl barley, rinsed, drained  
 
-1. Heat oven to 400 °F.  Line muffins tins with paper muffin cup.
-2. In a large bowl, combine the flour, salt, sugar and baking soda.  If using
-   the poppy seeds, mix them in also.
-3. In a medium size bowl, mix together, using a mixer on medium speed, the
-   canola oil, the eggs, sour cream and vanilla.
-4. With a rubber spatula, fold the oil mixture into the flour mixture just
-   until moistened.  If using blueberries, add now.
-5. Divide the batter among the muffin cups.
-6. Bake the muffins 15-20 minutes or until a cake tester, or toothpick, comes
-   out clean. 
+> 6 ounces bacon, diced   
+> 1 shallot, minced (onion works just fine)  
+> 1¼ cups ¼- to ⅓-inch cubes peeled root vegetables (such as celery root,  
+>     carrot, turnip, rutabaga, and/or butternut squash)  
+
+> pinch of sugar  
+> 2 teaspoons fresh lemon juice  
+> ½ teaspoon chopped fresh thyme  
+> ½ teaspoon chopped fresh rosemary  
+
+Bring 2 cups water and salt to boil in medium saucepan. Mix in barley. Cover
+pan, reduce heat to medium, and simmer until barley is tender, about 30
+minutes. Drain barley.
+
+Sauté bacon in large pot over medium heat until brown and crisp. Using slotted
+spoon, transfer bacon to paper towels. Pour off all but 2 tablespoons drippings
+from pot. Add shallot; stir 30 seconds. Add cubed vegetables and sugar; sauté 6
+minutes. Add barley, lemon juice, and herbs; stir 2 minutes.  Mix in bacon;
+season with salt and pepper.  
+
+
+
+
+
+
+
+# Desserts
+
+
+
+
+
+# Beverages
+
 
 
 ## Margaritas
@@ -2309,56 +2401,3 @@ Parade, August 2000. Makes 6 to 8 servings.
 
 
  
-## Pearl Barley, Bacon, and Root Vegetable Pilaf
-
-Bon Appétit, January 2006.  Makes 4 servings.
-
-#### Pilaf
-
-> 2 cups water  
-> ½ teaspoon salt  
-> 1 cup pearl barley, rinsed, drained  
-
-> 6 ounces bacon, diced   
-> 1 shallot, minced (onion works just fine)  
-> 1¼ cups ¼- to ⅓-inch cubes peeled root vegetables (such as celery root,  
->     carrot, turnip, rutabaga, and/or butternut squash)  
-
-> pinch of sugar  
-> 2 teaspoons fresh lemon juice  
-> ½ teaspoon chopped fresh thyme  
-> ½ teaspoon chopped fresh rosemary  
-
-Bring 2 cups water and salt to boil in medium saucepan. Mix in barley. Cover
-pan, reduce heat to medium, and simmer until barley is tender, about 30
-minutes. Drain barley.
-
-Sauté bacon in large pot over medium heat until brown and crisp. Using slotted
-spoon, transfer bacon to paper towels. Pour off all but 2 tablespoons drippings
-from pot. Add shallot; stir 30 seconds. Add cubed vegetables and sugar; sauté 6
-minutes. Add barley, lemon juice, and herbs; stir 2 minutes.  Mix in bacon;
-season with salt and pepper.  
-
-
-
-
-## Carrot Orzo
-
-Bon Appétit, March 2007. Makes 4 servings.
-
-> 6 ounces peeled baby carrots (about 1 ¼ cups; from 16-ounce package)  
-> 2 tablespoons (¼ stick) butter  
-> 1 cup orzo (rice-shaped pasta; about 8 ounces)  
-> 1 ½ cups water  
-> 1 ¼ cups low-salt chicken broth  
-> 1 large garlic clove, minced  
-> ¼ cup grated Parmesan cheese  
-> 2 tablespoons chopped green onions  
-> 1 teaspoon minced fresh rosemary  
-
-Place carrots in processor. Using on/off turns, finely chop carrots. Melt
-butter in heavy medium saucepan over medium heat. Add orzo and carrots; sauté
-until orzo is golden, about 5 minutes. Add 1 ½ cups water, broth, and garlic;
-cook uncovered over medium heat until all liquid is absorbed, stirring
-frequently, about 10 minutes. Stir in cheese, green onions, and rosemary.
-Season to taste with salt and pepper and serve.
