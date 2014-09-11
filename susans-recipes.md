@@ -1627,17 +1627,9 @@ over, wrap them individually and freeze for a quick meal.
 # Poultry Main Dishes
 ## Orange-Rosemary Chicken
 
-Williams-Sonoma Kitchen, Bon Appétit, July 1997.   FIXME
+Williams-Sonoma Kitchen, Bon Appétit, July 1997. Serves 6. Total prep time: 45
+minutes.
 
-It's almost as quick to make the citrus-herb glaze that coats the chicken as it
-is to open a bottle of barbecue sauce-and the glaze has a far more interesting
-taste. Pour a Chardonnay or Sauvignon Blanc for the grown-ups; the kids should
-have lemonade. Finish up with watermelon and brownies.
-
-Can be prepared in 45 minutes or less.
-Yield: Makes 6 Servings
-Active Time: 45 minutes or less
-Total Time: 45 minutes or less
 
 > 1 12-ounce container frozen orange juice from concentrate, thawed  
 > ⅓ cup dry white wine  
@@ -1648,18 +1640,24 @@ Total Time: 45 minutes or less
 > 1 large garlic clove, chopped  
 
 > 1 cup hickory smoke chips, soaked in water 30 minutes, drained  
+> small (8" x 6") foil container (make out of tinfoil in a pinch)
 > 2 7-pound chickens, each cut into 8 pieces (breasts halved if large)  
 
-Blend first 7 ingredients in processor. Set orange glaze aside.
+Blend first 7 ingredients in processor to make the orange glaze. Set glaze
+aside.
 
-Prepare barbecue (medium heat). Place smoke chips in 8x6-inch foil packet with
-open top. Set packet atop coals about 5 minutes before grilling. Sprinkle
-chicken with salt and pepper. Grill chicken until golden, turning occasionally,
-about 5 minutes per side. Continue grilling chicken until cooked through,
-brushing glaze over chicken and turning occasionally, about 25 minutes longer.
+Preheat grill to medium. Place smoke chips in foil container with open top.
+Set chips atop coals about 5 minutes before grilling. Sprinkle chicken with
+salt and pepper. Grill chicken until golden, turning occasionally, about 5
+minutes per side. Continue grilling chicken until cooked through, brushing
+glaze over chicken and turning occasionally, about 25 minutes longer.
 Transfer to platter.
 
-
+* It's almost as quick to make the citrus-herb glaze that coats the chicken as
+  it is to open a bottle of barbecue sauce--and the glaze has a far more
+  interesting taste!
+* Pour a Chardonnay or Sauvignon Blanc for the grown-ups; the kids should have
+  lemonade. Finish up with watermelon and brownies.
 
  
 ## Grilled Chicken Moroccan Style
@@ -1738,29 +1736,27 @@ sandwiches to plates and serve.
  
 ## Moroccan Chicken
 
-FIXME
-
 Bon Appétit, April 1991, by Margot Andrew: Los Angeles, California. Serves 4 to
 6.
 
 > ½ cup dried currants or raisins  
-> ¼ cup dry Sherry  
+> ¼ cup dry sherry  
 > 3 tablespoons butter  
 > 2 tablespoons finely chopped onion  
 > 3 tablespoons all purpose flour  
-> 1 ½ teaspoons curry powder  
+> 1½ teaspoons curry powder  
 > 1 cup milk  
 > 1 medium apple, peeled, diced  
 > 6 boneless chicken breast halves, skinned, patted dry  
 > ¼ cup slivered almonds, toasted  
 
-Place currants in small bowl. Add Sherry and let soak 2 hours.
+Place currants in small bowl. Add sherry and let soak 2 hours.
 
 Preheat oven to 350 °F. Lightly butter 8-inch square baking pan. Melt 3
 tablespoons butter in heavy medium skillet over low heat. Add onion and cook
 until translucent, stirring occasionally, about 4 minutes. Add flour and curry
 powder and stir 3 minutes. Gradually whisk in milk. Bring to boil, stirring
-constantly. Mix in currants with Sherry and apple. Season to taste with salt.
+constantly. Mix in currants, sherry and apple. Season to taste with salt.
 
 Arrange chicken in prepared pan in single layer. Cover with sauce. Top with
 almonds. Bake until chicken is cooked through, about 30 minutes.   
@@ -1943,8 +1939,6 @@ with the tilapia and some steamed green beans.  
 
 ## Cheesy Baked Penne with Cauliflower
 
-FIXME
-
 Bon Appétit, October 2008, by Bruce Aidells (adapted by Susan).  One of
 Adeline's favorites.  Makes 8 servings.
 
@@ -1982,26 +1976,30 @@ Return reserved pot of water to boil. Add pasta and cook until tender but still
 firm to bite, stirring occasionally. Drain; return pasta to same pot. Stir in
 cauliflower mixture and sauce.
 
-Butter 13x9x2-inch glass baking dish or individual sized ramekins. Spoon in
-half of pasta mixture; sprinkle with ½ cup Comté cheese. Top with remaining
-pasta mixture and ½ cup Comté cheese. Melt remaining 1 tablespoon butter in
-small skillet. Add breadcrumbs and toss to coat. Remove from heat; mix in ¼ cup
-Parmesan. Sprinkle crumbs over pasta. DO AHEAD: Can be made 2 hours ahead. Let
-stand at room temperature.  Preheat oven to 350 °F. Bake pasta uncovered until
-heated through and bubbling, about 35 minutes.  
+Butter 13×9×2-inch glass baking dish. Spoon in half of pasta mixture; sprinkle
+with ½ cup Comté cheese. Top with remaining pasta mixture and ½ cup Comté
+cheese. Melt remaining 1 tablespoon butter in small skillet. Add breadcrumbs
+and toss to coat. Remove from heat; mix in ¼ cup Parmesan. Sprinkle crumbs
+over pasta. DO AHEAD: Can be made 2 hours ahead.
 
+Let stand at room temperature.  Preheat oven to 350 °F. Bake pasta uncovered
+until heated through and bubbling, about 35 minutes.  Broil 1-2 minutes if
+topping needs help browning.
 
+* Instead of making in one large dish, consider instead baking your paste in
+  an equivalent number of ramekins. This way you can customize your dish if
+  you have any picky eaters!
+* This dish freezes well: make individual ramekins but before final bake at
+  350 °F, instead wrap ramekins in plastic wrap, then foil, and freeze.  To
+  cook, remove plastic and replace foil; bake at 350 °F for 45 minutes with
+  foil on, 15 minutes with foil off.
 
 
 
 ## Charred Chili Relleno with Green Rice
 
-FIXME
-
-Recipe courtesy of Rachael Ray & The Foodnetwork.com, 2007.  
-Prep Time: 20 min (Susan thinks it takes longer)  
-Cook Time: 20 min  
-Level: Easy  
+Recipe courtesy of Rachael Ray & The Foodnetwork.com, 2007.  Serves 4.  Total
+prep time: 45 minutes.
 
 > 4 cups chicken or vegetable stock, divided  
 > 1 bay leaf  
@@ -2022,14 +2020,12 @@ Level: Easy
 > 2 limes, zested, juiced  
 > 1 cup shredded Chihuahua cheese, Asadero or Monterey Jack  
 
-Preheat broiler or grill pan to high. (Don't do this until the rellenos are
-ready.)
+Preheat broiler or grill pan to high. (Don't do this until the poblanos are
+ready.) Place poblanos under broiler or on hot grill and char evenly all over,
+15 minutes.
 
-Heat about 3 ½ cups stock in a sauce pot with a bay leaf to boiling. Add rice,
+Heat about 3½ cups stock in a sauce pot with a bay leaf to boiling. Add rice,
 cover pot reduce heat to low and simmer 18 minutes until tender.
-
-Place poblanos under broiler or on hot grill and char evenly all over, 15
-minutes.
 
 While peppers and rice are working, scrape the corn off the cobs or defrost
 frozen corn and dry by spreading out on clean kitchen towel. Heat 2 tablespoons
@@ -2050,7 +2046,7 @@ scoop out the seeds with a small spoon. Place peppers in a shallow baking dish
 and stuff each split pepper with lots of the corn mix, top each pepper with ¼
 cup cheese and place back under broiler to melt and char the cheese.
 
-Serve peppers on beds of green rice. Yum-o!
+Serve peppers on beds of green rice.
 
  
 
