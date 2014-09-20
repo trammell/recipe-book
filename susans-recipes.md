@@ -1434,7 +1434,7 @@ servings.
 > 2 cinnamon sticks  
 > 1 bay leaf  
 > ¼ teaspoon dried crushed red pepper  
-> 1½ cups whole milk  
+> 1½ cups whole milk (subst. coconut milk)  
 > 3 large tomatoes, quartered  
 > 3 tablespoons Major Grey chutney  
 > 3 tablespoons fresh lemon juice  
@@ -1456,10 +1456,15 @@ teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is
 tender, stirring occasionally, about 2 hours.
 
 Uncover; increase heat to medium. Boil stew until juices are slightly
-thickened, about 10 minutes. Serve over rice.
+thickened, about 10 minutes.  Serve over rice with naan and samosas.
 
-* FIXME: need to talk to Susan to get updates on this awesome recipe
+* This recipe doubles or even triples well.  It also reheats well. Try freezing
+  in 1-qt containers, then thawing and warming on the stove (takes about 20
+  minutes) for a quick but good mid-week meal.
 
+Alternative crock-pot cooking method:
+* prepare onions and beef (can be done the night before)
+* cook all ingredients except (coconut) milk in crock pot on low approximately 8 hours
 
 
 ## Barbecued Pork Burgers with Slaw
