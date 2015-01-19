@@ -482,16 +482,16 @@ Parade, August 2000. Makes 6 to 8 servings.
 > Salt and pepper, to taste  
 > ½ cup half-and-half  
 
-1. Melt the butter with the oil over low heat in a pot.
-2. Add the onion; wilt over low heat for 8 to 10 minutes. Add the garlic during the 
-   last 2 minutes, stirring. Sprinkle with flour and cook 3 minutes longer, stirring.
-3. Add the tomatoes, tomato paste, sugar, and broth. Bring to a boil, reduce heat 
-   to a simmer and cover; cook over medium-low heat for 30 minutes. 
-   Season with cloves, salt, and pepper. Remove from heat and cool slightly.
-4. Purée the soup in a food processor. Pour through a strainer into a pot. Stir in 
-   the half-and-half.
-5. Warm the soup before serving.
+Melt the butter with the oil over low heat in a pot. Add the onion; wilt over
+low heat for 8 to 10 minutes. Add the garlic during the last 2 minutes,
+stirring. Sprinkle with flour and cook 3 minutes longer, stirring.
 
+Add the tomatoes, tomato paste, sugar, and broth. Bring to a boil, reduce heat
+to a simmer and cover; cook over medium-low heat for 30 minutes.  Season with
+cloves, salt, and pepper. Remove from heat and cool slightly.
+
+Purée the soup in a food processor. Pour through a strainer into a pot. Stir in
+the half-and-half.  Warm the soup before serving.
 
 
 
@@ -1954,7 +1954,7 @@ Let stand at room temperature.  Preheat oven to 350 °F. Bake pasta uncovered
 until heated through and bubbling, about 35 minutes.  Broil 1-2 minutes if
 topping needs help browning.
 
-* Instead of making in one large dish, consider instead baking your paste in
+* Instead of making in one large dish, consider instead baking your pasta in
   an equivalent number of ramekins. This way you can customize your dish if
   you have any picky eaters!
 * This dish freezes well: make individual ramekins but before final bake at
