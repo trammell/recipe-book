@@ -1937,7 +1937,7 @@ coarse salt and pepper.
 Melt 2 tablespoons butter in large saucepan over medium-low heat. Add flour and
 stir 2 minutes. Gradually whisk in cream. Cook until sauce thickens, whisking
 occasionally, about 4 minutes. Add 2 cups Comté cheese; whisk until melted and
-sauce is smooth. Whisk in ½ cup Parmesan, then crème fraîche and mustard.
+sauce is smooth. Whisk in ½ cup Parmesan, then sour cream and mustard.
 Season with salt and pepper. Remove from heat.
 
 Return reserved pot of water to boil. Add pasta and cook until tender but still
