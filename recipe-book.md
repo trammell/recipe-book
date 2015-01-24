@@ -5,7 +5,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Appetizers/Starters](#appetizersstarters)
   - [Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
@@ -79,6 +79,7 @@
     - [Lime mayonnaise](#lime-mayonnaise)
 - [Other Main Dishes](#other-main-dishes)
   - [Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper](#phyllo-wrapped-salmon-with-leeks-and-red-bell-pepper)
+  - [Salmon with Spinach and Chickpeas](#salmon-with-spinach-and-chickpeas)
   - [Butternut Squash Curry with Tilapia](#butternut-squash-curry-with-tilapia)
   - [Cheesy Baked Penne with Cauliflower](#cheesy-baked-penne-with-cauliflower)
   - [Charred Chili Relleno with Green Rice](#charred-chili-relleno-with-green-rice)
