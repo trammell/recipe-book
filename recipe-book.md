@@ -55,6 +55,7 @@
   - [Raspberry Corn Muffins](#raspberry-corn-muffins)
   - [Adeline's Favorite Muffins](#adelines-favorite-muffins)
   - [Amanda Trammell's Spinach and Bacon Quiche](#amanda-trammells-spinach-and-bacon-quiche)
+  - [Buttermilk Syrup](#buttermilk-syrup)
 - [Meat Main Dishes](#meat-main-dishes)
   - [Fragrant Beef Curry with Rice](#fragrant-beef-curry-with-rice)
   - [Slow-Cooked Carnitas Tacos](#slow-cooked-carnitas-tacos)
