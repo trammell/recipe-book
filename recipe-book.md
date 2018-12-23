@@ -2292,9 +2292,36 @@ and stir until smooth. Cool sauce to warm before serving.
 
 
 
+## Vanilla sea salt caramel sauce
 
+From *Real Simple*, December 2018. Improvements added by John & Susan.
 
+**Active time:** 40 minutes  
+**Total time:** 40 minutes  
+**Makes:** 7¼ cups caramel  
 
+Ingredients:
+
+> 5 cups granulated sugar  
+> 3 cups heavy cream  
+> 1¼ cups unsalted butter (2½ sticks) , cut into cubes  
+> 3 tablespoons pure vanilla extract  
+> 1 teaspoon fine sea salt  
+
+* Stir together sugar and 1½ cups water in a large heavy-bottomed pot.
+  Place over medium-high and cook, undisturbed, until the sugar begins to
+  turn amber around the edge of the pot. This takes about 15 minutes.
+* Gently stir the mixture until the color is uniformly amber. This takes
+  1-2 minutes. You may also notice that the syrup has fewer, smaller bubbles
+  at this point. Reduce heat to low.
+* This next step is exciting: gradually stir in the cream. As the cream
+  heats, the mixture will bubble and expand dramatically, so be prepared.
+  Consider using an oven mitt that protects your forearms. Continue to cook,
+  stirring over low, until caramel is smooth. This takes about 2 minutes.
+* Add butter, one piece at a time, whisking constantly until butter is melted
+  and incorporated.
+* Remove caramel from heat. Stir in vanilla and salt. Serve warm, or let it
+  cool. Store in airtight containers.
 
 
 # Beverages
