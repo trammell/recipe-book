@@ -1,7 +1,8 @@
 <!-- vim: set foldlevel=1 : -->
 
 # Susan's Cookbook
-#### version 0.1, September 2014
+
+**version 0.2, January 2019**
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
