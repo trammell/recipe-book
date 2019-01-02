@@ -4,105 +4,95 @@
 
 **version 0.2, January 2019**
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+<!-- toc -->
 
 - [Appetizers/Starters](#appetizersstarters)
-  - [Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
-  - [Roasted Garlic](#roasted-garlic)
-  - [Susan's Guacamole](#susans-guacamole)
-  - [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
+  * [Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
+  * [Roasted Garlic](#roasted-garlic)
+  * [Susan's Guacamole](#susans-guacamole)
+  * [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
 - [Soups](#soups)
-  - [Spicy Garbanzo Bean and Turkey Sausage Soup](#spicy-garbanzo-bean-and-turkey-sausage-soup)
-  - [Easy Split Pea Soup](#easy-split-pea-soup)
-  - [Tortilla Soup with Chicken and Lime](#tortilla-soup-with-chicken-and-lime)
-  - [Lentil Soup with Smoked Ham](#lentil-soup-with-smoked-ham)
-  - [Hot and Sour Soup](#hot-and-sour-soup)
-  - [Adeline's "Round Meat Soup" _aka._ Sausage and Bean Soup](#adelines-round-meat-soup-_aka_-sausage-and-bean-soup)
-  - [Louisiana Red Beans and Rice](#louisiana-red-beans-and-rice)
-  - [Creamy Tomato Soup](#creamy-tomato-soup)
-  - [White Turkey Chili](#white-turkey-chili)
-  - [Country Captain Soup](#country-captain-soup)
+  * [Spicy Garbanzo Bean and Turkey Sausage Soup](#spicy-garbanzo-bean-and-turkey-sausage-soup)
+  * [Easy Split Pea Soup](#easy-split-pea-soup)
+  * [Tortilla Soup with Chicken and Lime](#tortilla-soup-with-chicken-and-lime)
+  * [Lentil Soup with Smoked Ham](#lentil-soup-with-smoked-ham)
+  * [Hot and Sour Soup](#hot-and-sour-soup)
+  * [Adeline's "Round Meat Soup" _aka._ Sausage and Bean Soup](#adelines-round-meat-soup-_aka_-sausage-and-bean-soup)
+  * [Louisiana Red Beans and Rice](#louisiana-red-beans-and-rice)
+  * [Creamy Tomato Soup](#creamy-tomato-soup)
+  * [White Turkey Chili](#white-turkey-chili)
+  * [Country Captain Soup](#country-captain-soup)
 - [Sides and Salads](#sides-and-salads)
-  - [Cabbage and Corn Slaw with Cilantro and Orange Dressing](#cabbage-and-corn-slaw-with-cilantro-and-orange-dressing)
-  - [Sweet-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
-  - [Kohlrabi and Apple Salad with Creamy Mustard Dressing](#kohlrabi-and-apple-salad-with-creamy-mustard-dressing)
-  - [Beet and Carrot Pancakes](#beet-and-carrot-pancakes)
-  - [Black Bean and Tomato Quinoa](#black-bean-and-tomato-quinoa)
-  - [Noodle Salad with Spicy Peanut Butter Dressing](#noodle-salad-with-spicy-peanut-butter-dressing)
-  - [Mexican Black Beans](#mexican-black-beans)
-  - [Green Bean and Tomato Salad](#green-bean-and-tomato-salad)
-  - [Creamy Southwestern Potato Salad](#creamy-southwestern-potato-salad)
-        - [Test-kitchen tip: Pitting an avocado](#test-kitchen-tip-pitting-an-avocado)
-  - [Carrot and Apple Slaw](#carrot-and-apple-slaw)
-  - [Salsa Verde](#salsa-verde)
-  - [Carrot Orzo](#carrot-orzo)
-  - [Pearl Barley, Bacon, and Root Vegetable Pilaf](#pearl-barley-bacon-and-root-vegetable-pilaf)
-      - [Pilaf](#pilaf)
-  - [Szechuan Noodles with Peanut Sauce](#szechuan-noodles-with-peanut-sauce)
-  - [Wheat Berry and Barley Salad with Smoked Mozzarella](#wheat-berry-and-barley-salad-with-smoked-mozzarella)
-  - [Carrot Walnut Salad](#carrot-walnut-salad)
-  - [Southwestern Smoked Turkey and Pasta Salads](#southwestern-smoked-turkey-and-pasta-salads)
-  - [Berkeley Petite Lentil Couscous Salad](#berkeley-petite-lentil-couscous-salad)
-  - [Lacinato Kale and Ricotta Salata Salad](#lacinato-kale-and-ricotta-salata-salad)
-  - [Roasted Carrots and Parsnips with White Balsamic](#roasted-carrots-and-parsnips-with-white-balsamic)
-  - [Susan's Asian Chicken Pasta Salad](#susans-asian-chicken-pasta-salad)
-      - [Creamy sesame dressing](#creamy-sesame-dressing)
-      - [Salad](#salad)
-  - [Cauliflower Wedges with Lemon Dressing](#cauliflower-wedges-with-lemon-dressing)
+  * [Cabbage and Corn Slaw with Cilantro and Orange Dressing](#cabbage-and-corn-slaw-with-cilantro-and-orange-dressing)
+  * [Sweet-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
+  * [Kohlrabi and Apple Salad with Creamy Mustard Dressing](#kohlrabi-and-apple-salad-with-creamy-mustard-dressing)
+  * [Beet and Carrot Pancakes](#beet-and-carrot-pancakes)
+  * [Black Bean and Tomato Quinoa](#black-bean-and-tomato-quinoa)
+  * [Noodle Salad with Spicy Peanut Butter Dressing](#noodle-salad-with-spicy-peanut-butter-dressing)
+  * [Mexican Black Beans](#mexican-black-beans)
+  * [Green Bean and Tomato Salad](#green-bean-and-tomato-salad)
+  * [Creamy Southwestern Potato Salad](#creamy-southwestern-potato-salad)
+  * [Carrot and Apple Slaw](#carrot-and-apple-slaw)
+  * [Salsa Verde](#salsa-verde)
+  * [Carrot Orzo](#carrot-orzo)
+  * [Pearl Barley, Bacon, and Root Vegetable Pilaf](#pearl-barley-bacon-and-root-vegetable-pilaf)
+  * [Szechuan Noodles with Peanut Sauce](#szechuan-noodles-with-peanut-sauce)
+  * [Wheat Berry and Barley Salad with Smoked Mozzarella](#wheat-berry-and-barley-salad-with-smoked-mozzarella)
+  * [Carrot Walnut Salad](#carrot-walnut-salad)
+  * [Southwestern Smoked Turkey and Pasta Salads](#southwestern-smoked-turkey-and-pasta-salads)
+  * [Berkeley Petite Lentil Couscous Salad](#berkeley-petite-lentil-couscous-salad)
+  * [Lacinato Kale and Ricotta Salata Salad](#lacinato-kale-and-ricotta-salata-salad)
+  * [Roasted Carrots and Parsnips with White Balsamic](#roasted-carrots-and-parsnips-with-white-balsamic)
+  * [Susan's Asian Chicken Pasta Salad](#susans-asian-chicken-pasta-salad)
+    + [Creamy sesame dressing](#creamy-sesame-dressing)
+    + [Salad](#salad)
+  * [Cauliflower Wedges with Lemon Dressing](#cauliflower-wedges-with-lemon-dressing)
 - [Breakfast Dishes](#breakfast-dishes)
-  - [Café Beaujolais Yogurt Pancakes](#café-beaujolais-yogurt-pancakes)
-  - [Raspberry Corn Muffins](#raspberry-corn-muffins)
-  - [Adeline's Favorite Muffins](#adelines-favorite-muffins)
-  - [Amanda Trammell's Spinach and Bacon Quiche](#amanda-trammells-spinach-and-bacon-quiche)
-  - [Buttermilk Syrup](#buttermilk-syrup)
+  * [Café Beaujolais Yogurt Pancakes](#cafe-beaujolais-yogurt-pancakes)
+  * [Raspberry Corn Muffins](#raspberry-corn-muffins)
+  * [Adeline's Favorite Muffins](#adelines-favorite-muffins)
+  * [Amanda Trammell's Spinach and Bacon Quiche](#amanda-trammells-spinach-and-bacon-quiche)
+  * [Buttermilk Syrup](#buttermilk-syrup)
 - [Meat Main Dishes](#meat-main-dishes)
-  - [Fragrant Beef Curry with Rice](#fragrant-beef-curry-with-rice)
-  - [Slow-Cooked Carnitas Tacos](#slow-cooked-carnitas-tacos)
-  - [Barbecued Pork Burgers with Slaw](#barbecued-pork-burgers-with-slaw)
-  - [Pork Tenderloin with Herbed Breadcrumb Crust](#pork-tenderloin-with-herbed-breadcrumb-crust)
-  - [Baked Chicken Meatballs with Peperonata](#baked-chicken-meatballs-with-peperonata)
-      - [Peperonata](#peperonata)
-      - [Meatballs](#meatballs)
-  - [Byerly's Italian Beef Burgers](#byerlys-italian-beef-burgers)
+  * [Fragrant Beef Curry with Rice](#fragrant-beef-curry-with-rice)
+  * [Slow-Cooked Carnitas Tacos](#slow-cooked-carnitas-tacos)
+  * [Barbecued Pork Burgers with Slaw](#barbecued-pork-burgers-with-slaw)
+  * [Pork Tenderloin with Herbed Breadcrumb Crust](#pork-tenderloin-with-herbed-breadcrumb-crust)
+  * [Baked Chicken Meatballs with Peperonata](#baked-chicken-meatballs-with-peperonata)
+  * [Byerly's Italian Beef Burgers](#byerlys-italian-beef-burgers)
 - [Poultry Main Dishes](#poultry-main-dishes)
-  - [Orange-Rosemary Chicken](#orange-rosemary-chicken)
-  - [Grilled Chicken Moroccan Style](#grilled-chicken-moroccan-style)
-  - [ Grilled Chicken Sandwiches with Sage Pesto and Apples](#grilled-chicken-sandwiches-with-sage-pesto-and-apples)
-      - [Sage pesto](#sage-pesto)
-      - [Sandwiches](#sandwiches)
-  - [Moroccan Chicken](#moroccan-chicken)
-  - [Chicken Mole with Chipotles](#chicken-mole-with-chipotles)
-  - [Chicken Burgers](#chicken-burgers)
-  - [Coleslaw for Chicken Burgers](#coleslaw-for-chicken-burgers)
-  - [Mexican Chicken Burgers with Lime Cilantro Mayo](#mexican-chicken-burgers-with-lime-cilantro-mayo)
-    - [Chicken burgers](#chicken-burgers)
-    - [Lime mayonnaise](#lime-mayonnaise)
+  * [Orange-Rosemary Chicken](#orange-rosemary-chicken)
+  * [Grilled Chicken Moroccan Style](#grilled-chicken-moroccan-style)
+  * [Moroccan Chicken](#moroccan-chicken)
+  * [Chicken Mole with Chipotles](#chicken-mole-with-chipotles)
+  * [Chicken Burgers](#chicken-burgers)
+  * [Coleslaw for Chicken Burgers](#coleslaw-for-chicken-burgers)
+  * [Mexican Chicken Burgers with Lime Cilantro Mayo](#mexican-chicken-burgers-with-lime-cilantro-mayo)
+    + [Chicken burgers](#chicken-burgers)
+    + [Lime mayonnaise](#lime-mayonnaise)
 - [Other Main Dishes](#other-main-dishes)
-  - [Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper](#phyllo-wrapped-salmon-with-leeks-and-red-bell-pepper)
-  - [Salmon with Spinach and Chickpeas](#salmon-with-spinach-and-chickpeas)
-  - [Butternut Squash Curry with Tilapia](#butternut-squash-curry-with-tilapia)
-  - [Cheesy Baked Penne with Cauliflower](#cheesy-baked-penne-with-cauliflower)
-  - [Charred Chili Relleno with Green Rice](#charred-chili-relleno-with-green-rice)
-  - [Susan's Spinach and Cheese Curry](#susans-spinach-and-cheese-curry)
-      - [How to Prepare Mustard Greens](#how-to-prepare-mustard-greens)
-  - [Bianca Conti-Tronconi's Basil Pesto](#bianca-conti-tronconis-basil-pesto)
-  - [Portobello Risotto](#portobello-risotto)
+  * [Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper](#phyllo-wrapped-salmon-with-leeks-and-red-bell-pepper)
+  * [Salmon with Spinach and Chickpeas](#salmon-with-spinach-and-chickpeas)
+  * [Butternut Squash Curry with Tilapia](#butternut-squash-curry-with-tilapia)
+  * [Cheesy Baked Penne with Cauliflower](#cheesy-baked-penne-with-cauliflower)
+  * [Charred Chili Relleno with Green Rice](#charred-chili-relleno-with-green-rice)
+  * [Susan's Spinach and Cheese Curry](#susans-spinach-and-cheese-curry)
+  * [Bianca Conti-Tronconi's Basil Pesto](#bianca-conti-tronconis-basil-pesto)
+  * [Portobello Risotto](#portobello-risotto)
 - [Desserts](#desserts)
-  - [Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
-  - [Amanda Trammell's Raspberry Trifle](#amanda-trammells-raspberry-trifle)
-  - [Petits Pains au Chocolat](#petits-pains-au-chocolat)
-  - [Hot Fudge Sauce](#hot-fudge-sauce)
+  * [Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
+  * [Amanda Trammell's Raspberry Trifle](#amanda-trammells-raspberry-trifle)
+  * [Petits Pains au Chocolat](#petits-pains-au-chocolat)
+  * [Hot Fudge Sauce](#hot-fudge-sauce)
+  * [Vanilla sea salt caramel sauce](#vanilla-sea-salt-caramel-sauce)
 - [Beverages](#beverages)
-  - [Margaritas](#margaritas)
-    - [Variations](#variations)
-      - [Fresh Pineapple Margaritas](#fresh-pineapple-margaritas)
-      - [Fresh Raspberry or Strawberry Margarita](#fresh-raspberry-or-strawberry-margarita)
-  - [Green Tea / Cranberry Spritzer](#green-tea--cranberry-spritzer)
-  - [Summer Flavored Waters](#summer-flavored-waters)
+  * [Margaritas](#margaritas)
+    + [Fresh Pineapple Margaritas](#fresh-pineapple-margaritas)
+    + [Fresh Berry Margarita](#fresh-berry-margarita)
+  * [Green Tea / Cranberry Spritzer](#green-tea--cranberry-spritzer)
+  * [Summer Flavored Waters](#summer-flavored-waters)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- tocstop -->
 
 # Appetizers/Starters
 ## Smoky Chipotle Hummus with Garlic Bagel Chips
@@ -827,18 +817,9 @@ hearts of palm, tomatoes, and cilantro. Drizzle dressing over potato mixture;
 toss to coat. Season generously with salt. (Can be made 4 hours ahead. Cover
 and refrigerate.) Gently stir in avocado and serve.
 
-##### Test-kitchen tip: Pitting an avocado
-
-Cut an unpeeled avocado in half lengthwise. Grasp both sides and twist to open.
-Tap a large knife into the pit so it sticks, then twist the knife to loosen and
-remove the pit.
-
- 
-
-
-
- 
-
+> **Tip:** Pitting an avocado: Cut an unpeeled avocado in half lengthwise.
+> Grasp both sides and twist to open. Tap a large knife into the pit so it
+> sticks, then twist the knife to loosen and remove the pit.
 
 
 ## Carrot and Apple Slaw
@@ -908,8 +889,6 @@ Season to taste with salt and pepper and serve.
 
 Bon Appétit, January 2006.  Makes 4 servings.
 
-#### Pilaf
-
 > 2 cups water  
 > ½ teaspoon salt  
 > 1 cup pearl barley, rinsed, drained  
@@ -924,19 +903,15 @@ Bon Appétit, January 2006.  Makes 4 servings.
 > ½ teaspoon chopped fresh thyme  
 > ½ teaspoon chopped fresh rosemary  
 
-Bring 2 cups water and salt to boil in medium saucepan. Mix in barley. Cover
-pan, reduce heat to medium, and simmer until barley is tender, about 30
-minutes. Drain barley.
-
-Sauté bacon in large pot over medium heat until brown and crisp. Using slotted
-spoon, transfer bacon to paper towels. Pour off all but 2 tablespoons drippings
-from pot. Add shallot; stir 30 seconds. Add cubed vegetables and sugar; sauté 6
-minutes. Add barley, lemon juice, and herbs; stir 2 minutes.  Mix in bacon;
-season with salt and pepper.  
-
-
-
-
+* Bring 2 cups water and salt to boil in medium saucepan. Mix in barley. Cover
+  pan, reduce heat to medium, and simmer until barley is tender, about 30
+  minutes. Drain barley.
+* Sauté bacon in large pot over medium heat until brown and crisp. Using
+  slotted spoon, transfer bacon to paper towels. Pour off all but 2
+  tablespoons drippings from pot. Add shallot; stir 30 seconds. Add cubed
+  vegetables and sugar; sauté 6 minutes.
+* Add barley, lemon juice, and herbs; stir 2 minutes.  Mix in bacon; season
+  with salt and pepper.  
 
 
 ## Szechuan Noodles with Peanut Sauce
@@ -948,10 +923,10 @@ course.
 > 1 cup super-chunky peanut butter  
 > ¼ cup soy sauce  
 > 2 tablespoons balsamic vinegar  
-> 1 ½ tablespoons chili-garlic sauce*  
+> 1½ tablespoons chili-garlic sauce  
 > 5 garlic cloves, minced  
 
-> 12 ounces dried chow mein udon (Asian-style noodles)*  
+> 12 ounces dried chow mein udon (Asian-style noodles)  
 > 1 tablespoon canola oil  
 
 > 8 large bok choy leaves  
@@ -962,24 +937,24 @@ course.
 > 2 cups shredded Napa cabbage  
 > 2 tablespoons toasted sesame seeds  
 
-* Udon is available at Asian markets and in the Asian foods section of many
-  supermarkets.
+Sauce, noodles and vegetables can be prepared ahead of time. Cover them
+separately and store in the refrigerator. Bring the sauce to room temperature
+before combining with noodles, vegetables, and cabbage, thinning with
+additional broth if necessary.
 
-Mix ½ cup vegetable broth, peanut butter, soy sauce, balsamic vinegar,
-chili-garlic sauce and minced garlic in medium bowl to blend well (sauce will
-be thick). Cook noodles in large pot of boiling salted water until just tender
-but still firm to bite, about 6 minutes. Drain. Rinse noodles under cold water
-and cool. Cut noodles into 4- to 5-inch lengths. Transfer noodles to very large
-bowl. Toss with oil to coat.
+* Mix ½ cup vegetable broth, peanut butter, soy sauce, balsamic vinegar,
+  chili-garlic sauce and minced garlic in medium bowl to blend well. The sauce
+  should be thick.
+* Cook noodles in large pot of boiling salted water until just tender but
+  still firm to bite, about 6 minutes. Drain. Rinse noodles under cold water
+  and cool. Cut noodles into 4- to 5-inch lengths. Transfer noodles to very
+  large bowl. Toss with oil to coat.
+* Cut bok choy, peppers, carrots and onions into matchstick-size strips.
+* Add shredded cabbage and vegetable strips to noodles. Toss with enough
+  peanut sauce to coat. Sprinkle with sesame seeds.
 
-Cut bok choy, peppers, carrots and onions into matchstick-size strips. (Sauce,
-noodles and vegetables can be prepared 4 hours ahead. Cover separately; chill.
-Bring sauce to room temperature before continuing, thinning with additional
-broth if necessary.)
-
-Add shredded cabbage and vegetable strips to noodles. Toss with enough peanut
-sauce to coat. Sprinkle with sesame seeds.
-
+> Udon is available at Asian markets and in the Asian foods section of many
+> supermarkets.
 
  
 ## Wheat Berry and Barley Salad with Smoked Mozzarella
@@ -1169,7 +1144,7 @@ Can be made 1 day ahead.  Cool. Cover and chill. Let stand at room temperature
 
 Serves 6.
 
-#### Creamy sesame dressing
+### Creamy sesame dressing
 
 > 1¼ c. mayonnaise (the kind made with olive oil)  
 > ¼ c. soy sauce  
@@ -1180,7 +1155,7 @@ Serves 6.
 
 Combine all ingredients. Makes enough for two salads.
 
-#### Salad
+### Salad
 
 > 8 oz. fusilli pasta  
 > 2 c. cubed cooked chicken  
@@ -1543,7 +1518,7 @@ Slice pork and serve.
 
 Gourmet, August 2009, by Maggie Ruggiero.  Makes 4 servings.
 
-#### Peperonata
+**Peperonata:**
 
 > 3 red bell peppers, cut into strips  
 > 1½ tablespoons extra-virgin olive oil, divided  
@@ -1558,7 +1533,7 @@ oven, stirring occasionally, until tender and browned, about 35 minutes.
 Stir together capers, vinegar, red pepper flakes, and remaining ½ tablespoon
 oil in a medium bowl and set aside.
 
-#### Meatballs
+**Meatballs:**
 
 > 3 slices Italian bread, torn into pieces (1 cup)  
 > ⅓ cup milk  
@@ -1589,11 +1564,6 @@ Toss bell peppers with caper mixture. Serve meatballs with peperonata.
   loaf.
 
 
-
-
-
-
-
 ## Byerly's Italian Beef Burgers
 
 > 1½ Lb. ground beef  
@@ -1612,6 +1582,7 @@ over, wrap them individually and freeze for a quick meal.
 
 
 # Poultry Main Dishes
+
 ## Orange-Rosemary Chicken
 
 Williams-Sonoma Kitchen, Bon Appétit, July 1997. Serves 6. Total prep time: 45
@@ -1683,7 +1654,7 @@ parsley.  Drink pilsner.
 
 Bon Appétit, July 2003, by Cheryl and Bill Jamison. Makes 6 servings.
 
-#### Sage pesto
+**Sage pesto**
 
 > ¾ cup lightly packed fresh sage leaves (from 2 large bunches)  
 > ¾ cup pine nuts (about 4 ounces)  
@@ -1698,11 +1669,11 @@ and blend until thick paste forms. Mix in cheese. Transfer to small bowl;
 season with salt and pepper. (Can be made 1 day ahead. Press plastic wrap onto
 surface of pesto and refrigerate. Bring to room temperature before using.)
 
-#### Sandwiches
+**Sandwiches**
 
 > 6 skinless boneless chicken breast halves  
 > 6 4x5-inch rectangles focaccia, ciabatta, or long French rolls, split horizontally  
-> Mayonnaise  
+> mayonnaise  
 > 3 medium Fuji apples, halved, cored, thinly sliced  
 
 Place each chicken breast between sheets of waxed paper. Using rolling pin or
@@ -2110,32 +2081,33 @@ Serves 6.
    simmering the curry, covered, stirring occasionally, until the cheese and
    cream are warmed through, 5 to 8 minutes. Then serve.
 
-* The original recipe can be found at http://www.cookstr.com/recipes/spinach-and-mustard-greens-with-cheese
+* The original recipe can be found at <http://www.cookstr.com/recipes/spinach-and-mustard-greens-with-cheese>.
 * I just use plain garam masala (and in different quantities than the original
   recipe) but you can get fancy (like the original chef of this recipe) and use
   two garam masalas here in different ways. Initially, you add the untoasted
-  blend (the Bin bhuna hua garam marsala) early on, soon after the onion browns,
+  blend (the *bin bhuna hua garam marsala*) early on, soon after the onion browns,
   to make sure the raw spices cook, providing the first spice layering. Then you
   swirl in the garam masala (ta toasted Punjabi garam masala) toward the end,
   after the curry has cooked. This blend is a finishing spice yielding a second
   tier of flavors that are aromatic, smooth, and assertive. Both blends contain
   similar spices, but what you did with them at various stages creates a
   complex-tasting sauce.
-* The original recipe calls for 1¼ lb Doodh paneer.  I cut this down
+* The original recipe calls for 1¼ lbs. doodh paneer.  I cut this down
   substantially and often times I either buy it pre-fried or just use it
   without frying it.
 
-#### How to Prepare Mustard Greens
+**How to Prepare Mustard Greens:**
 
 Fresh mustard greens are available in most supermarkets. To prepare them for
 cooking, cut out and discard the tough rib that runs through three-quarters
 the length of each leaf. Stack 2 or 3 similar-length leaves and roll them
 tightly into a tube shape. Cut the tube into thin crosswise slices and unfold
-them to yield ribbons (called a chiffonade). Place them in a large bowl. Once
-all the greens are sliced, cover them with cold water. Dunk the leaves briefly
-under the water. Grab handfuls of the leaves to lift them out of the water.
-The sand or grit will sink to the bottom. Repeat once or twice to ensure that
-the leaves are completely clean and grit-free. 
+them to yield ribbons (called a chiffonade). Place them in a large bowl.
+
+Once all the greens are sliced, cover them with cold water. Dunk the leaves
+briefly under the water. Grab handfuls of the leaves to lift them out of the
+water.  The sand or grit will sink to the bottom. Repeat once or twice to
+ensure that the leaves are completely clean and grit-free. 
 
 
 ## Bianca Conti-Tronconi's Basil Pesto
@@ -2419,6 +2391,3 @@ Herb and Berry Flavored Water: Substitute 1 cup fresh blueberries, lightly
 crushed, and two 4-inch sprigs fresh rosemary, lightly bruised, for the melon,
 lime, and mint. Fill pitcher with water, refrigerate 2 to 4 hours, and serve as
 above.
-
-
- 
