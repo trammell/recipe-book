@@ -2229,21 +2229,25 @@ container at room temperature.)
 > 2 T. baking cocoa powder  
 > fresh raspberries, option (for garnish)  
 
-1. Slice cake into 18-20 slices (cubes work also); set aside
-2. In a mixing bowl, beat cream with ¼ c. sugar until stiff peaks form.  Set aside.
-3. In another bowl, beat cream cheese, lemon juice, vanilla and remaining sugar.  Fold in 2 cups of whipped cream; set remaining whipped cream aside for topping.
-4. Drain raspberries, reserving juice; set berries aside.
-5. Line bottom of a 3-quart glass bowl with ⅓ of the cake slices/cubes.
-Drizzle with some of the raspberry juice. Spread ¼ of the creamed cheese
-mixture.  Sift ¼ of the cocoa over the top.  Sprinkle with ⅓ of the berries.
-Repeat layers twice.  Top with the remaining cream cheese mixture, whipped
-cream and sifted cocoa.  Cover and refrigerate for 4 hours or overnight.
-Garnish with fresh raspberries just before serving.
+* Slice cake into 18-20 slices (cubes work also). Set aside.
+* In a mixing bowl, beat cream with ¼ c. sugar until stiff peaks form.  Set
+  aside.
+* In another bowl, beat cream cheese, lemon juice, vanilla and remaining
+  sugar.  Fold in 2 cups of whipped cream; set remaining whipped cream aside
+  for topping.
+* Drain raspberries, reserving juice; set berries aside.
+* Line bottom of a 3-quart glass bowl with ⅓ of the cake slices/cubes.
+  Drizzle with some of the raspberry juice. Spread ¼ of the creamed cheese
+  mixture. Sift ¼ of the cocoa over the top. Sprinkle with ⅓ of the berries.
+  Repeat layers twice. Top with the remaining cream cheese mixture, whipped
+  cream and sifted cocoa.
+* Cover and refrigerate for 4 hours or overnight. Garnish with fresh
+  raspberries just before serving.
 
 
 ## Petits Pains au Chocolat
 
-Bon Appétit, April 2004.  Makes 24.
+Bon Appétit, April 2004. Makes 24.
 
 These delicious small pastries are easy to make, and they're sure to disappear quickly.
 
@@ -2268,7 +2272,8 @@ minutes. Serve warm or at room temperature.
 
 ## Hot Fudge Sauce
 
-Gourmet, February 2004. Makes about 2 cups.  About 30 minutes, start to finish.
+Gourmet, February 2004. Makes about 2 cups. This recipe takes about 30 minutes
+from start to finish.
 
 > ⅔ cup heavy cream  
 > ½ cup light corn syrup  
@@ -2290,6 +2295,7 @@ and stir until smooth. Cool sauce to warm before serving.
 * Sauce can be eaten directly from the jar with a spoon, or with your fingers
   in a pinch.
 * I have used Baker's chocolate squares and I never chop them.
+* This recipe doubles or triples nicely.
 
 
 
@@ -2297,35 +2303,41 @@ and stir until smooth. Cool sauce to warm before serving.
 
 From *Real Simple*, December 2018. Improvements added by John & Susan.
 
-**Active time:** 40 minutes  
-**Total time:** 40 minutes  
+**Active time:** 45 minutes  
+**Total time:** 45 minutes  
 **Makes:** 7¼ cups caramel  
 
 Ingredients:
 
 > 5 cups granulated sugar  
+> 1½ cups water  
 > 3 cups heavy cream  
 > 1¼ cups unsalted butter (2½ sticks) , cut into cubes  
 > 3 tablespoons pure vanilla extract  
 > 1 teaspoon fine sea salt  
 
-* Stir together sugar and 1½ cups water in a large heavy-bottomed pot.
-  Place over medium-high and cook, undisturbed, until the sugar begins to
-  turn amber around the edge of the pot. This takes about 15 minutes.
-* Gently stir the mixture until the color is uniformly amber. This takes
-  1-2 minutes. You may also notice that the syrup has fewer, smaller bubbles
-  at this point. Reduce heat to low.
-* This next step is exciting: gradually stir in the cream. As the cream
-  heats, the mixture will bubble and expand dramatically, so be prepared.
-  Consider using an oven mitt that protects your forearms. Continue to cook,
+* Stir together sugar and 1½ cups water in a large heavy-bottomed pot. Place
+  over medium-high and cook, undisturbed, until the sugar begins to turn amber
+  around the edge of the pot. This takes about 20 minutes.
+* Gently stir the mixture until the color is uniformly amber. This takes about
+  5 minutes. Another indication that the mixture is done is that the syrup has
+  fewer bubbles at this point, and the bubbles are smaller. Reduce heat to
+  low.
+* This next step is exciting: slowly stir in the cream. As the cream heats,
+  the mixture will bubble and expand dramatically, so be prepared. You should
+  use an oven mitt that protects the arm doing the stirring. Continue to cook,
   stirring over low, until caramel is smooth. This takes about 2 minutes.
 * Add butter, one piece at a time, whisking constantly until butter is melted
   and incorporated.
 * Remove caramel from heat. Stir in vanilla and salt. Serve warm, or let it
   cool. Store in airtight containers.
 
+> Note: if you try to double this recipe, you'll need a really large pot, due
+> to the expansion of the mixture when adding the cream.
+
 
 # Beverages
+
 ## Margaritas
 
 Makes about 1 quart (serves 4-6).
@@ -2336,10 +2348,10 @@ Makes about 1 quart (serves 4-6).
 > pinch salt  
 > 2 cups crushed ice  
 > 1 cup 100 percent agave tequila, preferably reposado  
-> 1 cup Triple Sec  
+> 1 cup triple sec  
 
 1. Combine the lime zest and juice, the lemon zest and juice, sugar and salt
-   in a large liquid measuring cup.  Cover with plastic wrap and refrigerate
+   in a large liquid measuring cup. Cover with plastic wrap and refrigerate
    until flavors meld, 4 to 24 hours.
 2. Divide 1 cup crushed ice between 4-6 margarita or double old-fashioned
    glasses. Strain juice mixture into a 1-quart pitcher or cocktail shaker.
@@ -2347,28 +2359,26 @@ Makes about 1 quart (serves 4-6).
    combined and chilled – 20-60 seconds. Strain into ice-filled glasses and
    serve immediately.
 
-### Variations
-
-#### Fresh Pineapple Margaritas
+### Fresh Pineapple Margaritas
 
 > ½ cored and peeled pineapple (about 1 ¾ pounds)
 
-Puree pineapple in food processor or blender until smooth and foamy.  Follow
+Puree pineapple in food processor or blender until smooth and foamy. Follow
 above recipe except omit zest and steeping process, reduce lemon and lime
 juices to ¼ cup each and add ½ cup pineapple juice to juice mixture.
 
-#### Fresh Raspberry or Strawberry Margarita
+### Fresh Berry Margarita
 
-Follow recipe above except omit zest and steeping process.  Puree 1 cup of
+Follow recipe above except omit zest and steeping process. Puree 1 cup of
 raspberries or strawberries with the lemon and lime juices, sugar and salt in
-a food processor or blender.  Strain juice mixture into a pitcher or cocktail
+a food processor or blender. Strain juice mixture into a pitcher or cocktail
 shaker. Continue with recipe but reduce Triple Sec to ½ cup and add ½ cup
 Chambord to juice and tequila mixture.
 
-*Note:*  The longer the zest and the juice mixture are allowed to steep, the
-more developed the citrus flavors in the finished margaritas.  We recommend
+*Note:* The longer the zest and the juice mixture are allowed to steep, the
+more developed the citrus flavors in the finished margaritas. We recommend
 steeping the full 24 hours, although the margaritas wills till be great if the
-mixture is steeped for only the minimum of 4 hours.  If you are in a rush and
+mixture is steeped for only the minimum of 4 hours. If you are in a rush and
 want to serve the margaritas immediately, omit the zest and skip the steeping
 process altogether. 
 
@@ -2392,7 +2402,7 @@ simple syrup among 4 ice-filled glasses. Top with chilled seltzer.
   
 ## Summer Flavored Waters
 
-Source: Better Homes and Gardens, May 2005.  Makes 8 (8-ounce) servings.
+Source: Better Homes and Gardens, May 2005. Makes 8 (8-ounce) servings.
 
 > 2 to 3 slices ripe honeydew melon  
 > 1 lime, sliced ¼-inch thick  
