@@ -95,6 +95,7 @@
 <!-- tocstop -->
 
 # Appetizers/Starters
+
 ## Smoky Chipotle Hummus with Garlic Bagel Chips
 
 Bon Appétit, October 2001.  Makes 20 servings.
@@ -144,9 +145,6 @@ until garlic skins are golden brown and cloves are tender, about 55 minutes.
 Cool. Squeeze garlic cloves from skins.
  
 * Also great mixed into mashed potatoes.
-
-
-
 
 
 
@@ -213,6 +211,7 @@ roasted garlic; top with goat cheese and chutney.
 
 
 # Soups
+
 ## Spicy Garbanzo Bean and Turkey Sausage Soup
 
 Bon Appétit, March 1995.  Serves 6.
@@ -822,6 +821,7 @@ and refrigerate.) Gently stir in avocado and serve.
 > sticks, then twist the knife to loosen and remove the pit.
 
 
+
 ## Carrot and Apple Slaw
 
 Bon Appétit, October 1991, by Charleen Borger (Fremont, California).  Serves 4.
@@ -835,6 +835,7 @@ Bon Appétit, October 1991, by Charleen Borger (Fremont, California).  Serves 4.
 
 Whisk lemon juice and jelly in large bowl to blend. Add carrots, apple, cashews and
 raisins. Season to taste with salt and pepper. Toss thoroughly.
+
 
  
 ## Salsa Verde
@@ -914,6 +915,7 @@ Bon Appétit, January 2006.  Makes 4 servings.
   with salt and pepper.  
 
 
+
 ## Szechuan Noodles with Peanut Sauce
 
 Bon Appétit, August 1999, from Zygot Bookworks & Cafe.  Serves 6 as a main
@@ -955,6 +957,7 @@ additional broth if necessary.
 
 > Udon is available at Asian markets and in the Asian foods section of many
 > supermarkets.
+
 
  
 ## Wheat Berry and Barley Salad with Smoked Mozzarella
@@ -1012,6 +1015,7 @@ Lightly mix carrots, walnuts, chives and dressing.  Cover and refrigerate 1 to
 3 hours to meld flavors.   
 
 
+
 ## Southwestern Smoked Turkey and Pasta Salads
 
 Adapted from Bon Appetit, Smoked Turkey and Rice Salad, August 1991. 
@@ -1041,8 +1045,6 @@ tomatoes, green bell pepper, corn, beans and onion to pasta.
 Whisk together olive oil, cilantro, vinegar, mustard, chili, cumin, salt and
 pepper.  Pour dressing over salad and mix gently.  Can be prepared 3 hours
 ahead.  Cover and refrigerate.
-
-
 
 
 
@@ -1106,7 +1108,6 @@ Toss kale and ricotta salata in a large bowl with enough dressing to coat well,
 then season with salt and pepper.
 
 
-
  
 ## Roasted Carrots and Parsnips with White Balsamic
 
@@ -1144,7 +1145,7 @@ Can be made 1 day ahead.  Cool. Cover and chill. Let stand at room temperature
 
 Serves 6.
 
-### Creamy sesame dressing
+**Creamy sesame dressing:**
 
 > 1¼ c. mayonnaise (the kind made with olive oil)  
 > ¼ c. soy sauce  
@@ -1153,9 +1154,9 @@ Serves 6.
 > ¼ c. sesame oil  
 > ¼ tsp. black pepper  
 
-Combine all ingredients. Makes enough for two salads.
+Combine all ingredients. Makes enough dressing for two salads.
 
-### Salad
+**Salad:**
 
 > 8 oz. fusilli pasta  
 > 2 c. cubed cooked chicken  
@@ -1211,8 +1212,47 @@ www.tienda.com.  Substitute another thinly sliced ham if needed.
 
 
 
+## Holiday Brussels Sprouts Salad
+
+Source: [realsimple.com](https://www.realsimple.com/food-recipes/browse-all-recipes/make-ahead-holiday-salad),
+attributed to By Ananda Eidelstein, November 2018
+
+> "Both kale and Brussels sprouts stand up to the test of time and hold
+> dressing well for much longer than the standard salad can, making this
+> make-ahead salad, the smartest item on your holiday menu."
+
+Makes 8 servings. Prep time: about 30 minutes.
+
+> 1 cup hazelnuts  
+> ¼ cup white balsamic or white wine vinegar  
+> 2 tablespoons honey  
+> 1¼ teaspoon kosher salt  
+> 1 teaspoon Dijon mustard  
+> ¼ teaspoon freshly ground black pepper
+> ½ cup olive oil  
+> 1 large bunch red kale, ribs removed, leaves torn into bite-size pieces (about 10 cups)  
+> 1 pound Brussels sprouts, trimmed and shredded in a food processor (about 6 cups)  
+> 1 cup pomegranate seeds  
+> 2 cups butter and herb croutons  
+
+Roast hazelnuts for 8-12 minutes in a 350°F oven. Nuts should be in a single
+layer on a rimmed baking sheet. Remove when golden brown and fragrant, let
+cool, then rub hazelnuts between your fingers to loosen skins. Discard skins.
+Roughly chop hazelnuts.
+
+Whisk vinegar, honey, salt, mustard, and pepper in a medium bowl. Slowly whisk
+in oil. Toss kale and Brussels sprouts with ¼ cup dressing in a large bowl.
+Using your hands, massage dressing into kale mixture until leaves are slightly
+softened and shiny, about 2 minutes. Let stand for 10 minutes. Add pomegranate
+seeds and remaining dressing and toss to combine. Serve immediately or
+refrigerate overnight.
+
+Just before serving, add croutons and hazelnuts and toss to combine.
+
+
  
 # Breakfast Dishes
+
 ## Café Beaujolais Yogurt Pancakes
 
 > 1½ c. whole wheat white flour  
