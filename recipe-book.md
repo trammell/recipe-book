@@ -2,7 +2,7 @@
 
 # Susan's Cookbook
 
-**version 0.2, January 2019**
+**version 0.3, July 2019**
 
 <!-- toc -->
 
