@@ -44,9 +44,8 @@
   * [Lacinato Kale and Ricotta Salata Salad](#lacinato-kale-and-ricotta-salata-salad)
   * [Roasted Carrots and Parsnips with White Balsamic](#roasted-carrots-and-parsnips-with-white-balsamic)
   * [Susan's Asian Chicken Pasta Salad](#susans-asian-chicken-pasta-salad)
-    + [Creamy sesame dressing](#creamy-sesame-dressing)
-    + [Salad](#salad)
   * [Cauliflower Wedges with Lemon Dressing](#cauliflower-wedges-with-lemon-dressing)
+  * [Holiday Brussels Sprouts Salad](#holiday-brussels-sprouts-salad)
 - [Breakfast Dishes](#breakfast-dishes)
   * [Café Beaujolais Yogurt Pancakes](#cafe-beaujolais-yogurt-pancakes)
   * [Raspberry Corn Muffins](#raspberry-corn-muffins)
@@ -60,6 +59,7 @@
   * [Pork Tenderloin with Herbed Breadcrumb Crust](#pork-tenderloin-with-herbed-breadcrumb-crust)
   * [Baked Chicken Meatballs with Peperonata](#baked-chicken-meatballs-with-peperonata)
   * [Byerly's Italian Beef Burgers](#byerlys-italian-beef-burgers)
+  * [Korean Beef "Noodle" Bowl](#korean-beef-noodle-bowl)
 - [Poultry Main Dishes](#poultry-main-dishes)
   * [Orange-Rosemary Chicken](#orange-rosemary-chicken)
   * [Grilled Chicken Moroccan Style](#grilled-chicken-moroccan-style)
@@ -68,8 +68,6 @@
   * [Chicken Burgers](#chicken-burgers)
   * [Coleslaw for Chicken Burgers](#coleslaw-for-chicken-burgers)
   * [Mexican Chicken Burgers with Lime Cilantro Mayo](#mexican-chicken-burgers-with-lime-cilantro-mayo)
-    + [Chicken burgers](#chicken-burgers)
-    + [Lime mayonnaise](#lime-mayonnaise)
 - [Other Main Dishes](#other-main-dishes)
   * [Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper](#phyllo-wrapped-salmon-with-leeks-and-red-bell-pepper)
   * [Salmon with Spinach and Chickpeas](#salmon-with-spinach-and-chickpeas)
@@ -87,8 +85,6 @@
   * [Vanilla sea salt caramel sauce](#vanilla-sea-salt-caramel-sauce)
 - [Beverages](#beverages)
   * [Margaritas](#margaritas)
-    + [Fresh Pineapple Margaritas](#fresh-pineapple-margaritas)
-    + [Fresh Berry Margarita](#fresh-berry-margarita)
   * [Green Tea / Cranberry Spritzer](#green-tea--cranberry-spritzer)
   * [Summer Flavored Waters](#summer-flavored-waters)
 
@@ -1872,7 +1868,7 @@ Mix all ingredients together.  Grill on a griddle sprayed lightly with oil.
 
 ## Mexican Chicken Burgers with Lime Cilantro Mayo
 
-### Chicken burgers
+**Chicken burgers**
 
 > 1 lb ground pork  
 > ½ lb ground chicken  
@@ -1893,7 +1889,7 @@ into 6-8 patties.
 Grill 3-4 minutes on each side.  Mound cheese on each patty, cover, and cook
 until cheese melts.  (Note: the burgers are good without the cheese.)
 
-### Lime mayonnaise
+**Lime cilantro mayonnaise**
 
 > ½ c. mayo (the kind made with olive oil)  
 > 1 T lime juice  
@@ -2396,16 +2392,17 @@ Makes about 1 quart (serves 4-6).
 > 1 cup 100 percent agave tequila, preferably reposado  
 > 1 cup triple sec  
 
-1. Combine the lime zest and juice, the lemon zest and juice, sugar and salt
-   in a large liquid measuring cup. Cover with plastic wrap and refrigerate
-   until flavors meld, 4 to 24 hours.
-2. Divide 1 cup crushed ice between 4-6 margarita or double old-fashioned
-   glasses. Strain juice mixture into a 1-quart pitcher or cocktail shaker.
-   Add tequila, Triple Sec and remaining ice. Stir or shake until thoroughly
-   combined and chilled – 20-60 seconds. Strain into ice-filled glasses and
-   serve immediately.
+Combine the lime zest and juice, the lemon zest and juice, sugar and salt in a
+large liquid measuring cup. Cover with plastic wrap and refrigerate until
+flavors meld, 4 to 24 hours.
 
-### Fresh Pineapple Margaritas
+Divide 1 cup crushed ice between 4-6 margarita or double old-fashioned
+glasses. Strain juice mixture into a 1-quart pitcher or cocktail shaker.  Add
+tequila, Triple Sec and remaining ice. Stir or shake until thoroughly combined
+and chilled – 20-60 seconds. Strain into ice-filled glasses and serve
+immediately.
+
+**Fresh Pineapple Margaritas**
 
 > ½ cored and peeled pineapple (about 1 ¾ pounds)
 
@@ -2413,7 +2410,7 @@ Puree pineapple in food processor or blender until smooth and foamy. Follow
 above recipe except omit zest and steeping process, reduce lemon and lime
 juices to ¼ cup each and add ½ cup pineapple juice to juice mixture.
 
-### Fresh Berry Margarita
+**Fresh Berry Margarita**
 
 Follow recipe above except omit zest and steeping process. Puree 1 cup of
 raspberries or strawberries with the lemon and lime juices, sugar and salt in
