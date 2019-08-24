@@ -2182,6 +2182,10 @@ briefly under the water. Grab handfuls of the leaves to lift them out of the
 water.  The sand or grit will sink to the bottom. Repeat once or twice to
 ensure that the leaves are completely clean and grit-free. 
 
+This recipe is friendly to substitution, consider trying other greens such as
+radish, carrot, or arugula.
+
+
 
 ## Bianca Conti-Tronconi's Basil Pesto
 
