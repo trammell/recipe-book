@@ -1902,6 +1902,7 @@ toasted buns and finish with burger and accompaniments.
 
 
 # Other Main Dishes
+
 ## Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper
 
 Bon Appétit, October 1997. Ristorante Araxi, Whistler, British Columbia. Serves
@@ -2127,10 +2128,10 @@ Serves 6.
 > 2 tablespoons tomato paste  
 > 8 ounces fresh spinach leaves, well rinsed and coarsely chopped  
 > 8 ounces fresh mustard greens, well rinsed and finely chopped (see Notes)  
-> 1½ teaspoons coarse kosher or sea salt  
-> ½  pound Doodh Paneer, cut into 1-inch cubes and pan-fried  (see Notes)  
+> ½ pound fried paneer, in 1-inch cubes (see Notes)  
 > ½ cup heavy cream or half and half  
 > 1 teaspoon Garam Masala (see Notes)  
+> salt to taste  
 
 1. Heat the oil in a large skillet over medium heat. Add the onion, garlic,
    and ginger, and stir-fry until the onion is light brown, 8 to 10 minutes.
@@ -2147,9 +2148,9 @@ Serves 6.
    remaining greens. Once they are all wilted, cover the skillet and cook,
    stirring occasionally, until the greens are broken down to a sauce-like
    consistency and are olive green in color, 10 to 15 minutes.
-4. Stir in the salt, paneer cubes, cream, and Punjabi garam masala. Continue
-   simmering the curry, covered, stirring occasionally, until the cheese and
-   cream are warmed through, 5 to 8 minutes. Then serve.
+4. Stir in the paneer, cream, and Punjabi garam masala. Add salt to taste.
+   Continue simmering the curry, covered, stirring occasionally, until the
+   cheese and cream are warmed through, 5 to 8 minutes. Serve warm over rice.
 
 * The original recipe can be found at <http://www.cookstr.com/recipes/spinach-and-mustard-greens-with-cheese>.
 * I just use plain garam masala (and in different quantities than the original
@@ -2165,6 +2166,8 @@ Serves 6.
 * The original recipe calls for 1¼ lbs. doodh paneer.  I cut this down
   substantially and often times I either buy it pre-fried or just use it
   without frying it.
+* The original recipe calls for 1½ teaspoons coarse kosher or sea salt, this
+  is too salty for our taste.
 
 **How to Prepare Mustard Greens:**
 
