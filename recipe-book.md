@@ -2189,21 +2189,24 @@ radish, carrot, or arugula.
 
 ## Bianca Conti-Tronconi's Basil Pesto
 
-Wash and dry basil.  Medium pack into a food processor.  Add a pinch of salt
-(to keep from turning black).  Add virgin olive oil.  Start with ½ c. and may
-need to add up to 1 ½ c.  Cream in food processor until stiff.
+Makes about 2 cups of pesto.
 
-If freezing.  Freeze in containers with a thin film of olive oil.
+> 4 cups basil leaves, washed and dried  
+> a pinch of salt  
+> ¼ cup virgin olive oil (see below)  
+> ¼ cup pine nuts  
+> ¼ cup grated parmesan  
+> 1 clove garlic, peeled and pressed  
 
-Thaw.  Add salt as needed, 1 clove crushed garlic, ½ c. grated parmesan cheese
-and ¼ c. chopped pine nuts.  Blend in food processor.  Add 2 Tb. whole pine
-nuts.
+Gently pack basil into a food processor. Add a pinch of salt to keep the basil
+from turning black.  Add olive oil, pine nuts, parmesan, and garlic. Cream in
+food processor until stiff.
 
-Makes 2 cups.
-
-¼ c. = 4 servings.
-
- 
+* You may need to add more ingredients (usually olive oil or parmesan) to get
+  the desired texture and flavor. Experiment!
+* You may prefer the taste of roasted pine nuts. You do you!
+* Pesto stores well in the freezer. Freeze in an airtight container with a thin
+  layer of olive oil on top of the pesto to prevent freezer burn.
 
 
 ## Portobello Risotto
