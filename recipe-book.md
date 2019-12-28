@@ -208,6 +208,31 @@ roasted garlic; top with goat cheese and chutney.
 
 # Soups
 
+## Carrot Soup with Thyme and Fennel
+
+Bon Appétit, March 1999.  Serves 4.
+
+> 1/4 cup (1/2 stick) butter  
+> 4 medium carrots, peeled and chopped  
+> 3/4 cup chopped onion  
+> 3/4 cup chopped look (white and pale green parts only)  
+> 2 garlic cloves, chopped  
+> 1/2 teaspoon chopped fresh thyme  
+> additional chopped fresh thyme (for garnish)  
+> 1/4 teaspoon fennel seeds  
+> 5 cups (or more) canned low-salt chicken broth  
+
+Melt 1/4 cup butter in large saucepan over medium-low heat. Add carrots, onion,
+leek, garlic, thyme, and fennel seeds. Stir to coat. Cover and cook until onion
+is translucent, stirring occastionally, about 15 minutes.
+
+Add 5 cups broth. Bring to simmer. Cover partially, simmer until carrots are
+very tender, stirring occasionally, about 40 minutes. Cool slightly. Working in
+batches. purée soup in blender. Return to pan. Thin soup to desired consistency
+with more broth. Season soup with salt and pepper. Garnish with fresh chopped
+thyme.
+
+
 ## Spicy Garbanzo Bean and Turkey Sausage Soup
 
 Bon Appétit, March 1995.  Serves 6.
@@ -243,7 +268,7 @@ refrigerate. Rewarm over medium heat before continuing.)
 
 Ladle soup into bowls. Sprinkle soup with chopped fresh cilantro and top with
 sliced avocado. Serve immediately.
- 
+
 
 
 ## Easy Split Pea Soup
@@ -270,7 +295,7 @@ Transfer hocks to bowl. Puree 5 cups soup in batches in blender. Return to pot.
 Cut pork off bones. Dice pork; return pork to soup. Season with salt and
 pepper. (Can be made 1 day ahead. Refrigerate until cold, then cover. Rewarm
 before serving.)
- 
+
 
 
 ## Tortilla Soup with Chicken and Lime
