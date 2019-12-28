@@ -215,7 +215,7 @@ Bon Appétit, March 1999.  Serves 4.
 > 1/4 cup (1/2 stick) butter  
 > 4 medium carrots, peeled and chopped  
 > 3/4 cup chopped onion  
-> 3/4 cup chopped look (white and pale green parts only)  
+> 3/4 cup chopped leek (white and pale green parts only)  
 > 2 garlic cloves, chopped  
 > 1/2 teaspoon chopped fresh thyme  
 > additional chopped fresh thyme (for garnish)  
@@ -231,6 +231,9 @@ very tender, stirring occasionally, about 40 minutes. Cool slightly. Working in
 batches. purée soup in blender. Return to pan. Thin soup to desired consistency
 with more broth. Season soup with salt and pepper. Garnish with fresh chopped
 thyme.
+
+> 4 medium carrots weigh about 1 pound.  
+> 1 large leek makes about 1 cup, chopped.
 
 
 ## Spicy Garbanzo Bean and Turkey Sausage Soup
