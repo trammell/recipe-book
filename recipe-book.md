@@ -2,29 +2,31 @@
 
 # Susan's Cookbook
 
-**version 0.3, July 2019**
+**version 0.4, December 2019**
 
 <!-- toc -->
 
-- [Appetizers/Starters](#appetizersstarters)
+* [Susan's Cookbook](#susans-cookbook)
+* [Appetizers/Starters](#appetizersstarters)
   * [Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
   * [Roasted Garlic](#roasted-garlic)
   * [Susan's Guacamole](#susans-guacamole)
   * [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
-- [Soups](#soups)
+* [Soups](#soups)
+  * [Carrot Soup with Thyme and Fennel](#carrot-soup-with-thyme-and-fennel)
   * [Spicy Garbanzo Bean and Turkey Sausage Soup](#spicy-garbanzo-bean-and-turkey-sausage-soup)
   * [Easy Split Pea Soup](#easy-split-pea-soup)
   * [Tortilla Soup with Chicken and Lime](#tortilla-soup-with-chicken-and-lime)
   * [Lentil Soup with Smoked Ham](#lentil-soup-with-smoked-ham)
   * [Hot and Sour Soup](#hot-and-sour-soup)
-  * [Adeline's "Round Meat Soup" _aka._ Sausage and Bean Soup](#adelines-round-meat-soup-_aka_-sausage-and-bean-soup)
+  * [Adeline's "Round Meat Soup" <em>aka\.</em> Sausage and Bean Soup](#adelines-round-meat-soup-aka-sausage-and-bean-soup)
   * [Louisiana Red Beans and Rice](#louisiana-red-beans-and-rice)
   * [Creamy Tomato Soup](#creamy-tomato-soup)
   * [White Turkey Chili](#white-turkey-chili)
   * [Country Captain Soup](#country-captain-soup)
-- [Sides and Salads](#sides-and-salads)
+* [Sides and Salads](#sides-and-salads)
   * [Cabbage and Corn Slaw with Cilantro and Orange Dressing](#cabbage-and-corn-slaw-with-cilantro-and-orange-dressing)
-  * [Sweet-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
+  * [Sweet\-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
   * [Kohlrabi and Apple Salad with Creamy Mustard Dressing](#kohlrabi-and-apple-salad-with-creamy-mustard-dressing)
   * [Beet and Carrot Pancakes](#beet-and-carrot-pancakes)
   * [Black Bean and Tomato Quinoa](#black-bean-and-tomato-quinoa)
@@ -46,44 +48,44 @@
   * [Susan's Asian Chicken Pasta Salad](#susans-asian-chicken-pasta-salad)
   * [Cauliflower Wedges with Lemon Dressing](#cauliflower-wedges-with-lemon-dressing)
   * [Holiday Brussels Sprouts Salad](#holiday-brussels-sprouts-salad)
-- [Breakfast Dishes](#breakfast-dishes)
-  * [Café Beaujolais Yogurt Pancakes](#cafe-beaujolais-yogurt-pancakes)
+* [Breakfast Dishes](#breakfast-dishes)
+  * [Café Beaujolais Yogurt Pancakes](#caf%C3%A9-beaujolais-yogurt-pancakes)
   * [Raspberry Corn Muffins](#raspberry-corn-muffins)
   * [Adeline's Favorite Muffins](#adelines-favorite-muffins)
   * [Amanda Trammell's Spinach and Bacon Quiche](#amanda-trammells-spinach-and-bacon-quiche)
   * [Buttermilk Syrup](#buttermilk-syrup)
-- [Meat Main Dishes](#meat-main-dishes)
+* [Meat Main Dishes](#meat-main-dishes)
   * [Fragrant Beef Curry with Rice](#fragrant-beef-curry-with-rice)
-  * [Slow-Cooked Carnitas Tacos](#slow-cooked-carnitas-tacos)
+  * [Slow\-Cooked Carnitas Tacos](#slow-cooked-carnitas-tacos)
   * [Barbecued Pork Burgers with Slaw](#barbecued-pork-burgers-with-slaw)
   * [Pork Tenderloin with Herbed Breadcrumb Crust](#pork-tenderloin-with-herbed-breadcrumb-crust)
   * [Baked Chicken Meatballs with Peperonata](#baked-chicken-meatballs-with-peperonata)
   * [Byerly's Italian Beef Burgers](#byerlys-italian-beef-burgers)
   * [Korean Beef "Noodle" Bowl](#korean-beef-noodle-bowl)
-- [Poultry Main Dishes](#poultry-main-dishes)
-  * [Orange-Rosemary Chicken](#orange-rosemary-chicken)
+* [Poultry Main Dishes](#poultry-main-dishes)
+  * [Orange\-Rosemary Chicken](#orange-rosemary-chicken)
   * [Grilled Chicken Moroccan Style](#grilled-chicken-moroccan-style)
   * [Moroccan Chicken](#moroccan-chicken)
   * [Chicken Mole with Chipotles](#chicken-mole-with-chipotles)
   * [Chicken Burgers](#chicken-burgers)
   * [Coleslaw for Chicken Burgers](#coleslaw-for-chicken-burgers)
   * [Mexican Chicken Burgers with Lime Cilantro Mayo](#mexican-chicken-burgers-with-lime-cilantro-mayo)
-- [Other Main Dishes](#other-main-dishes)
-  * [Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper](#phyllo-wrapped-salmon-with-leeks-and-red-bell-pepper)
+* [Other Main Dishes](#other-main-dishes)
+  * [Phyllo\-Wrapped Salmon with Leeks and Red Bell Pepper](#phyllo-wrapped-salmon-with-leeks-and-red-bell-pepper)
   * [Salmon with Spinach and Chickpeas](#salmon-with-spinach-and-chickpeas)
   * [Butternut Squash Curry with Tilapia](#butternut-squash-curry-with-tilapia)
   * [Cheesy Baked Penne with Cauliflower](#cheesy-baked-penne-with-cauliflower)
   * [Charred Chili Relleno with Green Rice](#charred-chili-relleno-with-green-rice)
   * [Susan's Spinach and Cheese Curry](#susans-spinach-and-cheese-curry)
-  * [Bianca Conti-Tronconi's Basil Pesto](#bianca-conti-tronconis-basil-pesto)
+  * [Bianca Conti\-Tronconi's Basil Pesto](#bianca-conti-tronconis-basil-pesto)
   * [Portobello Risotto](#portobello-risotto)
-- [Desserts](#desserts)
+* [Desserts](#desserts)
   * [Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
   * [Amanda Trammell's Raspberry Trifle](#amanda-trammells-raspberry-trifle)
   * [Petits Pains au Chocolat](#petits-pains-au-chocolat)
   * [Hot Fudge Sauce](#hot-fudge-sauce)
   * [Vanilla sea salt caramel sauce](#vanilla-sea-salt-caramel-sauce)
-- [Beverages](#beverages)
+* [Beverages](#beverages)
   * [Margaritas](#margaritas)
   * [Green Tea / Cranberry Spritzer](#green-tea--cranberry-spritzer)
   * [Summer Flavored Waters](#summer-flavored-waters)
@@ -208,6 +210,34 @@ roasted garlic; top with goat cheese and chutney.
 
 # Soups
 
+## Carrot Soup with Thyme and Fennel
+
+Bon Appétit, March 1999.  Serves 4.
+
+> 1/4 cup (1/2 stick) butter  
+> 4 medium carrots, peeled and chopped  
+> 3/4 cup chopped onion  
+> 3/4 cup chopped leek (white and pale green parts only)  
+> 2 garlic cloves, chopped  
+> 1/2 teaspoon chopped fresh thyme  
+> additional chopped fresh thyme (for garnish)  
+> 1/4 teaspoon fennel seeds  
+> 5 cups (or more) canned low-salt chicken broth  
+
+Melt 1/4 cup butter in large saucepan over medium-low heat. Add carrots, onion,
+leek, garlic, thyme, and fennel seeds. Stir to coat. Cover and cook until onion
+is translucent, stirring occastionally, about 15 minutes.
+
+Add 5 cups broth. Bring to simmer. Cover partially, simmer until carrots are
+very tender, stirring occasionally, about 40 minutes. Cool slightly. Working in
+batches. purée soup in blender. Return to pan. Thin soup to desired consistency
+with more broth. Season soup with salt and pepper. Garnish with fresh chopped
+thyme.
+
+> 4 medium carrots weigh about 1 pound.  
+> 1 large leek makes about 1 cup, chopped.
+
+
 ## Spicy Garbanzo Bean and Turkey Sausage Soup
 
 Bon Appétit, March 1995.  Serves 6.
@@ -243,7 +273,7 @@ refrigerate. Rewarm over medium heat before continuing.)
 
 Ladle soup into bowls. Sprinkle soup with chopped fresh cilantro and top with
 sliced avocado. Serve immediately.
- 
+
 
 
 ## Easy Split Pea Soup
@@ -270,7 +300,7 @@ Transfer hocks to bowl. Puree 5 cups soup in batches in blender. Return to pot.
 Cut pork off bones. Dice pork; return pork to soup. Season with salt and
 pepper. (Can be made 1 day ahead. Refrigerate until cold, then cover. Rewarm
 before serving.)
- 
+
 
 
 ## Tortilla Soup with Chicken and Lime
