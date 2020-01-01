@@ -6,13 +6,13 @@
 
 <!-- toc -->
 
-* [Susan's Cookbook](#susans-cookbook)
 * [Appetizers/Starters](#appetizersstarters)
   * [Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
   * [Roasted Garlic](#roasted-garlic)
   * [Susan's Guacamole](#susans-guacamole)
   * [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
 * [Soups](#soups)
+  * [Slow cooker black bean posole](#slow-cooker-black-bean-posole)
   * [Carrot Soup with Thyme and Fennel](#carrot-soup-with-thyme-and-fennel)
   * [Spicy Garbanzo Bean and Turkey Sausage Soup](#spicy-garbanzo-bean-and-turkey-sausage-soup)
   * [Easy Split Pea Soup](#easy-split-pea-soup)
