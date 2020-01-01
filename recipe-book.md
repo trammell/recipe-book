@@ -6,13 +6,13 @@
 
 <!-- toc -->
 
-* [Susan's Cookbook](#susans-cookbook)
 * [Appetizers/Starters](#appetizersstarters)
   * [Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
   * [Roasted Garlic](#roasted-garlic)
   * [Susan's Guacamole](#susans-guacamole)
   * [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
 * [Soups](#soups)
+  * [Slow cooker black bean posole](#slow-cooker-black-bean-posole)
   * [Carrot Soup with Thyme and Fennel](#carrot-soup-with-thyme-and-fennel)
   * [Spicy Garbanzo Bean and Turkey Sausage Soup](#spicy-garbanzo-bean-and-turkey-sausage-soup)
   * [Easy Split Pea Soup](#easy-split-pea-soup)
@@ -209,6 +209,33 @@ roasted garlic; top with goat cheese and chutney.
 
 
 # Soups
+
+## Slow cooker black bean posole
+
+*Real Simple*, December 2018. Prep time: 15 minutes. Cook time: 5 hours. Serves 8.
+
+> 8 cups low-sodium vegetable broth  
+> 3 poblano chiles, chopped  
+> 1 onion, chopped  
+> 8 cloves garlic, chopped  
+> 1/4 cup olive oil  
+> 2 Tbsp chili powder  
+> 1 Tbsp tomato paste  
+> 1 tsp dried oregano  
+> 1 pound dried black beans  
+> 1 28-ounce can golden or white hominy, drained  
+> 1/4 cup fresh lime juice (about 2 limes' worth)  
+> 1 1/2 tsp kosher salt  
+> 1/8 tsp cayenne  
+> cilantro, sour cream, sliced avocado, sliced radishes for garnish  
+
+Combine broth, poblanos, onion, garlic, oil, chili powder, tomato paste,
+oregano, and beans in a 6-quart slow cooker on high. Cook until beans are
+tender, about 5 hours. Stir in hominy, lime juice, salt, and cayenne. Serve in
+bowls topped with cilantro, sour cream, avocado, and radishes.
+
+Freezes well.
+
 
 ## Carrot Soup with Thyme and Fennel
 
