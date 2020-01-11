@@ -6,12 +6,12 @@
 
 <!-- toc -->
 
-* [Appetizers/Starters](#appetizersstarters)
+- [Appetizers/Starters](#appetizersstarters)
   * [Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
   * [Roasted Garlic](#roasted-garlic)
   * [Susan's Guacamole](#susans-guacamole)
   * [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
-* [Soups](#soups)
+- [Soups](#soups)
   * [Slow cooker black bean posole](#slow-cooker-black-bean-posole)
   * [Carrot Soup with Thyme and Fennel](#carrot-soup-with-thyme-and-fennel)
   * [Spicy Garbanzo Bean and Turkey Sausage Soup](#spicy-garbanzo-bean-and-turkey-sausage-soup)
@@ -19,14 +19,14 @@
   * [Tortilla Soup with Chicken and Lime](#tortilla-soup-with-chicken-and-lime)
   * [Lentil Soup with Smoked Ham](#lentil-soup-with-smoked-ham)
   * [Hot and Sour Soup](#hot-and-sour-soup)
-  * [Adeline's "Round Meat Soup" <em>aka\.</em> Sausage and Bean Soup](#adelines-round-meat-soup-aka-sausage-and-bean-soup)
+  * [Adeline's "Round Meat Soup" _aka._ Sausage and Bean Soup](#adelines-round-meat-soup-_aka_-sausage-and-bean-soup)
   * [Louisiana Red Beans and Rice](#louisiana-red-beans-and-rice)
   * [Creamy Tomato Soup](#creamy-tomato-soup)
   * [White Turkey Chili](#white-turkey-chili)
   * [Country Captain Soup](#country-captain-soup)
-* [Sides and Salads](#sides-and-salads)
+- [Sides and Salads](#sides-and-salads)
   * [Cabbage and Corn Slaw with Cilantro and Orange Dressing](#cabbage-and-corn-slaw-with-cilantro-and-orange-dressing)
-  * [Sweet\-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
+  * [Sweet-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
   * [Kohlrabi and Apple Salad with Creamy Mustard Dressing](#kohlrabi-and-apple-salad-with-creamy-mustard-dressing)
   * [Beet and Carrot Pancakes](#beet-and-carrot-pancakes)
   * [Black Bean and Tomato Quinoa](#black-bean-and-tomato-quinoa)
@@ -48,44 +48,45 @@
   * [Susan's Asian Chicken Pasta Salad](#susans-asian-chicken-pasta-salad)
   * [Cauliflower Wedges with Lemon Dressing](#cauliflower-wedges-with-lemon-dressing)
   * [Holiday Brussels Sprouts Salad](#holiday-brussels-sprouts-salad)
-* [Breakfast Dishes](#breakfast-dishes)
-  * [Café Beaujolais Yogurt Pancakes](#caf%C3%A9-beaujolais-yogurt-pancakes)
+  * [Sopa Paraguaya](#sopa-paraguaya)
+- [Breakfast Dishes](#breakfast-dishes)
+  * [Café Beaujolais Yogurt Pancakes](#cafe-beaujolais-yogurt-pancakes)
   * [Raspberry Corn Muffins](#raspberry-corn-muffins)
   * [Adeline's Favorite Muffins](#adelines-favorite-muffins)
   * [Amanda Trammell's Spinach and Bacon Quiche](#amanda-trammells-spinach-and-bacon-quiche)
   * [Buttermilk Syrup](#buttermilk-syrup)
-* [Meat Main Dishes](#meat-main-dishes)
+- [Meat Main Dishes](#meat-main-dishes)
   * [Fragrant Beef Curry with Rice](#fragrant-beef-curry-with-rice)
-  * [Slow\-Cooked Carnitas Tacos](#slow-cooked-carnitas-tacos)
+  * [Slow-Cooked Carnitas Tacos](#slow-cooked-carnitas-tacos)
   * [Barbecued Pork Burgers with Slaw](#barbecued-pork-burgers-with-slaw)
   * [Pork Tenderloin with Herbed Breadcrumb Crust](#pork-tenderloin-with-herbed-breadcrumb-crust)
   * [Baked Chicken Meatballs with Peperonata](#baked-chicken-meatballs-with-peperonata)
   * [Byerly's Italian Beef Burgers](#byerlys-italian-beef-burgers)
   * [Korean Beef "Noodle" Bowl](#korean-beef-noodle-bowl)
-* [Poultry Main Dishes](#poultry-main-dishes)
-  * [Orange\-Rosemary Chicken](#orange-rosemary-chicken)
+- [Poultry Main Dishes](#poultry-main-dishes)
+  * [Orange-Rosemary Chicken](#orange-rosemary-chicken)
   * [Grilled Chicken Moroccan Style](#grilled-chicken-moroccan-style)
   * [Moroccan Chicken](#moroccan-chicken)
   * [Chicken Mole with Chipotles](#chicken-mole-with-chipotles)
   * [Chicken Burgers](#chicken-burgers)
   * [Coleslaw for Chicken Burgers](#coleslaw-for-chicken-burgers)
   * [Mexican Chicken Burgers with Lime Cilantro Mayo](#mexican-chicken-burgers-with-lime-cilantro-mayo)
-* [Other Main Dishes](#other-main-dishes)
-  * [Phyllo\-Wrapped Salmon with Leeks and Red Bell Pepper](#phyllo-wrapped-salmon-with-leeks-and-red-bell-pepper)
+- [Other Main Dishes](#other-main-dishes)
+  * [Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper](#phyllo-wrapped-salmon-with-leeks-and-red-bell-pepper)
   * [Salmon with Spinach and Chickpeas](#salmon-with-spinach-and-chickpeas)
   * [Butternut Squash Curry with Tilapia](#butternut-squash-curry-with-tilapia)
   * [Cheesy Baked Penne with Cauliflower](#cheesy-baked-penne-with-cauliflower)
   * [Charred Chili Relleno with Green Rice](#charred-chili-relleno-with-green-rice)
   * [Susan's Spinach and Cheese Curry](#susans-spinach-and-cheese-curry)
-  * [Bianca Conti\-Tronconi's Basil Pesto](#bianca-conti-tronconis-basil-pesto)
+  * [Bianca Conti-Tronconi's Basil Pesto](#bianca-conti-tronconis-basil-pesto)
   * [Portobello Risotto](#portobello-risotto)
-* [Desserts](#desserts)
+- [Desserts](#desserts)
   * [Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
   * [Amanda Trammell's Raspberry Trifle](#amanda-trammells-raspberry-trifle)
   * [Petits Pains au Chocolat](#petits-pains-au-chocolat)
   * [Hot Fudge Sauce](#hot-fudge-sauce)
   * [Vanilla sea salt caramel sauce](#vanilla-sea-salt-caramel-sauce)
-* [Beverages](#beverages)
+- [Beverages](#beverages)
   * [Margaritas](#margaritas)
   * [Green Tea / Cranberry Spritzer](#green-tea--cranberry-spritzer)
   * [Summer Flavored Waters](#summer-flavored-waters)
@@ -1301,6 +1302,59 @@ seeds and remaining dressing and toss to combine. Serve immediately or
 refrigerate overnight.
 
 Just before serving, add croutons and hazelnuts and toss to combine.
+
+
+## Sopa Paraguaya
+
+This recipe is from the King Arthur Flour website:
+https://www.kingarthurflour.com/recipes/sopa-paraguaya-recipe
+
+Prep time: 20 minutes  
+Bake time: 35-40 minutes  
+Total time: about 1 hour  
+Serves: 8-10 servings  
+
+> 1 Tbsp butter  
+> 1 Tbsp vegetable oil  
+> 1 cup diced onion   
+> 1/4 cup diced red bell pepper  
+> 1/4 cup diced red green pepper   
+> 1 1/2 cups cornmeal   
+> 1 cup milk   
+> 2 Tbsp sugar   
+> 1/2 cup cottage cheese   
+> 2 large eggs   
+> 1 tsp salt   
+> 1/2 tsp ground black pepper  
+> 2 tsp baking powder   
+> 1 1/2 cups fresh or frozen corn kernels   
+> 1 cup grated Monterey jack cheese  
+
+*Instructions*
+
+1. Preheat the oven to 375 °F. Grease a 9" x 9" pan that's at least 2" deep; a
+   shallow 2-quart casserole dish; or a 10" cast-iron skillet (at least 2" deep).
+2. In a medium skillet over medium heat, melt the butter and pour in the oil.
+   Add the onions and cook until translucent, stirring occasionally. If you're
+   going to bake in a 10" cast-iron skillet, go ahead and use it to sauté the
+   vegetables.
+3. Add the peppers and cook for 1 more minute. Remove from the heat and cool to
+   room temperature. If you're using the same skillet to bake the bread, remove
+   the vegetables. There's no need to wash the pan; just wipe out any stray bits
+   of stuck-on veggie.
+4. In a large bowl, combine the cornmeal and milk.
+5. Stir in the sugar, cottage cheese, eggs, salt, pepper, and baking powder.
+6. Stir in the corn kernels and cooled onion mixture.
+7. Stir in the cheese, and then transfer the batter to the prepared pan. If
+   you're using the same skillet in which you sautéed the vegetables, grease it
+   again, using non-stick vegetable oil pan spray or shortening.
+8. Bake for 40 to 45 minutes (in a 9" x 9" pan), or 30 to 35 minutes (in a 10"
+   cast-iron skillet), until the center feels set when lightly touched with your
+   finger, and the edges are beginning to brown.
+9. Remove from the oven, cut in squares or wedges, and serve warm.
+
+Possible substitutions include ricotta for cottage cheese and pepper jack
+cheese for monterey jack.
 
 
  
