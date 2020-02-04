@@ -28,7 +28,7 @@ jobs:
       run: |
         # Hard-code user configuration
         git config user.email "actions@github.com"
-        git config user.name "GitHub Actions
+        git config user.name "GitHub Actions"
         # Update origin with token
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
         # Checkout the branch so we can push back to it
