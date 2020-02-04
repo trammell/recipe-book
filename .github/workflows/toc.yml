@@ -9,5 +9,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: list files
+      run: ls -al
     - name: Update table of contents
       run: markdown-toc -i recipes.md
