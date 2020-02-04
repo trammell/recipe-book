@@ -11,5 +11,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: install TOC updater
       run: npm install --global markdown-toc
+    - name: list files
+      run: find .
     - name: Update table of contents
       run: markdown-toc -i recipe-book.md
