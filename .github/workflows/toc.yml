@@ -12,4 +12,4 @@ jobs:
     - name: list files
       run: ls -al
     - name: Update table of contents
-      run: markdown-toc -i recipes.md
+      run: markdown-toc -i recipe-book.md
