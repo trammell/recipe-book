@@ -12,6 +12,6 @@ jobs:
     - name: install TOC updater
       run: npm install --save-prod --global-style markdown-toc
     - name: list files
-      run: pwd && find .
+      run: pwd && find . && ls -l ./node_modules/.bin/
     - name: Update table of contents
-      run: markdown-toc -i recipe-book.md
+      run: ./node_modules/.bin/markdown-toc -i recipe-book.md
