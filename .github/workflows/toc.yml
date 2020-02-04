@@ -10,8 +10,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: install TOC updater
-      run: npm install --save markdown-toc
+      run: npm install --save-prod --global-style markdown-toc
     - name: list files
-      run: find .
+      run: pwd && find .
     - name: Update table of contents
       run: markdown-toc -i recipe-book.md
