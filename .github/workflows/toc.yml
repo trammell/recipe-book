@@ -9,6 +9,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: install TOC updater
+      run: npm install --save markdown-toc
     - name: list files
       run: ls -al
     - name: Update table of contents
