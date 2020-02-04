@@ -3,7 +3,7 @@ name: TableOfContents
 on: [push]
 
 jobs:
-  build:
+  fix-toc:
 
     runs-on: ubuntu-latest
 
