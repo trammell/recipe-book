@@ -94,8 +94,6 @@
 
 <!-- tocstop -->
 
-# Foo
-
 # Appetizers/Starters
 
 ## Smoky Chipotle Hummus with Garlic Bagel Chips
