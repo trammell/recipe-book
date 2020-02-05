@@ -1576,8 +1576,8 @@ slightly thickened, about 10 minutes.  Serve over rice with naan and samosas.
 
 Alternative crock-pot cooking method:
 
-* Prepare onions and beef as above (this can be done the night before).  Cook
-* all ingredients except milk and chickpeas in crock pot on low for
+* Prepare onions and beef as above (this can be done the night before).
+* Cook all ingredients except milk and chickpeas in crock pot on low for
   approximately 8 hours.
 * Stir in milk and cooked chickpeas, warm and serve.
 
