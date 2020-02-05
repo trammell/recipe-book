@@ -12,6 +12,7 @@
   * [Susan's Guacamole](#susans-guacamole)
   * [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
 - [Soups](#soups)
+  * [Spicy miso-tahini ramen](#spicy-miso-tahini-ramen)
   * [Slow cooker black bean posole](#slow-cooker-black-bean-posole)
   * [Carrot Soup with Thyme and Fennel](#carrot-soup-with-thyme-and-fennel)
   * [Spicy Garbanzo Bean and Turkey Sausage Soup](#spicy-garbanzo-bean-and-turkey-sausage-soup)
