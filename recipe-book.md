@@ -6,7 +6,6 @@
 
 <!-- toc -->
 
-- [Foo](#foo)
 - [Appetizers/Starters](#appetizersstarters)
   * [Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
   * [Roasted Garlic](#roasted-garlic)
