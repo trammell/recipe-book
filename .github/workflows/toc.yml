@@ -22,6 +22,7 @@ jobs:
     - name: Commit to repository
       env:
         GITHUB_TOKEN: ${{ secrets.github_token }}
+        GITHUB_BRANCH: ${GITHUB_REF##*/}  
         COMMIT_MSG: |
           updated TOC
           skip-checks: true
@@ -32,10 +33,10 @@ jobs:
         # Update origin with token
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
         # Checkout the branch so we can push back to it
-        git checkout master
+        git checkout $GITHUB_BRANCH
         git add recipe-book.md
         # Only commit and push if we have changes
-        git diff --quiet && git diff --staged --quiet || (git commit -m "${COMMIT_MSG}"; git push origin master)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "${COMMIT_MSG}"; git push origin $GITHUB_BRANCH)
 
 #    - name: commit updated TOC
 #      run: |
