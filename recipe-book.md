@@ -229,7 +229,7 @@ Ingredients:
 > 2 tablespoons Japanese chili paste or Sriracha sauce   
 > ½ cup organic red miso paste   
 > 2 (10-ounce) packages fresh ramen noodles (look for Sun Noodle brand)   
-> 1/4 cup tahini paste or neri goma   
+> ¼ cup tahini paste or neri goma   
 
 Toppings:
 
@@ -258,13 +258,13 @@ Divide the noodles among four bowls. Add the spinach and green onions to each bo
 > 3 poblano chiles, chopped  
 > 1 onion, chopped  
 > 8 cloves garlic, chopped  
-> 1/4 cup olive oil  
+> ¼ cup olive oil  
 > 2 Tbsp chili powder  
 > 1 Tbsp tomato paste  
 > 1 tsp dried oregano  
 > 1 pound dried black beans  
 > 1 28-ounce can golden or white hominy, drained  
-> 1/4 cup fresh lime juice (about 2 limes' worth)  
+> ¼ cup fresh lime juice (about 2 limes' worth)  
 > 1½ tsp kosher salt  
 > 1/8 tsp cayenne  
 > cilantro, sour cream, sliced avocado, sliced radishes for garnish  
@@ -281,17 +281,17 @@ Freezes well.
 
 Bon Appétit, March 1999.  Serves 4.
 
-> 1/4 cup (½ stick) butter  
+> ¼ cup (½ stick) butter  
 > 4 medium carrots, peeled and chopped  
 > 3/4 cup chopped onion  
 > 3/4 cup chopped leek (white and pale green parts only)  
 > 2 garlic cloves, chopped  
 > ½ teaspoon chopped fresh thyme  
 > additional chopped fresh thyme (for garnish)  
-> 1/4 teaspoon fennel seeds  
+> ¼ teaspoon fennel seeds  
 > 5 cups (or more) canned low-salt chicken broth  
 
-Melt 1/4 cup butter in large saucepan over medium-low heat. Add carrots, onion,
+Melt ¼ cup butter in large saucepan over medium-low heat. Add carrots, onion,
 leek, garlic, thyme, and fennel seeds. Stir to coat. Cover and cook until onion
 is translucent, stirring occastionally, about 15 minutes.
 
@@ -1356,8 +1356,8 @@ Serves: 8-10 servings
 > 1 Tbsp butter  
 > 1 Tbsp vegetable oil  
 > 1 cup diced onion   
-> 1/4 cup diced red bell pepper  
-> 1/4 cup diced red green pepper   
+> ¼ cup diced red bell pepper  
+> ¼ cup diced red green pepper   
 > 1½ cups cornmeal   
 > 1 cup milk   
 > 2 Tbsp sugar   
