@@ -266,8 +266,10 @@ Divide the noodles among four bowls. Add the spinach and green onions to each bo
 > 1 28-ounce can golden or white hominy, drained  
 > ¼ cup fresh lime juice (about 2 limes' worth)  
 > 1½ tsp kosher salt  
-> 1/8 tsp cayenne  
+> ⅛ tsp cayenne  
 > cilantro, sour cream, sliced avocado, sliced radishes for garnish  
+
+
 
 Combine broth, poblanos, onion, garlic, oil, chili powder, tomato paste,
 oregano, and beans in a 6-quart slow cooker on high. Cook until beans are
