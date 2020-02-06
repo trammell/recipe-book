@@ -12,10 +12,7 @@ jobs:
     
     - name: install TOC updater
       run: npm install --save-prod --global-style markdown-toc
-    
-    - name: list files
-      run: pwd && find . && ls -l ./node_modules/.bin/
-    
+
     - name: Update table of contents
       run: ./node_modules/.bin/markdown-toc -i recipe-book.md
 
@@ -37,13 +34,3 @@ jobs:
         # Only commit and push if we have changes
         git diff --quiet && git diff --staged --quiet || (git commit -m "${COMMIT_MSG}"; git push origin ${GITHUB_REF##*/})
 
-#    - name: commit updated TOC
-#      run: |
-#        git config --local user.email "action@github.com"
-#        git config --local user.name "GitHub Action"
-#        git commit recipe-book.md -m 'updated toc in github action'
-
-#    - name: Push changes
-#      uses: ad-m/github-push-action@master
-#      with:
-#        github_token: ${{ secrets.GITHUB_TOKEN }}
