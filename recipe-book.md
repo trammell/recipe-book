@@ -88,6 +88,7 @@
   * [Petits Pains au Chocolat](#petits-pains-au-chocolat)
   * [Hot Fudge Sauce](#hot-fudge-sauce)
   * [Vanilla sea salt caramel sauce](#vanilla-sea-salt-caramel-sauce)
+  * [Almond-Coconut Chewy Chocolate Cookies](#almond-coconut-chewy-chocolate-cookies)
 - [Beverages](#beverages)
   * [Margaritas](#margaritas)
   * [Green Tea / Cranberry Spritzer](#green-tea--cranberry-spritzer)
