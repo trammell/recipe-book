@@ -26,6 +26,7 @@
   * [White Turkey Chili](#white-turkey-chili)
   * [Country Captain Soup](#country-captain-soup)
 - [Sides and Salads](#sides-and-salads)
+  * [Warm millet salad with sun-dried tomatoes and pine nuts](#warm-millet-salad-with--sun-dried-tomatoes-and-pine-nuts)
   * [Cabbage and Corn Slaw with Cilantro and Orange Dressing](#cabbage-and-corn-slaw-with-cilantro-and-orange-dressing)
   * [Sweet-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
   * [Kohlrabi and Apple Salad with Creamy Mustard Dressing](#kohlrabi-and-apple-salad-with-creamy-mustard-dressing)
