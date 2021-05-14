@@ -1,9 +1,8 @@
 usage:
-	@echo "usage: make [clean|book]"
+	@echo "usage: make [site|serve]"
 
-clean:
-	rm -f *.pdf
+site:
+	hugo
 
-toc: susans-recipes.md
-	doctoc susans-recipes.md
-
+serve:
+	hugo serve
