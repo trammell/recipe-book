@@ -1,5 +1,8 @@
 usage:
-	@echo "usage: make [site|serve]"
+	@echo "usage: make [clean|site|serve]"
+
+clean:
+	git clean -f
 
 site:
 	hugo
