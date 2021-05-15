@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>favorite on Susan&#39;s Recipes</title>
+    <link>http://trammell.github.io/recipe-book/tags/favorite/</link>
+    <description>Recent content in favorite on Susan&#39;s Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 May 2021 19:03:59 -0500</lastBuildDate><atom:link href="http://trammell.github.io/recipe-book/tags/favorite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wheat Berry and Barley Salad with Smoked Mozzarella</title>
+      <link>http://trammell.github.io/recipe-book/recipes/wheat-berry-salad/</link>
+      <pubDate>Fri, 14 May 2021 19:03:59 -0500</pubDate>
+      
+      <guid>http://trammell.github.io/recipe-book/recipes/wheat-berry-salad/</guid>
+      <description>A simple graham cracker crust, perfect for cheesecakes or tarts.</description>
+    </item>
+    
+  </channel>
+</rss>
