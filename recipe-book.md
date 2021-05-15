@@ -86,7 +86,6 @@ Version 0.4, December 2019
   - [Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
   - [Amanda Trammell's Raspberry Trifle](#amanda-trammells-raspberry-trifle)
   - [Petits Pains au Chocolat](#petits-pains-au-chocolat)
-  - [Hot Fudge Sauce](#hot-fudge-sauce)
   - [Vanilla sea salt caramel sauce](#vanilla-sea-salt-caramel-sauce)
   - [Almond-Coconut Chewy Chocolate Cookies](#almond-coconut-chewy-chocolate-cookies)
 - [Beverages](#beverages)
@@ -2465,35 +2464,6 @@ Sprinkle lightly with sugar. Bake until pastries are golden brown, about 15
 minutes. Serve warm or at room temperature.
 
 * These are also good filled with jam or jam and cream cheese 
-
-
-## Hot Fudge Sauce
-
-Gourmet, February 2004. Makes about 2 cups. This recipe takes about 30 minutes
-from start to finish.
-
-> ⅔ cup heavy cream  
-> ½ cup light corn syrup  
-> ⅓ cup packed dark brown sugar  
-> ¼ cup unsweetened Dutch-process cocoa powder  
-> ¼ teaspoon salt  
-> 6 oz fine-quality bittersweet chocolate (not unsweetened), finely chopped  
-> 2 tablespoons unsalted butter  
-> 1 teaspoon vanilla  
-
-Bring cream, corn syrup, sugar, cocoa, salt, and half of chocolate to a boil in
-a 1 to 1 ½-quart heavy saucepan over moderate heat, stirring, until chocolate
-is melted. Reduce heat and cook at a low boil, stirring occasionally, 5
-minutes, then remove from heat. Add butter, vanilla, and remaining chocolate
-and stir until smooth. Cool sauce to warm before serving.
-
-* Sauce can be made ahead and cooled completely, then chilled in an airtight
-  container or jar. Reheat before using.
-* Sauce can be eaten directly from the jar with a spoon, or with your fingers
-  in a pinch.
-* I have used Baker's chocolate squares and I never chop them.
-* This recipe doubles or triples nicely.
-
 
 
 ## Vanilla sea salt caramel sauce

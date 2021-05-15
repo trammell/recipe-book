@@ -3,8 +3,8 @@ layout: recipe
 date: 2021-05-14T19:03:59-05:00
 draft: false
 title: "Wheat Berry and Barley Salad with Smoked Mozzarella"
-image: awesome-recipe-image.jpg # Name of image in recipe bundle
-imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
+image: wheat-berry-salad.jpg
+imagecredit: 
 YouTubeID: # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
@@ -51,8 +51,10 @@ directions:
    Add scallions, corn, mozzarella, tomatoes, and chives.
    Add salt and pepper to taste, and toss well.
 
-# Salad may be made 1 day ahead and chilled, covered.  Bring salad to room
-# temperature before serving.
-#  
+# comment: >
+#   Salad may be made 1 day ahead and chilled, covered.  Bring salad
+#   to room temperature before serving.
 
 ---
+
+A simple graham cracker crust, perfect for cheesecakes or tarts.
