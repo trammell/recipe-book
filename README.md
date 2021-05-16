@@ -2,6 +2,8 @@
 
 [A book of Susan's recipes.](http://trammell.github.io/recipe-book/)
 
+The original file is available [here](recipe-book.md).
+
 ## Hugo instructions
 
 This book uses hugo theme [el-nogal](https://github.com/trammell/el-nogal),
