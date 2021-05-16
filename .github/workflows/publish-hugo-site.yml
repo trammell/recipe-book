@@ -1,12 +1,9 @@
-# This is a basic workflow to help you get started with Actions
-
 name: publish hugo site
  
 on:
   push:
     branches: [ master ]
 
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -17,9 +14,9 @@ jobs:
     steps:
       - name: git checkout
         uses: actions/checkout@v2
-#       with:
-#         submodules: true  # Fetch Hugo themes (true OR recursive)
-#         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+        with:
+          submodules: true
+          fetch-depth: 0
 
       - name: set up hugo
         uses: peaceiris/actions-hugo@v2

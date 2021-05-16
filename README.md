@@ -2,11 +2,10 @@
 
 [A book of Susan's recipes.](http://trammell.github.io/recipe-book/)
 
-Type hugo new --kind recipe-bundle recipes/name-of-your-new-recipe-here, replacing name-of-your-new-recipe-here with the name of your recipe
-
 ## Hugo instructions
 
-This book uses hugo theme [gochowdown](https://themes.gohugo.io/gochowdown/).
+This book uses hugo theme [el-nogal](https://github.com/trammell/el-nogal),
+stolen without remorse from theme `gochowdown`.
 
 ```sh
 # 
