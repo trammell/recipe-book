@@ -52,6 +52,3 @@ from start to finish.
 * This recipe doubles or triples nicely.
 
  -->
-
-
-aaaaaaaaaaaaaaaaaaaaa

@@ -41,6 +41,3 @@ Serves 6 (unless Uncle John is visiting then serves not so many)
 * Susan likes using the lemon juice versus the lime.
 * The avocado will rapidly darken when exposed to air; to delay this press
   plastic wrap down on to the guacamole to keep air away.
-
-
-

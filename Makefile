@@ -5,7 +5,7 @@ clean:
 	git clean -f
 
 site:
-	hugo
+	hugo --minify
 
 serve:
 	hugo serve
