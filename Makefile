@@ -2,7 +2,7 @@ usage:
 	@echo "usage: make [clean|site|serve]"
 
 clean:
-	git clean -f
+	git clean -dfx
 
 site:
 	hugo --minify
