@@ -9,7 +9,7 @@ YouTubeID: # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: Gourmet, July 1994.
-sourceURL: # Actual URL of the recipe itself
+sourceURL: https://www.epicurious.com/recipes/food/views/wheat-berry-and-barley-salad-with-smoked-mozzarella-12251
 category: dinner
 cuisine: american
 tags:
@@ -19,11 +19,6 @@ tags:
 yield: 8 servings
 prepTime: 15
 cookTime: 45
-frontMatter: >
-  "Berries" are whole grains that have been minimally processed--they
-  have been hulled but still have the bran and germ intact.
-
-# Gourmet, July 1994. Serves 6 as a main course or 8 to 10 as a side dish.
 
 ingredients:
 - 1 cup wheat berries  
@@ -57,4 +52,7 @@ directions:
 
 ---
 
-A simple graham cracker crust, perfect for cheesecakes or tarts.
+From _Gourmet_ magazine, July 1994. Serves 6 as a main course or 8 to 10 as a side dish.
+
+_Berries_ are whole grains that have been minimally processed--they
+have been hulled but still have the bran and germ intact.
