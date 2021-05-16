@@ -2,97 +2,96 @@
 
 # Susan's Cookbook
 
-**version 0.4, December 2019**
+Version 0.4, December 2019
 
 <!-- toc -->
 
+- [Susan's Cookbook](#susans-cookbook)
 - [Appetizers/Starters](#appetizersstarters)
-  * [Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
-  * [Roasted Garlic](#roasted-garlic)
-  * [Susan's Guacamole](#susans-guacamole)
-  * [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
+  - [Smoky Chipotle Hummus with Garlic Bagel Chips](#smoky-chipotle-hummus-with-garlic-bagel-chips)
+  - [Roasted Garlic](#roasted-garlic)
+  - [Susan's Guacamole](#susans-guacamole)
+  - [Crostini with Roasted Garlic, Goat Cheese and Apple Chutney](#crostini-with-roasted-garlic-goat-cheese-and-apple-chutney)
 - [Soups](#soups)
-  * [Spicy miso-tahini ramen](#spicy-miso-tahini-ramen)
-  * [Slow cooker black bean posole](#slow-cooker-black-bean-posole)
-  * [Carrot Soup with Thyme and Fennel](#carrot-soup-with-thyme-and-fennel)
-  * [Spicy Garbanzo Bean and Turkey Sausage Soup](#spicy-garbanzo-bean-and-turkey-sausage-soup)
-  * [Easy Split Pea Soup](#easy-split-pea-soup)
-  * [Tortilla Soup with Chicken and Lime](#tortilla-soup-with-chicken-and-lime)
-  * [Lentil Soup with Smoked Ham](#lentil-soup-with-smoked-ham)
-  * [Hot and Sour Soup](#hot-and-sour-soup)
-  * [Adeline's "Round Meat Soup" _aka._ Sausage and Bean Soup](#adelines-round-meat-soup-_aka_-sausage-and-bean-soup)
-  * [Louisiana Red Beans and Rice](#louisiana-red-beans-and-rice)
-  * [Creamy Tomato Soup](#creamy-tomato-soup)
-  * [White Turkey Chili](#white-turkey-chili)
-  * [Country Captain Soup](#country-captain-soup)
+  - [Spicy miso-tahini ramen](#spicy-miso-tahini-ramen)
+  - [Slow cooker black bean posole](#slow-cooker-black-bean-posole)
+  - [Carrot Soup with Thyme and Fennel](#carrot-soup-with-thyme-and-fennel)
+  - [Spicy Garbanzo Bean and Turkey Sausage Soup](#spicy-garbanzo-bean-and-turkey-sausage-soup)
+  - [Easy Split Pea Soup](#easy-split-pea-soup)
+  - [Tortilla Soup with Chicken and Lime](#tortilla-soup-with-chicken-and-lime)
+  - [Lentil Soup with Smoked Ham](#lentil-soup-with-smoked-ham)
+  - [Hot and Sour Soup](#hot-and-sour-soup)
+  - [Adeline's "Round Meat Soup" _aka._ Sausage and Bean Soup](#adelines-round-meat-soup-aka-sausage-and-bean-soup)
+  - [Louisiana Red Beans and Rice](#louisiana-red-beans-and-rice)
+  - [Creamy Tomato Soup](#creamy-tomato-soup)
+  - [White Turkey Chili](#white-turkey-chili)
+  - [Country Captain Soup](#country-captain-soup)
 - [Sides and Salads](#sides-and-salads)
-  * [Warm millet salad with sun-dried tomatoes and pine nuts](#warm-millet-salad-with--sun-dried-tomatoes-and-pine-nuts)
-  * [Cabbage and Corn Slaw with Cilantro and Orange Dressing](#cabbage-and-corn-slaw-with-cilantro-and-orange-dressing)
-  * [Sweet-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
-  * [Kohlrabi and Apple Salad with Creamy Mustard Dressing](#kohlrabi-and-apple-salad-with-creamy-mustard-dressing)
-  * [Beet and Carrot Pancakes](#beet-and-carrot-pancakes)
-  * [Black Bean and Tomato Quinoa](#black-bean-and-tomato-quinoa)
-  * [Noodle Salad with Spicy Peanut Butter Dressing](#noodle-salad-with-spicy-peanut-butter-dressing)
-  * [Mexican Black Beans](#mexican-black-beans)
-  * [Green Bean and Tomato Salad](#green-bean-and-tomato-salad)
-  * [Creamy Southwestern Potato Salad](#creamy-southwestern-potato-salad)
-  * [Carrot and Apple Slaw](#carrot-and-apple-slaw)
-  * [Salsa Verde](#salsa-verde)
-  * [Carrot Orzo](#carrot-orzo)
-  * [Pearl Barley, Bacon, and Root Vegetable Pilaf](#pearl-barley-bacon-and-root-vegetable-pilaf)
-  * [Szechuan Noodles with Peanut Sauce](#szechuan-noodles-with-peanut-sauce)
-  * [Wheat Berry and Barley Salad with Smoked Mozzarella](#wheat-berry-and-barley-salad-with-smoked-mozzarella)
-  * [Carrot Walnut Salad](#carrot-walnut-salad)
-  * [Southwestern Smoked Turkey and Pasta Salads](#southwestern-smoked-turkey-and-pasta-salads)
-  * [Berkeley Petite Lentil Couscous Salad](#berkeley-petite-lentil-couscous-salad)
-  * [Lacinato Kale and Ricotta Salata Salad](#lacinato-kale-and-ricotta-salata-salad)
-  * [Roasted Carrots and Parsnips with White Balsamic](#roasted-carrots-and-parsnips-with-white-balsamic)
-  * [Susan's Asian Chicken Pasta Salad](#susans-asian-chicken-pasta-salad)
-  * [Cauliflower Wedges with Lemon Dressing](#cauliflower-wedges-with-lemon-dressing)
-  * [Holiday Brussels Sprouts Salad](#holiday-brussels-sprouts-salad)
-  * [Sopa Paraguaya](#sopa-paraguaya)
+  - [Warm millet salad with  sun-dried tomatoes and pine nuts](#warm-millet-salad-with--sun-dried-tomatoes-and-pine-nuts)
+  - [Cabbage and Corn Slaw with Cilantro and Orange Dressing](#cabbage-and-corn-slaw-with-cilantro-and-orange-dressing)
+  - [Sweet-Potato Salad with Spicy Peanut Dressing](#sweet-potato-salad-with-spicy-peanut-dressing)
+  - [Kohlrabi and Apple Salad with Creamy Mustard Dressing](#kohlrabi-and-apple-salad-with-creamy-mustard-dressing)
+  - [Beet and Carrot Pancakes](#beet-and-carrot-pancakes)
+  - [Black Bean and Tomato Quinoa](#black-bean-and-tomato-quinoa)
+  - [Noodle Salad with Spicy Peanut Butter Dressing](#noodle-salad-with-spicy-peanut-butter-dressing)
+  - [Mexican Black Beans](#mexican-black-beans)
+  - [Green Bean and Tomato Salad](#green-bean-and-tomato-salad)
+  - [Creamy Southwestern Potato Salad](#creamy-southwestern-potato-salad)
+  - [Carrot and Apple Slaw](#carrot-and-apple-slaw)
+  - [Salsa Verde](#salsa-verde)
+  - [Carrot Orzo](#carrot-orzo)
+  - [Pearl Barley, Bacon, and Root Vegetable Pilaf](#pearl-barley-bacon-and-root-vegetable-pilaf)
+  - [Szechuan Noodles with Peanut Sauce](#szechuan-noodles-with-peanut-sauce)
+  - [Carrot Walnut Salad](#carrot-walnut-salad)
+  - [Southwestern Smoked Turkey and Pasta Salads](#southwestern-smoked-turkey-and-pasta-salads)
+  - [Berkeley Petite Lentil Couscous Salad](#berkeley-petite-lentil-couscous-salad)
+  - [Lacinato Kale and Ricotta Salata Salad](#lacinato-kale-and-ricotta-salata-salad)
+  - [Roasted Carrots and Parsnips with White Balsamic](#roasted-carrots-and-parsnips-with-white-balsamic)
+  - [Susan's Asian Chicken Pasta Salad](#susans-asian-chicken-pasta-salad)
+  - [Cauliflower Wedges with Lemon Dressing](#cauliflower-wedges-with-lemon-dressing)
+  - [Holiday Brussels Sprouts Salad](#holiday-brussels-sprouts-salad)
+  - [Sopa Paraguaya](#sopa-paraguaya)
 - [Breakfast Dishes](#breakfast-dishes)
-  * [Café Beaujolais Yogurt Pancakes](#cafe-beaujolais-yogurt-pancakes)
-  * [Raspberry Corn Muffins](#raspberry-corn-muffins)
-  * [Adeline's Favorite Muffins](#adelines-favorite-muffins)
-  * [Amanda Trammell's Spinach and Bacon Quiche](#amanda-trammells-spinach-and-bacon-quiche)
-  * [Buttermilk Syrup](#buttermilk-syrup)
+  - [Café Beaujolais Yogurt Pancakes](#café-beaujolais-yogurt-pancakes)
+  - [Raspberry Corn Muffins](#raspberry-corn-muffins)
+  - [Adeline's Favorite Muffins](#adelines-favorite-muffins)
+  - [Amanda Trammell's Spinach and Bacon Quiche](#amanda-trammells-spinach-and-bacon-quiche)
+  - [Buttermilk Syrup](#buttermilk-syrup)
 - [Meat Main Dishes](#meat-main-dishes)
-  * [Fragrant Beef Curry with Rice](#fragrant-beef-curry-with-rice)
-  * [Slow-Cooked Carnitas Tacos](#slow-cooked-carnitas-tacos)
-  * [Barbecued Pork Burgers with Slaw](#barbecued-pork-burgers-with-slaw)
-  * [Pork Tenderloin with Herbed Breadcrumb Crust](#pork-tenderloin-with-herbed-breadcrumb-crust)
-  * [Baked Chicken Meatballs with Peperonata](#baked-chicken-meatballs-with-peperonata)
-  * [Byerly's Italian Beef Burgers](#byerlys-italian-beef-burgers)
-  * [Korean Beef "Noodle" Bowl](#korean-beef-noodle-bowl)
+  - [Fragrant Beef Curry with Rice](#fragrant-beef-curry-with-rice)
+  - [Slow-Cooked Carnitas Tacos](#slow-cooked-carnitas-tacos)
+  - [Barbecued Pork Burgers with Slaw](#barbecued-pork-burgers-with-slaw)
+  - [Pork Tenderloin with Herbed Breadcrumb Crust](#pork-tenderloin-with-herbed-breadcrumb-crust)
+  - [Baked Chicken Meatballs with Peperonata](#baked-chicken-meatballs-with-peperonata)
+  - [Byerly's Italian Beef Burgers](#byerlys-italian-beef-burgers)
+  - [Korean Beef "Noodle" Bowl](#korean-beef-noodle-bowl)
 - [Poultry Main Dishes](#poultry-main-dishes)
-  * [Orange-Rosemary Chicken](#orange-rosemary-chicken)
-  * [Grilled Chicken Moroccan Style](#grilled-chicken-moroccan-style)
-  * [Moroccan Chicken](#moroccan-chicken)
-  * [Chicken Mole with Chipotles](#chicken-mole-with-chipotles)
-  * [Chicken Burgers](#chicken-burgers)
-  * [Coleslaw for Chicken Burgers](#coleslaw-for-chicken-burgers)
-  * [Mexican Chicken Burgers with Lime Cilantro Mayo](#mexican-chicken-burgers-with-lime-cilantro-mayo)
+  - [Orange-Rosemary Chicken](#orange-rosemary-chicken)
+  - [Grilled Chicken Moroccan Style](#grilled-chicken-moroccan-style)
+  - [Moroccan Chicken](#moroccan-chicken)
+  - [Chicken Mole with Chipotles](#chicken-mole-with-chipotles)
+  - [Chicken Burgers](#chicken-burgers)
+  - [Coleslaw for Chicken Burgers](#coleslaw-for-chicken-burgers)
+  - [Mexican Chicken Burgers with Lime Cilantro Mayo](#mexican-chicken-burgers-with-lime-cilantro-mayo)
 - [Other Main Dishes](#other-main-dishes)
-  * [Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper](#phyllo-wrapped-salmon-with-leeks-and-red-bell-pepper)
-  * [Salmon with Spinach and Chickpeas](#salmon-with-spinach-and-chickpeas)
-  * [Butternut Squash Curry with Tilapia](#butternut-squash-curry-with-tilapia)
-  * [Cheesy Baked Penne with Cauliflower](#cheesy-baked-penne-with-cauliflower)
-  * [Charred Chili Relleno with Green Rice](#charred-chili-relleno-with-green-rice)
-  * [Susan's Spinach and Cheese Curry](#susans-spinach-and-cheese-curry)
-  * [Bianca Conti-Tronconi's Basil Pesto](#bianca-conti-tronconis-basil-pesto)
-  * [Portobello Risotto](#portobello-risotto)
+  - [Phyllo-Wrapped Salmon with Leeks and Red Bell Pepper](#phyllo-wrapped-salmon-with-leeks-and-red-bell-pepper)
+  - [Salmon with Spinach and Chickpeas](#salmon-with-spinach-and-chickpeas)
+  - [Butternut Squash Curry with Tilapia](#butternut-squash-curry-with-tilapia)
+  - [Cheesy Baked Penne with Cauliflower](#cheesy-baked-penne-with-cauliflower)
+  - [Charred Chili Relleno with Green Rice](#charred-chili-relleno-with-green-rice)
+  - [Susan's Spinach and Cheese Curry](#susans-spinach-and-cheese-curry)
+  - [Bianca Conti-Tronconi's Basil Pesto](#bianca-conti-tronconis-basil-pesto)
+  - [Portobello Risotto](#portobello-risotto)
 - [Desserts](#desserts)
-  * [Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
-  * [Amanda Trammell's Raspberry Trifle](#amanda-trammells-raspberry-trifle)
-  * [Petits Pains au Chocolat](#petits-pains-au-chocolat)
-  * [Hot Fudge Sauce](#hot-fudge-sauce)
-  * [Vanilla sea salt caramel sauce](#vanilla-sea-salt-caramel-sauce)
-  * [Almond-Coconut Chewy Chocolate Cookies](#almond-coconut-chewy-chocolate-cookies)
+  - [Peanut Butter Cookies with Chocolate Chunks](#peanut-butter-cookies-with-chocolate-chunks)
+  - [Amanda Trammell's Raspberry Trifle](#amanda-trammells-raspberry-trifle)
+  - [Petits Pains au Chocolat](#petits-pains-au-chocolat)
+  - [Vanilla sea salt caramel sauce](#vanilla-sea-salt-caramel-sauce)
+  - [Almond-Coconut Chewy Chocolate Cookies](#almond-coconut-chewy-chocolate-cookies)
 - [Beverages](#beverages)
-  * [Margaritas](#margaritas)
-  * [Green Tea / Cranberry Spritzer](#green-tea--cranberry-spritzer)
-  * [Summer Flavored Waters](#summer-flavored-waters)
+  - [Margaritas](#margaritas)
+  - [Green Tea / Cranberry Spritzer](#green-tea--cranberry-spritzer)
+  - [Summer Flavored Waters](#summer-flavored-waters)
 
 <!-- tocstop -->
 
@@ -131,8 +130,6 @@ chips.
   are available at Latin American markets, specialty foods stores and some
   supermarkets.
 
-
-
 ## Roasted Garlic
 
 Bon Appétit, October 1999. Makes about 1 ⅓ cups.
@@ -145,10 +142,8 @@ Place garlic in small baking dish. Add oil and sprinkle with salt and pepper;
 toss to coat. Turn garlic cut side up. Cover tightly with aluminum foil. Bake
 until garlic skins are golden brown and cloves are tender, about 55 minutes.
 Cool. Squeeze garlic cloves from skins.
- 
+
 * Also great mixed into mashed potatoes.
-
-
 
 ## Susan's Guacamole
 
@@ -164,11 +159,9 @@ Serves 6 (unless Uncle John is visiting then serves not so many)
 Peel avocadoes. Mash with a fork in a medium bowl.  Stir in tomato, onion,
 lime or lemon juice, garlic powder and salt.  Serve quickly with chips or jicama slices.
 
-* Susan likes using the lemon juice versus the lime. 
+* Susan likes using the lemon juice versus the lime.
 * The avocado will rapidly darken when exposed to air; to delay this press
   plastic wrap down on to the guacamole to keep air away.
-
-
 
 ## Crostini with Roasted Garlic, Goat Cheese and Apple Chutney
 
@@ -459,7 +452,7 @@ vinegar, sugar and a little oil.
 > ½ tsp. freshly ground pepper, plus more, to taste  
 > 5 cups chicken stock  
 > ½ cup canned thinly sliced bamboo shoots, rinsed and drained  
-> 1 boneless, skinless whole chicken breast, about ½ lb., cut crosswise into thin bite-size  slices  
+> 1 boneless, skinless whole chicken breast, about ½ lb., cut crosswise into thin bite-size slices  
 > ¼ lb. firm tofu, drained and cut into ½- inch cubes  
 > 2 Tbs. cornstarch  
 > ¼ cup water  
@@ -1083,35 +1076,7 @@ additional broth if necessary.
 
 
  
-## Wheat Berry and Barley Salad with Smoked Mozzarella
 
-Gourmet, July 1994. Serves 6 as a main course or 8 to 10 as a side dish.
-
-"Berries" are whole grains that have been minimally processed--they have been
-hulled but still have the bran and germ intact.
-
-> 1 cup wheat berries  
-> 1 cup pearl barley  
-> 1 small red onion, chopped fine  
-> 2 garlic cloves, minced and mashed to a paste with ½ teaspoon salt  
-> ¼ cup balsamic vinegar  
-> ¼ cup olive oil (preferably extra-virgin)  
-> 6 scallions, chopped fine  
-> 1 ½ cups cooked corn (cut from about 2 large ears) (I use frozen corn)  
-> ½ pound smoked mozzarella cheese, diced fine  
-> 1 pint vine-ripened cherry tomatoes, halved  
-> ½ cup chopped fresh chives  
-
-Into a kettle of salted boiling water stir wheat berries and cook at a slow
-boil 30 minutes.  Stir in barley and cook grains at a slow boil 40 minutes
-While grains are cooking, in a large bowl stir together onion, garlic paste,
-vinegar, and oil.  Drain grains well and add to onion mixture. Toss mixture
-well and cool. Add scallions, corn, mozzarella, tomatoes, chives, and salt and
-pepper to taste and toss well.
-
-Salad may be made 1 day ahead and chilled, covered.  Bring salad to room
-temperature before serving.
- 
 
 
 ## Carrot Walnut Salad
@@ -1552,7 +1517,6 @@ baking soda.  Bring to a boil, and cook 7 minutes.  Remove from heat and stir
 in vanilla.
 
 Variation: use honey instead of corn syrup.
-
 
 # Meat Main Dishes
 
@@ -2500,35 +2464,6 @@ Sprinkle lightly with sugar. Bake until pastries are golden brown, about 15
 minutes. Serve warm or at room temperature.
 
 * These are also good filled with jam or jam and cream cheese 
-
-
-## Hot Fudge Sauce
-
-Gourmet, February 2004. Makes about 2 cups. This recipe takes about 30 minutes
-from start to finish.
-
-> ⅔ cup heavy cream  
-> ½ cup light corn syrup  
-> ⅓ cup packed dark brown sugar  
-> ¼ cup unsweetened Dutch-process cocoa powder  
-> ¼ teaspoon salt  
-> 6 oz fine-quality bittersweet chocolate (not unsweetened), finely chopped  
-> 2 tablespoons unsalted butter  
-> 1 teaspoon vanilla  
-
-Bring cream, corn syrup, sugar, cocoa, salt, and half of chocolate to a boil in
-a 1 to 1 ½-quart heavy saucepan over moderate heat, stirring, until chocolate
-is melted. Reduce heat and cook at a low boil, stirring occasionally, 5
-minutes, then remove from heat. Add butter, vanilla, and remaining chocolate
-and stir until smooth. Cool sauce to warm before serving.
-
-* Sauce can be made ahead and cooled completely, then chilled in an airtight
-  container or jar. Reheat before using.
-* Sauce can be eaten directly from the jar with a spoon, or with your fingers
-  in a pinch.
-* I have used Baker's chocolate squares and I never chop them.
-* This recipe doubles or triples nicely.
-
 
 
 ## Vanilla sea salt caramel sauce

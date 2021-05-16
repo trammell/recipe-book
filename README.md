@@ -1,14 +1,23 @@
-recipe-book
-===========
+# recipe-book
 
-[A book of Susan's recipes.](recipe-book.md)
+[A book of Susan's recipes.](http://trammell.github.io/recipe-book/)
 
+Type hugo new --kind recipe-bundle recipes/name-of-your-new-recipe-here, replacing name-of-your-new-recipe-here with the name of your recipe
 
+## Hugo instructions
 
+This book uses hugo theme [gochowdown](https://themes.gohugo.io/gochowdown/).
 
-## Notes
+```sh
+# 
+brew install hugo
+```
 
-To regenerate the table of contents, run this command:
+```sh
+hugo serve
+```
 
-  % doctoc recipe-book.md
-
+```sh
+# create a new recipe for guacamole
+hugo new --kind recipe-bundle recipes/guacamole
+```
