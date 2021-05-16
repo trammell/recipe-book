@@ -1,24 +1,18 @@
 # recipe-book
 
-[A book of Susan's recipes.](http://trammell.github.io/recipe-book/)
+A book of Susan's recipes.
 
-The original file is available [here](recipe-book.md).
+* [new, slick website with missing recipes](http://trammell.github.io/recipe-book/)
+* [the original, humdrum recipe file](recipe-book.md).
 
-## Hugo instructions
+# Hugo
 
-This book uses hugo theme [el-nogal](https://github.com/trammell/el-nogal),
-stolen without remorse from theme `gochowdown`.
+The [slick website](http://trammell.github.io/recipe-book/) uses
+[Hugo](https://gohugo.io/), a static website generator framework. Its theme is 
 
-```sh
-# 
-brew install hugo
-```
+This book uses Hugo [theme](https://themes.gohugo.io/)
+[`el-nogal`](https://github.com/trammell/el-nogal),
+which I stole without remorse from theme
+[`gochowdown`](https://themes.gohugo.io/gochowdown/).
 
-```sh
-hugo serve
-```
-
-```sh
-# create a new recipe for guacamole
-hugo new --kind recipe-bundle recipes/guacamole
-```
+See the `Makefile` for various Hugo commands.

@@ -9,3 +9,6 @@ site:
 
 serve:
 	hugo serve
+
+# create a new recipe for guacamole:
+# $ hugo new --kind recipe-bundle recipes/guacamole
