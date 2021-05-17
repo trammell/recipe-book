@@ -1,5 +1,6 @@
 {
     "markdownlint.config": {
         "no-multiple-blanks": false
-    }
+    },
+    "git.enableSmartCommit": true
 }
