@@ -24,11 +24,13 @@ ingredients:
 - 2 ounces Vikre Boreal spruce gin
 - 3/4 ounces lemon juice
 - 3/4 ounces honey syrup
+- lemon rind for garnish
 
 directions:
 - Shake gin, lemon juice, and honey syrup with ice until well chilled. 
-- Strain into a cocktail glass and garnish with a cherry.
+- Strain into a cocktail glass and garnish with lemon peel.
 
 ---
 
-* To make honey syrup combine equal parts honey and water and stir until the honey dissolves.
+* To make honey syrup, combine equal parts honey and water and stir
+  until the honey dissolves.
