@@ -73,8 +73,7 @@ directions:
 
 ## Cooks' notes
 
-* Vegetables can be roasted and peppers peeled 1 day ahead and
-  chilled, covered.
+* Roasted vegetables can be prepared 1 day ahead. Store, covered,
+  in the refrigerator.
 * Sauce can be made 1 day ahead. Cover surface with wax paper and
   chill. Rewarm over low heat, stirring often, before using.
-  
