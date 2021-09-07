@@ -1,1 +1,3 @@
-This is an example of content you can put on the homepage.
+[sr]: https://github.com/trammell/recipe-book
+
+Source code for this site is available [in Github][sr].
