@@ -1,0 +1,4 @@
+[submodule "themes/gochowdown"]
+	path = themes/gochowdown
+	url = git@github.com:trammell/gochowdown.git
+	branch = master
