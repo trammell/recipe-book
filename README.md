@@ -5,7 +5,7 @@ A book of Susan's recipes.
 * [new, slick website with missing recipes](http://trammell.github.io/recipe-book/)
 * [the original, humdrum recipe file](recipe-book.md).
 
-# Hugo
+## Hugo
 
 The [slick website](http://trammell.github.io/recipe-book/) uses
 [Hugo](https://gohugo.io/), a static website generator framework. Its theme is 
@@ -16,3 +16,8 @@ which I stole without remorse from theme
 [`gochowdown`](https://themes.gohugo.io/gochowdown/).
 
 See the `Makefile` for various Hugo commands.
+
+## Notes on git submodules
+
+https://git-scm.com/docs/git-submodule
+
