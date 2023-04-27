@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "recipe-book"
+version = "0.1.0"
+description = "Static recipe site generated with Pelican"
+authors = ["John Trammell <john.trammell@gmail.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+packages = [{include = "recipe_book"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pelican = {extras = ["markdown"], version = "^4.8.0"}
+
+[tool.poetry.group.dev.dependencies]
+flake8 = "^6.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
