@@ -1,24 +1,14 @@
----
-layout: recipe
-date: 2021-05-16T15:49:13-05:00
-draft: false
-title: "Roasted Vegetable Lasagne" # The title of your awesome recipe
-image: awesome-recipe-image.jpg # Name of image in recipe bundle
-imagecredit:
-YouTubeID:
-authorName: 
-authorURL: # URL of their home website
-sourceName: epicurious.com
-sourceURL: https://www.epicurious.com/recipes/food/views/roasted-vegetable-lasagne-238397
-category: pasta
-cuisine: italian
-tags:
-  - vegetarian
-yield: 8
-prepTime: 15
-cookTime: 45
+Date: 2021-05-16
+Title: Roasted Vegetable Lasagne
+Category: pasta
+Tags: vegetarian
 
-ingredients:
+[source]: https://www.epicurious.com/recipes/food/views/roasted-vegetable-lasagne-238397
+
+Found on [Epicurious][source]. Prep time: 1 hour. Yields 8 servings.
+
+## Ingredients
+
 - 1 large eggplant (1 1/2 pounds)
 - 3 tablespoons extra-virgin olive oil
 - 2 medium zucchini, trimmed and cut lengthwise into 1/4-inch-thick slices
@@ -34,8 +24,10 @@ ingredients:
 - 3 tablespoons finely chopped fresh basil
 - 5 (6 3/4- by 3 1/2-inch) or 10 (7- by 6 3/4-inch) no-boil lasagne noodles
 
-directions:
+## Directions
+
 - Put oven racks in upper and lower thirds of oven and preheat oven to 425°F.
+
 - Cut 3 (1/3-inch-thick) lengthwise slices from center of eggplant and reserve
   remainder for another use. Brush 2 large shallow baking pans with 1 tablespoon
   oil total, then arrange eggplant, zucchini, and bell peppers in 1 layer in
@@ -46,7 +38,7 @@ directions:
   over and continue to roast until tender, about 10 minutes more. Transfer
   peppers to a bowl and cover, then let stand 10 minutes. Meanwhile, move 1 rack
   to middle position and leave oven on. Peel peppers.
-  
+
 - While vegetables roast, cook garlic in butter in a 1 1/2- to 2-quart heavy
   saucepan over moderate heat, whisking frequently, until fragrant, about 30
   seconds. Whisk in flour and cook, whisking constantly, 2 minutes. Add milk in
@@ -69,11 +61,12 @@ directions:
 - Bake until golden and bubbling, 25 to 30 minutes. Let stand in pan on a rack
   20 minutes.
 
----
+-----------------------
 
-## Cooks' notes
+## Cook's notes
 
-* Roasted vegetables can be prepared 1 day ahead. Store, covered,
-  in the refrigerator.
-* Sauce can be made 1 day ahead. Cover surface with wax paper and
-  chill. Rewarm over low heat, stirring often, before using.
+* Roasted vegetables can be prepared 1 day ahead. Store, covered, in the
+  refrigerator.
+* Sauce can be made 1 day ahead. Cover surface with wax paper and chill. Rewarm
+  over low heat, stirring often, before using.
+
