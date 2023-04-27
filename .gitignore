@@ -1,3 +1,4 @@
 *.pdf
+output/
 public/
 resources/_gen/assets/scss/

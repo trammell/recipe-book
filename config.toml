@@ -1,4 +1,0 @@
-baseURL = "http://trammell.github.io/recipe-book/"
-languageCode = "en-us"
-title = "Susan's Recipes"
-theme = "gochowdown"
