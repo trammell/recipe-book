@@ -6,8 +6,11 @@ Tags: chocolate
 Cuisine: american
 Summary: A rich, luscious hot fudge recipe.
 
-*Gourmet*, February 2004. Makes about 2 cups. This recipe takes about 30 minutes
-from start to finish.
+
+<img src="{static}/images/hot-fudge-sauce.jpg" width="66%">
+
+From *Gourmet*, February 2004. Makes about 2 cups. This recipe takes about 30
+minutes from start to finish.
 
 ## Ingredients
 

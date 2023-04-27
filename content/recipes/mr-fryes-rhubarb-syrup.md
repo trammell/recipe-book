@@ -4,12 +4,9 @@ image: rhubarb.jpg
 category: desserts
 tags: rhubarb, syrup, poison
 
+<img src="{static}/images/rhubarb.jpg" width="66%">
 
-
-
-yield: 3 cups
-prepTime: 90 minutes
-cookTime: 1 hour
+Prep time: 90 minutes. Yields about 3 cups.
 
 ## Ingredients
 
