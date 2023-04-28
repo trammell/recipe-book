@@ -23,7 +23,7 @@ Prep time: 90 minutes. Yields about 3 cups. Serves about 4.
 * 1 cup dry white wine
 * 8 large fresh tarragon sprigs (subst. 1 t dried & crumbled)
 * 3 fresh parsley sprigs
-* 3 large fresh thyme sprigs (subst. 1/2 t dried & crumbled)
+* 3 large fresh thyme sprigs (subst. ½ t dried & crumbled)
 * 1 bay leaf
 * 1 t pepper
 * ¼ cup crème fraîche or whipping cream (see below)

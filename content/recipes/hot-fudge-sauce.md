@@ -14,14 +14,14 @@ minutes from start to finish.
 
 ## Ingredients
 
-- 2/3 cup heavy cream
-- 1/2 cup light corn syrup  
-- 1/3 cup packed dark brown sugar  
-- 1/4 cup unsweetened Dutch-process cocoa powder  
-- 1/4 teaspoon salt
-- 6 oz fine-quality bittersweet chocolate (not unsweetened), finely chopped  
-- 2 tablespoons unsalted butter  
-- 1 teaspoon vanilla  
+- ⅔ cup heavy cream
+- ½ cup light corn syrup
+- ⅓ cup packed dark brown sugar
+- ¼ cup unsweetened Dutch-process cocoa powder
+- ¼ teaspoon salt
+- 6 oz fine-quality bittersweet chocolate (not unsweetened), finely chopped
+- 2 tablespoons unsalted butter
+- 1 teaspoon vanilla
 
 ## Directions
 

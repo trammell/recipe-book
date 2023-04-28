@@ -14,8 +14,8 @@ Originally from [Vikre Distillery](http://www.vikredistillery.com/cocktails).
 ## Ingredients
 
 - 2 ounces Vikre Boreal spruce gin
-- 3/4 ounces lemon juice
-- 3/4 ounces honey syrup
+- ¾ ounces lemon juice
+- ¾ ounces honey syrup
 - lemon peel for garnish
 
 ## Directions

@@ -14,17 +14,17 @@ Serves 8 to 10.
 
 ## Ingredients
 
-- 1 cup wheat berries  
-- 1 cup pearl barley  
-- 1 small red onion, chopped fine  
-- 2 garlic cloves, minced and mashed to a paste with 1/2 teaspoon salt  
-- 1/4 cup balsamic vinegar  
-- 1/4 cup olive oil (preferably extra-virgin)  
-- 6 scallions, chopped fine  
-- 1 1/2 cups cooked corn (cut from about 2 large ears) (I use frozen corn)  
-- 1/2 pound smoked mozzarella cheese, diced fine  
-- 1 pint vine-ripened cherry tomatoes, halved  
-- 1/2 cup chopped fresh chives  
+- 1 cup wheat berries
+- 1 cup pearl barley
+- 1 small red onion, chopped fine
+- 2 garlic cloves, minced and mashed to a paste with ½ teaspoon salt
+- ¼ cup balsamic vinegar
+- ¼ cup olive oil (preferably extra-virgin)
+- 6 scallions, chopped fine
+- 1½ cups cooked corn (cut from about 2 large ears) (I use frozen corn)
+- ½ pound smoked mozzarella cheese, diced fine
+- 1 pint vine-ripened cherry tomatoes, halved
+- ½ cup chopped fresh chives
 
 ## Directions
 
