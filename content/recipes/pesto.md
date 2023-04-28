@@ -2,7 +2,7 @@ Title: Bianca Conti-Tronconi's Basil Pesto
 date: 2021-03-24
 image: rhubarb.jpg
 category: pasta 
-tags: basil, favorites
+tags: basil, favorite
 
 Makes about 2 cups of pesto.
 
