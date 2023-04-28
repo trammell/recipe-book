@@ -1,0 +1,4 @@
+#!/bin/bash
+
+egrep -r " [1-9]/[1-9] " content
+

@@ -19,7 +19,7 @@ Originally from [Blue Apron][ba].
 * 1 28-oz can whole peeled tomatoes
 * 1 bunch parsley
 * 8 oz. mozzarella cheese, thinly sliced
-* 1/3 cup grated parmesan cheese
+* ⅓ cup grated parmesan cheese
 * red pepper flakes
 
 ## Directions
