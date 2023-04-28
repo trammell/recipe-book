@@ -1,6 +1,6 @@
 title: Chicken in Tarragon Vinegar Sauce
 date: 2023-04-28
-category: main
+category: poultry
 tags: chicken, tarragon
 comment: FIXME
 
