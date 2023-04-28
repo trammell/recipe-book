@@ -18,6 +18,11 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Source code on GitHub', 'https://github.com/trammell/recipe-book'),)
 
+STATIC_PATHS = ['images', 'extra']
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
+
 # Social widget
 SOCIAL = ()
 
