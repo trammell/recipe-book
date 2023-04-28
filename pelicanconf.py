@@ -23,8 +23,6 @@ LINKS = (('Source code on GitHub', 'https://github.com/trammell/recipe-book'),)
 SOCIAL = ()
 
 DEFAULT_PAGINATION = False
-DIRECT_TEMPLATES = ['book']
-PAGINATED_TEMPLATES = []
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
