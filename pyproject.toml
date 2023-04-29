@@ -11,9 +11,15 @@ packages = [{include = "recipe_book"}]
 python = "^3.11"
 pelican = {extras = ["markdown"], version = "^4.8.0"}
 ghp-import = "^2.1.0"
+asciidoc3 = "^3.2.3"
+
+#[tool.poetry.dependencies.asciidoc_reader]
+#git = "git@github.com:getpelican/pelican-plugins.git"
+#subdirectory = "asciidoc_reader"
 
 [tool.poetry.group.dev.dependencies]
 flake8 = "^6.0.0"
+black = "^23.3.0"
 
 [build-system]
 requires = ["poetry-core"]
