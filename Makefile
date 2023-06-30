@@ -76,6 +76,8 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 lint:
+	poetry run black *.py
+	poetry run ruff check *.py
 	bin/linter
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github lint
