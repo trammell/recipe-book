@@ -2,3 +2,5 @@
 
 egrep -r " [1-9]/[1-9] " content
 
+exit 0
+
