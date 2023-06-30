@@ -6,21 +6,20 @@ authors = ["John Trammell <john.trammell@gmail.com>"]
 license = "Apache-2.0"
 readme = "README.md"
 packages = [{include = "recipe_book"}]
+repository = "https://github.com/trammell/recipe-book"
+
+[tool.poetry.urls]
+issues = "https://github.com/trammell/recipes/issues"
 
 [tool.poetry.dependencies]
 python = "^3.11"
 pelican = {extras = ["markdown"], version = "^4.8.0"}
 ghp-import = "^2.1.0"
-asciidoc = "^10.2.0"
-
-# https://python-poetry.org/docs/dependency-specification/#git-dependencies
-[tool.poetry.dependencies.asciidoc_reader]
-git = "git@github.com:trammell/asciidoc-reader.git"
-branch = "main"
 
 [tool.poetry.group.dev.dependencies]
-flake8 = "^6.0.0"
 black = "^23.3.0"
+flake8 = "^6.0.0"
+ruff = "^0.0.275"
 
 [build-system]
 requires = ["poetry-core"]
