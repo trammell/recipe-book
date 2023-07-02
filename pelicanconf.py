@@ -1,13 +1,11 @@
 AUTHOR = "John"
 SITENAME = "Susan's Recipe Book"
 SITEURL = ""
-
 PATH = 'content'
-THEME = 'pelican-mangia'
-
+THEME = '/Users/john/src/github.com/trammell/pelican-mangia'
 TIMEZONE = "America/Chicago"
-
 DEFAULT_LANG = "en"
+MENUITEMS = ()
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
