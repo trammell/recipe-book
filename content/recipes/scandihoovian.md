@@ -3,7 +3,7 @@ title: The Scandihoovian
 category: cocktails
 tags: honey, gin
 
-<img src="{static}/images/vikre-aquavit.jpg" width="66%">
+<img src="{static}/images/vikre-aquavit.jpg">
 
 [vikre]: http://www.vikredistillery.com/cocktails
 [aquavit]: https://www.vikredistillery.com/products#aquavit
@@ -20,11 +20,9 @@ to find a link there. :sadface:
 
 Shake with ice, serve on the rocks.
 
---------------
-
 [se]: https://english.stackexchange.com/questions/112603/where-does-the-term-scandihoovian-come-from
 
-## [Where does the term *scandihoovian* come from?][se]
+### [Where does the term *scandihoovian* come from?][se]
 
 There's an interesting bit of research on [Stack Exchange][se]:
 
@@ -34,7 +32,6 @@ There's an interesting bit of research on [Stack Exchange][se]:
 > forested homelands.
 
 ...
-
 
 > The fourth volume of the Dictionary of American Regional English fortifies
 > Munch's final point with evidence that a jocular Americanized rendition of

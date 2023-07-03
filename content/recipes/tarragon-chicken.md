@@ -4,7 +4,7 @@ category: poultry
 tags: chicken, tarragon
 comment: FIXME
 
-<img src="{static}/images/raw-quartered-chicken.jpg" width="66%">
+<img src="{static}/images/raw-quartered-chicken.jpg">
 
 (*Poulet au vinaigre d'estragon*, if yer puttin' on airs.)
 

@@ -25,16 +25,16 @@ Makes 10 servings. Prep time: about 30 minutes.
 
 ## Directions
 
-* Roast hazelnuts for 8-12 minutes in a 350°F oven. Nuts should be in a single
-  layer on a rimmed baking sheet. Remove when golden brown and fragrant, let
-  cool, then rub hazelnuts between your fingers to loosen skins. Discard skins.
-  Roughly chop hazelnuts.
-* Whisk vinegar, honey, salt, mustard, and pepper in a medium bowl. Slowly
-  whisk in oil. Toss kale and Brussels sprouts with ¼ cup dressing in a large
-  bowl. Using your hands, massage dressing into kale mixture until leaves are
-  slightly softened and shiny, about 2 minutes. Let stand for 10 minutes. Add
-  pomegranate seeds and remaining dressing and toss to combine. Serve
-  immediately or refrigerate overnight.
+1. Roast hazelnuts for 8-12 minutes in a 350°F oven. Nuts should be in a single
+   layer on a rimmed baking sheet. Remove when golden brown and fragrant, let
+   cool, then rub hazelnuts between your fingers to loosen skins. Discard
+   skins. Roughly chop hazelnuts.
+2. Whisk vinegar, honey, salt, mustard, and pepper in a medium bowl. Slowly
+   whisk in oil. Toss kale and Brussels sprouts with ¼ cup dressing in a large
+   bowl. Using your hands, massage dressing into kale mixture until leaves are
+   slightly softened and shiny, about 2 minutes. Let stand for 10 minutes. Add
+   pomegranate seeds and remaining dressing and toss to combine. Serve
+   immediately or refrigerate overnight.
 
 Just before serving, add hazelnuts and toss to combine.
 

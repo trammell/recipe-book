@@ -14,6 +14,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Book configuration
+BOOK = {
+    'categories': [ 'cocktails' ]
+}
+
 # Blogroll
 LINKS = (("Source code on GitHub", "https://github.com/trammell/recipe-book"),)
 
@@ -22,7 +27,6 @@ EXTRA_PATH_METADATA = {"extra/favicon.ico": {"path": "favicon.ico"}}
 
 # Social widget
 SOCIAL = ()
-
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing

@@ -4,8 +4,8 @@ category: side dishes
 tags: easy, favorite
 
 <img src="{static}/images/wheat-berry-salad.jpg"
-  title="Wheat berry salad being assembled in a bowl on a spotless kitchen counter."
-  width="66%">
+  title="Wheat berry salad being assembled in a bowl
+  on a spotless kitchen counter.">
 
 [epi]: https://www.epicurious.com/recipes/food/views/wheat-berry-and-barley-salad-with-smoked-mozzarella-12251
 

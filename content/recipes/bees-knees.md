@@ -4,10 +4,9 @@ image: bees-knees.jpg
 category: cocktails
 tags: honey, gin
 
-<img
-  src="{static}/images/bees-knees.jpg"
-  title="The extra knees provided by the bees make this cocktail extra-potent. Is there a &ldquo;spider's knees&rdquo; cocktail?"
-  width="66%">
+<img src="{static}/images/bees-knees.jpg"
+  title="The extra knees provided by the bees make this cocktail extra-potent.
+         Is there a &ldquo;spider's knees&rdquo; cocktail?">
 
 Originally from [Vikre Distillery](http://www.vikredistillery.com/cocktails).
 

@@ -3,7 +3,7 @@ date: 2021-05-16
 category: sandwiches
 tags: cauliflower, mozzarella
 
-<img src="{static}/images/cauliflower-paninis.png" width="66%">
+<img src="{static}/images/cauliflower-paninis.png">
 
 [ba]: https://www.blueapron.com/recipes/cauliflower-parmesan-paninis-with-red-leaf-lettuce-apple-salad
 
