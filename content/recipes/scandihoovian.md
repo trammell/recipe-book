@@ -10,7 +10,7 @@ tags: honey, gin
 [gcb]: https://en.wikipedia.org/wiki/Gran_Classico_Bitter
 
 My notes say this recipe comes from [Vikre Distillery][vikre], but I can't seem
-to find a link there. :sadface:
+to find a link there. 🙁
 
 ## Ingredients
 
