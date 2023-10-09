@@ -38,4 +38,3 @@ Prep time: about 1 hour. Yields about 3 cups. Serves about 4.
 We stumbled across this recipe when we were tring to figure out what to do with
 all the amaranth our farm share dropped on us. The original recipe is at
 <https://holycowvegan.net/amaranth-dal/>, but we've added a couple of tweaks.
-
