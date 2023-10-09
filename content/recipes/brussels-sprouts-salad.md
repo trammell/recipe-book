@@ -3,7 +3,7 @@ date: 2023-04-28
 category: salads
 tags: vegetarian
 
-Source: realsimple.com, attributed to By Ananda Eidelstein, November 2018
+Source: [RealSimple.com](https://realsimple.com), attributed to By Ananda Eidelstein, November 2018
 
 > Both kale and Brussels sprouts stand up to the test of time and hold dressing
 > well for much longer than the standard salad can, making this make-ahead
@@ -48,4 +48,3 @@ Just before serving, add hazelnuts and toss to combine.
 * It can be difficult to find red kale. I usually substitute dinosaur
   (lacinato) kale and chiffonade the leaves.
 * I usually double the pomegranate seeds and add extra hazelnuts.
-

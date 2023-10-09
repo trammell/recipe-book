@@ -1,7 +1,7 @@
-Title: Susan's Guacamole
-Date: 2021-05-16
-Category: side dishes
-Tags: mexican, avocado
+title: Susan's Guacamole
+date: 2021-05-16
+category: side dishes
+tags: mexican, avocado
 
 Classic 6-ingredient guacamole. Prep time: 10 minutes. Serves: 4.
 
@@ -23,5 +23,5 @@ Classic 6-ingredient guacamole. Prep time: 10 minutes. Serves: 4.
 ## Tips
 
 * Lime juice will do in a pinch, but we prefer this recipe with lemon juice.
-* The avocado will rapidly darken when exposed to air; to delay this press
+* The avocado will rapidly darken when exposed to air. To delay this, press
   plastic wrap down on to the guacamole to keep air away.
