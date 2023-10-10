@@ -1,4 +1,5 @@
-## Noodle Salad with Spicy Peanut Butter Dressing
+title: Noodle Salad with Spicy Peanut Butter Dressing
+date: 2023-10-09
 
 Bon Appétit, February 2004 by Juli Tsuchiya-Waldron (Tokyo, Japan). Makes 6
 side-dish servings.
