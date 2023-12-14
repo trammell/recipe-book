@@ -1,8 +1,8 @@
 AUTHOR = "John"
 SITENAME = "Susan's Recipe Book"
 SITEURL = ""
-PATH = 'content'
-THEME = '/Users/john/src/github.com/trammell/pelican-mangia'
+PATH = "content"
+THEME = "/Users/john/src/github.com/trammell/pelican-mangia"
 TIMEZONE = "America/Chicago"
 DEFAULT_LANG = "en"
 MENUITEMS = ()
@@ -15,9 +15,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Book configuration
-BOOK = {
-    'categories': [ 'cocktails' ]
-}
+BOOK = {"categories": ["cocktails"]}
 
 # Blogroll
 LINKS = (("Source code on GitHub", "https://github.com/trammell/recipe-book"),)
