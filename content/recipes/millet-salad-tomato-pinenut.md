@@ -1,4 +1,4 @@
-## Warm millet salad with  sun-dried tomatoes and pine nuts
+## Warm millet salad with sun-dried tomatoes and pine nuts
 
 From [Delicious Living, March 2013](https://www.deliciousliving.com/recipe/warm-millet-salad-sun-dried-tomatoes-and-pine-nuts/). Author: Trina Kaufman.
 
