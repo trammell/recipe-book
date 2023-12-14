@@ -1,2 +1,5 @@
-pelican~=4.9.1
-ruff~=0.1.8
+pelican[markdown]~=4.8.0
+ghp-import~=2.1.0
+black~=23.3.0
+flake8~=6.0.0
+ruff~=0.0.275
