@@ -3,7 +3,7 @@
 A book of Susan's recipes.
 
 * [new, slick website with missing recipes](http://trammell.github.io/recipe-book/)
-* [the original, humdrum recipe file](recipe-book.md).
+* [the original, humdrum recipe file](etc/recipe-book.md).
 
 ## [Pelican](https://getpelican.com/)
 
