@@ -1,19 +1,22 @@
-## Creamy Tomato Soup
+Title: Creamy Tomato Soup
+Date: 2023-12-14
+Category: soups
+Tags: tomato
 
 Parade, August 2000. Makes 6 to 8 servings.
 
-> 2 tablespoons butter
-> 2 tablespoons olive oil
-> 1 large onion, chopped
-> 1 tablespoon minced garlic
-> 2 tablespoons flour
-> 3½ pounds ripe tomatoes, chopped
-> 2 tablespoons tomato paste
-> 1 teaspoon sugar
-> 3 cups chicken broth
-> ⅛ teaspoon ground cloves
-> Salt and pepper, to taste
-> ½ cup half-and-half
+* 2 tablespoons butter
+* 2 tablespoons olive oil
+* 1 large onion, chopped
+* 1 tablespoon minced garlic
+* 2 tablespoons flour
+* 3½ pounds ripe tomatoes, chopped
+* 2 tablespoons tomato paste
+* 1 teaspoon sugar
+* 3 cups chicken broth
+* ⅛ teaspoon ground cloves
+* Salt and pepper, to taste
+* ½ cup half-and-half
 
 Melt the butter with the oil over low heat in a pot. Add the onion; wilt over
 low heat for 8 to 10 minutes. Add the garlic during the last 2 minutes,
@@ -25,6 +28,3 @@ cloves, salt, and pepper. Remove from heat and cool slightly.
 
 Purée the soup in a food processor. Pour through a strainer into a pot. Stir in
 the half-and-half.  Warm the soup before serving.
-
-
-
