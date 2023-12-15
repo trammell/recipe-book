@@ -1,4 +1,7 @@
-## Green Tea / Cranberry Spritzer
+Title: Green Tea and Cranberry Spritzer
+Date: 2023-12-14
+Category: refresher 
+Tags: tea
 
 Martha Stewart Living, April 2011; serves 4.
 
@@ -13,5 +16,3 @@ Bring sugar and water to a boil in a saucepan. Cook, stirring, until sugar
 dissolves. Let cool completely. Steep tea bags in 2 cups boiling water for 2
 minutes. Remove bags. Let cool completely. Divide tea, cranberry juice, and the
 simple syrup among 4 ice-filled glasses. Top with chilled seltzer.
-
-  

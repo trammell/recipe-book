@@ -1,19 +1,20 @@
-## Pork Tenderloin with Herbed Breadcrumb Crust
+Title: Pork Tenderloin with Herbed Breadcrumb Crust
+Date: 2023-12-14
+Category: main dishes
+Tags: pork
 
 Bon Appétit, September 1998.  Serves 8.
 
 Simple, appealing and perfect with the polenta. Pour a Barbera or Pinot Bianco.
 
-> 6 cups fresh breadcrumbs made from French bread
-> ⅔ cup chopped fresh parsley
-> 2 tablespoons chopped fresh rosemary
-> 1¾ teaspoons crumbled bay leaves
-
-> 3 pounds pork tenderloins, trimmed
-> 2 large eggs, beaten to blend
-
-> 4 tablespoons (½ stick) butter
-> 2 tablespoons olive oil
+* 6 cups fresh breadcrumbs made from French bread
+* ⅔ cup chopped fresh parsley
+* 2 tablespoons chopped fresh rosemary
+* 1¾ teaspoons crumbled bay leaves
+* 3 pounds pork tenderloins, trimmed
+* 2 large eggs, beaten to blend
+* 4 tablespoons (½ stick) butter
+* 2 tablespoons olive oil
 
 Preheat oven to 375 °F. Mix first 4 ingredients in large bowl to blend. Season
 to taste with salt and pepper.
@@ -29,6 +30,3 @@ remaining 2 tablespoons butter, 1 tablespoon oil and pork.
 Roast pork until crust is golden and thermometer inserted into center registers
 155 °F, about 20 minutes. Transfer pork to cutting board. Let stand 5 minutes.
 Slice pork and serve.
-
-
-
