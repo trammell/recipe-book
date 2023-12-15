@@ -1,6 +1,11 @@
-## Adeline's Favorite Muffins
+Title: Poppyseed Muffins
+Date: 2023-12-14
+Category: breakfasts
+Tags: favorite
 
 Makes 12.
+
+## Ingredients
 
 > 2 cups whole wheat white flour  
 > ½ teaspoon salt  

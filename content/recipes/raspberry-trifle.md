@@ -1,14 +1,23 @@
-## Amanda Trammell's Raspberry Trifle
+Title: Raspberry Trifle
+Date: 2023-12-14
+Category: desserts
+Tags: berry
+Cuisine: american
+Summary: A great trifle recipe from a relative.
 
-> 1 (10¾ oz.) loaf frozen pound cake  
-> 1½ c. heavy cream  
-> ¾ c. granulated sugar  
-> 2 (8 oz) pkgs cream cheese, softened  
-> 2 tsp. lemon juice  
-> 2 tsp. vanilla  
-> 2 (10 oz) pkgs frozen sweetened raspberries, thawed  
-> 2 T. baking cocoa powder  
-> fresh raspberries, option (for garnish)  
+## Ingredients
+
+* 1 (10¾ oz.) loaf frozen pound cake
+* 1½ c. heavy cream
+* ¾ c. granulated sugar  
+* 2 (8 oz) pkgs cream cheese, softened  
+* 2 tsp. lemon juice  
+* 2 tsp. vanilla  
+* 2 (10 oz) pkgs frozen sweetened raspberries, thawed  
+* 2 T. baking cocoa powder  
+* fresh raspberries, option (for garnish)  
+
+## Instructions
 
 * Slice cake into 18-20 slices (cubes work also). Set aside.
 * In a mixing bowl, beat cream with ¼ c. sugar until stiff peaks form.  Set
@@ -24,5 +33,3 @@
   cream and sifted cocoa.
 * Cover and refrigerate for 4 hours or overnight. Garnish with fresh
   raspberries just before serving.
-
-
