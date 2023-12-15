@@ -9,13 +9,13 @@ simple process does something magical to vegetables.
 The payoff: Roasting caramelizes the sugars and creates veggies that are
 browned on the outside and tender on the inside.
 
-> 2¼ pounds medium parsnips, trimmed, peeled, cut into 3x½-inch sticks  
-> 1½ pounds medium carrots, trimmed, peeled, cut into 3x½-inch sticks  
-> ¼ cup extra-virgin olive oil  
-> 2 tablespoons white balsamic vinegar  
-> 1 tablespoon minced fresh rosemary  
-> 2 teaspoons coarse kosher salt  
-> 1 teaspoon black pepper  
+> 2¼ pounds medium parsnips, trimmed, peeled, cut into 3x½-inch sticks
+> 1½ pounds medium carrots, trimmed, peeled, cut into 3x½-inch sticks
+> ¼ cup extra-virgin olive oil
+> 2 tablespoons white balsamic vinegar
+> 1 tablespoon minced fresh rosemary
+> 2 teaspoons coarse kosher salt
+> 1 teaspoon black pepper
 
 Preheat oven to 425 °F. Combine parsnips and carrots on large rimmed baking
 sheet. Add oil and remaining ingredients; toss to coat. Spread in even layer on

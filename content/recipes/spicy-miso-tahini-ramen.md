@@ -6,25 +6,25 @@ From Epicurious. Serves 4. Prep time: 30 minutes.
 
 Ingredients:
 
-> 2 tablespoons toasted sesame oil  
-> 2 tablespoons mirin  
-> 1 yellow onion, thinly sliced      
-> 8 cups purified water     
-> 2 cups thinly sliced shiitake mushrooms   
-> 2 tablespoons Japanese chili paste or Sriracha sauce   
-> ½ cup organic red miso paste   
-> 2 (10-ounce) packages fresh ramen noodles (look for Sun Noodle brand)   
-> ¼ cup tahini paste or neri goma   
+> 2 tablespoons toasted sesame oil
+> 2 tablespoons mirin
+> 1 yellow onion, thinly sliced    
+> 8 cups purified water   
+> 2 cups thinly sliced shiitake mushrooms 
+> 2 tablespoons Japanese chili paste or Sriracha sauce 
+> ½ cup organic red miso paste 
+> 2 (10-ounce) packages fresh ramen noodles (look for Sun Noodle brand) 
+> ¼ cup tahini paste or neri goma 
 
 Toppings:
 
-> 2 cups baby spinach   
-> Chili oil, for drizzling (optional)   
-> 2 green onions, thinly sliced on the bias   
-> Togarashi, for sprinkling (optional)   
-> 2 soft-boiled eggs, sliced in half (optional)   
-> Nori, cut into small rectangular pieces, for dipping (optional)   
-> 1 avocado, pitted, peeled, and thinly sliced   
+> 2 cups baby spinach 
+> Chili oil, for drizzling (optional) 
+> 2 green onions, thinly sliced on the bias 
+> Togarashi, for sprinkling (optional) 
+> 2 soft-boiled eggs, sliced in half (optional) 
+> Nori, cut into small rectangular pieces, for dipping (optional) 
+> 1 avocado, pitted, peeled, and thinly sliced 
 
 In a large saucepan or stockpot, warm the toasted sesame oil over medium heat. Add the onion and sauté for 8 to 10 minutes, or until fragrant and translucent. Add 1 cup of the mushrooms and sauté for 2 to 3 minutes more.
 

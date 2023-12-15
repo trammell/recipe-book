@@ -5,16 +5,16 @@ Gourmet, July 2007.  Makes 4 modest servings.  Total prep time: 45 minutes.
 Quinoa is a fast-cooking, protein-packed whole grain. Steamed, it makes a
 perfect partner for lime-spiked black beans and fresh tomato.
 
-> 2 teaspoons grated lime zest  
-> 2 tablespoons fresh lime juice  
-> 2 tablespoons unsalted butter, melted and cooled  
-> 1 tablespoon vegetable oil  
-> 1 teaspoon sugar  
-> 1 cup quinoa  
-> 1 (14- to 15-ounce) can black beans, rinsed and drained  
-> 2 medium tomatoes, diced  
-> 4 scallions, chopped  
-> ¼ cup chopped fresh cilantro  
+> 2 teaspoons grated lime zest
+> 2 tablespoons fresh lime juice
+> 2 tablespoons unsalted butter, melted and cooled
+> 1 tablespoon vegetable oil
+> 1 teaspoon sugar
+> 1 cup quinoa
+> 1 (14- to 15-ounce) can black beans, rinsed and drained
+> 2 medium tomatoes, diced
+> 4 scallions, chopped
+> ¼ cup chopped fresh cilantro
 
 Whisk together lime zest and juice, butter, oil, sugar, ½ teaspoon salt, and
 ¼ teaspoon pepper in a large bowl.

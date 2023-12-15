@@ -9,17 +9,17 @@ attributed to By Ananda Eidelstein, November 2018
 
 Makes 8 servings. Prep time: about 30 minutes.
 
-> 1 cup hazelnuts  
-> ¼ cup white balsamic or white wine vinegar  
-> 2 tablespoons honey  
-> 1¼ teaspoon kosher salt  
-> 1 teaspoon Dijon mustard  
+> 1 cup hazelnuts
+> ¼ cup white balsamic or white wine vinegar
+> 2 tablespoons honey
+> 1¼ teaspoon kosher salt
+> 1 teaspoon Dijon mustard
 > ¼ teaspoon freshly ground black pepper
-> ½ cup olive oil  
-> 1 large bunch red kale, ribs removed, leaves torn into bite-size pieces (about 10 cups)  
-> 1 pound Brussels sprouts, trimmed and shredded in a food processor (about 6 cups)  
-> 1 cup pomegranate seeds  
-> 2 cups butter and herb croutons  
+> ½ cup olive oil
+> 1 large bunch red kale, ribs removed, leaves torn into bite-size pieces (about 10 cups)
+> 1 pound Brussels sprouts, trimmed and shredded in a food processor (about 6 cups)
+> 1 cup pomegranate seeds
+> 2 cups butter and herb croutons
 
 Roast hazelnuts for 8-12 minutes in a 350°F oven. Nuts should be in a single
 layer on a rimmed baking sheet. Remove when golden brown and fragrant, let

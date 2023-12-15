@@ -4,14 +4,14 @@ category: soup
 
 Bon Appétit, May 1996, by Patricia Murray: County Kerry, Ireland. Serves 6.
 
-> 2 tablespoons (¼ stick) butter  
-> 1 large onion, chopped  
-> 1 cup chopped celery  
-> 1 cup chopped peeled carrots  
-> 1½ pounds smoked pork hocks  
-> 2 teaspoons dried leaf marjoram  
-> 1½ cups green split peas  
-> 8 cups water  
+> 2 tablespoons (¼ stick) butter
+> 1 large onion, chopped
+> 1 cup chopped celery
+> 1 cup chopped peeled carrots
+> 1½ pounds smoked pork hocks
+> 2 teaspoons dried leaf marjoram
+> 1½ cups green split peas
+> 8 cups water
 
 Melt butter in heavy large pot or Dutch oven over medium-high heat. Add onion,
 celery and carrots. Sauté until vegetables begin to soften, about 8 minutes.

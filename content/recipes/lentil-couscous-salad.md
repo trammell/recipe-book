@@ -7,26 +7,26 @@ Tags: favorite
 
 ### green lentils
 
-* ¾ c. petite french green lentils  
-* 1½ c. water  
+* ¾ c. petite french green lentils
+* 1½ c. water
 
 ### orange lentils
 
-* ¾ c. petite crimson lentils (orange lentils)  
-* 1½ c. water  
-* 1 tsp. lemon juice  
+* ¾ c. petite crimson lentils (orange lentils)
+* 1½ c. water
+* 1 tsp. lemon juice
 
 * ¾ c. couscous (cooked per package directions in chicken broth and 1 Tb. olive oil)
 
 ### sauce
 
-* 3 Tb. while wine vinegar  
-* 1 tsp. White Wine Worcestershire Sauce  
-* 3 Tb. lemon juice  
-* 1½ tsp. ground cumin  
-* 1 clove garlic, crushed  
-* ½ tsp oregano  
-* ⅓ c. olive oil  
+* 3 Tb. while wine vinegar
+* 1 tsp. White Wine Worcestershire Sauce
+* 3 Tb. lemon juice
+* 1½ tsp. ground cumin
+* 1 clove garlic, crushed
+* ½ tsp oregano
+* ⅓ c. olive oil
 
 ## Instructions
 

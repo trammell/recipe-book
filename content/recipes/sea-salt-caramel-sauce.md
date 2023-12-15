@@ -2,18 +2,18 @@
 
 From *Real Simple*, December 2018. Improvements added by John & Susan.
 
-**Active time:** 45 minutes  
-**Total time:** 45 minutes  
-**Makes:** 7¼ cups caramel  
+**Active time:** 45 minutes
+**Total time:** 45 minutes
+**Makes:** 7¼ cups caramel
 
 Ingredients:
 
-> 5 cups granulated sugar  
-> 1½ cups water  
-> 3 cups heavy cream  
-> 1¼ cups unsalted butter (2½ sticks) , cut into cubes  
-> 3 tablespoons pure vanilla extract  
-> 1 teaspoon fine sea salt  
+> 5 cups granulated sugar
+> 1½ cups water
+> 3 cups heavy cream
+> 1¼ cups unsalted butter (2½ sticks) , cut into cubes
+> 3 tablespoons pure vanilla extract
+> 1 teaspoon fine sea salt
 
 * Stir together sugar and 1½ cups water in a large heavy-bottomed pot. Place
   over medium-high and cook, undisturbed, until the sugar begins to turn amber

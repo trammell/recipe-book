@@ -3,26 +3,26 @@
 This recipe is from the King Arthur Flour website:
 https://www.kingarthurflour.com/recipes/sopa-paraguaya-recipe
 
-Prep time: 20 minutes  
-Bake time: 35-40 minutes  
-Total time: about 1 hour  
-Serves: 8-10 servings  
+Prep time: 20 minutes
+Bake time: 35-40 minutes
+Total time: about 1 hour
+Serves: 8-10 servings
 
-> 1 Tbsp butter  
-> 1 Tbsp vegetable oil  
-> 1 cup diced onion   
-> ¼ cup diced red bell pepper  
-> ¼ cup diced red green pepper   
-> 1½ cups cornmeal   
-> 1 cup milk   
-> 2 Tbsp sugar   
-> ½ cup cottage cheese   
-> 2 large eggs   
-> 1 tsp salt   
-> ½ tsp ground black pepper  
-> 2 tsp baking powder   
-> 1½ cups fresh or frozen corn kernels   
-> 1 cup grated Monterey jack cheese  
+> 1 Tbsp butter
+> 1 Tbsp vegetable oil
+> 1 cup diced onion 
+> ¼ cup diced red bell pepper
+> ¼ cup diced red green pepper 
+> 1½ cups cornmeal 
+> 1 cup milk 
+> 2 Tbsp sugar 
+> ½ cup cottage cheese 
+> 2 large eggs 
+> 1 tsp salt 
+> ½ tsp ground black pepper
+> 2 tsp baking powder 
+> 1½ cups fresh or frozen corn kernels 
+> 1 cup grated Monterey jack cheese
 
 *Instructions*
 

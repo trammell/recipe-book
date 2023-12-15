@@ -2,13 +2,13 @@
 
 Makes about 1 quart (serves 4-6).
 
-> 4 teaspoons grated zest plus ½ cup juice from 2-3 medium limes  
-> 4 teaspoons grated zest plus ½ cup juice from 2-3 medium lemons  
-> ¼ cup superfine sugar  
-> pinch salt  
-> 2 cups crushed ice  
-> 1 cup 100 percent agave tequila, preferably reposado  
-> 1 cup triple sec  
+> 4 teaspoons grated zest plus ½ cup juice from 2-3 medium limes
+> 4 teaspoons grated zest plus ½ cup juice from 2-3 medium lemons
+> ¼ cup superfine sugar
+> pinch salt
+> 2 cups crushed ice
+> 1 cup 100 percent agave tequila, preferably reposado
+> 1 cup triple sec
 
 Combine the lime zest and juice, the lemon zest and juice, sugar and salt in a
 large liquid measuring cup. Cover with plastic wrap and refrigerate until

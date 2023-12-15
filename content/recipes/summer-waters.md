@@ -2,11 +2,11 @@
 
 Source: Better Homes and Gardens, May 2005. Makes 8 (8-ounce) servings.
 
-> 2 to 3 slices ripe honeydew melon  
-> 1 lime, sliced ¼-inch thick  
-> 4 mint sprigs  
-> 2 quarts water  
-> ice cubes  
+> 2 to 3 slices ripe honeydew melon
+> 1 lime, sliced ¼-inch thick
+> 4 mint sprigs
+> 2 quarts water
+> ice cubes
 
 Add slices of melon, lime slices, and mint sprigs to a large pitcher. Fill
 pitcher with the water. Refrigerate for 2 to 4 hours to allow fruit and herbs

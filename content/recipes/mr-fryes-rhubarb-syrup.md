@@ -12,7 +12,7 @@ Prep time: 90 minutes. Yields about 3 cups.
 
 - 2 cups (400g) sugar
 - 2 cups (480mL) water
-- 1 teaspoon (6g) citric acid, or the juice of one whole lemon  
+- 1 teaspoon (6g) citric acid, or the juice of one whole lemon
 - 5 cups (225g) roughly chopped rhubarb, skin on (about 3 large stalks)
 
 ## Directions

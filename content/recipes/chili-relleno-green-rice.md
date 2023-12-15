@@ -3,24 +3,24 @@
 Recipe courtesy of Rachael Ray & The Foodnetwork.com, 2007.  Serves 4.  Total
 prep time: 45 minutes.
 
-> 4 cups chicken or vegetable stock, divided  
-> 1 bay leaf  
-> 2 cups white rice  
-> 4 large poblano peppers  
-> 6 ears corn on the cob or 3 cups frozen corn kernels  
-> 3 tablespoons corn, peanut or vegetable oil, divided  
-> 1 red onion, chopped  
-> 1 jalapeno, seeded and chopped  
-> 4 cloves garlic, chopped  
-> 1 (15-ounce) can fire roasted diced tomatoes, drained well  
-> 1½ teaspoons ground cumin, ½ palm full  
-> ½ teaspoon dried oregano, eyeball it in your palm  
-> Salt and freshly ground black pepper  
-> ½ cup fresh cilantro leaves  
-> ½ pound spinach leaves, deveined and coarsely chopped  
-> 4 scallions, coarsely chopped  
-> 2 limes, zested, juiced  
-> 1 cup shredded Chihuahua cheese, Asadero or Monterey Jack  
+> 4 cups chicken or vegetable stock, divided
+> 1 bay leaf
+> 2 cups white rice
+> 4 large poblano peppers
+> 6 ears corn on the cob or 3 cups frozen corn kernels
+> 3 tablespoons corn, peanut or vegetable oil, divided
+> 1 red onion, chopped
+> 1 jalapeno, seeded and chopped
+> 4 cloves garlic, chopped
+> 1 (15-ounce) can fire roasted diced tomatoes, drained well
+> 1½ teaspoons ground cumin, ½ palm full
+> ½ teaspoon dried oregano, eyeball it in your palm
+> Salt and freshly ground black pepper
+> ½ cup fresh cilantro leaves
+> ½ pound spinach leaves, deveined and coarsely chopped
+> 4 scallions, coarsely chopped
+> 2 limes, zested, juiced
+> 1 cup shredded Chihuahua cheese, Asadero or Monterey Jack
 
 Preheat broiler or grill pan to high. (Don't do this until the poblanos are
 ready.) Place poblanos under broiler or on hot grill and char evenly all over,

@@ -4,17 +4,17 @@ Williams-Sonoma Kitchen, Bon Appétit, July 1997. Serves 6. Total prep time: 45
 minutes.
 
 
-> 1 12-ounce container frozen orange juice from concentrate, thawed  
-> ⅓ cup dry white wine  
-> ⅓ cup honey-Dijon mustard  
-> 2 tablespoons finely chopped fresh rosemary or 2 teaspoons dried  
-> 4 teaspoons soy sauce  
-> 2 teaspoons hot pepper sauce (such as Tabasco)  
-> 1 large garlic clove, chopped  
+> 1 12-ounce container frozen orange juice from concentrate, thawed
+> ⅓ cup dry white wine
+> ⅓ cup honey-Dijon mustard
+> 2 tablespoons finely chopped fresh rosemary or 2 teaspoons dried
+> 4 teaspoons soy sauce
+> 2 teaspoons hot pepper sauce (such as Tabasco)
+> 1 large garlic clove, chopped
 
-> 1 cup hickory smoke chips, soaked in water 30 minutes, drained  
+> 1 cup hickory smoke chips, soaked in water 30 minutes, drained
 > small (8" x 6") foil container (make out of tinfoil in a pinch)
-> 2 7-pound chickens, each cut into 8 pieces (breasts halved if large)  
+> 2 7-pound chickens, each cut into 8 pieces (breasts halved if large)
 
 Blend first 7 ingredients in processor to make the orange glaze. Set glaze
 aside.

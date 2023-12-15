@@ -4,13 +4,13 @@ By Rachel Fishman Feddersen, Parenting.com.  A quick and easy weeknight dinner
 idea using boxed soup, tilapia and prepared curry paste.
 
 
-Serves: 4  
-Total time: 20 minutes  
+Serves: 4
+Total time: 20 minutes
 
-> 1 box butternut squash soup  
-> 1 to 2 Tbsp (or to taste) Thai red curry paste (or leftover sauce from Thai takeout)  
-> 1 lb tilapia fillet  
-> ¼ to ½ lb green beans, trimmed  
+> 1 box butternut squash soup
+> 1 to 2 Tbsp (or to taste) Thai red curry paste (or leftover sauce from Thai takeout)
+> 1 lb tilapia fillet
+> ¼ to ½ lb green beans, trimmed
 
 Heat soup in a large pot over medium-high heat.  Stir in the curry paste or
 leftover sauce.  Reduce to medium heat. Add the fish and cook, without boiling,

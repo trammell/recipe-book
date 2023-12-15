@@ -8,12 +8,12 @@ Bon Appétit, January 1992. Serves 12.
 
 ## Ingredients
 
-* 3 pounds green beans, trimmed, cut into 2-inch pieces  
-* 3 tablespoons country-style Dijon mustard  
-* ¼ cup Sherry wine vinegar  
-* ⅔ cup olive oil  
-* ⅓ cup minced shallots  
-* 2 1-pint baskets cherry tomatoes  
+* 3 pounds green beans, trimmed, cut into 2-inch pieces
+* 3 tablespoons country-style Dijon mustard
+* ¼ cup Sherry wine vinegar
+* ⅔ cup olive oil
+* ⅓ cup minced shallots
+* 2 1-pint baskets cherry tomatoes
 
 ## Instructions
 

@@ -9,13 +9,13 @@ Summary: A great trifle recipe from a relative.
 
 * 1 (10¾ oz.) loaf frozen pound cake
 * 1½ c. heavy cream
-* ¾ c. granulated sugar  
-* 2 (8 oz) pkgs cream cheese, softened  
-* 2 tsp. lemon juice  
-* 2 tsp. vanilla  
-* 2 (10 oz) pkgs frozen sweetened raspberries, thawed  
-* 2 T. baking cocoa powder  
-* fresh raspberries, option (for garnish)  
+* ¾ c. granulated sugar
+* 2 (8 oz) pkgs cream cheese, softened
+* 2 tsp. lemon juice
+* 2 tsp. vanilla
+* 2 (10 oz) pkgs frozen sweetened raspberries, thawed
+* 2 T. baking cocoa powder
+* fresh raspberries, option (for garnish)
 
 ## Instructions
 

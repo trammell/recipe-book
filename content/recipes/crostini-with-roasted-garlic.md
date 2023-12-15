@@ -8,21 +8,21 @@ great restaurant: 128 Cafe. The last time they were there they tried a
 delicious appetizer of crisp bread with roasted garlic, goat cheese and apple
 chutney.
 
-> 1 cup (packed) golden brown sugar  
-> ¾ cup rice vinegar  
-> 2 garlic cloves, minced  
-> 1½ teaspoons minced peeled fresh ginger  
-> ⅛ teaspoon cayenne pepper  
-> 1 cinnamon stick  
-> 1½ pounds Granny Smith apples, peeled, cored, cut into ½-inch pieces (about 4 cups)  
-> 1 cup golden raisins  
-> 1 cup diced seeded plum tomatoes  
-> 1 tablespoon chopped fresh mint  
+> 1 cup (packed) golden brown sugar
+> ¾ cup rice vinegar
+> 2 garlic cloves, minced
+> 1½ teaspoons minced peeled fresh ginger
+> ⅛ teaspoon cayenne pepper
+> 1 cinnamon stick
+> 1½ pounds Granny Smith apples, peeled, cored, cut into ½-inch pieces (about 4 cups)
+> 1 cup golden raisins
+> 1 cup diced seeded plum tomatoes
+> 1 tablespoon chopped fresh mint
 
-> 1 French-bread baguette, cut into ⅓-inch-thick slices  
-> Olive oil  
-> Roasted Garlic  
-> 12 ounces soft fresh goat cheese (such as Montrachet), room temperature  
+> 1 French-bread baguette, cut into ⅓-inch-thick slices
+> Olive oil
+> Roasted Garlic
+> 12 ounces soft fresh goat cheese (such as Montrachet), room temperature
 
 Stir sugar and vinegar in heavy large saucepan over medium heat until sugar
 dissolves. Add next 4 ingredients and simmer until mixture is syrupy and

@@ -4,10 +4,10 @@ Bon Appétit, April 2004. Makes 24.
 
 These delicious small pastries are easy to make, and they're sure to disappear quickly.
 
-> 2 sheets frozen puff pastry (one 17.3-ounce package), thawed, each sheet cut into 12 squares  
-> 1 large egg beaten to blend with 1 Tb water (for glaze)  
-> 4 3½-ounce bars imported bittersweet or milk chocolate, each cut into six 2x¾-inch pieces  
-> sugar  
+> 2 sheets frozen puff pastry (one 17.3-ounce package), thawed, each sheet cut into 12 squares
+> 1 large egg beaten to blend with 1 Tb water (for glaze)
+> 4 3½-ounce bars imported bittersweet or milk chocolate, each cut into six 2x¾-inch pieces
+> sugar
 
 Line baking sheet with parchment paper. Brush top of each puff pastry square
 with egg glaze. Place 1 chocolate piece on edge of 1 pastry square. Roll up

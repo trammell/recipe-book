@@ -4,16 +4,16 @@ Bon Appétit, September 1998.  Serves 8.
 
 Simple, appealing and perfect with the polenta. Pour a Barbera or Pinot Bianco.
 
-> 6 cups fresh breadcrumbs made from French bread  
-> ⅔ cup chopped fresh parsley  
-> 2 tablespoons chopped fresh rosemary  
-> 1¾ teaspoons crumbled bay leaves  
+> 6 cups fresh breadcrumbs made from French bread
+> ⅔ cup chopped fresh parsley
+> 2 tablespoons chopped fresh rosemary
+> 1¾ teaspoons crumbled bay leaves
 
-> 3 pounds pork tenderloins, trimmed  
-> 2 large eggs, beaten to blend  
+> 3 pounds pork tenderloins, trimmed
+> 2 large eggs, beaten to blend
 
-> 4 tablespoons (½ stick) butter  
-> 2 tablespoons olive oil  
+> 4 tablespoons (½ stick) butter
+> 2 tablespoons olive oil
 
 Preheat oven to 375 °F. Mix first 4 ingredients in large bowl to blend. Season
 to taste with salt and pepper.

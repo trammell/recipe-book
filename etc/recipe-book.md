@@ -104,17 +104,17 @@ Bon Appétit, October 2001.  Makes 20 servings.
 If you don't have time to make your own hummus, buy some at the market or
 specialty foods store, and mix in chipotle chilies and cumin to taste.
 
-> 2 15-ounce cans garbanzo beans (chickpeas), drained  
-> ½ cup water  
-> ¼ cup plus 2 tablespoons tahini (sesame seed paste)  
-> 3 tablespoons plus 2 teaspoons fresh lemon juice  
-> 2 tablespoons olive oil  
-> 2½ teaspoons minced canned chipotle chilies  
-> 1 large garlic clove, minced  
-> 1½ teaspoons ground cumin  
-> 1 4-ounce jar sliced pimientos in oil, drained  
-> ⅓ cup chopped fresh cilantro  
-> 2 6-ounce packages roasted-garlic bagel chips  
+> 2 15-ounce cans garbanzo beans (chickpeas), drained
+> ½ cup water
+> ¼ cup plus 2 tablespoons tahini (sesame seed paste)
+> 3 tablespoons plus 2 teaspoons fresh lemon juice
+> 2 tablespoons olive oil
+> 2½ teaspoons minced canned chipotle chilies
+> 1 large garlic clove, minced
+> 1½ teaspoons ground cumin
+> 1 4-ounce jar sliced pimientos in oil, drained
+> ⅓ cup chopped fresh cilantro
+> 2 6-ounce packages roasted-garlic bagel chips
 
 Reserve 3 tablespoons garbanzo beans for garnish. Blend remaining garbanzo
 beans and next 7 ingredients in processor until smooth. Add pimientos;
@@ -134,8 +134,8 @@ chips.
 
 Bon Appétit, October 1999. Makes about 1 ⅓ cups.
 
-> large heads of garlic  
-> ¼ cup olive oil  
+> large heads of garlic
+> ¼ cup olive oil
 
 Preheat oven to 350 °F. Cut top ¼ inch off heads of garlic to expose cloves.
 Place garlic in small baking dish. Add oil and sprinkle with salt and pepper;
@@ -149,12 +149,12 @@ Cool. Squeeze garlic cloves from skins.
 
 Serves 6 (unless Uncle John is visiting then serves not so many)
 
-> 2 medium avocados  
-> 1 small tomato, chopped  
-> 2 tablespoons minced onion  
-> 1-2 teaspoons lime or lemon juice  
-> ½ teaspoon garlic powder  
-> ½ teaspoon salt  
+> 2 medium avocados
+> 1 small tomato, chopped
+> 2 tablespoons minced onion
+> 1-2 teaspoons lime or lemon juice
+> ½ teaspoon garlic powder
+> ½ teaspoon salt
 
 Peel avocadoes. Mash with a fork in a medium bowl.  Stir in tomato, onion,
 lime or lemon juice, garlic powder and salt.  Serve quickly with chips or jicama slices.
@@ -173,21 +173,21 @@ great restaurant: 128 Cafe. The last time they were there they tried a
 delicious appetizer of crisp bread with roasted garlic, goat cheese and apple
 chutney.
 
-> 1 cup (packed) golden brown sugar  
-> ¾ cup rice vinegar  
-> 2 garlic cloves, minced  
-> 1½ teaspoons minced peeled fresh ginger  
-> ⅛ teaspoon cayenne pepper  
-> 1 cinnamon stick  
-> 1½ pounds Granny Smith apples, peeled, cored, cut into ½-inch pieces (about 4 cups)  
-> 1 cup golden raisins  
-> 1 cup diced seeded plum tomatoes  
-> 1 tablespoon chopped fresh mint  
+> 1 cup (packed) golden brown sugar
+> ¾ cup rice vinegar
+> 2 garlic cloves, minced
+> 1½ teaspoons minced peeled fresh ginger
+> ⅛ teaspoon cayenne pepper
+> 1 cinnamon stick
+> 1½ pounds Granny Smith apples, peeled, cored, cut into ½-inch pieces (about 4 cups)
+> 1 cup golden raisins
+> 1 cup diced seeded plum tomatoes
+> 1 tablespoon chopped fresh mint
 
-> 1 French-bread baguette, cut into ⅓-inch-thick slices  
-> Olive oil  
-> Roasted Garlic  
-> 12 ounces soft fresh goat cheese (such as Montrachet), room temperature  
+> 1 French-bread baguette, cut into ⅓-inch-thick slices
+> Olive oil
+> Roasted Garlic
+> 12 ounces soft fresh goat cheese (such as Montrachet), room temperature
 
 Stir sugar and vinegar in heavy large saucepan over medium heat until sugar
 dissolves. Add next 4 ingredients and simmer until mixture is syrupy and
@@ -215,25 +215,25 @@ From Epicurious. Serves 4. Prep time: 30 minutes.
 
 Ingredients:
 
-> 2 tablespoons toasted sesame oil  
-> 2 tablespoons mirin  
-> 1 yellow onion, thinly sliced      
-> 8 cups purified water     
-> 2 cups thinly sliced shiitake mushrooms   
-> 2 tablespoons Japanese chili paste or Sriracha sauce   
-> ½ cup organic red miso paste   
-> 2 (10-ounce) packages fresh ramen noodles (look for Sun Noodle brand)   
-> ¼ cup tahini paste or neri goma   
+> 2 tablespoons toasted sesame oil
+> 2 tablespoons mirin
+> 1 yellow onion, thinly sliced    
+> 8 cups purified water   
+> 2 cups thinly sliced shiitake mushrooms 
+> 2 tablespoons Japanese chili paste or Sriracha sauce 
+> ½ cup organic red miso paste 
+> 2 (10-ounce) packages fresh ramen noodles (look for Sun Noodle brand) 
+> ¼ cup tahini paste or neri goma 
 
 Toppings:
 
-> 2 cups baby spinach   
-> Chili oil, for drizzling (optional)   
-> 2 green onions, thinly sliced on the bias   
-> Togarashi, for sprinkling (optional)   
-> 2 soft-boiled eggs, sliced in half (optional)   
-> Nori, cut into small rectangular pieces, for dipping (optional)   
-> 1 avocado, pitted, peeled, and thinly sliced   
+> 2 cups baby spinach 
+> Chili oil, for drizzling (optional) 
+> 2 green onions, thinly sliced on the bias 
+> Togarashi, for sprinkling (optional) 
+> 2 soft-boiled eggs, sliced in half (optional) 
+> Nori, cut into small rectangular pieces, for dipping (optional) 
+> 1 avocado, pitted, peeled, and thinly sliced 
 
 In a large saucepan or stockpot, warm the toasted sesame oil over medium heat. Add the onion and sauté for 8 to 10 minutes, or until fragrant and translucent. Add 1 cup of the mushrooms and sauté for 2 to 3 minutes more.
 
@@ -248,20 +248,20 @@ Divide the noodles among four bowls. Add the spinach and green onions to each bo
 
 *Real Simple*, December 2018. Prep time: 15 minutes. Cook time: 5 hours. Serves 8.
 
-> 8 cups low-sodium vegetable broth  
-> 3 poblano chiles, chopped  
-> 1 onion, chopped  
-> 8 cloves garlic, chopped  
-> ¼ cup olive oil  
-> 2 Tbsp chili powder  
-> 1 Tbsp tomato paste  
-> 1 tsp dried oregano  
-> 1 pound dried black beans  
-> 1 28-ounce can golden or white hominy, drained  
-> ¼ cup fresh lime juice (about 2 limes' worth)  
-> 1½ tsp kosher salt  
-> ⅛ tsp cayenne  
-> cilantro, sour cream, sliced avocado, sliced radishes for garnish  
+> 8 cups low-sodium vegetable broth
+> 3 poblano chiles, chopped
+> 1 onion, chopped
+> 8 cloves garlic, chopped
+> ¼ cup olive oil
+> 2 Tbsp chili powder
+> 1 Tbsp tomato paste
+> 1 tsp dried oregano
+> 1 pound dried black beans
+> 1 28-ounce can golden or white hominy, drained
+> ¼ cup fresh lime juice (about 2 limes' worth)
+> 1½ tsp kosher salt
+> ⅛ tsp cayenne
+> cilantro, sour cream, sliced avocado, sliced radishes for garnish
 
 
 
@@ -277,15 +277,15 @@ Freezes well.
 
 Bon Appétit, March 1999.  Serves 4.
 
-> ¼ cup (½ stick) butter  
-> 4 medium carrots, peeled and chopped  
-> 3/4 cup chopped onion  
-> 3/4 cup chopped leek (white and pale green parts only)  
-> 2 garlic cloves, chopped  
-> ½ teaspoon chopped fresh thyme  
-> additional chopped fresh thyme (for garnish)  
-> ¼ teaspoon fennel seeds  
-> 5 cups (or more) canned low-salt chicken broth  
+> ¼ cup (½ stick) butter
+> 4 medium carrots, peeled and chopped
+> 3/4 cup chopped onion
+> 3/4 cup chopped leek (white and pale green parts only)
+> 2 garlic cloves, chopped
+> ½ teaspoon chopped fresh thyme
+> additional chopped fresh thyme (for garnish)
+> ¼ teaspoon fennel seeds
+> 5 cups (or more) canned low-salt chicken broth
 
 Melt ¼ cup butter in large saucepan over medium-low heat. Add carrots, onion,
 leek, garlic, thyme, and fennel seeds. Stir to coat. Cover and cook until onion
@@ -297,7 +297,7 @@ batches. purée soup in blender. Return to pan. Thin soup to desired consistency
 with more broth. Season soup with salt and pepper. Garnish with fresh chopped
 thyme.
 
-> 4 medium carrots weigh about 1 pound.  
+> 4 medium carrots weigh about 1 pound.
 > 1 large leek makes about 1 cup, chopped.
 
 
@@ -310,18 +310,18 @@ southwestern soup. If you want to cut up the avocado ahead of time but don't
 want it to discolor, simply place the avocado pieces in a colander and rinse
 them with cold water. They will stay bright green for about two hours.
 
-> 1 teaspoon olive oil  
-> ¾ pound turkey sausage, casings removed, crumbled  
-> 8 large garlic cloves, chopped  
-> 1 cup canned diced peeled tomatoes with juices  
-> 2 tablespoons thinly sliced seeded jalapeño chili  
-> 1 teaspoon ground cumin  
-> 1 teaspoon chopped fresh rosemary or ½ teaspoon dried  
-> 3 15- to 16-ounce cans garbanzo beans (chick-peas), undrained  
-> 2 cups canned chicken broth or beef broth  
-> 2 tablespoons fresh lemon juice  
-> chopped fresh cilantro  
-> 1 avocado, peeled, sliced  
+> 1 teaspoon olive oil
+> ¾ pound turkey sausage, casings removed, crumbled
+> 8 large garlic cloves, chopped
+> 1 cup canned diced peeled tomatoes with juices
+> 2 tablespoons thinly sliced seeded jalapeño chili
+> 1 teaspoon ground cumin
+> 1 teaspoon chopped fresh rosemary or ½ teaspoon dried
+> 3 15- to 16-ounce cans garbanzo beans (chick-peas), undrained
+> 2 cups canned chicken broth or beef broth
+> 2 tablespoons fresh lemon juice
+> chopped fresh cilantro
+> 1 avocado, peeled, sliced
 
 Heat olive oil in heavy large Dutch oven over medium-high heat. Add turkey
 sausage and chopped garlic and sauté until sausage is golden brown and cooked
@@ -343,14 +343,14 @@ sliced avocado. Serve immediately.
 
 Bon Appétit, May 1996, by Patricia Murray: County Kerry, Ireland. Serves 6.
 
-> 2 tablespoons (¼ stick) butter  
-> 1 large onion, chopped  
-> 1 cup chopped celery  
-> 1 cup chopped peeled carrots  
-> 1½ pounds smoked pork hocks  
-> 2 teaspoons dried leaf marjoram  
-> 1½ cups green split peas  
-> 8 cups water  
+> 2 tablespoons (¼ stick) butter
+> 1 large onion, chopped
+> 1 cup chopped celery
+> 1 cup chopped peeled carrots
+> 1½ pounds smoked pork hocks
+> 2 teaspoons dried leaf marjoram
+> 1½ cups green split peas
+> 8 cups water
 
 Melt butter in heavy large pot or Dutch oven over medium-high heat. Add onion,
 celery and carrots. Sauté until vegetables begin to soften, about 8 minutes.
@@ -372,20 +372,20 @@ Bon Appétit, January 1996, by Chef Kathi Long.  An adaptation of a recipe from
 Mexican Light Cooking by our friend Kathi Long, a chef and author in Santa Fe.
 Serves 4.
 
-> 4 5- to 6-inch diameter corn tortillas  
-> 2 teaspoons olive oil  
+> 4 5- to 6-inch diameter corn tortillas
+> 2 teaspoons olive oil
 
-> 2 14 ½-ounce cans low-salt chicken broth  
-> 2 cups water  
-> ¾ cup canned Mexican-style stewed tomatoes with juices  
-> 1 bay leaf  
-> 1 garlic clove, pressed  
-> ¼ teaspoon ground cumin  
-> ⅛ teaspoon dried crushed red pepper  
-> 12 ounces skinless boneless chicken breast halves, cut into ½-inch-wide strips  
-> 2 green onions, sliced  
-> ¼ cup chopped fresh cilantro  
-> 2 tablespoons fresh lime juice  
+> 2 14 ½-ounce cans low-salt chicken broth
+> 2 cups water
+> ¾ cup canned Mexican-style stewed tomatoes with juices
+> 1 bay leaf
+> 1 garlic clove, pressed
+> ¼ teaspoon ground cumin
+> ⅛ teaspoon dried crushed red pepper
+> 12 ounces skinless boneless chicken breast halves, cut into ½-inch-wide strips
+> 2 green onions, sliced
+> ¼ cup chopped fresh cilantro
+> 2 tablespoons fresh lime juice
 
 Preheat oven to 350 °F. Brush 1 side of tortillas with oil; cut in half. Stack
 halves and cut crosswise into ¼-inch-wide strips. Spread strips on nonstick
@@ -410,13 +410,13 @@ Bon Appétit, October 1999.  Makes 2 servings.
 Start with hearts of romaine topped with balsamic dressing and diced feta
 cheese, and pass whole grain bread. Have chocolate cupcakes afterward.
 
-> 1½ tablespoons olive oil  
-> 1½ cups diced smoked ham  
-> 2 teaspoons dried savory  
-> 1½ teaspoons dry mustard  
-> 3 cups (or more) canned low-salt chicken broth  
-> 1 cup brown lentils, rinsed  
-> 1 14½-ounce can diced tomatoes with roasted garlic  
+> 1½ tablespoons olive oil
+> 1½ cups diced smoked ham
+> 2 teaspoons dried savory
+> 1½ teaspoons dry mustard
+> 3 cups (or more) canned low-salt chicken broth
+> 1 cup brown lentils, rinsed
+> 1 14½-ounce can diced tomatoes with roasted garlic
 
 Heat oil in heavy large saucepan over medium-high heat. Add ham, savory and
 mustard and stir until ham begins to brown, about 2 minutes. Add 3 cups broth
@@ -443,20 +443,20 @@ any grit.
 Accompany the soup with a shredded cabbage salad dressed with rice wine
 vinegar, sugar and a little oil.
 
-> 1 oz. dried Chinese black mushrooms or dried shiitake mushrooms  
-> 3 cups boiling water  
-> 2 Tbs. plus 1 tsp. white wine vinegar  
-> 1 Tbs. plus 1 tsp. soy sauce  
-> ½ tsp. Asian sesame oil  
-> 1 ¼ tsp. Asian chili oil  
-> ½ tsp. freshly ground pepper, plus more, to taste  
-> 5 cups chicken stock  
-> ½ cup canned thinly sliced bamboo shoots, rinsed and drained  
-> 1 boneless, skinless whole chicken breast, about ½ lb., cut crosswise into thin bite-size slices  
-> ¼ lb. firm tofu, drained and cut into ½- inch cubes  
-> 2 Tbs. cornstarch  
-> ¼ cup water  
-> 1 egg, well beaten  
+> 1 oz. dried Chinese black mushrooms or dried shiitake mushrooms
+> 3 cups boiling water
+> 2 Tbs. plus 1 tsp. white wine vinegar
+> 1 Tbs. plus 1 tsp. soy sauce
+> ½ tsp. Asian sesame oil
+> 1 ¼ tsp. Asian chili oil
+> ½ tsp. freshly ground pepper, plus more, to taste
+> 5 cups chicken stock
+> ½ cup canned thinly sliced bamboo shoots, rinsed and drained
+> 1 boneless, skinless whole chicken breast, about ½ lb., cut crosswise into thin bite-size slices
+> ¼ lb. firm tofu, drained and cut into ½- inch cubes
+> 2 Tbs. cornstarch
+> ¼ cup water
+> 1 egg, well beaten
 
 Soak the dried mushrooms in the boiling water for 30 minutes. Drain the
 mushrooms and slice them thinly. Set aside.
@@ -484,13 +484,13 @@ Ladle the soup into warmed bowls and serve immediately.
 Bon Appétit, November 2000.  Makes 2 servings.  This recipe is very forgiving
 if you have too much, too little, or the wrong kind of any ingredients.
 
-> 1 tablespoon olive oil  
-> 6 ounces kielbasa or linguiça sausage, cut into thin rounds  
-> 1 medium onion, chopped  
-> 2¾ cups canned low-salt chicken broth  
-> ½ large bunch kale, stems cut away, leaves thinly sliced  
-> 1 15-ounce can small white beans, drained  
-> ¾ cup dry white wine  
+> 1 tablespoon olive oil
+> 6 ounces kielbasa or linguiça sausage, cut into thin rounds
+> 1 medium onion, chopped
+> 2¾ cups canned low-salt chicken broth
+> ½ large bunch kale, stems cut away, leaves thinly sliced
+> 1 15-ounce can small white beans, drained
+> ¾ cup dry white wine
 
 Heat oil in heavy large saucepan over medium heat. Add sausage and onion; Sauté
 until onion is tender, about 6 minutes. Add broth and kale; bring to boil.
@@ -506,23 +506,23 @@ Variations include:
 
 ## Louisiana Red Beans and Rice
 
-(Tyler Florence recipe from the foodnetwork.com)  
+(Tyler Florence recipe from the foodnetwork.com)
 Serves: 6 servings
 
-> 1 pound dried small red beans, picked over and rinsed  
-> 2 large smoked ham shanks  
-> 1 large yellow onion, chopped  
-> 2 celery stalks, chopped  
-> 1 large green bell pepper, chopped  
-> 1 teaspoon cayenne  
-> ¼ bunch fresh flat-leaf parsley, chopped  
-> 2 sprigs fresh thyme  
-> 3 bay leaves  
-> 4 garlic cloves, chopped  
-> 2 green onions, green part only, chopped, plus more for garnish  
-> red pepper sauce  
-> 2 andouille sausages, sliced thin  
-> 4 cups cooked white rice  
+> 1 pound dried small red beans, picked over and rinsed
+> 2 large smoked ham shanks
+> 1 large yellow onion, chopped
+> 2 celery stalks, chopped
+> 1 large green bell pepper, chopped
+> 1 teaspoon cayenne
+> ¼ bunch fresh flat-leaf parsley, chopped
+> 2 sprigs fresh thyme
+> 3 bay leaves
+> 4 garlic cloves, chopped
+> 2 green onions, green part only, chopped, plus more for garnish
+> red pepper sauce
+> 2 andouille sausages, sliced thin
+> 4 cups cooked white rice
 
 Place the dried beans in a large bowl and cover with cold water. Soak the beans
 overnight in the refrigerator.
@@ -550,18 +550,18 @@ chopped green onion. 
 
 Parade, August 2000. Makes 6 to 8 servings.
 
-> 2 tablespoons butter  
-> 2 tablespoons olive oil  
-> 1 large onion, chopped  
-> 1 tablespoon minced garlic  
-> 2 tablespoons flour  
-> 3½ pounds ripe tomatoes, chopped  
-> 2 tablespoons tomato paste  
-> 1 teaspoon sugar  
-> 3 cups chicken broth  
-> ⅛ teaspoon ground cloves  
-> Salt and pepper, to taste  
-> ½ cup half-and-half  
+> 2 tablespoons butter
+> 2 tablespoons olive oil
+> 1 large onion, chopped
+> 1 tablespoon minced garlic
+> 2 tablespoons flour
+> 3½ pounds ripe tomatoes, chopped
+> 2 tablespoons tomato paste
+> 1 teaspoon sugar
+> 3 cups chicken broth
+> ⅛ teaspoon ground cloves
+> Salt and pepper, to taste
+> ½ cup half-and-half
 
 Melt the butter with the oil over low heat in a pot. Add the onion; wilt over
 low heat for 8 to 10 minutes. Add the garlic during the last 2 minutes,
@@ -581,20 +581,20 @@ the half-and-half.  Warm the soup before serving.
 Made with chunks of cooked turkey, this hearty chili is a wonderful way to use
 up leftovers from the Thanksgiving feast.  Serves 6 to 8.
 
-> 2 Tbs. olive oil  
-> 1 large yellow onion, diced  
-> salt and freshly ground pepper to taste  
-> 2 tsp. toasted ground cumin  
-> 5 garlic cloves, minced  
-> 1 jalapeño, seeded and minced  
-> 1 lb. Anaheim chilies, roasted, peeled and diced, or 3 cans (each 7 oz.) whole fire-roasted Anaheim chilies, diced  
-> 4 to 4½ cups low-sodium chicken broth, warmed  
-> 1 lb. diced cooked turkey  
-> 3 cans (each 15 oz.) cannellini beans, drained and rinsed, or 4½ cups cooked white beans, drained  
-> 2 Tbs. minced fresh oregano  
-> ⅓ cup minced fresh cilantro  
-> ¼ cup cornmeal  
-> Shredded jack cheese, sour cream and lime wedges for serving  
+> 2 Tbs. olive oil
+> 1 large yellow onion, diced
+> salt and freshly ground pepper to taste
+> 2 tsp. toasted ground cumin
+> 5 garlic cloves, minced
+> 1 jalapeño, seeded and minced
+> 1 lb. Anaheim chilies, roasted, peeled and diced, or 3 cans (each 7 oz.) whole fire-roasted Anaheim chilies, diced
+> 4 to 4½ cups low-sodium chicken broth, warmed
+> 1 lb. diced cooked turkey
+> 3 cans (each 15 oz.) cannellini beans, drained and rinsed, or 4½ cups cooked white beans, drained
+> 2 Tbs. minced fresh oregano
+> ⅓ cup minced fresh cilantro
+> ¼ cup cornmeal
+> Shredded jack cheese, sour cream and lime wedges for serving
 
 In a large sauté pan over medium heat, warm the olive oil. Add the onion,
 season with salt and pepper and cook, stirring occasionally, until softened, 5
@@ -615,22 +615,22 @@ Ladle the chili into warmed bowls. Serve with cheese, sour cream and lime wedges
 
 Bon Appétit, March 1995. Adapted by Susan. Serves 6.
 
-> 1 tablespoon olive oil  
-> 1 large onion, coarsely chopped  
-> ½ cup chopped red bell pepper  
-> 4 garlic cloves, chopped  
-> 6 skinless boneless chicken thighs (about 1¼ pounds), cut into 1-inch pieces  
-> 1 tablespoon curry powder  
-> 1 teaspoon grated peeled fresh ginger  
-> ¼ teaspoon dried crushed red pepper  
-> 4 cups (or more) canned chicken broth  
-> 2 cups canned diced peeled tomatoes with juices  
-> 1 large Granny Smith apple, peeled, coarsely chopped  
+> 1 tablespoon olive oil
+> 1 large onion, coarsely chopped
+> ½ cup chopped red bell pepper
+> 4 garlic cloves, chopped
+> 6 skinless boneless chicken thighs (about 1¼ pounds), cut into 1-inch pieces
+> 1 tablespoon curry powder
+> 1 teaspoon grated peeled fresh ginger
+> ¼ teaspoon dried crushed red pepper
+> 4 cups (or more) canned chicken broth
+> 2 cups canned diced peeled tomatoes with juices
+> 1 large Granny Smith apple, peeled, coarsely chopped
 
-> ½ cup orzo (rice-shaped pasta; also called riso)  
-> 2 tablespoons dried currants  
-> chopped fresh cilantro  
-> plain yogurt  
+> ½ cup orzo (rice-shaped pasta; also called riso)
+> 2 tablespoons dried currants
+> chopped fresh cilantro
+> plain yogurt
 
 Heat oil in heavy large Dutch oven over medium-high heat. Add onion, bell
 pepper and garlic; sauté until vegetables soften, about 5 minutes. Add chicken,
@@ -678,15 +678,15 @@ minutes, or until all water is absorbed. Remove from heat and let rest 5-10 minu
 
 Bon Appétit, July 2007, Pam Anderson. Makes 8 servings
 
-> ⅓ cup frozen orange juice concentrate, thawed  
-> ⅓ cup unseasoned rice vinegar  
-> ⅓ cup canola oil or vegetable oil  
-> 2 (8-ounce) bags coleslaw mix  
-> 4 ears of fresh corn, shucked, kernels cut from cob  
-> 2 medium carrots, peeled, coarsely grated  
-> 1 medium red bell pepper, stemmed, cored, cut into thin strips  
-> 6 medium green onions, thinly sliced  
-> ½ cup chopped fresh cilantro  
+> ⅓ cup frozen orange juice concentrate, thawed
+> ⅓ cup unseasoned rice vinegar
+> ⅓ cup canola oil or vegetable oil
+> 2 (8-ounce) bags coleslaw mix
+> 4 ears of fresh corn, shucked, kernels cut from cob
+> 2 medium carrots, peeled, coarsely grated
+> 1 medium red bell pepper, stemmed, cored, cut into thin strips
+> 6 medium green onions, thinly sliced
+> ½ cup chopped fresh cilantro
 
 Whisk orange juice concentrate, rice vinegar, and canola oil in small bowl.
 Season with salt and pepper.  (Dressing can be made 1 day ahead--just cover and
@@ -706,21 +706,21 @@ Bon Appétit, July 2005. Makes 6 to 8 servings.
 
 Great with grilled hoisin-glazed ribs, pork chops, or chicken satay.
 
-> ¼ cup rice vinegar  
-> ¼ cup soy sauce  
-> 3 tablespoons mayonnaise  
-> 4 teaspoons minced peeled fresh ginger  
-> 4 teaspoons toasted sesame oil (such as Asian)  
-> 4 garlic cloves, minced  
-> 1 tablespoon peanut butter  
-> 2 teaspoons chili-garlic sauce  
-> 1½ teaspoons golden brown sugar  
+> ¼ cup rice vinegar
+> ¼ cup soy sauce
+> 3 tablespoons mayonnaise
+> 4 teaspoons minced peeled fresh ginger
+> 4 teaspoons toasted sesame oil (such as Asian)
+> 4 garlic cloves, minced
+> 1 tablespoon peanut butter
+> 2 teaspoons chili-garlic sauce
+> 1½ teaspoons golden brown sugar
 
-> 2 pounds red-skinned sweet potatoes (yams), peeled, cut into ½-inch cubes  
+> 2 pounds red-skinned sweet potatoes (yams), peeled, cut into ½-inch cubes
 
-> 1½ cups sugar snap peas, cut crosswise into ½-inch pieces  
-> 1 cup thinly sliced green onions  
-> ⅓ cup coarsely chopped dry-roasted peanuts  
+> 1½ cups sugar snap peas, cut crosswise into ½-inch pieces
+> 1 cup thinly sliced green onions
+> ⅓ cup coarsely chopped dry-roasted peanuts
 
 Whisk first 9 ingredients in medium bowl to blend.
 
@@ -737,14 +737,14 @@ Sprinkle salad with peanuts and serve.
 
 Gourmet, October 1992. Serves 8.  Can be prepared in 45 minutes or less.
 
-> ½ cup heavy cream  
-> 2 tablespoons fresh lemon juice  
-> 1 tablespoon coarse-grained mustard  
-> 3 tablespoons finely chopped fresh parsley leaves  
-> ½ teaspoon sugar  
-> 2 bunches kohlrabi (about 2 pounds), bulbs peeled and cut into julienne strips,  
-> stems discarded, and the leaves reserved for another use  
-> 1 Granny Smith apple  
+> ½ cup heavy cream
+> 2 tablespoons fresh lemon juice
+> 1 tablespoon coarse-grained mustard
+> 3 tablespoons finely chopped fresh parsley leaves
+> ½ teaspoon sugar
+> 2 bunches kohlrabi (about 2 pounds), bulbs peeled and cut into julienne strips,
+> stems discarded, and the leaves reserved for another use
+> 1 Granny Smith apple
 
 In a bowl whisk the cream until it holds soft peaks and whisk in the lemon
 juice, the mustard, the parsley, the sugar, and salt and pepper to taste.  Stir
@@ -759,16 +759,16 @@ Bon Appétit, March 1998. Makes 8 servings.
 
 An interesting side dish or meatless entrée.
 
-> 1⅓ cups (packed) coarsely shredded peeled beets (from 2 medium)  
-> 1 cup coarsely shredded peeled carrots (from 2 medium)  
-> 1 cup thinly sliced onion  
-> 1 large egg  
-> ½ teaspoon salt  
-> ¼ teaspoon pepper  
-> ¼ cup all purpose flour  
+> 1⅓ cups (packed) coarsely shredded peeled beets (from 2 medium)
+> 1 cup coarsely shredded peeled carrots (from 2 medium)
+> 1 cup thinly sliced onion
+> 1 large egg
+> ½ teaspoon salt
+> ¼ teaspoon pepper
+> ¼ cup all purpose flour
 
-> 3 tablespoons olive oil  
-> Low-fat sour cream  
+> 3 tablespoons olive oil
+> Low-fat sour cream
 
 Preheat oven to 300 °F. Place baking sheet in oven. Combine beets, carrots and
 onion in large bowl. Mix in egg, salt and pepper. Add flour; stir to blend
@@ -790,16 +790,16 @@ Gourmet, July 2007.  Makes 4 modest servings.  Total prep time: 45 minutes.
 Quinoa is a fast-cooking, protein-packed whole grain. Steamed, it makes a
 perfect partner for lime-spiked black beans and fresh tomato.
 
-> 2 teaspoons grated lime zest  
-> 2 tablespoons fresh lime juice  
-> 2 tablespoons unsalted butter, melted and cooled  
-> 1 tablespoon vegetable oil  
-> 1 teaspoon sugar  
-> 1 cup quinoa  
-> 1 (14- to 15-ounce) can black beans, rinsed and drained  
-> 2 medium tomatoes, diced  
-> 4 scallions, chopped  
-> ¼ cup chopped fresh cilantro  
+> 2 teaspoons grated lime zest
+> 2 tablespoons fresh lime juice
+> 2 tablespoons unsalted butter, melted and cooled
+> 1 tablespoon vegetable oil
+> 1 teaspoon sugar
+> 1 cup quinoa
+> 1 (14- to 15-ounce) can black beans, rinsed and drained
+> 2 medium tomatoes, diced
+> 4 scallions, chopped
+> ¼ cup chopped fresh cilantro
 
 Whisk together lime zest and juice, butter, oil, sugar, ½ teaspoon salt, and
 ¼ teaspoon pepper in a large bowl.
@@ -826,20 +826,20 @@ remaining ingredients and salt and pepper to taste.
 Bon Appétit, February 2004 by Juli Tsuchiya-Waldron (Tokyo, Japan). Makes 6
 side-dish servings.
 
-> 6 tablespoons creamy peanut butter (do not use old-fashioned style or freshly ground)  
-> ¼ cup low-salt chicken broth  
-> 3 tablespoons rice vinegar  
-> 3 tablespoons soy sauce  
-> 1 ½ tablespoons sugar  
-> 1 tablespoon oriental sesame oil  
-> 1 tablespoon minced peeled fresh ginger  
-> ½ teaspoon cayenne pepper  
-> 8 ounces linguine  
-> 1 large orange bell pepper, cut into matchstick-size strips  
-> ½ cup chopped green onions  
-> 5 large lettuce leaves  
-> ¼ cup chopped fresh cilantro  
-> ¼ cup chopped salted peanuts  
+> 6 tablespoons creamy peanut butter (do not use old-fashioned style or freshly ground)
+> ¼ cup low-salt chicken broth
+> 3 tablespoons rice vinegar
+> 3 tablespoons soy sauce
+> 1 ½ tablespoons sugar
+> 1 tablespoon oriental sesame oil
+> 1 tablespoon minced peeled fresh ginger
+> ½ teaspoon cayenne pepper
+> 8 ounces linguine
+> 1 large orange bell pepper, cut into matchstick-size strips
+> ½ cup chopped green onions
+> 5 large lettuce leaves
+> ¼ cup chopped fresh cilantro
+> ¼ cup chopped salted peanuts
 
 Combine first 8 ingredients in small bowl; whisk to blend. Set dressing aside.
 
@@ -860,14 +860,14 @@ Bon Appétit; serves 6.
 Serve as a side dish with enchiladas. The beans can be topped with grated
 Monterey Jack cheese, then covered to melt.
 
-> 1 tablespoon olive oil  
-> 4 garlic cloves, finely chopped  
-> 1 large jalapeño chili, seeded, chopped  
-> ½ teaspoon (generous) ground cumin  
-> 2 15-ounce cans black beans, rinsed, drained  
-> 1 14½-ounce can low-salt chicken broth  
-> Fresh lime juice  
-> Chopped fresh cilantro  
+> 1 tablespoon olive oil
+> 4 garlic cloves, finely chopped
+> 1 large jalapeño chili, seeded, chopped
+> ½ teaspoon (generous) ground cumin
+> 2 15-ounce cans black beans, rinsed, drained
+> 1 14½-ounce can low-salt chicken broth
+> Fresh lime juice
+> Chopped fresh cilantro
 
 Heat oil in heavy large saucepan over medium-high heat. Add garlic, chili and
 cumin and sauté 30 seconds. Add beans and broth and cook 5 minutes, stirring
@@ -881,12 +881,12 @@ salt and pepper. Transfer to bowl. Sprinkle with cilantro and serve.
 
 Bon Appétit, January 1992. Serves 12.
 
-> 3 pounds green beans, trimmed, cut into 2-inch pieces  
-> 3 tablespoons country-style Dijon mustard  
-> ¼ cup Sherry wine vinegar  
-> ⅔ cup olive oil  
-> ⅓ cup minced shallots  
-> 2 1-pint baskets cherry tomatoes  
+> 3 pounds green beans, trimmed, cut into 2-inch pieces
+> 3 tablespoons country-style Dijon mustard
+> ¼ cup Sherry wine vinegar
+> ⅔ cup olive oil
+> ⅓ cup minced shallots
+> 2 1-pint baskets cherry tomatoes
 
 Cook beans in large pot of boiling salted water until crisp-tender, about 5
 minutes. Drain. Refresh under cold water; drain well. Transfer to large bowl.
@@ -906,20 +906,20 @@ Bon Appétit, July 2005.  Makes 6 to 8 servings.
 A bold medley of cumin, cayenne, corn, and cilantro ups the flavor here. Great
 with grilled fish tacos, steak fajitas, or chipotle-rubbed chicken.
 
-> ½ cup buttermilk  
-> ¼ cup mayonnaise  
-> 1 tablespoon fresh lime juice  
-> 1 ½ teaspoons ground cumin  
-> ¼ teaspoon cayenne pepper  
+> ½ cup buttermilk
+> ¼ cup mayonnaise
+> 1 tablespoon fresh lime juice
+> 1 ½ teaspoons ground cumin
+> ¼ teaspoon cayenne pepper
 
-> 2 pounds small white-skinned potatoes (such as White Rose)  
+> 2 pounds small white-skinned potatoes (such as White Rose)
 
-> 1 cup cooked corn kernels (from 1 medium ear)  
-> ½ cup chopped sweet onion (such as Vidalia or Maui)  
-> 1 14-ounce can hearts of palm, drained, each cut crosswise into ⅓-inch-thick rounds  
-> 2 plum tomatoes, seeded, diced (about 1¼ cups)  
-> ½ cup chopped fresh cilantro  
-> 1 avocado, pitted, peeled, chopped  
+> 1 cup cooked corn kernels (from 1 medium ear)
+> ½ cup chopped sweet onion (such as Vidalia or Maui)
+> 1 14-ounce can hearts of palm, drained, each cut crosswise into ⅓-inch-thick rounds
+> 2 plum tomatoes, seeded, diced (about 1¼ cups)
+> ½ cup chopped fresh cilantro
+> 1 avocado, pitted, peeled, chopped
 
 Whisk buttermilk, mayonnaise, lime juice, cumin, and cayenne in medium bowl to
 blend.
@@ -942,12 +942,12 @@ and refrigerate.) Gently stir in avocado and serve.
 
 Bon Appétit, October 1991, by Charleen Borger (Fremont, California).  Serves 4.
 
-> 2 tablespoons lemon juice  
-> 1 tablespoon apple jelly  
-> 4 large carrots, peeled, grated  
-> 1 large Golden Delicious apple, peeled, grated  
-> ⅓ cup chopped roasted cashews  
-> ⅓ cup raisins  
+> 2 tablespoons lemon juice
+> 1 tablespoon apple jelly
+> 4 large carrots, peeled, grated
+> 1 large Golden Delicious apple, peeled, grated
+> ⅓ cup chopped roasted cashews
+> ⅓ cup raisins
 
 Whisk lemon juice and jelly in large bowl to blend. Add carrots, apple, cashews and
 raisins. Season to taste with salt and pepper. Toss thoroughly.
@@ -958,12 +958,12 @@ raisins. Season to taste with salt and pepper. Toss thoroughly.
 
 Harmony Valley Farms Salsa Verde; yields 1½ cups.  
 
-> 6-8 tomatillos (about 12 oz)  
-> 1 clove garlic  
-> 1 small onion  
-> 1 jalapeño, as desired  
-> A few sprigs of cilantro  
-> Salt and ground black pepper, to taste  
+> 6-8 tomatillos (about 12 oz)
+> 1 clove garlic
+> 1 small onion
+> 1 jalapeño, as desired
+> A few sprigs of cilantro
+> Salt and ground black pepper, to taste
 
 In a small saucepan, bring 4-5 cups water to a boil. Remove husks from
 tomatillos and rinse fruit. Boil tomatillos for about 5 minutes or just until
@@ -983,15 +983,15 @@ with tortilla chips, tacos, enchiladas, etc.
 
 Bon Appétit, March 2007. Makes 4 servings.
 
-> 6 ounces peeled baby carrots (about 1 ¼ cups; from 16-ounce package)  
-> 2 tablespoons (¼ stick) butter  
-> 1 cup orzo (rice-shaped pasta; about 8 ounces)  
-> 1 ½ cups water  
-> 1 ¼ cups low-salt chicken broth  
-> 1 large garlic clove, minced  
-> ¼ cup grated Parmesan cheese  
-> 2 tablespoons chopped green onions  
-> 1 teaspoon minced fresh rosemary  
+> 6 ounces peeled baby carrots (about 1 ¼ cups; from 16-ounce package)
+> 2 tablespoons (¼ stick) butter
+> 1 cup orzo (rice-shaped pasta; about 8 ounces)
+> 1 ½ cups water
+> 1 ¼ cups low-salt chicken broth
+> 1 large garlic clove, minced
+> ¼ cup grated Parmesan cheese
+> 2 tablespoons chopped green onions
+> 1 teaspoon minced fresh rosemary
 
 Place carrots in processor. Using on/off turns, finely chop carrots. Melt
 butter in heavy medium saucepan over medium heat. Add orzo and carrots; sauté
@@ -1006,19 +1006,19 @@ Season to taste with salt and pepper and serve.
 
 Bon Appétit, January 2006.  Makes 4 servings.
 
-> 2 cups water  
-> ½ teaspoon salt  
-> 1 cup pearl barley, rinsed, drained  
+> 2 cups water
+> ½ teaspoon salt
+> 1 cup pearl barley, rinsed, drained
 
-> 6 ounces bacon, diced   
-> 1 shallot, minced (onion works just fine)  
-> 1¼ cups ¼- to ⅓-inch cubes peeled root vegetables (such as celery root,  
->     carrot, turnip, rutabaga, and/or butternut squash)  
+> 6 ounces bacon, diced 
+> 1 shallot, minced (onion works just fine)
+> 1¼ cups ¼- to ⅓-inch cubes peeled root vegetables (such as celery root,
+>     carrot, turnip, rutabaga, and/or butternut squash)
 
-> pinch of sugar  
-> 2 teaspoons fresh lemon juice  
-> ½ teaspoon chopped fresh thyme  
-> ½ teaspoon chopped fresh rosemary  
+> pinch of sugar
+> 2 teaspoons fresh lemon juice
+> ½ teaspoon chopped fresh thyme
+> ½ teaspoon chopped fresh rosemary
 
 * Bring 2 cups water and salt to boil in medium saucepan. Mix in barley. Cover
   pan, reduce heat to medium, and simmer until barley is tender, about 30
@@ -1037,23 +1037,23 @@ Bon Appétit, January 2006.  Makes 4 servings.
 Bon Appétit, August 1999, from Zygot Bookworks & Cafe.  Serves 6 as a main
 course.
 
-> ½ cup (or more) canned vegetable broth  
-> 1 cup super-chunky peanut butter  
-> ¼ cup soy sauce  
-> 2 tablespoons balsamic vinegar  
-> 1½ tablespoons chili-garlic sauce  
-> 5 garlic cloves, minced  
+> ½ cup (or more) canned vegetable broth
+> 1 cup super-chunky peanut butter
+> ¼ cup soy sauce
+> 2 tablespoons balsamic vinegar
+> 1½ tablespoons chili-garlic sauce
+> 5 garlic cloves, minced
 
-> 12 ounces dried chow mein udon (Asian-style noodles)  
-> 1 tablespoon canola oil  
+> 12 ounces dried chow mein udon (Asian-style noodles)
+> 1 tablespoon canola oil
 
-> 8 large bok choy leaves  
-> 2 red bell peppers, halved lengthwise  
-> 2 large carrots, peeled  
-> 1 bunch green onions  
+> 8 large bok choy leaves
+> 2 red bell peppers, halved lengthwise
+> 2 large carrots, peeled
+> 1 bunch green onions
 
-> 2 cups shredded Napa cabbage  
-> 2 tablespoons toasted sesame seeds  
+> 2 cups shredded Napa cabbage
+> 2 tablespoons toasted sesame seeds
 
 Sauce, noodles and vegetables can be prepared ahead of time. Cover them
 separately and store in the refrigerator. Bring the sauce to room temperature
@@ -1083,17 +1083,17 @@ additional broth if necessary.
 
 Serves 4-6.
 
-> 1 Tb. lemon juice  
-> 1 Tb. tarragon-flavored wine vinegar  
-> 1 tsp. Dijon mustard  
-> ½ tsp. grated lemon zest  
-> ¼ tsp. salt  
-> pinch of white pepper  
-> ¼ c. olive or walnut oil  
+> 1 Tb. lemon juice
+> 1 Tb. tarragon-flavored wine vinegar
+> 1 tsp. Dijon mustard
+> ½ tsp. grated lemon zest
+> ¼ tsp. salt
+> pinch of white pepper
+> ¼ c. olive or walnut oil
 
-> 4 medium carrots, shredded (about 3 cups)  
-> ½ c. chopped toasted walnuts  
-> 2 Tb. fresh chives  
+> 4 medium carrots, shredded (about 3 cups)
+> ½ c. chopped toasted walnuts
+> 2 Tb. fresh chives
 
 In a small bowl, mix the lemon juice, vinegar, mustard, lemon zest, salt and
 pepper.  Using a whisk gradually beat in oil until dressing is smooth and
@@ -1108,24 +1108,24 @@ Lightly mix carrots, walnuts, chives and dressing.  Cover and refrigerate 1 to
 
 Adapted from Bon Appetit, Smoked Turkey and Rice Salad, August 1991. 
 
-> 1¼ c. orzo (rice-shaped pasta)  
-> 2 c. diced smoked turkey  
-> ¾ lb ripe plum tomatoes, seeded, diced  
-> ½ med. green bell pepper, thinly sliced  
-> 1 c. frozen corn kernels, thawed  
-> ⅓ c. chopped red onion  
-> 1 15 oz. can black beans, drained and rinsed  
+> 1¼ c. orzo (rice-shaped pasta)
+> 2 c. diced smoked turkey
+> ¾ lb ripe plum tomatoes, seeded, diced
+> ½ med. green bell pepper, thinly sliced
+> 1 c. frozen corn kernels, thawed
+> ⅓ c. chopped red onion
+> 1 15 oz. can black beans, drained and rinsed
 
-> ¼ c. olive oil  
-> 6 Tb. chopped fresh cilantro  
-> 3 Tb. white wine vinegar  
-> 1 Tb Dijon mustard  
-> 1 large jalapeno chili, seeded, minced  
-> 1 ¼  tsp ground cumin  
-> ¾ tsp. salt  
-> ¾ tsp. pepper  
+> ¼ c. olive oil
+> 6 Tb. chopped fresh cilantro
+> 3 Tb. white wine vinegar
+> 1 Tb Dijon mustard
+> 1 large jalapeno chili, seeded, minced
+> 1 ¼  tsp ground cumin
+> ¾ tsp. salt
+> ¾ tsp. pepper
 
-> 1 ripe avocado, peeled, sliced  
+> 1 ripe avocado, peeled, sliced
 
 Cook pasta according to directions.  Drain and cool pasta.  Add turkey,
 tomatoes, green bell pepper, corn, beans and onion to pasta.
@@ -1140,22 +1140,22 @@ ahead.  Cover and refrigerate.
 
 Serves 4-6.
 
-> ¾ c. petite french green lentils  
-> 1½ c. water  
+> ¾ c. petite french green lentils
+> 1½ c. water
 
-> ¾ c. petite crimson lentils (orange lentils)  
-> 1½ c. water  
-> 1 tsp. lemon juice  
+> ¾ c. petite crimson lentils (orange lentils)
+> 1½ c. water
+> 1 tsp. lemon juice
 
 > ¾ c. couscous (cooked per package directions in chicken broth and 1 Tb. olive oil)
 
-> 3 Tb. while wine vinegar  
-> 1 tsp. White Wine Worcestershire Sauce  
-> 3 Tb. lemon juice  
-> 1½ tsp. ground cumin  
-> 1 clove garlic, crushed  
-> ½ tsp oregano  
-> ⅓ c. olive oil  
+> 3 Tb. while wine vinegar
+> 1 tsp. White Wine Worcestershire Sauce
+> 3 Tb. lemon juice
+> 1½ tsp. ground cumin
+> 1 clove garlic, crushed
+> ½ tsp oregano
+> ⅓ c. olive oil
 
 Rinse green lentils and cook in 1½ c. water for 15-20 minutes or until tender
 but not mushy. Drain.
@@ -1180,13 +1180,13 @@ substantial salad takes a hearty, rich green that's usually cooked and proves
 how delicious it can be when served raw.
 
 > ¾ to 1 pound lacinato kale (also called Tuscan kale) or tender regular kale,
-> stems and center ribs discarded  
-> 2 tablespoons finely chopped shallot  
-> 1 ½ tablespoons fresh lemon juice  
-> ¼ teaspoon salt  
-> ¼ teaspoon black pepper  
-> 4 ½ tablespoons extra-virgin olive oil  
-> 2 ounces coarsely grated ricotta salata (1 cup)  
+> stems and center ribs discarded
+> 2 tablespoons finely chopped shallot
+> 1 ½ tablespoons fresh lemon juice
+> ¼ teaspoon salt
+> ¼ teaspoon black pepper
+> 4 ½ tablespoons extra-virgin olive oil
+> 2 ounces coarsely grated ricotta salata (1 cup)
 
 Working in batches, cut kale crosswise into very thin slices.  Whisk together
 shallot, lemon juice, salt, and pepper in a small bowl, then add oil in a slow
@@ -1208,13 +1208,13 @@ simple process does something magical to vegetables.
 The payoff: Roasting caramelizes the sugars and creates veggies that are
 browned on the outside and tender on the inside.
 
-> 2¼ pounds medium parsnips, trimmed, peeled, cut into 3x½-inch sticks  
-> 1½ pounds medium carrots, trimmed, peeled, cut into 3x½-inch sticks  
-> ¼ cup extra-virgin olive oil  
-> 2 tablespoons white balsamic vinegar  
-> 1 tablespoon minced fresh rosemary  
-> 2 teaspoons coarse kosher salt  
-> 1 teaspoon black pepper  
+> 2¼ pounds medium parsnips, trimmed, peeled, cut into 3x½-inch sticks
+> 1½ pounds medium carrots, trimmed, peeled, cut into 3x½-inch sticks
+> ¼ cup extra-virgin olive oil
+> 2 tablespoons white balsamic vinegar
+> 1 tablespoon minced fresh rosemary
+> 2 teaspoons coarse kosher salt
+> 1 teaspoon black pepper
 
 Preheat oven to 425 °F. Combine parsnips and carrots on large rimmed baking
 sheet. Add oil and remaining ingredients; toss to coat. Spread in even layer on
@@ -1235,25 +1235,25 @@ Serves 6.
 
 **Creamy sesame dressing:**
 
-> 1¼ c. mayonnaise (the kind made with olive oil)  
-> ¼ c. soy sauce  
-> ¼ c. rice vinegar  
-> ¼ c. sugar  
-> ¼ c. sesame oil  
-> ¼ tsp. black pepper  
+> 1¼ c. mayonnaise (the kind made with olive oil)
+> ¼ c. soy sauce
+> ¼ c. rice vinegar
+> ¼ c. sugar
+> ¼ c. sesame oil
+> ¼ tsp. black pepper
 
 Combine all ingredients. Makes enough dressing for two salads.
 
 **Salad:**
 
-> 8 oz. fusilli pasta  
-> 2 c. cubed cooked chicken  
-> 4 green onions, thinly sliced  
-> 1 c. snow peas cut in 1" pieces  
-> 1 c. halved red grapes  
-> 1 c. mandarin oranges (1 large can drained)  
-> 1 8 oz. can sliced button mushrooms, drained  
-> 3-4 oz. wonton strips (the best come from the deli at Macy's)  
+> 8 oz. fusilli pasta
+> 2 c. cubed cooked chicken
+> 4 green onions, thinly sliced
+> 1 c. snow peas cut in 1" pieces
+> 1 c. halved red grapes
+> 1 c. mandarin oranges (1 large can drained)
+> 1 8 oz. can sliced button mushrooms, drained
+> 3-4 oz. wonton strips (the best come from the deli at Macy's)
 
 1. Cook pasta according to package instructions.  Drain and rinse with cold
    water and drain again.
@@ -1273,18 +1273,18 @@ Combine all ingredients. Makes enough dressing for two salads.
 Source: Better Homes and Gardens, May 2005; makes 4 servings.  Prep time: 20
 minutes.
 
-> 2 small heads cauliflower  
-> 2 to 3 ounces thinly sliced Serrano ham, cooked ham, or prosciutto  
-> 1 ounce Manchego cheese or Jack cheese, thinly sliced or crumbled  
-> ¼ cup olive oil or cooking oil  
-> 2 tablespoons lemon juice  
-> 1 clove garlic, minced  
-> ½ teaspoon salt  
-> ¼ teaspoon sugar  
-> ¼ teaspoon dry mustard  
-> ¼ teaspoon freshly ground black pepper  
-> 2 tablespoons toasted pine nuts  
-> 2 tablespoons capers, drained  
+> 2 small heads cauliflower
+> 2 to 3 ounces thinly sliced Serrano ham, cooked ham, or prosciutto
+> 1 ounce Manchego cheese or Jack cheese, thinly sliced or crumbled
+> ¼ cup olive oil or cooking oil
+> 2 tablespoons lemon juice
+> 1 clove garlic, minced
+> ½ teaspoon salt
+> ¼ teaspoon sugar
+> ¼ teaspoon dry mustard
+> ¼ teaspoon freshly ground black pepper
+> 2 tablespoons toasted pine nuts
+> 2 tablespoons capers, drained
 
 1. Remove heavy leaves and tough stems from cauliflower; cut into 4 to 6 wedges
    each. Place cauliflower in a microwave-safe 3-quart casserole. Add ½ cup
@@ -1311,17 +1311,17 @@ attributed to By Ananda Eidelstein, November 2018
 
 Makes 8 servings. Prep time: about 30 minutes.
 
-> 1 cup hazelnuts  
-> ¼ cup white balsamic or white wine vinegar  
-> 2 tablespoons honey  
-> 1¼ teaspoon kosher salt  
-> 1 teaspoon Dijon mustard  
+> 1 cup hazelnuts
+> ¼ cup white balsamic or white wine vinegar
+> 2 tablespoons honey
+> 1¼ teaspoon kosher salt
+> 1 teaspoon Dijon mustard
 > ¼ teaspoon freshly ground black pepper
-> ½ cup olive oil  
-> 1 large bunch red kale, ribs removed, leaves torn into bite-size pieces (about 10 cups)  
-> 1 pound Brussels sprouts, trimmed and shredded in a food processor (about 6 cups)  
-> 1 cup pomegranate seeds  
-> 2 cups butter and herb croutons  
+> ½ cup olive oil
+> 1 large bunch red kale, ribs removed, leaves torn into bite-size pieces (about 10 cups)
+> 1 pound Brussels sprouts, trimmed and shredded in a food processor (about 6 cups)
+> 1 cup pomegranate seeds
+> 2 cups butter and herb croutons
 
 Roast hazelnuts for 8-12 minutes in a 350°F oven. Nuts should be in a single
 layer on a rimmed baking sheet. Remove when golden brown and fragrant, let
@@ -1343,26 +1343,26 @@ Just before serving, add croutons and hazelnuts and toss to combine.
 This recipe is from the King Arthur Flour website:
 https://www.kingarthurflour.com/recipes/sopa-paraguaya-recipe
 
-Prep time: 20 minutes  
-Bake time: 35-40 minutes  
-Total time: about 1 hour  
-Serves: 8-10 servings  
+Prep time: 20 minutes
+Bake time: 35-40 minutes
+Total time: about 1 hour
+Serves: 8-10 servings
 
-> 1 Tbsp butter  
-> 1 Tbsp vegetable oil  
-> 1 cup diced onion   
-> ¼ cup diced red bell pepper  
-> ¼ cup diced red green pepper   
-> 1½ cups cornmeal   
-> 1 cup milk   
-> 2 Tbsp sugar   
-> ½ cup cottage cheese   
-> 2 large eggs   
-> 1 tsp salt   
-> ½ tsp ground black pepper  
-> 2 tsp baking powder   
-> 1½ cups fresh or frozen corn kernels   
-> 1 cup grated Monterey jack cheese  
+> 1 Tbsp butter
+> 1 Tbsp vegetable oil
+> 1 cup diced onion 
+> ¼ cup diced red bell pepper
+> ¼ cup diced red green pepper 
+> 1½ cups cornmeal 
+> 1 cup milk 
+> 2 Tbsp sugar 
+> ½ cup cottage cheese 
+> 2 large eggs 
+> 1 tsp salt 
+> ½ tsp ground black pepper
+> 2 tsp baking powder 
+> 1½ cups fresh or frozen corn kernels 
+> 1 cup grated Monterey jack cheese
 
 *Instructions*
 
@@ -1396,14 +1396,14 @@ cheese for monterey jack.
 
 ## Café Beaujolais Yogurt Pancakes
 
-> 1½ c. whole wheat white flour  
-> 1½ Tbs. sugar  
-> 1 tsp. salt  
-> 1½ tsp. baking soda  
-> 2 eggs  
-> 2 c. plain low-fat yogurt (I use Greek non-fat)  
-> ¼ c. canola oil, plus a little for the skillet  
-> 3 Tbs. cold water  
+> 1½ c. whole wheat white flour
+> 1½ Tbs. sugar
+> 1 tsp. salt
+> 1½ tsp. baking soda
+> 2 eggs
+> 2 c. plain low-fat yogurt (I use Greek non-fat)
+> ¼ c. canola oil, plus a little for the skillet
+> 3 Tbs. cold water
 
 Sift together the flour, sugar, salt, baking powder, and baking soda into a
 mixing bowl.  In a separate bowl, whisk together the remaining ingredients and
@@ -1422,16 +1422,16 @@ Top with honey-flavored greek yogurt, berries, or maple syrup. 
 
 Gourmet, May 1993.  Makes 12 muffins.  Can be prepared in 45 minutes or less.
 
-> 1 cup yellow cornmeal  
-> 1 cup all-purpose flour  
-> ½ cup sugar  
-> 1 teaspoon double-acting baking powder  
-> 1 teaspoon baking soda  
-> ¼ teaspoon salt  
-> 2 large eggs  
-> 1¼ cups plain yogurt  
-> ½ stick (¼ cup) unsalted butter, melted and cooled  
-> 1 cup fresh raspberries  
+> 1 cup yellow cornmeal
+> 1 cup all-purpose flour
+> ½ cup sugar
+> 1 teaspoon double-acting baking powder
+> 1 teaspoon baking soda
+> ¼ teaspoon salt
+> 2 large eggs
+> 1¼ cups plain yogurt
+> ½ stick (¼ cup) unsalted butter, melted and cooled
+> 1 cup fresh raspberries
 
 Preheat the oven to 375 °F. and butter well twelve ½-cup muffin tins. In a bowl
 whisk together the cornmeal, the flour, the sugar, the baking powder, the
@@ -1451,15 +1451,15 @@ day in advance and kept in an airtight container.
 
 Makes 12.
 
-> 2 cups whole wheat white flour  
-> ½ teaspoon salt  
-> ¼ teaspoon baking soda  
-> ⅔ c. sugar  
-> ⅓ cup canola oil  
-> 2 large eggs  
-> ¾ cup sour cream  
-> 1 teaspoon vanilla  
-> ¼ cup poppy seed or ¾ cup fresh or frozen blueberries  
+> 2 cups whole wheat white flour
+> ½ teaspoon salt
+> ¼ teaspoon baking soda
+> ⅔ c. sugar
+> ⅓ cup canola oil
+> 2 large eggs
+> ¾ cup sour cream
+> 1 teaspoon vanilla
+> ¼ cup poppy seed or ¾ cup fresh or frozen blueberries
 
 1. Heat oven to 400 °F.  Line muffins tins with paper muffin cup.
 2. In a large bowl, combine the flour, salt, sugar and baking soda.  If using
@@ -1478,19 +1478,19 @@ Makes 12.
 
 (Recipe courtesy Paula Deen & the foodnetwork.com)
 
-Prep Time: 15 min  
-Inactive Prep Time: 45 min  
-Cook Time: 45 min  
-Level: Easy  
-Serves: 8 servings  
+Prep Time: 15 min
+Inactive Prep Time: 45 min
+Cook Time: 45 min
+Level: Easy
+Serves: 8 servings
 
-> 6 large eggs, beaten  
-> 1½ cups heavy cream  
-> salt and pepper  
-> 2 cups chopped fresh baby spinach, packed  
-> 1 pound bacon, cooked and crumbled  
-> 1½ cups shredded Swiss cheese  
-> 1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate  
+> 6 large eggs, beaten
+> 1½ cups heavy cream
+> salt and pepper
+> 2 cups chopped fresh baby spinach, packed
+> 1 pound bacon, cooked and crumbled
+> 1½ cups shredded Swiss cheese
+> 1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
 
 Preheat the oven to 375 °F.
 
@@ -1505,11 +1505,11 @@ Bake for 35 to 45 minutes until the egg mixture is set. Cut into 8 wedges. 
 
 From the kitchen of Emily Walgrave.  Makes 1 pint.
 
-> 1½ cups white sugar  
-> ¾ cup buttermilk  
-> ½ cup butter  
-> 2 Tbsp corn syrup  
-> 1 tsp baking soda  
+> 1½ cups white sugar
+> ¾ cup buttermilk
+> ½ cup butter
+> 2 Tbsp corn syrup
+> 1 tsp baking soda
 > 2 tsp vanilla extract
 
 Using a large saucepan, stir in sugar, buttermilk, butter, corn syrup, and
@@ -1530,24 +1530,24 @@ servings.
 > on to me, so I can still enjoy the sweet-spicy flavors of this stew more than
 > 60 years later."
 
-> 2 pounds well-trimmed boneless beef stew meat, cut into 1-inch pieces  
-> 3 tablespoons vegetable oil  
-> 2 large onions, sliced  
-> 6 whole cloves  
-> 2 large garlic cloves, chopped  
-> 2 cinnamon sticks  
-> 1 bay leaf  
-> ¼ teaspoon dried crushed red pepper  
-> 1½ cups whole milk (can substitute coconut milk)  
-> 3 large tomatoes, quartered (can substitute crushed canned tomatoes)  
-> 1 14-oz can chick peas or equivalent  
-> 3 tablespoons Major Grey chutney  
-> 3 tablespoons fresh lemon juice  
-> 2 tablespoons minced peeled fresh ginger  
-> 1½ tablespoons curry powder  
-> ½ teaspoon salt  
+> 2 pounds well-trimmed boneless beef stew meat, cut into 1-inch pieces
+> 3 tablespoons vegetable oil
+> 2 large onions, sliced
+> 6 whole cloves
+> 2 large garlic cloves, chopped
+> 2 cinnamon sticks
+> 1 bay leaf
+> ¼ teaspoon dried crushed red pepper
+> 1½ cups whole milk (can substitute coconut milk)
+> 3 large tomatoes, quartered (can substitute crushed canned tomatoes)
+> 1 14-oz can chick peas or equivalent
+> 3 tablespoons Major Grey chutney
+> 3 tablespoons fresh lemon juice
+> 2 tablespoons minced peeled fresh ginger
+> 1½ tablespoons curry powder
+> ½ teaspoon salt
 
-> hot cooked rice  
+> hot cooked rice
 
 Sprinkle beef with salt and pepper. Heat 2 tablespoons oil in heavy large pot
 over high heat. Working in batches, add beef to pot and brown on all sides,
@@ -1580,16 +1580,16 @@ Bon Appétit, April 2008, by Amy Finely.  Makes 4 servings.
 
 You'll need a slow cooker for this recipe (a necessity for any busy cook).
 
-> 2 pounds boneless country-style pork ribs or pork shoulder (Boston butt), cut into 1 ½-inch pieces  
-> 2 teaspoons salt  
-> 2 teaspoons ground black pepper  
-> 2 teaspoons dried oregano (preferably Mexican)  
-> ½ large onion, cut into 4 pieces  
-> 1 avocado, halved, pitted, sliced  
-> Fresh cilantro sprigs  
-> Sliced red bell peppers (optional)  
-> Corn tortillas  
-> Roasted Tomatillo Salsa  
+> 2 pounds boneless country-style pork ribs or pork shoulder (Boston butt), cut into 1 ½-inch pieces
+> 2 teaspoons salt
+> 2 teaspoons ground black pepper
+> 2 teaspoons dried oregano (preferably Mexican)
+> ½ large onion, cut into 4 pieces
+> 1 avocado, halved, pitted, sliced
+> Fresh cilantro sprigs
+> Sliced red bell peppers (optional)
+> Corn tortillas
+> Roasted Tomatillo Salsa
 
 Toss pork in bowl of slow cooker with salt, black pepper, and dried oregano to
 coat. Place onion pieces atop pork. Cover slow cooker and cook pork on low
@@ -1614,16 +1614,16 @@ triple hit of flavor: The sauce gets mixed into the meat, slathered onto the
 cooked burgers for the last minute of grilling, and brushed on the bun. A
 cabbage slaw with a creamy dressing tops them off with just the right crunch.
 
-> 1 (½-pound) piece green cabbage, cored  
-> ¼ cup mayonnaise  
-> 1 tablespoon milk  
-> 1 tablespoon plus 1½ teaspoons white-wine vinegar, divided  
-> ½ cup very finely shredded carrot (1 medium)  
-> 1 tablespoon thinly sliced fresh chives  
-> ½ cup bottled tomato-based barbecue sauce  
-> ¼ teaspoon cayenne  
-> 1½ pounds ground pork  
-> 4 Kaiser or soft rolls, split and grilled  
+> 1 (½-pound) piece green cabbage, cored
+> ¼ cup mayonnaise
+> 1 tablespoon milk
+> 1 tablespoon plus 1½ teaspoons white-wine vinegar, divided
+> ½ cup very finely shredded carrot (1 medium)
+> 1 tablespoon thinly sliced fresh chives
+> ½ cup bottled tomato-based barbecue sauce
+> ¼ teaspoon cayenne
+> 1½ pounds ground pork
+> 4 Kaiser or soft rolls, split and grilled
 
 Equipment: an adjustable-blade slicer
 
@@ -1663,16 +1663,16 @@ Bon Appétit, September 1998.  Serves 8.
 
 Simple, appealing and perfect with the polenta. Pour a Barbera or Pinot Bianco.
 
-> 6 cups fresh breadcrumbs made from French bread  
-> ⅔ cup chopped fresh parsley  
-> 2 tablespoons chopped fresh rosemary  
-> 1¾ teaspoons crumbled bay leaves  
+> 6 cups fresh breadcrumbs made from French bread
+> ⅔ cup chopped fresh parsley
+> 2 tablespoons chopped fresh rosemary
+> 1¾ teaspoons crumbled bay leaves
 
-> 3 pounds pork tenderloins, trimmed  
-> 2 large eggs, beaten to blend  
+> 3 pounds pork tenderloins, trimmed
+> 2 large eggs, beaten to blend
 
-> 4 tablespoons (½ stick) butter  
-> 2 tablespoons olive oil  
+> 4 tablespoons (½ stick) butter
+> 2 tablespoons olive oil
 
 Preheat oven to 375 °F. Mix first 4 ingredients in large bowl to blend. Season
 to taste with salt and pepper.
@@ -1697,11 +1697,11 @@ Gourmet, August 2009, by Maggie Ruggiero.  Makes 4 servings.
 
 **Peperonata:**
 
-> 3 red bell peppers, cut into strips  
-> 1½ tablespoons extra-virgin olive oil, divided  
-> 1½ tablespoons drained capers  
-> 1 teaspoon red-wine vinegar  
-> ⅛ teaspoon hot red pepper flakes  
+> 3 red bell peppers, cut into strips
+> 1½ tablespoons extra-virgin olive oil, divided
+> 1½ tablespoons drained capers
+> 1 teaspoon red-wine vinegar
+> ⅛ teaspoon hot red pepper flakes
 
 Preheat oven to 400 °F with racks in upper and lower thirds.  Toss bell peppers
 with 1 tablespoon oil, then roast in a 4-sided sheet pan in lower third of
@@ -1712,16 +1712,16 @@ oil in a medium bowl and set aside.
 
 **Meatballs:**
 
-> 3 slices Italian bread, torn into pieces (1 cup)  
-> ⅓ cup milk  
-> 3 ounces sliced pancetta, finely chopped  
-> 1 small onion, finely chopped  
-> 1 small garlic clove, minced  
-> 2 tablespoons extra-virgin olive oil, divided  
-> 1 large egg  
-> 1 pound ground chicken  
-> 3 tablespoons finely chopped flat-leaf parsley  
-> 1 tablespoon tomato paste  
+> 3 slices Italian bread, torn into pieces (1 cup)
+> ⅓ cup milk
+> 3 ounces sliced pancetta, finely chopped
+> 1 small onion, finely chopped
+> 1 small garlic clove, minced
+> 2 tablespoons extra-virgin olive oil, divided
+> 1 large egg
+> 1 pound ground chicken
+> 3 tablespoons finely chopped flat-leaf parsley
+> 1 tablespoon tomato paste
 
 Soak bread in milk in a small bowl until softened, about 4 minutes.  Cook
 pancetta, onion, and garlic in 1 tablespoon oil with ½ teaspoon each of salt
@@ -1743,16 +1743,16 @@ Toss bell peppers with caper mixture. Serve meatballs with peperonata.
 
 ## Byerly's Italian Beef Burgers
 
-> 1½ Lb. ground beef  
-> 1 c.  Panko crumbs  
-> 2 large eggs  
-> 2 Tb. capers  
-> 2 Tb. minced calamata olives  
-> ⅓ c. minced red bell pepper  
-> ⅓ c. minced green bell pepper  
-> 2-3 Tb. minced onion  
-> ¾ c. grated asiago cheese  
-> 1-2 tsp. dried oregano  
+> 1½ Lb. ground beef
+> 1 c.  Panko crumbs
+> 2 large eggs
+> 2 Tb. capers
+> 2 Tb. minced calamata olives
+> ⅓ c. minced red bell pepper
+> ⅓ c. minced green bell pepper
+> 2-3 Tb. minced onion
+> ¾ c. grated asiago cheese
+> 1-2 tsp. dried oregano
 
 Gently mix all ingredients together.  Form into patties.  If there are any left
 over, wrap them individually and freeze for a quick meal.
@@ -1769,21 +1769,21 @@ Cooker][whole30] by Melissa Hartwig as the source.
 
 Cook time: 6 hours.  Serves: 4.
 
-> 1 cup beef broth  
-> ¼ cup coconut aminos  
-> 2 Tbsp toasted sesame oil  
-> 1 tsp fish sauce  
-> ½ tsp paprika  
-> 1 Granny Smith apple, peeled, cored and coarsely chopped  
-> 4 cloves garlic, minced  
-> 1 (2-inch) piece ginger, grated  
-> 1 (2-2½-lb) beef chuck roast, fat trimmed and cut into 2-inch pieces  
-> 1 (10.7-oz) pkg zucchini noodles or 2 small zucchini, spiralized  
-> 1 cup kimchi  
-> ½ cup thinly sliced red onion  
+> 1 cup beef broth
+> ¼ cup coconut aminos
+> 2 Tbsp toasted sesame oil
+> 1 tsp fish sauce
+> ½ tsp paprika
+> 1 Granny Smith apple, peeled, cored and coarsely chopped
+> 4 cloves garlic, minced
+> 1 (2-inch) piece ginger, grated
+> 1 (2-2½-lb) beef chuck roast, fat trimmed and cut into 2-inch pieces
+> 1 (10.7-oz) pkg zucchini noodles or 2 small zucchini, spiralized
+> 1 cup kimchi
+> ½ cup thinly sliced red onion
 > 2 large eggs, peeled, cored and coarsely chopped soft-cooked, peeled and
-> halved (optional)  
-> Toasted sesame seeds for garnish  
+> halved (optional)
+> Toasted sesame seeds for garnish
 
 In a 4-quart slow cooker, combine first 9 ingredients. Cover and cook on low
 (10-12 hours) or high (5-6 hours). Remove beef. Add zucchini noodles to
@@ -1803,17 +1803,17 @@ Williams-Sonoma Kitchen, Bon Appétit, July 1997. Serves 6. Total prep time: 45
 minutes.
 
 
-> 1 12-ounce container frozen orange juice from concentrate, thawed  
-> ⅓ cup dry white wine  
-> ⅓ cup honey-Dijon mustard  
-> 2 tablespoons finely chopped fresh rosemary or 2 teaspoons dried  
-> 4 teaspoons soy sauce  
-> 2 teaspoons hot pepper sauce (such as Tabasco)  
-> 1 large garlic clove, chopped  
+> 1 12-ounce container frozen orange juice from concentrate, thawed
+> ⅓ cup dry white wine
+> ⅓ cup honey-Dijon mustard
+> 2 tablespoons finely chopped fresh rosemary or 2 teaspoons dried
+> 4 teaspoons soy sauce
+> 2 teaspoons hot pepper sauce (such as Tabasco)
+> 1 large garlic clove, chopped
 
-> 1 cup hickory smoke chips, soaked in water 30 minutes, drained  
+> 1 cup hickory smoke chips, soaked in water 30 minutes, drained
 > small (8" x 6") foil container (make out of tinfoil in a pinch)
-> 2 7-pound chickens, each cut into 8 pieces (breasts halved if large)  
+> 2 7-pound chickens, each cut into 8 pieces (breasts halved if large)
 
 Blend first 7 ingredients in processor to make the orange glaze. Set glaze
 aside.
@@ -1839,19 +1839,19 @@ Bon Appétit, June 2003. Makes 6 servings.
 Start marinating the chicken four to six hours ahead. Pour frosty Pilsners or a
 chilled Chenin Blanc.
 
-> 1 cup olive oil  
-> ¼ cup red wine vinegar  
-> 3 tablespoons ground cumin  
-> 1 ½ tablespoons ground coriander  
-> 2 teaspoons ground cinnamon  
-> 2 teaspoons salt  
-> 2 teaspoons sugar  
-> ¼ teaspoon cayenne pepper  
-> 4 large chicken breast halves with skin and ribs, cut crosswise in half  
-> 4 chicken legs  
-> 4 chicken thighs  
+> 1 cup olive oil
+> ¼ cup red wine vinegar
+> 3 tablespoons ground cumin
+> 1 ½ tablespoons ground coriander
+> 2 teaspoons ground cinnamon
+> 2 teaspoons salt
+> 2 teaspoons sugar
+> ¼ teaspoon cayenne pepper
+> 4 large chicken breast halves with skin and ribs, cut crosswise in half
+> 4 chicken legs
+> 4 chicken thighs
 
-> ¼ cup minced fresh parsley  
+> ¼ cup minced fresh parsley
 
 Whisk first 8 ingredients in large glass baking dish. Add all chicken; turn to
 coat.  Cover with plastic wrap; chill 4 to 6 hours.
@@ -1870,12 +1870,12 @@ Bon Appétit, July 2003, by Cheryl and Bill Jamison. Makes 6 servings.
 
 **Sage pesto**
 
-> ¾ cup lightly packed fresh sage leaves (from 2 large bunches)  
-> ¾ cup pine nuts (about 4 ounces)  
-> ¼ cup (packed) fresh Italian parsley leaves  
-> 1 garlic clove  
-> ¾ cup plus 3 tablespoons olive oil  
-> 6 tablespoons freshly grated Parmesan cheese  
+> ¾ cup lightly packed fresh sage leaves (from 2 large bunches)
+> ¾ cup pine nuts (about 4 ounces)
+> ¼ cup (packed) fresh Italian parsley leaves
+> 1 garlic clove
+> ¾ cup plus 3 tablespoons olive oil
+> 6 tablespoons freshly grated Parmesan cheese
 
 Using on/off turns, blend sage leaves, pine nuts, parsley, and garlic in
 processor until mixture is finely chopped. With machine running, add ¾ cup oil
@@ -1885,10 +1885,10 @@ surface of pesto and refrigerate. Bring to room temperature before using.)
 
 **Sandwiches**
 
-> 6 skinless boneless chicken breast halves  
-> 6 4x5-inch rectangles focaccia, ciabatta, or long French rolls, split horizontally  
-> mayonnaise  
-> 3 medium Fuji apples, halved, cored, thinly sliced  
+> 6 skinless boneless chicken breast halves
+> 6 4x5-inch rectangles focaccia, ciabatta, or long French rolls, split horizontally
+> mayonnaise
+> 3 medium Fuji apples, halved, cored, thinly sliced
 
 Place each chicken breast between sheets of waxed paper. Using rolling pin or
 meat mallet, pound each to ½-inch thickness. Brush chicken with 3 tablespoons
@@ -1911,16 +1911,16 @@ sandwiches to plates and serve.
 Bon Appétit, April 1991, by Margot Andrew: Los Angeles, California. Serves 4 to
 6.
 
-> ½ cup dried currants or raisins  
-> ¼ cup dry sherry  
-> 3 tablespoons butter  
-> 2 tablespoons finely chopped onion  
-> 3 tablespoons all purpose flour  
-> 1½ teaspoons curry powder  
-> 1 cup milk  
-> 1 medium apple, peeled, diced  
-> 6 boneless chicken breast halves, skinned, patted dry  
-> ¼ cup slivered almonds, toasted  
+> ½ cup dried currants or raisins
+> ¼ cup dry sherry
+> 3 tablespoons butter
+> 2 tablespoons finely chopped onion
+> 3 tablespoons all purpose flour
+> 1½ teaspoons curry powder
+> 1 cup milk
+> 1 medium apple, peeled, diced
+> 6 boneless chicken breast halves, skinned, patted dry
+> ¼ cup slivered almonds, toasted
 
 Place currants in small bowl. Add sherry and let soak 2 hours.
 
@@ -1948,17 +1948,17 @@ chocolate and wafer cookies.
 
 Yield: Makes 4 servings
 
-> 6 skinless boneless chicken thighs, each cut into 3 pieces  
-> 2 tablespoons ground cumin  
+> 6 skinless boneless chicken thighs, each cut into 3 pieces
+> 2 tablespoons ground cumin
 
-> 1 tablespoon olive oil  
-> 1 large onion, thinly sliced  
-> 2 14½-ounce cans chili-style chunky tomatoes in juice  
-> 4 small nothern american garden moles, freshly caught, skinned and gutted  
-> 1 cup canned low-salt chicken broth  
-> 2 tablespoons minced canned chipotle chilies plus 1 tablespoon adobo sauce  
+> 1 tablespoon olive oil
+> 1 large onion, thinly sliced
+> 2 14½-ounce cans chili-style chunky tomatoes in juice
+> 4 small nothern american garden moles, freshly caught, skinned and gutted
+> 1 cup canned low-salt chicken broth
+> 2 tablespoons minced canned chipotle chilies plus 1 tablespoon adobo sauce
 
-> 1 ounce unsweetened chocolate, chopped  
+> 1 ounce unsweetened chocolate, chopped
 
 Coat chicken on all sides with cumin. Sprinkle with salt and pepper.  Discard
 moles; what were you thinking?
@@ -1976,12 +1976,12 @@ Season with salt and pepper; serve.   
 
 Makes 5 generous servings.
 
-> ¾ c. panko bread crumbs  
-> ⅓ c. buttermilk  
-> ⅓ tsp. black pepper  
-> ⅓ tsp cayenne pepper  
-> ¼ tsp. salt  
-> 20 oz chicken, ground  
+> ¾ c. panko bread crumbs
+> ⅓ c. buttermilk
+> ⅓ tsp. black pepper
+> ⅓ tsp cayenne pepper
+> ¼ tsp. salt
+> 20 oz chicken, ground
 
 Mix all ingredients together.  Grill on a griddle sprayed lightly with oil.
 
@@ -1992,15 +1992,15 @@ Mix all ingredients together.  Grill on a griddle sprayed lightly with oil.
 
 ## Coleslaw for Chicken Burgers
 
-> ½ c. plain yogurt  
-> ¼ c. mayonnaise  
-> 5 T. apple cider vinegar  
-> ¾ tsp celery seed  
-> 4 tsp. sugar  
+> ½ c. plain yogurt
+> ¼ c. mayonnaise
+> 5 T. apple cider vinegar
+> ¾ tsp celery seed
+> 4 tsp. sugar
 
-> ½ head red cabbage, shredded  
-> 3 shredded carrots  
-> 1½ shredded beauty heart radishes (optional)  
+> ½ head red cabbage, shredded
+> 3 shredded carrots
+> 1½ shredded beauty heart radishes (optional)
 
 1. Mix dressing ingredients.
 2. Add cabbage, radish and carrot.
@@ -2014,17 +2014,17 @@ Mix all ingredients together.  Grill on a griddle sprayed lightly with oil.
 
 **Chicken burgers**
 
-> 1 lb ground pork  
-> ½ lb ground chicken  
-> 2 t minced garlic  
-> 1½ T chile powder  
-> ½ c. chopped cilantro  
-> 2 t lime zest  
-> 1½ t kosher salt  
-> ½ t black pepper  
-> 1½ c shredded Monterey jack cheese  
-> rolls, split & toasted  
-> optional: sliced avocado, tomato, red onion, lettuce  
+> 1 lb ground pork
+> ½ lb ground chicken
+> 2 t minced garlic
+> 1½ T chile powder
+> ½ c. chopped cilantro
+> 2 t lime zest
+> 1½ t kosher salt
+> ½ t black pepper
+> 1½ c shredded Monterey jack cheese
+> rolls, split & toasted
+> optional: sliced avocado, tomato, red onion, lettuce
 
 Preheat grill to medium heat. In medium bowl use hands to lightly blend pork,
 chicken, garlic, chile powder, cilantro, lime zest, salt, and pepper. Shape
@@ -2035,9 +2035,9 @@ until cheese melts.  (Note: the burgers are good without the cheese.)
 
 **Lime cilantro mayonnaise**
 
-> ½ c. mayo (the kind made with olive oil)  
-> 1 T lime juice  
-> ¼ c. chopped cilantro  
+> ½ c. mayo (the kind made with olive oil)
+> 1 T lime juice
+> ¼ c. chopped cilantro
 
 Combine ingredients and refrigerate until ready to serve.  Spread lime mayo on
 toasted buns and finish with burger and accompaniments.
@@ -2052,16 +2052,16 @@ toasted buns and finish with burger and accompaniments.
 Bon Appétit, October 1997. Ristorante Araxi, Whistler, British Columbia. Serves
 6.
 
-> 8 tablespoons (1 stick) butter  
-> 4 cups matchstick-size strips red bell peppers (about 2 large)  
-> 2 cups matchstick-size strips leek (white and pale green parts only; about 1 large)  
-> ½ cup dry white wine  
-> 1 teaspoon dried crushed red pepper  
-> ½ cup thinly sliced fresh basil  
-> 1 teaspoon salt  
+> 8 tablespoons (1 stick) butter
+> 4 cups matchstick-size strips red bell peppers (about 2 large)
+> 2 cups matchstick-size strips leek (white and pale green parts only; about 1 large)
+> ½ cup dry white wine
+> 1 teaspoon dried crushed red pepper
+> ½ cup thinly sliced fresh basil
+> 1 teaspoon salt
 
-> 12 sheets fresh phyllo pastry or frozen, thawed  
-> 6 5-ounce 6x2x1-inch skinless salmon fillets  
+> 12 sheets fresh phyllo pastry or frozen, thawed
+> 6 5-ounce 6x2x1-inch skinless salmon fillets
 
 Melt 2 tablespoons butter in heavy large skillet over medium-high heat. Add
 bell peppers and leek and sauté until leek is tender, about 6 minutes. Add wine
@@ -2092,15 +2092,15 @@ minutes.
 
 From Martha Stewart.  Approx. 30 minutes, serves 4.
 
-> 3/4 cup fresh flat-leaf parsley  
-> 1 garlic clove, chopped  
-> 1 Tbsp. plus 2 tsp extra-virgin olive oil  
+> 3/4 cup fresh flat-leaf parsley
+> 1 garlic clove, chopped
+> 1 Tbsp. plus 2 tsp extra-virgin olive oil
 > 4 boneless, skinnless salmon fillets, preferably wild sockeye
- (5 oz. each, 1 in. thick)  
-> coarse salt and freshly ground pepper  
-> ½ tsp. crushed red pepper flakes  
-> 5 c. baby spinach (6½ oz.)  
-> 1 cup canned chickpeas, drained and rinsed  
+ (5 oz. each, 1 in. thick)
+> coarse salt and freshly ground pepper
+> ½ tsp. crushed red pepper flakes
+> 5 c. baby spinach (6½ oz.)
+> 1 cup canned chickpeas, drained and rinsed
 
 Preheat oven to 400°.  Cut out four 12x17 inch pieces of parchment; fold each
 in half crosswise to form a crease, then open.
@@ -2125,13 +2125,13 @@ By Rachel Fishman Feddersen, Parenting.com.  A quick and easy weeknight dinner
 idea using boxed soup, tilapia and prepared curry paste.
 
 
-Serves: 4  
-Total time: 20 minutes  
+Serves: 4
+Total time: 20 minutes
 
-> 1 box butternut squash soup  
-> 1 to 2 Tbsp (or to taste) Thai red curry paste (or leftover sauce from Thai takeout)  
-> 1 lb tilapia fillet  
-> ¼ to ½ lb green beans, trimmed  
+> 1 box butternut squash soup
+> 1 to 2 Tbsp (or to taste) Thai red curry paste (or leftover sauce from Thai takeout)
+> 1 lb tilapia fillet
+> ¼ to ½ lb green beans, trimmed
 
 Heat soup in a large pot over medium-high heat.  Stir in the curry paste or
 leftover sauce.  Reduce to medium heat. Add the fish and cook, without boiling,
@@ -2149,19 +2149,19 @@ with the tilapia and some steamed green beans.  
 Bon Appétit, October 2008, by Bruce Aidells (adapted by Susan).  One of
 Adeline's favorites.  Makes 8 servings.
 
-> 1 large head of cauliflower, cored, cut into 1-inch florets  
-> 2 large heirloom tomatoes  
-> 5 tablespoons butter, divided  
-> ½ cup thinly sliced green onions  
-> coarse kosher salt  
-> 2 tablespoons all purpose flour  
-> 1 cup heavy whipping cream  
-> 3 cups coarsely grated Comté cheese (or half Gruyère and half Fontina; about 9 ounces), divided  
-> ¾ cup Parmigiano-Reggiano, finely grated Parmesan cheese, divided  
-> 1 cup sour cream  
-> 1 tablespoon whole grain Dijon mustard  
-> 10 ounces penne (approx. 3½ cups)  
-> 1 cup Panko crumbs  
+> 1 large head of cauliflower, cored, cut into 1-inch florets
+> 2 large heirloom tomatoes
+> 5 tablespoons butter, divided
+> ½ cup thinly sliced green onions
+> coarse kosher salt
+> 2 tablespoons all purpose flour
+> 1 cup heavy whipping cream
+> 3 cups coarsely grated Comté cheese (or half Gruyère and half Fontina; about 9 ounces), divided
+> ¾ cup Parmigiano-Reggiano, finely grated Parmesan cheese, divided
+> 1 cup sour cream
+> 1 tablespoon whole grain Dijon mustard
+> 10 ounces penne (approx. 3½ cups)
+> 1 cup Panko crumbs
 
 Cook cauliflower in large pot of boiling salted water until crisp-tender, about
 5 minutes. Using large sieve, transfer cauliflower to bowl. Add tomatoes to
@@ -2208,24 +2208,24 @@ topping needs help browning.
 Recipe courtesy of Rachael Ray & The Foodnetwork.com, 2007.  Serves 4.  Total
 prep time: 45 minutes.
 
-> 4 cups chicken or vegetable stock, divided  
-> 1 bay leaf  
-> 2 cups white rice  
-> 4 large poblano peppers  
-> 6 ears corn on the cob or 3 cups frozen corn kernels  
-> 3 tablespoons corn, peanut or vegetable oil, divided  
-> 1 red onion, chopped  
-> 1 jalapeno, seeded and chopped  
-> 4 cloves garlic, chopped  
-> 1 (15-ounce) can fire roasted diced tomatoes, drained well  
-> 1½ teaspoons ground cumin, ½ palm full  
-> ½ teaspoon dried oregano, eyeball it in your palm  
-> Salt and freshly ground black pepper  
-> ½ cup fresh cilantro leaves  
-> ½ pound spinach leaves, deveined and coarsely chopped  
-> 4 scallions, coarsely chopped  
-> 2 limes, zested, juiced  
-> 1 cup shredded Chihuahua cheese, Asadero or Monterey Jack  
+> 4 cups chicken or vegetable stock, divided
+> 1 bay leaf
+> 2 cups white rice
+> 4 large poblano peppers
+> 6 ears corn on the cob or 3 cups frozen corn kernels
+> 3 tablespoons corn, peanut or vegetable oil, divided
+> 1 red onion, chopped
+> 1 jalapeno, seeded and chopped
+> 4 cloves garlic, chopped
+> 1 (15-ounce) can fire roasted diced tomatoes, drained well
+> 1½ teaspoons ground cumin, ½ palm full
+> ½ teaspoon dried oregano, eyeball it in your palm
+> Salt and freshly ground black pepper
+> ½ cup fresh cilantro leaves
+> ½ pound spinach leaves, deveined and coarsely chopped
+> 4 scallions, coarsely chopped
+> 2 limes, zested, juiced
+> 1 cup shredded Chihuahua cheese, Asadero or Monterey Jack
 
 Preheat broiler or grill pan to high. (Don't do this until the poblanos are
 ready.) Place poblanos under broiler or on hot grill and char evenly all over,
@@ -2262,20 +2262,20 @@ Serve peppers on beds of green rice.
 
 Serves 6.
 
-> 2 tablespoons canola oil  
-> 1 medium-size red onion, cut in half lengthwise and thinly sliced  
-> 6-8 medium-size cloves garlic, coarsely chopped  
-> 4 lengthwise slices fresh ginger (each 2 inches long, 1 inch wide,  
->   and ⅛ inch thick), coarsely chopped (a 4 inch piece of ginger)  
-> 2 T Garam Masala (see Notes)  
-> 1 teaspoon ground turmeric  
-> 2 tablespoons tomato paste  
-> 8 ounces fresh spinach leaves, well rinsed and coarsely chopped  
-> 8 ounces fresh mustard greens, well rinsed and finely chopped (see Notes)  
-> ½ pound fried paneer, in 1-inch cubes (see Notes)  
-> ½ cup heavy cream or half and half  
-> 1 teaspoon Garam Masala (see Notes)  
-> salt to taste  
+> 2 tablespoons canola oil
+> 1 medium-size red onion, cut in half lengthwise and thinly sliced
+> 6-8 medium-size cloves garlic, coarsely chopped
+> 4 lengthwise slices fresh ginger (each 2 inches long, 1 inch wide,
+>   and ⅛ inch thick), coarsely chopped (a 4 inch piece of ginger)
+> 2 T Garam Masala (see Notes)
+> 1 teaspoon ground turmeric
+> 2 tablespoons tomato paste
+> 8 ounces fresh spinach leaves, well rinsed and coarsely chopped
+> 8 ounces fresh mustard greens, well rinsed and finely chopped (see Notes)
+> ½ pound fried paneer, in 1-inch cubes (see Notes)
+> ½ cup heavy cream or half and half
+> 1 teaspoon Garam Masala (see Notes)
+> salt to taste
 
 1. Heat the oil in a large skillet over medium heat. Add the onion, garlic,
    and ginger, and stir-fry until the onion is light brown, 8 to 10 minutes.
@@ -2335,12 +2335,12 @@ radish, carrot, or arugula.
 
 Makes about 2 cups of pesto.
 
-> 4 cups basil leaves, washed and dried  
-> a pinch of salt  
-> ¼ cup virgin olive oil (see below)  
-> ¼ cup pine nuts  
-> ¼ cup grated parmesan  
-> 1 clove garlic, peeled and pressed  
+> 4 cups basil leaves, washed and dried
+> a pinch of salt
+> ¼ cup virgin olive oil (see below)
+> ¼ cup pine nuts
+> ¼ cup grated parmesan
+> 1 clove garlic, peeled and pressed
 
 Gently pack basil into a food processor. Add a pinch of salt to keep the basil
 from turning black.  Add olive oil, pine nuts, parmesan, and garlic. Cream in
@@ -2355,17 +2355,17 @@ food processor until stiff.
 
 ## Portobello Risotto
 
-> 2 T. unsalted butter  
-> 2 T. olive oil  
-> ½ c. finely chopped onion  
-> 1 clove garlic, minced  
-> 6 oz. Portobello mushrooms, chopped in ½-inch cubes  
-> 1½ c. Arborio rice  
-> ½ c. dry white wine  
-> 3½  to 4 c. hot chicken broth (low-salt if using canned)  
-> 3 T. fresh chopped lemon thyme (regular thyme if you can not find lemon thyme)  
-> ½ c. freshly grated Parmigiano-Reggiano  
-> salt and pepper to taste  
+> 2 T. unsalted butter
+> 2 T. olive oil
+> ½ c. finely chopped onion
+> 1 clove garlic, minced
+> 6 oz. Portobello mushrooms, chopped in ½-inch cubes
+> 1½ c. Arborio rice
+> ½ c. dry white wine
+> 3½  to 4 c. hot chicken broth (low-salt if using canned)
+> 3 T. fresh chopped lemon thyme (regular thyme if you can not find lemon thyme)
+> ½ c. freshly grated Parmigiano-Reggiano
+> salt and pepper to taste
 
 Heat butter and olive oil in a heavy large saucepan over medium heat.  Add
 onion and garlic.  Saute until golden, about 10 minutes.  Add rice and
@@ -2383,17 +2383,17 @@ tender and the mixture is creamy.
 
 Bon Appétit, March 1997. Makes 27 cookies (we make them smaller). Susan's favorite.
 
-> 1½ cups unbleached all purpose flour  
-> ⅓ cup old-fashioned oats  
-> 1 teaspoon baking soda  
-> ¼ teaspoon salt  
-> 1 cup old-fashioned chunky peanut butter (about 9 ounces)  
-> 1 cup (packed) golden brown sugar  
-> ½ cup (1 stick) unsalted butter, room temperature  
-> ¼ cup honey  
-> 1 large egg  
-> 1 teaspoon vanilla extract  
-> 5 ounces semisweet chocolate, coarsely chopped  
+> 1½ cups unbleached all purpose flour
+> ⅓ cup old-fashioned oats
+> 1 teaspoon baking soda
+> ¼ teaspoon salt
+> 1 cup old-fashioned chunky peanut butter (about 9 ounces)
+> 1 cup (packed) golden brown sugar
+> ½ cup (1 stick) unsalted butter, room temperature
+> ¼ cup honey
+> 1 large egg
+> 1 teaspoon vanilla extract
+> 5 ounces semisweet chocolate, coarsely chopped
 
 Mix flour, oats, baking soda and salt in medium bowl. Using electric mixer,
 beat peanut butter, brown sugar, butter, honey, egg and vanilla in large bowl
@@ -2415,15 +2415,15 @@ container at room temperature.)
 
 ## Amanda Trammell's Raspberry Trifle
 
-> 1 (10¾ oz.) loaf frozen pound cake  
-> 1½ c. heavy cream  
-> ¾ c. granulated sugar  
-> 2 (8 oz) pkgs cream cheese, softened  
-> 2 tsp. lemon juice  
-> 2 tsp. vanilla  
-> 2 (10 oz) pkgs frozen sweetened raspberries, thawed  
-> 2 T. baking cocoa powder  
-> fresh raspberries, option (for garnish)  
+> 1 (10¾ oz.) loaf frozen pound cake
+> 1½ c. heavy cream
+> ¾ c. granulated sugar
+> 2 (8 oz) pkgs cream cheese, softened
+> 2 tsp. lemon juice
+> 2 tsp. vanilla
+> 2 (10 oz) pkgs frozen sweetened raspberries, thawed
+> 2 T. baking cocoa powder
+> fresh raspberries, option (for garnish)
 
 * Slice cake into 18-20 slices (cubes work also). Set aside.
 * In a mixing bowl, beat cream with ¼ c. sugar until stiff peaks form.  Set
@@ -2447,10 +2447,10 @@ Bon Appétit, April 2004. Makes 24.
 
 These delicious small pastries are easy to make, and they're sure to disappear quickly.
 
-> 2 sheets frozen puff pastry (one 17.3-ounce package), thawed, each sheet cut into 12 squares  
-> 1 large egg beaten to blend with 1 Tb water (for glaze)  
-> 4 3½-ounce bars imported bittersweet or milk chocolate, each cut into six 2x¾-inch pieces  
-> sugar  
+> 2 sheets frozen puff pastry (one 17.3-ounce package), thawed, each sheet cut into 12 squares
+> 1 large egg beaten to blend with 1 Tb water (for glaze)
+> 4 3½-ounce bars imported bittersweet or milk chocolate, each cut into six 2x¾-inch pieces
+> sugar
 
 Line baking sheet with parchment paper. Brush top of each puff pastry square
 with egg glaze. Place 1 chocolate piece on edge of 1 pastry square. Roll up
@@ -2470,18 +2470,18 @@ minutes. Serve warm or at room temperature.
 
 From *Real Simple*, December 2018. Improvements added by John & Susan.
 
-**Active time:** 45 minutes  
-**Total time:** 45 minutes  
-**Makes:** 7¼ cups caramel  
+**Active time:** 45 minutes
+**Total time:** 45 minutes
+**Makes:** 7¼ cups caramel
 
 Ingredients:
 
-> 5 cups granulated sugar  
-> 1½ cups water  
-> 3 cups heavy cream  
-> 1¼ cups unsalted butter (2½ sticks) , cut into cubes  
-> 3 tablespoons pure vanilla extract  
-> 1 teaspoon fine sea salt  
+> 5 cups granulated sugar
+> 1½ cups water
+> 3 cups heavy cream
+> 1¼ cups unsalted butter (2½ sticks) , cut into cubes
+> 3 tablespoons pure vanilla extract
+> 1 teaspoon fine sea salt
 
 * Stir together sugar and 1½ cups water in a large heavy-bottomed pot. Place
   over medium-high and cook, undisturbed, until the sugar begins to turn amber
@@ -2535,13 +2535,13 @@ Ingredients:
 
 Makes about 1 quart (serves 4-6).
 
-> 4 teaspoons grated zest plus ½ cup juice from 2-3 medium limes  
-> 4 teaspoons grated zest plus ½ cup juice from 2-3 medium lemons  
-> ¼ cup superfine sugar  
-> pinch salt  
-> 2 cups crushed ice  
-> 1 cup 100 percent agave tequila, preferably reposado  
-> 1 cup triple sec  
+> 4 teaspoons grated zest plus ½ cup juice from 2-3 medium limes
+> 4 teaspoons grated zest plus ½ cup juice from 2-3 medium lemons
+> ¼ cup superfine sugar
+> pinch salt
+> 2 cups crushed ice
+> 1 cup 100 percent agave tequila, preferably reposado
+> 1 cup triple sec
 
 Combine the lime zest and juice, the lemon zest and juice, sugar and salt in a
 large liquid measuring cup. Cover with plastic wrap and refrigerate until
@@ -2581,12 +2581,12 @@ process altogether. 
 
 Martha Stewart Living, April 2011; serves 4.
 
-> ⅓ cup sugar  
-> ⅓ cup water  
-> 4 green tea bags  
-> ½ cup chilled unsweetened cranberry juice  
-> ice  
-> 3 cups chilled seltzer  
+> ⅓ cup sugar
+> ⅓ cup water
+> 4 green tea bags
+> ½ cup chilled unsweetened cranberry juice
+> ice
+> 3 cups chilled seltzer
 
 Bring sugar and water to a boil in a saucepan. Cook, stirring, until sugar
 dissolves. Let cool completely. Steep tea bags in 2 cups boiling water for 2
@@ -2598,11 +2598,11 @@ simple syrup among 4 ice-filled glasses. Top with chilled seltzer.
 
 Source: Better Homes and Gardens, May 2005. Makes 8 (8-ounce) servings.
 
-> 2 to 3 slices ripe honeydew melon  
-> 1 lime, sliced ¼-inch thick  
-> 4 mint sprigs  
-> 2 quarts water  
-> ice cubes  
+> 2 to 3 slices ripe honeydew melon
+> 1 lime, sliced ¼-inch thick
+> 4 mint sprigs
+> 2 quarts water
+> ice cubes
 
 Add slices of melon, lime slices, and mint sprigs to a large pitcher. Fill
 pitcher with the water. Refrigerate for 2 to 4 hours to allow fruit and herbs

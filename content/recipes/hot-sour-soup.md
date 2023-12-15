@@ -13,20 +13,20 @@ any grit.
 Accompany the soup with a shredded cabbage salad dressed with rice wine
 vinegar, sugar and a little oil.
 
-> 1 oz. dried Chinese black mushrooms or dried shiitake mushrooms  
-> 3 cups boiling water  
-> 2 Tbs. plus 1 tsp. white wine vinegar  
-> 1 Tbs. plus 1 tsp. soy sauce  
-> ½ tsp. Asian sesame oil  
-> 1 ¼ tsp. Asian chili oil  
-> ½ tsp. freshly ground pepper, plus more, to taste  
-> 5 cups chicken stock  
-> ½ cup canned thinly sliced bamboo shoots, rinsed and drained  
-> 1 boneless, skinless whole chicken breast, about ½ lb., cut crosswise into thin bite-size slices  
-> ¼ lb. firm tofu, drained and cut into ½- inch cubes  
-> 2 Tbs. cornstarch  
-> ¼ cup water  
-> 1 egg, well beaten  
+> 1 oz. dried Chinese black mushrooms or dried shiitake mushrooms
+> 3 cups boiling water
+> 2 Tbs. plus 1 tsp. white wine vinegar
+> 1 Tbs. plus 1 tsp. soy sauce
+> ½ tsp. Asian sesame oil
+> 1 ¼ tsp. Asian chili oil
+> ½ tsp. freshly ground pepper, plus more, to taste
+> 5 cups chicken stock
+> ½ cup canned thinly sliced bamboo shoots, rinsed and drained
+> 1 boneless, skinless whole chicken breast, about ½ lb., cut crosswise into thin bite-size slices
+> ¼ lb. firm tofu, drained and cut into ½- inch cubes
+> 2 Tbs. cornstarch
+> ¼ cup water
+> 1 egg, well beaten
 
 Soak the dried mushrooms in the boiling water for 30 minutes. Drain the
 mushrooms and slice them thinly. Set aside.

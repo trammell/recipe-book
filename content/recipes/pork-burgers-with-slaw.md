@@ -8,16 +8,16 @@ triple hit of flavor: The sauce gets mixed into the meat, slathered onto the
 cooked burgers for the last minute of grilling, and brushed on the bun. A
 cabbage slaw with a creamy dressing tops them off with just the right crunch.
 
-> 1 (½-pound) piece green cabbage, cored  
-> ¼ cup mayonnaise  
-> 1 tablespoon milk  
-> 1 tablespoon plus 1½ teaspoons white-wine vinegar, divided  
-> ½ cup very finely shredded carrot (1 medium)  
-> 1 tablespoon thinly sliced fresh chives  
-> ½ cup bottled tomato-based barbecue sauce  
-> ¼ teaspoon cayenne  
-> 1½ pounds ground pork  
-> 4 Kaiser or soft rolls, split and grilled  
+> 1 (½-pound) piece green cabbage, cored
+> ¼ cup mayonnaise
+> 1 tablespoon milk
+> 1 tablespoon plus 1½ teaspoons white-wine vinegar, divided
+> ½ cup very finely shredded carrot (1 medium)
+> 1 tablespoon thinly sliced fresh chives
+> ½ cup bottled tomato-based barbecue sauce
+> ¼ teaspoon cayenne
+> 1½ pounds ground pork
+> 4 Kaiser or soft rolls, split and grilled
 
 Equipment: an adjustable-blade slicer
 

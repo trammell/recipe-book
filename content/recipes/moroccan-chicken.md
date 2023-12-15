@@ -3,16 +3,16 @@
 Bon Appétit, April 1991, by Margot Andrew: Los Angeles, California. Serves 4 to
 6.
 
-> ½ cup dried currants or raisins  
-> ¼ cup dry sherry  
-> 3 tablespoons butter  
-> 2 tablespoons finely chopped onion  
-> 3 tablespoons all purpose flour  
-> 1½ teaspoons curry powder  
-> 1 cup milk  
-> 1 medium apple, peeled, diced  
-> 6 boneless chicken breast halves, skinned, patted dry  
-> ¼ cup slivered almonds, toasted  
+> ½ cup dried currants or raisins
+> ¼ cup dry sherry
+> 3 tablespoons butter
+> 2 tablespoons finely chopped onion
+> 3 tablespoons all purpose flour
+> 1½ teaspoons curry powder
+> 1 cup milk
+> 1 medium apple, peeled, diced
+> 6 boneless chicken breast halves, skinned, patted dry
+> ¼ cup slivered almonds, toasted
 
 Place currants in small bowl. Add sherry and let soak 2 hours.
 

@@ -3,19 +3,19 @@
 Bon Appétit, October 2008, by Bruce Aidells (adapted by Susan).  One of
 Adeline's favorites.  Makes 8 servings.
 
-> 1 large head of cauliflower, cored, cut into 1-inch florets  
-> 2 large heirloom tomatoes  
-> 5 tablespoons butter, divided  
-> ½ cup thinly sliced green onions  
-> coarse kosher salt  
-> 2 tablespoons all purpose flour  
-> 1 cup heavy whipping cream  
-> 3 cups coarsely grated Comté cheese (or half Gruyère and half Fontina; about 9 ounces), divided  
-> ¾ cup Parmigiano-Reggiano, finely grated Parmesan cheese, divided  
-> 1 cup sour cream  
-> 1 tablespoon whole grain Dijon mustard  
-> 10 ounces penne (approx. 3½ cups)  
-> 1 cup Panko crumbs  
+> 1 large head of cauliflower, cored, cut into 1-inch florets
+> 2 large heirloom tomatoes
+> 5 tablespoons butter, divided
+> ½ cup thinly sliced green onions
+> coarse kosher salt
+> 2 tablespoons all purpose flour
+> 1 cup heavy whipping cream
+> 3 cups coarsely grated Comté cheese (or half Gruyère and half Fontina; about 9 ounces), divided
+> ¾ cup Parmigiano-Reggiano, finely grated Parmesan cheese, divided
+> 1 cup sour cream
+> 1 tablespoon whole grain Dijon mustard
+> 10 ounces penne (approx. 3½ cups)
+> 1 cup Panko crumbs
 
 Cook cauliflower in large pot of boiling salted water until crisp-tender, about
 5 minutes. Using large sieve, transfer cauliflower to bowl. Add tomatoes to

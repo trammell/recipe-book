@@ -5,17 +5,17 @@ Tags: chocolate, peanut butter
 
 Bon Appétit, March 1997. Makes 27 cookies (we make them smaller). Susan's favorite.
 
-* 1½ cups unbleached all purpose flour  
-* ⅓ cup old-fashioned oats  
-* 1 teaspoon baking soda  
-* ¼ teaspoon salt  
-* 1 cup old-fashioned chunky peanut butter (about 9 ounces)  
-* 1 cup (packed) golden brown sugar  
-* ½ cup (1 stick) unsalted butter, room temperature  
-* ¼ cup honey  
-* 1 large egg  
-* 1 teaspoon vanilla extract  
-* 5 ounces semisweet chocolate, coarsely chopped  
+* 1½ cups unbleached all purpose flour
+* ⅓ cup old-fashioned oats
+* 1 teaspoon baking soda
+* ¼ teaspoon salt
+* 1 cup old-fashioned chunky peanut butter (about 9 ounces)
+* 1 cup (packed) golden brown sugar
+* ½ cup (1 stick) unsalted butter, room temperature
+* ¼ cup honey
+* 1 large egg
+* 1 teaspoon vanilla extract
+* 5 ounces semisweet chocolate, coarsely chopped
 
 ## Instructions
 

@@ -3,16 +3,16 @@
 Bon Appétit, October 1997. Ristorante Araxi, Whistler, British Columbia. Serves
 6.
 
-> 8 tablespoons (1 stick) butter  
-> 4 cups matchstick-size strips red bell peppers (about 2 large)  
-> 2 cups matchstick-size strips leek (white and pale green parts only; about 1 large)  
-> ½ cup dry white wine  
-> 1 teaspoon dried crushed red pepper  
-> ½ cup thinly sliced fresh basil  
-> 1 teaspoon salt  
+> 8 tablespoons (1 stick) butter
+> 4 cups matchstick-size strips red bell peppers (about 2 large)
+> 2 cups matchstick-size strips leek (white and pale green parts only; about 1 large)
+> ½ cup dry white wine
+> 1 teaspoon dried crushed red pepper
+> ½ cup thinly sliced fresh basil
+> 1 teaspoon salt
 
-> 12 sheets fresh phyllo pastry or frozen, thawed  
-> 6 5-ounce 6x2x1-inch skinless salmon fillets  
+> 12 sheets fresh phyllo pastry or frozen, thawed
+> 6 5-ounce 6x2x1-inch skinless salmon fillets
 
 Melt 2 tablespoons butter in heavy large skillet over medium-high heat. Add
 bell peppers and leek and sauté until leek is tender, about 6 minutes. Add wine

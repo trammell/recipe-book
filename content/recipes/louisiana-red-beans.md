@@ -1,22 +1,22 @@
 ## Louisiana Red Beans and Rice
 
-(Tyler Florence recipe from the foodnetwork.com)  
+(Tyler Florence recipe from the foodnetwork.com)
 Serves: 6 servings
 
-> 1 pound dried small red beans, picked over and rinsed  
-> 2 large smoked ham shanks  
-> 1 large yellow onion, chopped  
-> 2 celery stalks, chopped  
-> 1 large green bell pepper, chopped  
-> 1 teaspoon cayenne  
-> ¼ bunch fresh flat-leaf parsley, chopped  
-> 2 sprigs fresh thyme  
-> 3 bay leaves  
-> 4 garlic cloves, chopped  
-> 2 green onions, green part only, chopped, plus more for garnish  
-> red pepper sauce  
-> 2 andouille sausages, sliced thin  
-> 4 cups cooked white rice  
+> 1 pound dried small red beans, picked over and rinsed
+> 2 large smoked ham shanks
+> 1 large yellow onion, chopped
+> 2 celery stalks, chopped
+> 1 large green bell pepper, chopped
+> 1 teaspoon cayenne
+> ¼ bunch fresh flat-leaf parsley, chopped
+> 2 sprigs fresh thyme
+> 3 bay leaves
+> 4 garlic cloves, chopped
+> 2 green onions, green part only, chopped, plus more for garnish
+> red pepper sauce
+> 2 andouille sausages, sliced thin
+> 4 cups cooked white rice
 
 Place the dried beans in a large bowl and cover with cold water. Soak the beans
 overnight in the refrigerator.

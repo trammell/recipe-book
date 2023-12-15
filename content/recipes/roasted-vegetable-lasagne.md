@@ -47,7 +47,7 @@ Found on [Epicurious][source]. Prep time: 1 hour. Yields 8 servings.
   when it first comes to a boil). Remove from heat and cool béchamel sauce,
   stirring occasionally, 10 minutes. Stir in cheeses, basil, and remaining ½
   teaspoon salt.
-  
+
 - Soak noodles in hot water just until pliable, 8 to 10 minutes.
 
 - Spread ⅔ cup sauce in an 8-inch square baking dish. Drain 1 large noodle or
@@ -57,7 +57,7 @@ Found on [Epicurious][source]. Prep time: 1 hour. Yields 8 servings.
   another noodle (or 2), and another with all of bell peppers, ½ cup sauce,
   and another noodle (or 2). Top with remaining zucchini, ½ cup sauce, and
   another noodle (or 2). Cover completely with remaining sauce.
-  
+
 - Bake until golden and bubbling, 25 to 30 minutes. Let stand in pan on a rack
   20 minutes.
 

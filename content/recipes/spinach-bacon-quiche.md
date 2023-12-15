@@ -2,19 +2,19 @@
 
 (Recipe courtesy Paula Deen & the foodnetwork.com)
 
-Prep Time: 15 min  
-Inactive Prep Time: 45 min  
-Cook Time: 45 min  
-Level: Easy  
-Serves: 8 servings  
+Prep Time: 15 min
+Inactive Prep Time: 45 min
+Cook Time: 45 min
+Level: Easy
+Serves: 8 servings
 
-> 6 large eggs, beaten  
-> 1½ cups heavy cream  
-> salt and pepper  
-> 2 cups chopped fresh baby spinach, packed  
-> 1 pound bacon, cooked and crumbled  
-> 1½ cups shredded Swiss cheese  
-> 1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate  
+> 6 large eggs, beaten
+> 1½ cups heavy cream
+> salt and pepper
+> 2 cups chopped fresh baby spinach, packed
+> 1 pound bacon, cooked and crumbled
+> 1½ cups shredded Swiss cheese
+> 1 (9-inch) refrigerated pie crust, fitted to a 9-inch glass pie plate
 
 Preheat the oven to 375 °F.
 

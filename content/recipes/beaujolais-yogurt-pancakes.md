@@ -1,13 +1,13 @@
 ## Café Beaujolais Yogurt Pancakes
 
-> 1½ c. whole wheat white flour  
-> 1½ Tbs. sugar  
-> 1 tsp. salt  
-> 1½ tsp. baking soda  
-> 2 eggs  
-> 2 c. plain low-fat yogurt (I use Greek non-fat)  
-> ¼ c. canola oil, plus a little for the skillet  
-> 3 Tbs. cold water  
+> 1½ c. whole wheat white flour
+> 1½ Tbs. sugar
+> 1 tsp. salt
+> 1½ tsp. baking soda
+> 2 eggs
+> 2 c. plain low-fat yogurt (I use Greek non-fat)
+> ¼ c. canola oil, plus a little for the skillet
+> 3 Tbs. cold water
 
 Sift together the flour, sugar, salt, baking powder, and baking soda into a
 mixing bowl.  In a separate bowl, whisk together the remaining ingredients and

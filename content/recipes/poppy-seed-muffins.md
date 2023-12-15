@@ -7,15 +7,15 @@ Makes 12.
 
 ## Ingredients
 
-> 2 cups whole wheat white flour  
-> ½ teaspoon salt  
-> ¼ teaspoon baking soda  
-> ⅔ c. sugar  
-> ⅓ cup canola oil  
-> 2 large eggs  
-> ¾ cup sour cream  
-> 1 teaspoon vanilla  
-> ¼ cup poppy seed or ¾ cup fresh or frozen blueberries  
+* 2 cups whole wheat white flour
+* ½ teaspoon salt
+* ¼ teaspoon baking soda
+* ⅔ c. sugar
+* ⅓ cup canola oil
+* 2 large eggs
+* ¾ cup sour cream
+* 1 teaspoon vanilla
+* ¼ cup poppy seed or ¾ cup fresh or frozen blueberries
 
 1. Heat oven to 400 °F.  Line muffins tins with paper muffin cup.
 2. In a large bowl, combine the flour, salt, sugar and baking soda.  If using

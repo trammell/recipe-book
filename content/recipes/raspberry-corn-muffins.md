@@ -6,16 +6,16 @@ Cuisine: american
 
 _Gourmet_, May 1993. Makes 12 muffins. Can be prepared in 45 minutes or less.
 
-* 1 cup yellow cornmeal  
-* 1 cup all-purpose flour  
-* ½ cup sugar  
-* 1 teaspoon double-acting baking powder  
-* 1 teaspoon baking soda  
-* ¼ teaspoon salt  
-* 2 large eggs  
-* 1¼ cups plain yogurt  
-* ½ stick (¼ cup) unsalted butter, melted and cooled  
-* 1 cup fresh raspberries  
+* 1 cup yellow cornmeal
+* 1 cup all-purpose flour
+* ½ cup sugar
+* 1 teaspoon double-acting baking powder
+* 1 teaspoon baking soda
+* ¼ teaspoon salt
+* 2 large eggs
+* 1¼ cups plain yogurt
+* ½ stick (¼ cup) unsalted butter, melted and cooled
+* 1 cup fresh raspberries
 
 Preheat the oven to 375 °F and butter well twelve ½-cup muffin tins. In a bowl
 whisk together the cornmeal, the flour, the sugar, the baking powder, the

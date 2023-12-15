@@ -7,12 +7,12 @@ Classic 6-ingredient guacamole. Prep time: 10 minutes. Serves: 4.
 
 ## Ingredients
 
-- 2 medium avocados  
-- 1 small tomato, chopped  
-- 2 tablespoons minced onion  
-- 1-2 teaspoons lemon or lime juice  
-- ½ teaspoon garlic powder  
-- ½ teaspoon salt  
+- 2 medium avocados
+- 1 small tomato, chopped
+- 2 tablespoons minced onion
+- 1-2 teaspoons lemon or lime juice
+- ½ teaspoon garlic powder
+- ½ teaspoon salt
 
 ## Directions
 

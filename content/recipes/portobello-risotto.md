@@ -1,16 +1,16 @@
 ## Portobello Risotto
 
-> 2 T. unsalted butter  
-> 2 T. olive oil  
-> ½ c. finely chopped onion  
-> 1 clove garlic, minced  
-> 6 oz. Portobello mushrooms, chopped in ½-inch cubes  
-> 1½ c. Arborio rice  
-> ½ c. dry white wine  
-> 3½  to 4 c. hot chicken broth (low-salt if using canned)  
-> 3 T. fresh chopped lemon thyme (regular thyme if you can not find lemon thyme)  
-> ½ c. freshly grated Parmigiano-Reggiano  
-> salt and pepper to taste  
+> 2 T. unsalted butter
+> 2 T. olive oil
+> ½ c. finely chopped onion
+> 1 clove garlic, minced
+> 6 oz. Portobello mushrooms, chopped in ½-inch cubes
+> 1½ c. Arborio rice
+> ½ c. dry white wine
+> 3½  to 4 c. hot chicken broth (low-salt if using canned)
+> 3 T. fresh chopped lemon thyme (regular thyme if you can not find lemon thyme)
+> ½ c. freshly grated Parmigiano-Reggiano
+> salt and pepper to taste
 
 Heat butter and olive oil in a heavy large saucepan over medium heat.  Add
 onion and garlic.  Saute until golden, about 10 minutes.  Add rice and

@@ -2,12 +2,12 @@
 
 Harmony Valley Farms Salsa Verde; yields 1½ cups.  
 
-> 6-8 tomatillos (about 12 oz)  
-> 1 clove garlic  
-> 1 small onion  
-> 1 jalapeño, as desired  
-> A few sprigs of cilantro  
-> Salt and ground black pepper, to taste  
+> 6-8 tomatillos (about 12 oz)
+> 1 clove garlic
+> 1 small onion
+> 1 jalapeño, as desired
+> A few sprigs of cilantro
+> Salt and ground black pepper, to taste
 
 In a small saucepan, bring 4-5 cups water to a boil. Remove husks from
 tomatillos and rinse fruit. Boil tomatillos for about 5 minutes or just until

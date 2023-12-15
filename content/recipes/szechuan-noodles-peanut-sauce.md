@@ -3,23 +3,23 @@
 Bon Appétit, August 1999, from Zygot Bookworks & Cafe.  Serves 6 as a main
 course.
 
-> ½ cup (or more) canned vegetable broth  
-> 1 cup super-chunky peanut butter  
-> ¼ cup soy sauce  
-> 2 tablespoons balsamic vinegar  
-> 1½ tablespoons chili-garlic sauce  
-> 5 garlic cloves, minced  
+> ½ cup (or more) canned vegetable broth
+> 1 cup super-chunky peanut butter
+> ¼ cup soy sauce
+> 2 tablespoons balsamic vinegar
+> 1½ tablespoons chili-garlic sauce
+> 5 garlic cloves, minced
 
-> 12 ounces dried chow mein udon (Asian-style noodles)  
-> 1 tablespoon canola oil  
+> 12 ounces dried chow mein udon (Asian-style noodles)
+> 1 tablespoon canola oil
 
-> 8 large bok choy leaves  
-> 2 red bell peppers, halved lengthwise  
-> 2 large carrots, peeled  
-> 1 bunch green onions  
+> 8 large bok choy leaves
+> 2 red bell peppers, halved lengthwise
+> 2 large carrots, peeled
+> 1 bunch green onions
 
-> 2 cups shredded Napa cabbage  
-> 2 tablespoons toasted sesame seeds  
+> 2 cups shredded Napa cabbage
+> 2 tablespoons toasted sesame seeds
 
 Sauce, noodles and vegetables can be prepared ahead of time. Cover them
 separately and store in the refrigerator. Bring the sauce to room temperature

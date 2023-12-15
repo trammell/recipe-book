@@ -8,12 +8,12 @@ Cuisine: american
 
 Makes 5 generous servings.
 
-* ¾ c. panko bread crumbs  
-* ⅓ c. buttermilk  
-* ⅓ tsp. black pepper  
-* ⅓ tsp cayenne pepper  
-* ¼ tsp. salt  
-* 20 oz chicken, ground  
+* ¾ c. panko bread crumbs
+* ⅓ c. buttermilk
+* ⅓ tsp. black pepper
+* ⅓ tsp cayenne pepper
+* ¼ tsp. salt
+* 20 oz chicken, ground
 
 Mix all ingredients together. Form into patties. Grill on a griddle
 sprayed lightly with oil.
@@ -31,15 +31,15 @@ right on top of the burger!
 
 Dressing ingredients:
 
-* ½ c. plain yogurt  
-* ¼ c. mayonnaise  
-* 5 T. apple cider vinegar  
-* ¾ tsp celery seed  
-* 4 tsp. sugar  
+* ½ c. plain yogurt
+* ¼ c. mayonnaise
+* 5 T. apple cider vinegar
+* ¾ tsp celery seed
+* 4 tsp. sugar
 
 Slaw ingredients:
 
-* ½ head red cabbage, shredded  
+* ½ head red cabbage, shredded
 * 3 shredded carrots
 * 1½ shredded beauty heart radishes (optional, but gorgeous)
 

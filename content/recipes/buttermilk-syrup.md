@@ -2,11 +2,11 @@
 
 From the kitchen of Emily Walgrave.  Makes 1 pint.
 
-> 1½ cups white sugar  
-> ¾ cup buttermilk  
-> ½ cup butter  
-> 2 Tbsp corn syrup  
-> 1 tsp baking soda  
+> 1½ cups white sugar
+> ¾ cup buttermilk
+> ½ cup butter
+> 2 Tbsp corn syrup
+> 1 tsp baking soda
 > 2 tsp vanilla extract
 
 Using a large saucepan, stir in sugar, buttermilk, butter, corn syrup, and

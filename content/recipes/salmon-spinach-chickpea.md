@@ -2,15 +2,15 @@
 
 From Martha Stewart.  Approx. 30 minutes, serves 4.
 
-> 3/4 cup fresh flat-leaf parsley  
-> 1 garlic clove, chopped  
-> 1 Tbsp. plus 2 tsp extra-virgin olive oil  
+> 3/4 cup fresh flat-leaf parsley
+> 1 garlic clove, chopped
+> 1 Tbsp. plus 2 tsp extra-virgin olive oil
 > 4 boneless, skinnless salmon fillets, preferably wild sockeye
- (5 oz. each, 1 in. thick)  
-> coarse salt and freshly ground pepper  
-> ½ tsp. crushed red pepper flakes  
-> 5 c. baby spinach (6½ oz.)  
-> 1 cup canned chickpeas, drained and rinsed  
+ (5 oz. each, 1 in. thick)
+> coarse salt and freshly ground pepper
+> ½ tsp. crushed red pepper flakes
+> 5 c. baby spinach (6½ oz.)
+> 1 cup canned chickpeas, drained and rinsed
 
 Preheat oven to 400°.  Cut out four 12x17 inch pieces of parchment; fold each
 in half crosswise to form a crease, then open.

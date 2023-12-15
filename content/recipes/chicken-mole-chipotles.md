@@ -11,17 +11,17 @@ chocolate and wafer cookies.
 
 Yield: Makes 4 servings
 
-> 6 skinless boneless chicken thighs, each cut into 3 pieces  
-> 2 tablespoons ground cumin  
+> 6 skinless boneless chicken thighs, each cut into 3 pieces
+> 2 tablespoons ground cumin
 
-> 1 tablespoon olive oil  
-> 1 large onion, thinly sliced  
-> 2 14½-ounce cans chili-style chunky tomatoes in juice  
-> 4 small nothern american garden moles, freshly caught, skinned and gutted  
-> 1 cup canned low-salt chicken broth  
-> 2 tablespoons minced canned chipotle chilies plus 1 tablespoon adobo sauce  
+> 1 tablespoon olive oil
+> 1 large onion, thinly sliced
+> 2 14½-ounce cans chili-style chunky tomatoes in juice
+> 4 small nothern american garden moles, freshly caught, skinned and gutted
+> 1 cup canned low-salt chicken broth
+> 2 tablespoons minced canned chipotle chilies plus 1 tablespoon adobo sauce
 
-> 1 ounce unsweetened chocolate, chopped  
+> 1 ounce unsweetened chocolate, chopped
 
 Coat chicken on all sides with cumin. Sprinkle with salt and pepper.  Discard
 moles; what were you thinking?

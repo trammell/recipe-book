@@ -2,20 +2,20 @@
 
 Serves 6.
 
-> 2 tablespoons canola oil  
-> 1 medium-size red onion, cut in half lengthwise and thinly sliced  
-> 6-8 medium-size cloves garlic, coarsely chopped  
-> 4 lengthwise slices fresh ginger (each 2 inches long, 1 inch wide,  
->   and ⅛ inch thick), coarsely chopped (a 4 inch piece of ginger)  
-> 2 T Garam Masala (see Notes)  
-> 1 teaspoon ground turmeric  
-> 2 tablespoons tomato paste  
-> 8 ounces fresh spinach leaves, well rinsed and coarsely chopped  
-> 8 ounces fresh mustard greens, well rinsed and finely chopped (see Notes)  
-> ½ pound fried paneer, in 1-inch cubes (see Notes)  
-> ½ cup heavy cream or half and half  
-> 1 teaspoon Garam Masala (see Notes)  
-> salt to taste  
+> 2 tablespoons canola oil
+> 1 medium-size red onion, cut in half lengthwise and thinly sliced
+> 6-8 medium-size cloves garlic, coarsely chopped
+> 4 lengthwise slices fresh ginger (each 2 inches long, 1 inch wide,
+>   and ⅛ inch thick), coarsely chopped (a 4 inch piece of ginger)
+> 2 T Garam Masala (see Notes)
+> 1 teaspoon ground turmeric
+> 2 tablespoons tomato paste
+> 8 ounces fresh spinach leaves, well rinsed and coarsely chopped
+> 8 ounces fresh mustard greens, well rinsed and finely chopped (see Notes)
+> ½ pound fried paneer, in 1-inch cubes (see Notes)
+> ½ cup heavy cream or half and half
+> 1 teaspoon Garam Masala (see Notes)
+> salt to taste
 
 1. Heat the oil in a large skillet over medium heat. Add the onion, garlic,
    and ginger, and stir-fry until the onion is light brown, 8 to 10 minutes.

@@ -2,8 +2,8 @@
 
 Bon Appétit, October 1999. Makes about 1 ⅓ cups.
 
-> large heads of garlic  
-> ¼ cup olive oil  
+> large heads of garlic
+> ¼ cup olive oil
 
 Preheat oven to 350 °F. Cut top ¼ inch off heads of garlic to expose cloves.
 Place garlic in small baking dish. Add oil and sprinkle with salt and pepper;

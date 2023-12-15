@@ -3,18 +3,18 @@
 Source: Better Homes and Gardens, May 2005; makes 4 servings.  Prep time: 20
 minutes.
 
-> 2 small heads cauliflower  
-> 2 to 3 ounces thinly sliced Serrano ham, cooked ham, or prosciutto  
-> 1 ounce Manchego cheese or Jack cheese, thinly sliced or crumbled  
-> ¼ cup olive oil or cooking oil  
-> 2 tablespoons lemon juice  
-> 1 clove garlic, minced  
-> ½ teaspoon salt  
-> ¼ teaspoon sugar  
-> ¼ teaspoon dry mustard  
-> ¼ teaspoon freshly ground black pepper  
-> 2 tablespoons toasted pine nuts  
-> 2 tablespoons capers, drained  
+> 2 small heads cauliflower
+> 2 to 3 ounces thinly sliced Serrano ham, cooked ham, or prosciutto
+> 1 ounce Manchego cheese or Jack cheese, thinly sliced or crumbled
+> ¼ cup olive oil or cooking oil
+> 2 tablespoons lemon juice
+> 1 clove garlic, minced
+> ½ teaspoon salt
+> ¼ teaspoon sugar
+> ¼ teaspoon dry mustard
+> ¼ teaspoon freshly ground black pepper
+> 2 tablespoons toasted pine nuts
+> 2 tablespoons capers, drained
 
 1. Remove heavy leaves and tough stems from cauliflower; cut into 4 to 6 wedges
    each. Place cauliflower in a microwave-safe 3-quart casserole. Add ½ cup
