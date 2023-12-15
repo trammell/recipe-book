@@ -16,7 +16,6 @@ Makes 6 servings.
 * 2 pounds well-trimmed boneless beef, cut into bite-sized pieces
 * 3 tablespoons vegetable oil
 * 2 large onions, sliced
-
 * 3 large tomatoes, quartered (can substitute 1 14oz can crushed tomatoes)
 * 6 whole cloves
 * 2 large garlic cloves, chopped
@@ -28,9 +27,8 @@ Makes 6 servings.
 * 2 tablespoons minced peeled fresh ginger
 * 1½ tablespoons curry powder
 * ½ teaspoon salt
-
-* 14oz can chickpeas, drained
-* 14oz can coconut milk
+* 1 14oz. can chickpeas, drained
+* 1 14oz. can coconut milk
 
 ## Instructions
 

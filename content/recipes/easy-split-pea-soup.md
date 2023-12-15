@@ -1,6 +1,6 @@
-title: Easy Split Pea Soup
-date: 2023-10-08
-category: soup
+Title: Easy Split Pea Soup
+Date: 2023-10-08
+Category: soups
 
 Bon Appétit, May 1996, by Patricia Murray: County Kerry, Ireland. Serves 6.
 

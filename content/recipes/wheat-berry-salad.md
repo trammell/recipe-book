@@ -1,7 +1,7 @@
-title: Wheat Berry and Barley Salad with Smoked Mozzarella
-date: 2021-05-14
-category: side dishes
-tags: easy, favorite
+Title: Wheat Berry and Barley Salad with Smoked Mozzarella
+Date: 2021-05-14
+Category: sides
+Tags: easy, favorite
 
 <img src="{static}/images/wheat-berry-salad.jpg"
   title="Wheat berry salad being assembled in a bowl
