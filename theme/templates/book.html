@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block head %}
+<title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" media="screen" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css" />
+{% endblock head %}
+
+{% block menu %}
+{% endblock menu %}
+
+{% block content %}
+{% for article in articles %}
+<div class="recipe">
+<h1>{{ article.title }}</h1>
+{{ article.content }}
+<p style="clear:right;"></p>
+</div>
+{% endfor %}
+{% endblock content %}

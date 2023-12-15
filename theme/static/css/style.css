@@ -1,0 +1,42 @@
+body {
+  width: 80%;
+  margin: auto;
+}
+
+div.recipe {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.recipe h1 {
+  page-break-before: always;
+}
+
+div.recipe img {
+  float: right;
+  border-radius: 5px;
+  width: 40%;
+  height: auto;
+  margin: 20px;
+}
+
+div.recipe li {
+  padding-left: 10px;
+  width: 75%;
+}
+
+div.recipe ul {
+  list-style-type: "\2610";
+}
+
+div.recipe ol {
+  list-style-type: decimal;
+}
+
+div.recipe blockquote {
+  width: 75%;
+  font-style:italic;
+  padding: 5px;
+  border-left: 3px solid #444444;
+  line-height:1.2;
+  background: #eeeeee;
+}
