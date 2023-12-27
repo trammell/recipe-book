@@ -6,11 +6,11 @@ THEME = "./theme/"
 TIMEZONE = "America/Chicago"
 DEFAULT_LANG = "en"
 MENUITEMS = (
-    ("breakfast dishes","category/appetizers.html"),
-    ("dinner dishes","category/dinners.html"),
-    ("cocktails","category/cocktails.html"),
-    ("see all categories","categories.html"),
-    ("book view","book.html"),
+    ("breakfast dishes", "category/appetizers.html"),
+    ("dinner dishes", "category/dinners.html"),
+    ("cocktails", "category/cocktails.html"),
+    ("see all categories", "categories.html"),
+    ("book view", "book.html"),
 )
 DISPLAY_PAGES_ON_MENU = False
 
